@@ -195,7 +195,7 @@
 
     <div class="nav-section">
         <div class="cat-tabs">
-            <div class="tab" onclick="switchCat('Home')"><img src="./images/home2.png" width="30px"></div>
+            <div class="tab" onclick="window.location='index.html'"><img src="./images/home2.png" width="30px"></div>
             <div class="tab active" onclick="switchCat('熱門')">熱門</div>
             <div class="tab" onclick="switchCat('精選')">精選</div>
             <div class="tab" onclick="switchCat('愛爾達')">愛爾達</div>
@@ -245,7 +245,6 @@
         // 2. 切換分類
         function switchCat(cat) {
             curCat = cat;
-            if (cat=='Home'){ window.location = "/";}
             if (cat=='熱門'){ curCat = 'trending'}
             if (cat=='精選'){ curCat = 'drama'}
             curIdx = 0;
