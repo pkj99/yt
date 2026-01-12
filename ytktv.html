@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberKTV Pro</title>
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="images/favicon.png" />      
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --neon-cyan: #00f2ff;
+            --neon-purple: #bc13fe;
+            --bg-deep: #050510;
+            --glass: rgba(255, 255, 255, 0.08);
+            --bg: #05050a;
+            --panel: #11111d;
+            --accent: #00f2ff;
+            --pink: #ff007f;
+            --text: #ffffff;
+        }
+
+        body {
+            background-color: var(--bg-deep);
+            color: #e0e0e0;
+            font-family: 'Rajdhani', 'Noto Sans TC', sans-serif;
+            background-image: radial-gradient(circle at 50% 50%, #1a1a3a 0%, #050510 100%);
+            min-height: 100vh;
+        }
+
+        .cyber-header {
+            font-family: 'Orbitron', sans-serif;
+            color: var(--neon-cyan);
+            text-shadow: 0 0 10px var(--neon-cyan);
+            letter-spacing: 4px;
+            text-align: center;
+        }
+
+        /* 影片固定區 */
+        .player-sticky {
+            position: sticky;
+            top: 0;
+            z-index: 1050;
+            background: #000;
+            border-bottom: 2px solid var(--neon-cyan);
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            background: #000;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+        }
+
+        .glass-panel {
+            background: var(--glass);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+
+        .scroll-nav {
+            display: flex;
+            overflow-x: auto;
+            gap: 10px;
+            padding: 10px 0;
+            scrollbar-width: thin;
+        }
+        .scroll-nav::-webkit-scrollbar { display: thin; }
+
+        .btn-cyber {
+            border: 1px solid var(--neon-cyan);
+            color: var(--neon-cyan);
+            background: transparent;
+            font-weight: bold;
+            transition: 0.3s;
+            white-space: nowrap;
+        }
+        .btn-cyber:hover, .btn-cyber.active {
+            background: var(--neon-cyan);
+            color: #000;
+            box-shadow: 0 0 15px var(--neon-cyan);
+        }
+
+        .song-item {
+            background: rgba(255, 255, 255, 0.03);
+            border-left: 3px solid transparent;
+            margin-bottom: 8px;
+            border-radius: 5px;
+            transition: 0.2s;
+            padding: 10px;
+        }
+        .playing-now {
+            border-left-color: var(--neon-purple) !important;
+            background: rgba(188, 19, 254, 0.15) !important;
+        }
+
+        .scroll-content {
+            height: 50vh;
+            overflow-y: auto;
+            padding-right: 5px;
+        }
+
+        /* 按鈕風格 */
+        button { cursor: pointer; border: none; font-weight: bold; border-radius: 6px; }
+        .btn-accent { background: var(--accent); color: #000; padding: 8px 15px; }
+        .btn-pink { background: var(--pink); color: #fff; padding: 8px 15px; }
+        .btn-danger { background: #ff4444; color: #fff; padding: 5px 10px; font-size: 12px; }
+        .btn-mute.active { background: #ff4444; }
+
+        .scroll-content::-webkit-scrollbar { width: 4px; }
+        .scroll-content::-webkit-scrollbar-thumb { background: var(--neon-cyan); border-radius: 10px; }
+
+        @media (min-width: 992px) {
+            .player-sticky { position: relative; border-radius: 15px; margin-top: 20px; }
+            .scroll-content { height: 580px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container-fluid p-0">
+    <div class="row g-0">
+        <div class="col-lg-7 player-sticky">
+            <div class="video-container">
+                <div id="ytPlayer"></div>
+            </div>
+            <div class="p-3">
+                <div id="nowPlayingText" class="h5 text-truncate text-info">🎤 CyberKTV Ready...</div>
+                <div class="d-flex flex-wrap gap-2 mt-2">
+                    <button class="btn btn-sm btn-outline-light" onclick="nextSong()">切歌 ⏭</button>
+                    <button class="btn btn-sm btn-outline-info" onclick="random50()">🎲 隨機50首</button>
+                    <button class="btn btn-sm btn-outline-danger" onclick="clearQueue()">🗑 清空歌單</button>
+                    <button id="vocalBtn" class="btn-pink" onclick="toggleDB()">MV版</button>
+                    <!-- <button id="deviceBtn" class="btn-pink" onclick="toggleDevice()">桌面版</button> -->
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-5 p-3">
+            <h1 class="cyber-header my-2">CYBER KTV</h1>
+
+            <div class="glass-panel">
+                <input type="text" id="searchInput" class="form-control bg-dark text-white border-secondary mb-3" placeholder="搜尋歌名或歌手..." oninput="handleSearch()">
+                
+                <div class="scroll-nav mb-2" id="snNav"></div>
+
+                <ul class="nav nav-pills nav-justified mb-3" id="ktvTabs">
+                    <li class="nav-item">
+                        <button class="nav-link active btn-cyber me-1" id="tab-db-btn" data-bs-toggle="pill" data-bs-target="#pane-db">歌曲庫</button>
+                    </li>
+                    <li class="nav-item">
+                        <button class="nav-link btn-cyber ms-1" id="tab-queue-btn" data-bs-toggle="pill" data-bs-target="#pane-queue" onclick="updateQueueUI()">待播清單 (<span id="qBadge">0</span>)</button>
+                    </li>
+                </ul>
+
+                <div class="tab-content">
+                    <div class="tab-pane fade show active" id="pane-db">
+                        <div id="artistNav" class="scroll-nav mb-2"></div>
+                        <div id="singerActionBox" class="mb-3 d-none">
+                            <button class="btn btn-sm btn-info w-100 fw-bold" id="addAllArtistSongs">加入此歌手所有歌曲</button>
+                        </div>
+                        <div class="scroll-content" id="dbContainer"></div>
+                    </div>
+                    
+                    <div class="tab-pane fade" id="pane-queue">
+                        <div class="scroll-content" id="queueContainer"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+
+<script src="js/ytmv.js"></script>
+<script src="js/ytktv.js"></script>
+
+<script>
+
+    let player, queue = [], currentIdx = -1;
+    let isMobile = true;
+    let isMv = true;
+
+    function switchDB() {
+        if (isMv) {
+            songDB = mvDB;
+        } else {
+            songDB = ktvDB;
+        };
+    }
+
+
+    // 關鍵：主動切換至歌曲庫分頁
+    function switchToLibrary() {
+        const dbTabBtn = document.getElementById('tab-db-btn');
+        const tabTrigger = new bootstrap.Tab(dbTabBtn);
+        tabTrigger.show();
+    }
+
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('ytPlayer', {
+            height: '100%', width: '100%',
+            playerVars: { 'autoplay': 1, 'controls': 1, 'rel': 0 },
+            events: { 
+                'onStateChange': (e) => { if(e.data === YT.PlayerState.ENDED) nextSong(); },
+                'onError': () => nextSong()
+            }
+        });
+    }
+
+    window.onload = () => {
+        switchDB();
+        initSurnames();
+        renderSongs(songDB);
+        document.getElementById('tab-queue-btn').addEventListener('shown.bs.tab', updateQueueUI);
+    };
+
+    function initSurnames() {
+        const sns = [...new Set(songDB.map(i => i.surname))].sort((a,b) => a.localeCompare(b, 'zh-TW'));
+        document.getElementById('snNav').innerHTML = sns.map(s => 
+            `<button class="btn btn-sm btn-cyber" onclick="filterBySn('${s}')">${s}</button>`
+        ).join('');
+    }
+
+    function filterBySn(surname) {
+        switchToLibrary(); // 點擊姓氏立即切回歌曲庫
+        document.getElementById('singerActionBox').classList.add('d-none');
+        if (surname === "全部") {
+            renderSongs(songDB);
+            document.getElementById('artistNav').innerHTML = "";
+        } else {
+            const filtered = songDB.filter(i => i.surname === surname);
+            const artists = [...new Set(filtered.map(i => i.artist))];
+            document.getElementById('artistNav').innerHTML = artists.map(a => 
+                `<button class="btn btn-sm btn-outline-light" onclick="filterByArtist('${a}')">${a}</button>`
+            ).join('');
+            renderSongs(filtered);
+        }
+    }
+
+    function filterByArtist(artist) {
+        switchToLibrary(); // 點擊歌手立即切回歌曲庫
+        const filtered = songDB.filter(i => i.artist === artist);
+        renderSongs(filtered);
+        const actionBox = document.getElementById('singerActionBox');
+        actionBox.classList.remove('d-none');
+        document.getElementById('addAllArtistSongs').onclick = () => {
+            filtered.forEach(s => addSong(s.id, false));
+            const btn = document.getElementById('addAllArtistSongs');
+            btn.innerText = "已全部點歌 ✓";
+            setTimeout(() => btn.innerText = "加入此歌手所有歌曲", 1000);
+        };
+    }
+
+    function handleSearch() {
+        switchToLibrary(); // 開始輸入搜尋時切回歌曲庫
+        const val = document.getElementById('searchInput').value.toLowerCase();
+        renderSongs(songDB.filter(i => i.title.toLowerCase().includes(val) || i.artist.includes(val)));
+    }
+
+    function renderSongs(list) {
+        const container = document.getElementById('dbContainer');
+        container.innerHTML = list.map(s => `
+            <div class="song-item d-flex justify-content-between align-items-center">
+                <div><strong>${s.title}</strong><br><small class="text-secondary">${s.artist}</small></div>
+                <div class="btn-group">
+                    <button class="btn btn-sm btn-primary" onclick="addSong(${s.id}, false)">點歌</button>
+                    <button class="btn btn-sm btn-outline-info" onclick="addSong(${s.id}, true)">插播</button>
+                </div>
+            </div>
+        `).join('');
+    }
+
+    function addSong(id, isInsert) {
+        const song = songDB.find(s => s.id === id);
+        const newItem = { ...song, qid: 'q' + Date.now() + Math.random().toString(36).substr(2, 5) };
+        if (isInsert && currentIdx !== -1) {
+            queue.splice(currentIdx + 1, 0, newItem);
+        } else {
+            queue.push(newItem);
+        }
+        updateQueueUI();
+        if (currentIdx === -1) nextSong();
+    }
+
+    function promoteInQueue(qid) {
+        const idx = queue.findIndex(s => s.qid === qid);
+        if (idx !== -1 && idx !== currentIdx) {
+            const songToMove = queue.splice(idx, 1)[0];
+            queue.splice(currentIdx + 1, 0, songToMove);
+            updateQueueUI();
+        }
+        nextSong();
+    }
+
+    function random50() {
+        for(let i=0; i<50; i++) {
+            const s = songDB[Math.floor(Math.random() * songDB.length)];
+            queue.push({ ...s, qid: 'r' + Date.now() + Math.random().toString(36).substr(2, 5) });
+        }
+        updateQueueUI();
+        if (currentIdx === -1) nextSong();
+    }
+
+    function nextSong() {
+        if (currentIdx < queue.length - 1) {
+            currentIdx++;
+            const s = queue[currentIdx];
+            player.loadVideoById(s.vid);
+            document.getElementById('nowPlayingText').innerText = `🎤 ${s.artist} - ${s.title}`;
+        } else {
+            document.getElementById('nowPlayingText').innerText = "點歌清單已播完";
+        }
+        updateQueueUI();
+    }
+    
+    function clearQueue() {
+        if(!confirm("確定清空歌單？")) return;
+        queue = (currentIdx !== -1) ? [queue[currentIdx]] : [];
+        currentIdx = (queue.length > 0) ? 0 : -1;
+        updateQueueUI();
+    }
+
+    function toggleDevice() {
+        // isMobile = !isMobile;
+        // document.getElementById('deviceBtn').innerText = isMobile ? "桌面版" : "手機版";
+        window.location = "mv_desktop.html";
+    }
+
+    function toggleDB() {
+        switchDB();
+        isMv = !isMv;
+        document.getElementById('vocalBtn').innerText = isMv ? "KTV版" : "MV版";
+        initSurnames();
+        renderSongs(songDB);
+        document.getElementById('tab-queue-btn').addEventListener('shown.bs.tab', updateQueueUI);        
+    }
+
+
+    function updateQueueUI() {
+        document.getElementById('qBadge').innerText = queue.length;
+        const container = document.getElementById('queueContainer');
+        if (!container) return;
+        if (queue.length === 0) {
+            container.innerHTML = `<div class="text-center p-5 text-secondary">尚未點歌</div>`;
+            return;
+        }
+        container.innerHTML = queue.map((s, i) => `
+            <div class="song-item d-flex justify-content-between align-items-center ${i === currentIdx ? 'playing-now' : ''}">
+                <div class="text-truncate" style="max-width: 60%">
+                    <span class="text-info me-2">${i+1}.</span>
+                    <strong>${s.title}</strong><br>
+                    <small class="text-secondary">${s.artist}</small>
+                </div>
+                <div class="d-flex gap-1">
+                    ${i > currentIdx ? `
+                        <button class="btn btn-xs btn-outline-warning py-0 px-1" style="font-size: 10px" onclick="promoteInQueue('${s.qid}')">插播</button>
+                        <button class="btn btn-xs btn-outline-danger py-0 px-1" style="font-size: 10px" onclick="removeFromQueue('${s.qid}')">✕</button>
+                    ` : (i === currentIdx ? '<span class="badge bg-danger" style="font-size: 9px">ON AIR</span>' : '<span class="badge bg-secondary" style="font-size: 9px">已播</span>')}
+                </div>
+            </div>
+        `).join('');
+    }
+
+    function removeFromQueue(qid) {
+        const idx = queue.findIndex(s => s.qid === qid);
+        if (idx !== -1) {
+            queue.splice(idx, 1);
+            if (idx < currentIdx) currentIdx--;
+            updateQueueUI();
+        }
+    }
+</script>
+</body>
+</html>

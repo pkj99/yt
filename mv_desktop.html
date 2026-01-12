@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>YouTube KTV 系統 - 穩定版</title>
+    <style>
+        :root {
+            --bg: #05050a;
+            --panel: #11111d;
+            --accent: #00f2ff;
+            --pink: #ff007f;
+            --text: #ffffff;
+        }
+
+        body {
+            font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        /* 左側：搜尋區 */
+        .sidebar {
+            width: 320px;
+            background: var(--panel);
+            border-right: 1px solid #333;
+            display: flex;
+            flex-direction: column;
+            padding: 15px;
+        }
+
+        .search-box {
+            /* width: 100%; */
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid var(--accent);
+            background: #000;
+            color: #fff;
+            margin-bottom: 15px;
+        }
+
+        .surname-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-bottom: 15px;
+        }
+
+        .surname-btn {
+            background: #222;
+            padding: 4px 10px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 13px;
+        }
+
+        .surname-btn:hover { background: var(--pink); }
+
+        .results { flex: 1; overflow-y: auto; }
+        .song-item {
+            padding: 12px;
+            border-bottom: 1px solid #222;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        /* 中間：播放器 */
+        .player-zone {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+            align-items: center;
+        }
+
+        .video-box {
+            width: 100%;
+            aspect-ratio: 16/9;
+            background: #000;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,1);
+        }
+
+        .controls {
+            margin-top: 20px;
+            display: flex;
+            gap: 15px;
+            background: #1a1a2e;
+            padding: 15px 30px;
+            border-radius: 50px;
+            align-items: center;
+        }
+
+        /* 右側：清單 */
+        .queue-zone {
+            width: 360px;
+            background: var(--panel);
+            border-left: 1px solid #333;
+            display: flex;
+            flex-direction: column;
+            padding: 15px;
+        }
+
+        .queue-list { flex: 1; overflow-y: auto; margin-top: 10px; }
+        .queue-card {
+            background: #1e1e35;
+            padding: 12px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            position: relative;
+        }
+
+        .queue-card.now { border-left: 5px solid var(--accent); background: #2a2a4d; }
+
+        /* 按鈕風格 */
+        button { cursor: pointer; border: none; font-weight: bold; border-radius: 6px; }
+        .btn-accent { background: var(--accent); color: #000; padding: 8px 15px; }
+        .btn-pink { background: var(--pink); color: #fff; padding: 8px 15px; }
+        .btn-danger { background: #ff4444; color: #fff; padding: 5px 10px; font-size: 12px; }
+        .btn-mute.active { background: #ff4444; }
+    </style>
+</head>
+<body>
+
+    <div class="sidebar">
+        <h2 style="color:var(--accent)">🎤 YouTube MV</h2>
+        <input type="text" class="search-box" id="searchInp" placeholder="搜尋歌曲或歌手..." oninput="doSearch()">
+        <div class="surname-bar" id="surnameBar"></div>
+        <div class="results" id="resList"></div>
+    </div>
+
+    <div class="player-zone">
+        <div class="video-box">
+            <div id="ytPlayer"></div>
+        </div>
+        
+        <div class="controls">
+            <button id="muteBtn" class="btn-accent" style="width:160px;" onclick="toggleMute()">🔇 靜音：關</button>
+            <!-- <button id="vocalBtn" class="btn-pink" onclick="alert('提示：YouTube影片通常為混音版，伴唱切換僅支援特定KTV格式影片。')">原唱/伴唱</button> -->
+            <button id="deviceBtn" class="btn-pink" onclick="toggleDevice()">手機版</button>
+            
+            <div style="display:flex; align-items:center; gap:10px; border-left: 1px solid #444; padding-left: 15px;">
+                <span>音調控制：</span>
+                <button onclick="setKey(-1)" style="width:35px; height:35px; border-radius:50%">♭</button>
+                <b id="keyDisp" style="width:25px; text-align:center; color:var(--accent)">0</b>
+                <button onclick="setKey(1)" style="width:35px; height:35px; border-radius:50%">♯</button>
+            </div>
+        </div>
+        <h3 id="currentTitle" style="margin-top:20px; color:var(--accent)">等待點歌...</h3>
+    </div>
+
+    <div class="queue-zone">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+            <h3>📋 待播清單</h3>
+            <button class="btn-danger" onclick="clearQueue()">一鍵清空</button>
+        </div>
+        <button class="btn-accent" style="width:100%; margin:10px 0; padding:12px;" onclick="random50()">🎲 隨機點 50 首歌</button>
+        <div class="queue-list" id="queueList"></div>
+        <button class="btn-accent" style="width:100%; height:60px; font-size:20px; margin-top:10px;" onclick="nextSong()">⏭ 切換下一首 (切歌)</button>
+    </div>
+
+<script src="js/ytmv.js"></script>
+
+<script>
+
+    let queue = [];
+    let player;
+    let curKey = 0;
+    let isMuted = false;
+    let isMobile = false;
+
+    // 2. YouTube IFrame API 載入 (解決無法播放的核心)
+    const tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    document.head.appendChild(tag);
+
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('ytPlayer', {
+            height: '100%',
+            width: '100%',
+            playerVars: {
+                'autoplay': 1,
+                'controls': 1,
+                'rel': 0,
+                'modestbranding': 1,
+                'enablejsapi': 1,
+                'origin': window.location.origin // 提高嵌入權限
+            },
+            events: {
+                'onReady': onPlayerReady,
+                'onStateChange': (e) => { if(e.data === YT.PlayerState.ENDED) nextSong(); },
+                'onError': (e) => { alert("此影片因 YouTube 限制無法播放，請切換下一首。"); nextSong(); }
+            }
+        });
+    }
+
+
+
+    function onPlayerReady(event) { console.log("Player Ready"); }
+
+    // 3. 搜尋與索引
+    window.onload = () => {
+        const sns = [...new Set(songDB.map(s => s.surname))].sort();
+        document.getElementById('surnameBar').innerHTML = sns.map(s => 
+            `<span class="surname-btn" onclick="filterS('${s}')">${s}</span>`
+        ).join('');
+    };
+
+    function doSearch() {
+        const val = document.getElementById('searchInp').value.toLowerCase();
+        if(!val) return;
+        renderSongs(songDB.filter(s => s.artist.includes(val) || s.title.includes(val)));
+    }
+
+    function filterS(s) { renderSongs(songDB.filter(item => item.surname === s)); }
+
+    function renderSongs(songs) {
+        document.getElementById('resList').innerHTML = songs.map(s => `
+            <div class="song-item">
+                <div style="font-size:14px;"><b>${s.title}</b><br><small>${s.artist}</small></div>
+                <div style="display:flex; gap:5px;">
+                    <button class="btn-pink" style="padding:4px 8px; font-size:12px;" onclick="addQ(${s.id}, true)">插播</button>
+                    <button class="btn-accent" style="padding:4px 8px; font-size:12px;" onclick="addQ(${s.id}, false)">點歌</button>
+                </div>
+            </div>
+        `).join('');
+    }
+
+    // 4. 清單與播放控制 (移除移動功能)
+    function addQ(id, isIns) {
+        const s = songDB.find(x => x.id === id);
+        const item = {...s, qid: Date.now() + Math.random()};
+        if(isIns && queue.length > 0) queue.splice(1, 0, item);
+        else queue.push(item);
+        if(queue.length === 1) play();
+        renderQ();
+    }
+
+    function random50() {
+        for(let i=0; i<50; i++){
+            const s = songDB[Math.floor(Math.random()*songDB.length)];
+            queue.push({...s, qid: Date.now() + Math.random()});
+        }
+        if(queue.length <= 50) play();
+        renderQ();
+    }
+
+    function play() {
+        if(!queue.length) return;
+        player.loadVideoById(queue[0].vid);
+        document.getElementById('currentTitle').innerText = `${queue[0].title} - ${queue[0].artist}`;
+        curKey = 0;
+        updateKeyUI();
+    }
+
+    function nextSong() {
+        queue.shift();
+        if(queue.length > 0) play();
+        else { player.stopVideo(); document.getElementById('currentTitle').innerText = "等待點歌..."; }
+        renderQ();
+    }
+
+    function clearQueue() {
+        if(confirm("確定要清空後續歌單？")) {
+            queue = queue.slice(0, 1);
+            renderQ();
+        }
+    }
+
+    function toggleMute() {
+        isMuted = !isMuted;
+        isMuted ? player.mute() : player.unMute();
+        const btn = document.getElementById('muteBtn');
+        btn.innerText = isMuted ? "🔊 靜音：開" : "🔇 靜音：關";
+        btn.classList.toggle('active', isMuted);
+    }
+
+    function toggleDevice() {
+        // isMobile = !isMobile;
+        // document.getElementById('deviceBtn').innerText = isMobile ? "手機版" : "桌面版";
+        window.location = "index.html";
+    }
+
+
+    function setKey(val) {
+        curKey = Math.max(-6, Math.min(6, curKey + val));
+        updateKeyUI();
+        player.setPlaybackRate(Math.pow(2, curKey / 12));
+    }
+
+    function updateKeyUI() {
+        document.getElementById('keyDisp').innerText = (curKey > 0 ? "+" : "") + curKey;
+    }
+
+    function renderQ() {
+        const box = document.getElementById('queueList');
+        box.innerHTML = queue.map((s, i) => `
+            <div class="queue-card ${i === 0 ? 'now' : ''}">
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <div><b>${i+1}. ${s.title}</b><br><small>${s.artist}</small></div>
+                    ${i > 0 ? `
+                    <div style="display:flex; gap:5px;">
+                        <button class="btn-pink" style="padding:4px 8px; font-size:11px;" onclick="const it=queue.splice(${i},1)[0]; queue.splice(1,0,it); renderQ()">插播</button>
+                        <button class="btn-danger" onclick="queue.splice(${i},1); renderQ()">✖</button>
+                    </div>
+                    ` : '<span style="color:var(--accent); font-size:12px;">播放中</span>'}
+                </div>
+            </div>
+        `).join('');
+    }
+</script>
+</body>
+</html>

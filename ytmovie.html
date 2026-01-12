@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>YTMOVIE Premium</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        :root { --red: #e50914; --bg: #000; --card-w: 240px; }
+        * { box-sizing: border-box; }
+        
+        body { 
+            margin: 0; background: var(--bg); color: white; 
+            font-family: 'Inter', sans-serif; overflow-x: hidden; 
+            overflow-y: hidden; /* 桌面預設 */
+        }
+
+        .main-logo { 
+            position: fixed; top: 20px; left: 4%; color: var(--red); 
+            font-size: 2.5rem; font-weight: 900; z-index: 1000; 
+            text-shadow: 2px 2px 15px rgba(0,0,0,0.8); margin: 0; pointer-events: none;
+        }
+
+        /* 頂部固定組 (影片+資訊) */
+        .header-fixed-group {
+            position: relative; width: 100vw; height: 100vh;
+            display: flex; flex-direction: column;
+        }
+
+        #video-container { 
+            position: absolute; inset: 0; background: #000; z-index: 1; 
+        }
+        #preview-player { 
+            width: 100vw; height: 56.25vw; position: absolute; 
+            top: 50%; left: 50%; transform: translate(-50%, -50%);
+        }
+
+        /* 資訊區 */
+        .hero-overlay { 
+            position: absolute; inset: 0; z-index: 10;
+            background: linear-gradient(75deg, rgba(0,0,0,0.95) 10%, transparent 80%);
+            display: flex; align-items: center; padding: 0 4%;
+        }
+        .info-content { max-width: 700px; padding-bottom: 200px; }
+        #hero-title { font-size: 4rem; font-weight: 900; margin: 0; line-height: 1.1; }
+        .hero-meta { margin: 15px 0; display: flex; gap: 20px; font-weight: bold; font-size: 1.2rem; }
+        #hero-rating { color: #46d369; display: flex; align-items: center; gap: 5px; }
+        #hero-overview { font-size: 1.2rem; line-height: 1.6; color: #ccc; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+        .btn { border: none; padding: 12px 30px; border-radius: 4px; font-weight: bold; cursor: pointer; display: inline-flex; align-items: center; gap: 10px; font-size: 1.1rem; }
+        .btn-play { background: white; color: black; }
+        .btn-info { background: rgba(109,109,110,0.8); color: white; }
+
+        /* 卡片導覽區 */
+        .navigation-panel { 
+            position: absolute; bottom: 0; left: 0; width: 100%; height: 320px; 
+            z-index: 20; background: linear-gradient(transparent, rgba(0,0,0,1));
+            overflow-x: hidden;
+        }
+        .genre-row { padding: 0 4% 40px; }
+        .genre-title { font-size: 1.4rem; margin-bottom: 15px; font-weight: bold; }
+        .movie-slider { 
+            display: flex; gap: 15px; overflow-x: auto; padding: 10px 0; 
+            scroll-behavior: smooth; scrollbar-width: none;
+        }
+        .movie-slider::-webkit-scrollbar { display: none; }
+
+        .card { 
+            min-width: var(--card-w); width: var(--card-w); aspect-ratio: 16/9; 
+            background-size: cover; background-position: center; border-radius: 6px;
+            border: 3px solid transparent; transition: 0.3s; cursor: pointer;
+        }
+        .card:hover { transform: scale(1.1); border-color: rgba(255,255,255,0.8); z-index: 5; }
+        .card.selected { border-color: white; transform: scale(1.08); }
+
+        /* --- 手機版 RWD --- */
+        @media (max-width: 768px) {
+            :root { --card-w: calc(50vw - 25px); }
+            body { overflow-y: auto; }
+
+            .header-fixed-group { 
+                position: sticky; top: 0; height: 65vh; 
+                z-index: 500; display: flex; flex-direction: column;
+                background: #000;
+            }
+            
+            #video-container { position: relative; height: 35vh; flex-shrink: 0; inset: auto; }
+            #preview-player { transform: none; top: 0; left: 0; width: 100%; height: 100%; pointer-events: auto; }
+
+            .hero-overlay { 
+                position: relative; height: 30vh; inset: auto; 
+                padding: 15px 4%; display: block; background: #000;
+            }
+            .info-content { padding-bottom: 0; max-width: 100%; }
+            #hero-title { font-size: 1.8rem; }
+            #hero-overview { font-size: 0.95rem; -webkit-line-clamp: 2; }
+            .hero-meta { font-size: 0.9rem; margin: 8px 0; }
+            .btn { padding: 8px 15px; font-size: 0.9rem; }
+
+            .navigation-panel { 
+                position: relative; height: auto; min-height: 45vh;
+                background: #000; z-index: 100; padding-top: 15px;
+            }
+            .genre-row { display: block !important; padding-bottom: 30px; }
+            .main-logo { font-size: 1.5rem; top: 10px; }
+            .scroll-zone { display: none; }
+        }
+
+        /* 桌面彈窗 */
+        .modal { display: none; position: fixed; inset: 0; z-index: 2000; background: rgba(0,0,0,0.9); align-items: center; justify-content: center; }
+        .modal-content { background: #000; border-radius: 12px; overflow: hidden; width: 85%; max-width: 1100px; }
+        .modal-header { padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; background: #1a1a1a; }
+        .close { cursor: pointer; font-size: 40px; }
+
+        .scroll-zone { position: absolute; top: 0; height: 100%; width: 5%; z-index: 30; }
+        .scroll-zone.left { left: 0; }
+        .scroll-zone.right { right: 0; }
+    </style>
+</head>
+<body>
+
+    <h1 class="main-logo">YTMOVIE</h1>
+
+    <div class="header-fixed-group">
+        <div id="video-container">
+            <div id="preview-player"></div>
+        </div>
+        
+        <div class="hero-overlay">
+            <div class="info-content">
+                <h2 id="hero-title">載入中...</h2>
+                <div class="hero-meta">
+                    <span id="hero-rating"></span>
+                    <span id="hero-date"></span>
+                    <span id="hero-duration"></span>
+                </div>
+                <p id="hero-overview"></p>
+                <div class="hero-actions">
+                    <button class="btn btn-play" onclick="handlePlayAction()"><i class="material-icons">play_arrow</i> 播放</button>
+                    <button class="btn btn-info" onclick="alert('載入中...')"><i class="material-icons">info_outline</i> 更多資訊</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="navigation-panel">
+        <div class="scroll-zone left" id="zone-left"></div>
+        <div class="scroll-zone right" id="zone-right"></div>
+        <div id="genre-container"></div>
+    </section>
+
+    <div id="video-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span id="modal-title" style="font-weight:bold; color:var(--red);"></span>
+                <span class="close" onclick="closeModal()">&times;</span>
+            </div>
+            <div style="aspect-ratio:16/9;"><div id="modal-player-box"></div></div>
+        </div>
+    </div>
+
+    <script>
+        let movies = [];
+        let previewPlayer, modalPlayer;
+        let genres = [], curG = 0, curM = 0;
+        const isMobile = () => window.innerWidth <= 768;
+
+        async function loadData() {
+            try {
+                const response = await fetch('js/movies_data.json');
+                const data = await response.json();
+                movies = data.sort((a, b) => b.rating - a.rating || new Date(b.release_date) - new Date(a.release_date));
+                initUI();
+            } catch (err) { console.error("JSON Error", err); }
+        }
+
+        function initUI() {
+            genres = [...new Set(movies.map(m => m.genre))];
+            const container = document.getElementById('genre-container');
+            genres.forEach((g, i) => {
+                const row = document.createElement('div');
+                row.className = `genre-row`;
+                if(!isMobile() && i !== 0) row.style.display = 'none';
+                const filtered = movies.filter(m => m.genre === g);
+                row.innerHTML = `<div class="genre-title">${g}</div><div class="movie-slider">${filtered.map((m, mi) => `<div class="card" id="card-${i}-${mi}" style="background-image: url('${m.thumbnail}')" onclick="selectMovie(${i}, ${mi})"></div>`).join('')}</div>`;
+                container.appendChild(row);
+            });
+            updateHero();
+        }
+
+        function selectMovie(gi, mi) {
+            curG = gi; curM = mi;
+            updateHero();
+        }
+
+        function updateHero() {
+            const activeMovies = movies.filter(m => m.genre === genres[curG]);
+            const m = activeMovies[curM];
+            if(!m) return;
+            
+            document.getElementById('hero-title').innerText = m.title;
+            document.getElementById('hero-overview').innerText = m.overview;
+            document.getElementById('hero-date').innerText = m.release_date.split('-')[0];
+            document.getElementById('hero-rating').innerHTML = `<i class="material-icons">star</i> ${m.rating.toFixed(1)}`;
+            document.getElementById('hero-duration').innerText = new Date(m.duration * 1000).toISOString().substr(11, 8);
+
+            document.querySelectorAll('.card').forEach(c => c.classList.remove('selected'));
+            const target = document.getElementById(`card-${curG}-${curM}`);
+            if(target) target.classList.add('selected');
+
+            // 預覽狀態：控制項關閉、靜音、30秒
+            if (previewPlayer && previewPlayer.loadVideoById) {
+                previewPlayer.loadVideoById({ 
+                    videoId: m.id, 
+                    startSeconds: 0, 
+                    endSeconds: 30,
+                    suggestedQuality: 'hd1080'
+                });
+                previewPlayer.mute();
+            }
+        }
+
+        function handlePlayAction() {
+            const m = movies.filter(m => m.genre === genres[curG])[curM];
+            if (isMobile()) {
+                // 手機版：啟動控制項、解除靜音、載入完整影片
+                // 註：YouTube API 不允許動態切換 controls，故需銷毀重建或使用 loadVideoById 技巧
+                // 這裡採用 loadVideoById 並確保 iframe 本身已具備控制權限
+                previewPlayer.unMute();
+                previewPlayer.loadVideoById({
+                    videoId: m.id,
+                    startSeconds: 0
+                });
+                // 銷毀並重建以開啟控制功能 (YouTube API 的 controls 限制)
+                rebuildPlayerForMobile(m.id);
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            } else {
+                document.getElementById('video-modal').style.display = 'flex';
+                document.getElementById('modal-title').innerText = m.title;
+                if (!modalPlayer) {
+                    modalPlayer = new YT.Player('modal-player-box', {
+                        width: '100%', height: '100%', videoId: m.id, playerVars: { autoplay: 1, controls: 1, rel: 0 }
+                    });
+                } else { modalPlayer.loadVideoById(m.id); }
+                previewPlayer.pauseVideo();
+            }
+        }
+
+        // 專為手機版重建具備控制項的播放器
+        function rebuildPlayerForMobile(videoId) {
+            if (previewPlayer) previewPlayer.destroy();
+            previewPlayer = new YT.Player('preview-player', {
+                videoId: videoId,
+                playerVars: { 
+                    autoplay: 1, 
+                    controls: 1,  // 開啟控制項
+                    mute: 0,      // 解除靜音
+                    rel: 0,
+                    modestbranding: 1
+                }
+            });
+        }
+
+        function closeModal() {
+            document.getElementById('video-modal').style.display = 'none';
+            if (modalPlayer) modalPlayer.stopVideo();
+            previewPlayer.playVideo();
+        }
+
+        function onYouTubeIframeAPIReady() {
+            previewPlayer = new YT.Player('preview-player', {
+                videoId: 'gLq46jvrxeQ',
+                playerVars: { 
+                    autoplay: 1, 
+                    mute: 1, 
+                    controls: 0, // 預覽時關閉控制
+                    loop: 1, 
+                    playlist: 'gLq46jvrxeQ' 
+                }
+            });
+        }
+
+        // 導覽邏輯
+        document.addEventListener('keydown', e => {
+            if (e.key === "ArrowUp") changeG(-1);
+            if (e.key === "ArrowDown") changeG(1);
+            if (e.key === "ArrowLeft") changeM(-1);
+            if (e.key === "ArrowRight") changeM(1);
+        });
+
+        window.addEventListener('wheel', e => {
+            if (!isMobile() && Math.abs(e.deltaY) > 50) changeG(e.deltaY > 0 ? 1 : -1);
+        }, { passive: true });
+
+        function changeG(d) {
+            if(!isMobile()) {
+                const rows = document.querySelectorAll('.genre-row');
+                rows[curG].style.display = 'none';
+                curG = (curG + d + genres.length) % genres.length;
+                rows[curG].style.display = 'block';
+            } else { curG = (curG + d + genres.length) % genres.length; }
+            curM = 0; updateHero();
+        }
+
+        function changeM(d) {
+            const activeMovies = movies.filter(m => m.genre === genres[curG]);
+            curM = (curM + d + activeMovies.length) % activeMovies.length;
+            updateHero();
+            const target = document.getElementById(`card-${curG}-${curM}`);
+            if(target) target.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+        }
+
+        function setupAutoScroll(id, speed) {
+            let timer;
+            document.getElementById(id).onmouseenter = () => {
+                const activeSlider = document.querySelector('.genre-row:not([style*="display: none"]) .movie-slider');
+                if(activeSlider) timer = setInterval(() => activeSlider.scrollLeft += speed, 10);
+            };
+            document.getElementById(id).onmouseleave = () => clearInterval(timer);
+        }
+        setupAutoScroll('zone-left', -12);
+        setupAutoScroll('zone-right', 12);
+
+        var tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+        document.head.appendChild(tag);
+        window.onload = loadData;
+    </script>
+</body>
+</html>

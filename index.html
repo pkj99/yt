@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Hub</title>
+    
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
+    <style>
+        :root {
+            --primary-color: #00f2ff;
+            --secondary-color: #7000ff;
+            --bg-dark: #050608;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
+
+        body {
+            background-color: var(--bg-dark);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        #particleCanvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background: radial-gradient(circle at center, #0f172a 0%, #050608 100%);
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(30px); filter: blur(10px); }
+            to { opacity: 1; transform: translateY(0); filter: blur(0); }
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            animation: fadeInUp 1s ease-out forwards;
+            z-index: 10;
+        }
+
+        header h1 {
+            font-size: 2.2rem;
+            letter-spacing: 6px;
+            background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 15px rgba(0, 242, 255, 0.3);
+        }
+
+        /* --- 網格與卡片 --- */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 160px);
+            gap: 20px;
+            z-index: 10;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(0, 242, 255, 0.2);
+            border-radius: 24px;
+            height: 160px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            color: white;
+            backdrop-filter: blur(10px);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            opacity: 0;
+            animation: fadeInUp 0.8s ease-out forwards;
+        }
+
+        .card:nth-child(1) { animation-delay: 0.3s; }
+        .card:nth-child(2) { animation-delay: 0.5s; }
+        .card:nth-child(3) { animation-delay: 0.7s; }
+        .card:nth-child(4) { animation-delay: 0.9s; }
+
+        .card:hover {
+            transform: scale(1.1);
+            border-color: var(--primary-color);
+            box-shadow: 0 0 30px rgba(0, 242, 255, 0.5);
+            background: rgba(0, 242, 255, 0.1);
+        }
+
+        .card span { font-size: 2.5rem; margin-bottom: 10px; }
+
+        /* --- 音樂控制鈕 --- */
+        .music-ctrl {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 55px;
+            height: 55px;
+            border-radius: 50%;
+            background: rgba(0,0,0,0.6);
+            border: 2px solid var(--primary-color);
+            color: var(--primary-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            z-index: 100;
+            box-shadow: 0 0 15px rgba(0,242,255,0.4);
+        }
+
+        .playing { animation: pulse 2s infinite; }
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+
+    <canvas id="particleCanvas"></canvas>
+
+    <header>
+        <h1>MEDIA HUB</h1>
+        <p style="color: var(--primary-color); font-size: 0.7rem; letter-spacing: 2px; opacity: 0.8;">RESOURCES FROM YOUTUBE</p>
+        <p style="color: var(--primary-color); font-size: 0.7rem; letter-spacing: 2px; opacity: 0.8;">Designed by Gemini AI</p>
+    </header>
+
+    <div class="grid-container">
+        <a href="ytiptv.html" class="card"><span>📺</span><b>直播</b></a>
+        <a href="ytmovie.html" class="card"><span>🎬</span><b>電影</b></a>
+        <a href="ytdrama.html" class="card"><span>🎭</span><b>劇集</b></a>
+        <a href="ytktv.html" class="card"><span>🎤</span><b>音樂</b></a>
+    </div>
+
+    <audio id="bgm" loop>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+    </audio>
+
+    <div class="music-ctrl" id="musicBtn" onclick="toggleMusic()">🎵</div>
+
+    <script>
+        const canvas = document.getElementById('particleCanvas');
+        const ctx = canvas.getContext('2d');
+        let particles = [];
+        const connectionDistance = 120; // 連線的最大距離
+
+        function initCanvas() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        }
+
+        class Particle {
+            constructor() {
+                this.reset();
+            }
+            reset() {
+                this.x = Math.random() * canvas.width;
+                this.y = Math.random() * canvas.height;
+                this.size = Math.random() * 1.5 + 1;
+                this.speedX = (Math.random() - 0.5) * 0.8;
+                this.speedY = (Math.random() - 0.5) * 0.8;
+            }
+            update() {
+                this.x += this.speedX;
+                this.y += this.speedY;
+                if (this.x < 0 || this.x > canvas.width) this.speedX *= -1;
+                if (this.y < 0 || this.y > canvas.height) this.speedY *= -1;
+            }
+            draw() {
+                ctx.fillStyle = 'rgba(0, 242, 255, 0.8)';
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                ctx.fill();
+            }
+        }
+
+        function createParticles() {
+            particles = [];
+            // 根據螢幕大小調整數量，手機端稍微減少以維持流暢
+            const count = Math.floor((window.innerWidth * window.innerHeight) / 15000);
+            for (let i = 0; i < Math.min(count, 80); i++) {
+                particles.push(new Particle());
+            }
+        }
+
+        function drawLines() {
+            for (let i = 0; i < particles.length; i++) {
+                for (let j = i + 1; j < particles.length; j++) {
+                    const dx = particles[i].x - particles[j].x;
+                    const dy = particles[i].y - particles[j].y;
+                    const distance = Math.sqrt(dx * dx + dy * dy);
+
+                    if (distance < connectionDistance) {
+                        // 距離越近，線條越明顯
+                        const opacity = 1 - (distance / connectionDistance);
+                        ctx.strokeStyle = `rgba(0, 242, 255, ${opacity * 0.3})`;
+                        ctx.lineWidth = 0.5;
+                        ctx.beginPath();
+                        ctx.moveTo(particles[i].x, particles[i].y);
+                        ctx.lineTo(particles[j].x, particles[j].y);
+                        ctx.stroke();
+                    }
+                }
+            }
+        }
+
+        function animate() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            particles.forEach(p => {
+                p.update();
+                p.draw();
+            });
+            drawLines();
+            requestAnimationFrame(animate);
+        }
+
+        window.addEventListener('resize', () => {
+            initCanvas();
+            createParticles();
+        });
+
+        /* --- 音樂控制 --- */
+        const audio = document.getElementById('bgm');
+        const btn = document.getElementById('musicBtn');
+        function toggleMusic() {
+            if (audio.paused) {
+                audio.play();
+                btn.classList.add('playing');
+                btn.innerHTML = '⏸️';
+            } else {
+                audio.pause();
+                btn.classList.remove('playing');
+                btn.innerHTML = '🎵';
+            }
+        }
+
+        initCanvas();
+        createParticles();
+        animate();
+    </script>
+</body>
+</html>
