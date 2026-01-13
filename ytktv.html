@@ -137,9 +137,9 @@
             <div class="p-3">
                 <div id="nowPlayingText" class="h5 text-truncate text-info">🎤 CyberKTV Ready...</div>
                 <div class="d-flex flex-wrap gap-2 mt-2">
-                    <button class="btn btn-sm btn-outline-light" onclick="nextSong()">切歌 ⏭</button>
-                    <button class="btn btn-sm btn-outline-info" onclick="random50()">🎲 隨機50首</button>
-                    <button class="btn btn-sm btn-outline-danger" onclick="clearQueue()">🗑 清空歌單</button>
+                    <button id="cutBtn" class="btn btn-sm btn-outline-light" onclick="nextSong()">切歌 ⏭</button>
+                    <button id="randomBtn"class="btn btn-sm btn-outline-info" onclick="random50()">🎲 隨機50首</button>
+                    <button id="cleanBtn"class="btn btn-sm btn-outline-danger" onclick="clearQueue()">🗑 清空歌單</button>
                     <button id="vocalBtn" class="btn-pink" onclick="toggleDB()">MV版</button>
                     <button class="btn btn-sm btn-outline-light" onclick="window.location='index.html'"><img src="./images/home2.png" width="30px"> </button>
                     <!-- <button id="deviceBtn" class="btn-pink" onclick="toggleDevice()">桌面版</button> -->
@@ -191,8 +191,15 @@
 <script>
 
     let player, queue = [], currentIdx = -1;
-    let isMobile = true;
+    // let isMobile = true;
     let isMv = true;
+    const isMobile = window.innerWidth <= 768;
+
+    if (isMobile){
+        document.getElementById('cutBtn').innerText = "切歌";
+        document.getElementById('randomBtn').innerText = "隨機50首";
+        document.getElementById('cleanBtn').innerText = "清空歌單";
+    }
 
     function switchDB() {
         if (isMv) {
