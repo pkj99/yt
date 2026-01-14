@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>MOVIE - Cinematic Premium UI</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        :root { 
+            --red: #e50914; 
+            --bg: #050505; 
+            --ui-bg: rgba(20, 20, 20, 0.85); /* 深色磨砂基調 */
+            --glass-border: rgba(255, 255, 255, 0.12);
+            --card-w: 125px; 
+            --transition: 0.45s cubic-bezier(0.33, 1, 0.68, 1); /* 專業緩動曲線 */
+        }
+        * { box-sizing: border-box; }
+        
+        body { 
+            margin: 0; background: var(--bg); color: white; 
+            font-family: 'Inter', -apple-system, system-ui, sans-serif; 
+            overflow: hidden; 
+        }
+
+        /* 導覽列 */
+        .header-nav {
+            position: fixed; top: 0; left: 0; width: 100%; height: 90px;
+            display: flex; align-items: center; padding: 0 4%;
+            z-index: 1000; background: linear-gradient(to bottom, rgba(0,0,0,0.85), transparent);
+            gap: 35px;
+        }
+        .main-logo { color: var(--red); font-size: 2.6rem; font-weight: 900; cursor: pointer; letter-spacing: 4px; text-shadow: 0 0 15px rgba(229, 9, 20, 0.3); }
+
+        .controls-group { display: flex; gap: 20px; align-items: center; }
+        
+        /* 過濾器與搜尋框優化 */
+        .glass-ui {
+            background: var(--ui-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-top: 1px solid rgba(255,255,255,0.15); /* 頂部高光邊界 */
+            color: white;
+            transition: var(--transition);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.5), inset 0 1px 1px rgba(255,255,255,0.05);
+        }
+        .glass-ui:hover { border-color: rgba(255,255,255,0.3); background: rgba(30, 30, 30, 0.9); transform: translateY(-1px); }
+
+        .search-box { display: flex; align-items: center; padding: 8px 20px; width: 240px; border-radius: 50px; }
+        .search-box:focus-within { width: 320px; border-color: var(--red); box-shadow: 0 0 20px rgba(229, 9, 20, 0.4); }
+        .search-input { background: transparent; border: none; color: white; outline: none; padding: 5px; width: 100%; font-size: 0.95rem; }
+
+        .filter-wrapper { position: relative; }
+        .filter-wrapper::after {
+            content: 'expand_more'; font-family: 'Material Icons';
+            position: absolute; right: 14px; top: 50%; transform: translateY(-50%);
+            pointer-events: none; color: rgba(255,255,255,0.5); font-size: 18px;
+        }
+        .filter-select {
+            appearance: none; padding: 10px 45px 10px 20px; font-size: 0.9rem;
+            cursor: pointer; outline: none; border-radius: 50px; width: 140px;
+        }
+
+        /* 背景與環境遮罩優化 */
+        .hero-background {
+            position: absolute; inset: 0; 
+            background-size: cover; background-position: center 20%;
+            transition: background-image 0.8s ease;
+            z-index: 1;
+        }
+        .hero-background::after {
+            content: ''; position: absolute; inset: 0;
+            /* 強化環境陰影 */
+            /* background: linear-gradient(90deg, rgba(0,0,0,0.9) 25%, transparent 75%),
+                        linear-gradient(to top, var(--bg-color) 0%, transparent 40%);             */
+            background: radial-gradient(circle at 75% 40%, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.95) 85%),
+                        linear-gradient(to top, rgba(0,0,0,1) 0%, transparent 40%);
+        }
+
+        .hero-overlay { position: absolute; inset: 0; z-index: 10; display: flex; align-items: center; padding: 0 5%; }
+        .info-content { max-width: 700px; padding-bottom: 200px; }
+        #hero-title { font-size: 5rem; font-weight: 900; margin: 0; line-height: 0.95; letter-spacing: -2px; }
+        
+        .hero-meta { margin: 25px 0; display: flex; gap: 20px; font-weight: 600; font-size: 1.1rem; align-items: center; }
+        #hero-rating { color: #46d369; display: flex; align-items: center; gap: 6px; }
+        #hero-quality { border: 1.5px solid rgba(255,255,255,0.5); padding: 1px 8px; border-radius: 4px; font-size: 0.8rem; }
+
+        .btn-play { 
+            background: white; color: black; border: none; padding: 15px 45px; border-radius: 6px;
+            font-weight: 900; font-size: 1.2rem; cursor: pointer; display: flex; align-items: center; gap: 12px;
+            transition: 0.2s; box-shadow: 0 10px 25px rgba(0,0,0,0.6);
+        }
+        .btn-play:hover { background: var(--red); color: white; transform: scale(1.08); }
+
+        /* 電影卡片浮動效果優化 */
+        .navigation-panel { position: absolute; bottom: 0; left: 0; width: 100%; height: 380px; z-index: 20; }
+        .genre-row { padding: 0 5% 40px; }
+        .movie-slider { display: flex; gap: 20px; overflow-x: auto; padding: 30px 0; scrollbar-width: none; scroll-behavior: smooth; }
+        
+        .card { 
+            position: relative;
+            min-width: var(--card-w); width: var(--card-w); aspect-ratio: 3/4; 
+            background-size: cover; background-position: center; border-radius: 10px;
+            border: 2px solid rgba(255,255,255,0.05); 
+            transition: var(--transition); 
+            cursor: pointer;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.5); /* 初始小陰影 */
+        }
+        
+        /* 懸浮時的動態：向上浮動並增加大範圍擴散陰影 */
+        .card:hover, .card.selected { 
+            transform: scale(1.1) translateY(0px); /* 提升浮動高度 */
+            border-color: rgba(255,255,255,0.8);
+            z-index: 100;
+            /* 動態複合陰影：底影+發光 */
+            box-shadow: 0 30px 60px rgba(0,0,0,0.8), 0 0 20px rgba(255,255,255,0.15);
+            filter: brightness(1.1); /* 懸浮時稍微亮化 */
+        }
+        .card.selected { border-color: var(--red); box-shadow: 0 30px 60px rgba(0,0,0,0.8), 0 0 20px rgba(229, 9, 20, 0.4); }
+
+        /* 標題評分標籤 */
+        .card::before {
+            content: attr(data-rating);
+            position: absolute; top: 10px; right: 10px;
+            background: rgba(0,0,0,0.85); backdrop-filter: blur(5px);
+            padding: 3px 8px; border-radius: 6px; font-size: 0.75rem; font-weight: 900; color: #46d369;
+            opacity: 0; transition: 0.3s;
+        }
+        .card:hover::before { opacity: 1; }
+
+        /* 播放彈窗器 */
+        .modal { display: none; position: fixed; inset: 0; z-index: 2000; background: rgba(0,0,0,0.96); align-items: center; justify-content: center; backdrop-filter: blur(20px); }
+        .modal-content { width: 92%; max-width: 1200px; position: relative; border-radius: 12px; overflow: hidden; box-shadow: 0 0 100px rgba(0,0,0,1); }
+        .close-modal { position: absolute; top: 20px; right: 25px; color: white; font-size: 40px; cursor: pointer; z-index: 2100; text-shadow: 0 0 10px rgba(0,0,0,1); }
+
+        .scroll-zone { position: absolute; top: 0; height: 100%; width: 5%; z-index: 100; }
+        .scroll-zone.left { left: 0; cursor: w-resize; }
+        .scroll-zone.right { right: 0; cursor: e-resize; }
+
+
+        /* 手機版專屬樣式調整 */
+        @media (max-width: 768px) {
+        body { 
+                height: 100vh; 
+                display: flex; 
+                flex-direction: column; 
+                overflow: hidden; /* 鎖定全域，防止背景捲動 */
+            }
+
+            /* 1. 頂部導覽列：保持半透明 */
+            .header-nav {
+                position: absolute; height: auto; padding: 12px 4%;
+                flex-direction: column; gap: 8px;
+                background: linear-gradient(to bottom, rgba(0,0,0,0.9), transparent);
+            }
+            .main-logo { font-size: 1.6rem; }
+            .controls-group { gap: 8px; }
+            .search-box { width: 100% !important; height: 36px; }
+            .filter-select { font-size: 0.8rem; padding: 6px 10px; height: 36px;  width: 100px;}
+
+            /* 2. 固定背景區域 */
+            .header-fixed-group {
+                position: relative;
+                flex: 0 0 55%; /* 固定佔用螢幕 55% 高度 */
+                width: 100%;
+                overflow: hidden;
+                z-index: 5;
+            }
+            .hero-background { height: 100%; }
+            /* 1. 取消背景環境陰影 */
+            .hero-background::after {
+                display: none !important; /* 完全移除放射狀與線性遮罩 */
+                /* background: none !important;
+                background-color: transparent !important; */
+            }            
+            .hero-overlay { padding: 15px 5%; align-items: flex-end; }
+            .info-content { padding-bottom: 40px; }
+            #hero-title { font-size: 2.2rem; }
+            #hero-overview { -webkit-line-clamp: 2; font-size: 0.9rem; } /* 手機版簡介縮短 */
+
+            /* 3. 下方獨立捲動面板 */
+            .navigation-panel {
+                position: relative;
+                flex: 0 0 45%; /* 佔用剩餘 45% 高度 */
+                width: 100%;
+                overflow-y: auto; /* 允許垂直捲動分類 */
+                overflow-x: hidden;
+                background: #000;
+                z-index: 10;
+                padding-top: 15px;
+                /* 增加邊界陰影，卡片捲入時更有深度 */
+                box-shadow: 0 -20px 30px rgba(0,0,0,0.9); 
+            }
+
+            .genre-row { padding: 0 0 25px 5%; }
+            .movie-slider { gap: 12px; }
+
+            /* 卡片大小調整，確保手機顯示 2.5 張 */
+            :root { --card-w: 110px; } 
+
+            /* 播放按鍵手機版寬度 */
+            .btn-play { padding: 10px 20px; font-size: 1rem; }
+
+            /* 邊界感應區關閉 */
+            .scroll-zone { display: none; }
+
+        }
+
+
+
+    </style>
+</head>
+<body>
+
+    <header class="header-nav">
+        <h1 id="logo" class="main-logo" onclick="resetFilters()">MOVIE</h1>
+        <div class="controls-group">
+            <div class="glass-ui search-box">
+                <i class="material-icons" style="font-size:22px; color:rgba(255,255,255,0.4);">search</i>
+                <input type="text" id="search-input" class="search-input" placeholder="搜尋影片標題..." oninput="applyFilters()">
+            </div>
+            
+            <div class="filter-wrapper">
+                <select id="filter-country" class="glass-ui filter-select" onchange="applyFilters()"></select>
+            </div>
+            
+            <div class="filter-wrapper">
+                <select id="filter-year" class="glass-ui filter-select" onchange="applyFilters()"></select>
+            </div>
+        </div>
+    </header>
+
+    <div class="header-fixed-group">
+        <div id="hero-bg" class="hero-background"></div>
+        <div class="hero-overlay">
+            <div class="info-content">
+                <h2 id="hero-title">--</h2>
+                <div class="hero-meta">
+                    <span id="hero-rating"></span>
+                    <span id="hero-date"></span>
+                    <span id="hero-quality">4K UHD</span>
+                </div>
+                <p id="hero-overview" style="font-size: 1.1rem; line-height: 1.6; color: rgba(255,255,255,0.7); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;"></p>
+                <div style="margin-top: 40px;">
+                    <button class="btn-play" onclick="handlePlayAction()">
+                        <i class="material-icons" style="font-size:32px;">play_circle</i> 立即觀看
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="navigation-panel">
+        <div class="scroll-zone left" id="zone-left"></div>
+        <div class="scroll-zone right" id="zone-right"></div>
+        <div id="genre-container"></div>
+    </section>
+
+    <div id="video-modal" class="modal">
+        <span class="close-modal" onclick="closeModal()">&times;</span>
+        <div class="modal-content">
+            <video id="modal-player" controls style="width:100%; aspect-ratio:16/9; background:#000;"></video>
+        </div>
+    </div>
+
+    <script>
+        let allMovies = [], filteredMovies = [];
+        let hlsModal = null, genres = [], curG = 0, curM = 0;
+        const isMobile = () => window.innerWidth <= 768;
+
+        if(isMobile()) document.getElementById('logo').style.display = 'none';
+
+        async function loadData() {
+            try {
+                const response = await fetch('js/movies_stream.json');
+                const data = await response.json();
+                
+                allMovies = data.map(m => ({
+                    ...m,
+                    year: m.release_date.split('-')[0],
+                    country: m.country || "美國",
+                    backdrop: m.backdrop || m.thumbnail,
+                    quality: m.quality || "4K UHD"
+                })).sort((a, b) => new Date(b.release_date) - new Date(a.release_date));
+
+                setupFilters();
+                applyFilters();
+            } catch (e) { console.error("Data fetch error", e); }
+        }
+
+        function setupFilters() {
+            const countries = ['all', ...new Set(allMovies.map(m => m.country))];
+            const years = ['all', ...new Set(allMovies.map(m => m.year))].sort((a,b)=>b-a);
+            document.getElementById('filter-country').innerHTML = countries.map(c => `<option value="${c}">${c === 'all' ? '所有區域' : c}</option>`).join('');
+            document.getElementById('filter-year').innerHTML = years.map(y => `<option value="${y}">${y === 'all' ? '所有年份' : y}</option>`).join('');
+        }
+
+        function applyFilters() {
+            const s = document.getElementById('search-input').value.toLowerCase();
+            const c = document.getElementById('filter-country').value;
+            const y = document.getElementById('filter-year').value;
+
+            filteredMovies = allMovies.filter(m => 
+                m.title.toLowerCase().includes(s) &&
+                (c === 'all' || m.country === c) &&
+                (y === 'all' || m.year === y)
+            );
+
+            genres = [...new Set(filteredMovies.map(m => m.genre))];
+            renderRows();
+        }
+
+        function renderRows() {
+            const container = document.getElementById('genre-container');
+            container.innerHTML = "";
+            genres.forEach((g, i) => {
+                const rowMovies = filteredMovies.filter(m => m.genre === g);
+                const row = document.createElement('div');
+                row.className = 'genre-row';
+                if(!isMobile() && i !== curG) row.style.display = 'none';
+                row.innerHTML = `
+                    <div style="font-size:1.6rem; font-weight:900; margin-bottom:12px; letter-spacing:1px; color:rgba(255,255,255,0.9);">${g}</div>
+                    <div class="movie-slider" id="slider-${i}">
+                        ${rowMovies.map((m, mi) => `
+                            <div class="card" 
+                                 id="card-${i}-${mi}" 
+                                 data-rating="★ ${m.rating.toFixed(1)}"
+                                 style="background-image:url('${m.thumbnail}')" 
+                                 onclick="selectMovie(${i}, ${mi})">
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+                container.appendChild(row);
+            });
+            updateHero();
+        }
+
+        function selectMovie(gi, mi) { curG = gi; curM = mi; updateHero(); }
+
+        function updateHero() {
+            const activeMovies = filteredMovies.filter(m => m.genre === genres[curG]);
+            const m = activeMovies[curM];
+            if(!m) return;
+
+            document.getElementById('hero-title').innerText = m.title;
+            document.getElementById('hero-overview').innerText = m.overview;
+            document.getElementById('hero-date').innerText = `${m.release_date} | ${m.country}`;
+            document.getElementById('hero-rating').innerHTML = `<i class="material-icons" style="font-size:18px;">star</i> ${m.rating.toFixed(1)}`;
+            document.getElementById('hero-quality').innerText = m.quality;
+            document.getElementById('hero-bg').style.backgroundImage = `url('${m.backdrop}')`;
+
+            document.querySelectorAll('.card').forEach(c => c.classList.remove('selected'));
+            const activeCard = document.getElementById(`card-${curG}-${curM}`);
+            if(activeCard) {
+                activeCard.classList.add('selected');
+                activeCard.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+            }
+        }
+
+        function changeG(d) {
+            const rows = document.querySelectorAll('.genre-row');
+            if(rows.length <= 1) return;
+            rows[curG].style.display = 'none';
+            curG = (curG + d + genres.length) % genres.length;
+            rows[curG].style.display = 'block';
+            curM = 0; updateHero();
+        }
+        function changeM(d) {
+            const activeMovies = filteredMovies.filter(m => m.genre === genres[curG]);
+            if(activeMovies.length === 0) return;
+            curM = (curM + d + activeMovies.length) % activeMovies.length;
+            updateHero();
+        }
+
+        document.addEventListener('keydown', e => {
+            if(document.activeElement.tagName === 'INPUT') return;
+            if(e.key === "ArrowUp") changeG(-1);
+            if(e.key === "ArrowDown") changeG(1);
+            if(e.key === "ArrowLeft") changeM(-1);
+            if(e.key === "ArrowRight") changeM(1);
+        });
+
+        window.addEventListener('wheel', e => {
+            if(!isMobile() && Math.abs(e.deltaY) > 60) changeG(e.deltaY > 0 ? 1 : -1);
+        }, { passive: true });
+
+        let scrollTimer;
+        const initZones = () => {
+            ['zone-left', 'zone-right'].forEach(id => {
+                const z = document.getElementById(id);
+                z.onmouseenter = () => {
+                    const s = document.getElementById(`slider-${curG}`);
+                    if(!s) return;
+                    const speed = id === 'zone-right' ? 22 : -22;
+                    scrollTimer = setInterval(() => s.scrollLeft += speed, 16);
+                };
+                z.onmouseleave = () => clearInterval(scrollTimer);
+            });
+        };
+
+        function handlePlayAction() {
+            const activeMovies = filteredMovies.filter(m => m.genre === genres[curG]);
+            const m = activeMovies[curM];
+            document.getElementById('video-modal').style.display = 'flex';
+            const v = document.getElementById('modal-player');
+            if(hlsModal) hlsModal.destroy();
+            if(Hls.isSupported()){
+                hlsModal = new Hls(); hlsModal.loadSource(m.m3u8_url); hlsModal.attachMedia(v);
+            } else { v.src = m.m3u8_url; }
+            v.play();
+        }
+
+        function closeModal() {
+            document.getElementById('video-modal').style.display = 'none';
+            document.getElementById('modal-player').pause();
+        }
+
+        function resetFilters() {
+            document.getElementById('search-input').value = "";
+            document.getElementById('filter-country').value = 'all';
+            document.getElementById('filter-year').value = 'all';
+            applyFilters();
+        }
+
+        window.onload = () => { loadData(); initZones(); };
+    </script>
+</body>
+</html>
