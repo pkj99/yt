@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberStream Music Player</title>
+    <style>
+        :root {
+            --neon-cyan: #00f2ff;
+            --neon-purple: #bc13fe;
+            --bg-dark: #050505;
+            --glass: rgba(255, 255, 255, 0.05);
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at 50% 50%, #101020 0%, #050505 100%);
+            color: white;
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            overflow-x: hidden;
+            padding-bottom: 120px;
+        }
+
+        /* 頂部導覽列 */
+        .nav-container {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(15px);
+            padding: 15px 0;
+            border-bottom: 1px solid var(--neon-cyan);
+            box-shadow: 0 0 20px rgba(0, 242, 255, 0.15);
+        }
+
+        .nav-scroll {
+            display: flex;
+            gap: 15px;
+            padding: 5px 20px;
+            overflow-x: auto;
+            scrollbar-width: none;
+        }
+        .nav-scroll::-webkit-scrollbar { display: none; }
+
+        .nav-item {
+            white-space: nowrap;
+            padding: 8px 22px;
+            border: 1px solid var(--neon-cyan);
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            color: var(--neon-cyan);
+            background: transparent;
+        }
+
+        .nav-item.active {
+            background: var(--neon-cyan);
+            color: #000;
+            box-shadow: 0 0 15px var(--neon-cyan);
+            font-weight: bold;
+        }
+
+        /* 歌曲列表 */
+        .song-container { padding: 20px; max-width: 600px; margin: 0 auto; }
+        
+        .song-card {
+            display: flex;
+            align-items: center;
+            background: var(--glass);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            margin-bottom: 12px;
+            padding: 12px;
+            border-radius: 16px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .song-card:hover { background: rgba(255, 255, 255, 0.1); border-color: var(--neon-cyan); }
+        .song-card.playing { border-color: var(--neon-purple); background: rgba(188, 19, 254, 0.05); }
+
+        .song-card img {
+            width: 55px;
+            height: 55px;
+            border-radius: 10px;
+            margin-right: 15px;
+            object-fit: cover;
+        }
+
+        .song-info { flex: 1; }
+        .song-info b { display: block; font-size: 1rem; color: #fff; margin-bottom: 3px; }
+        .song-info span { font-size: 0.8rem; color: #888; }
+
+        /* 底部播放器 */
+        .bottom-bar {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background: rgba(5, 5, 5, 0.95);
+            backdrop-filter: blur(25px);
+            border-top: 1px solid var(--neon-purple);
+            padding: 15px 20px;
+            display: flex;
+            align-items: center;
+            box-sizing: border-box;
+            z-index: 1000;
+        }
+
+        .album-art-wrapper {
+            position: relative;
+            width: 50px;
+            height: 50px;
+        }
+
+        .current-track-img {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            border: 2px solid var(--neon-purple);
+            object-fit: cover;
+            animation: rotate 12s linear infinite;
+            animation-play-state: paused;
+        }
+        .current-track-img.playing { animation-play-state: running; }
+
+        .player-info { margin-left: 15px; flex: 1; overflow: hidden; }
+        .player-info b { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 0.95rem; }
+        .player-info span { font-size: 0.75rem; color: var(--neon-cyan); }
+
+        .controls { display: flex; gap: 20px; align-items: center; }
+        .icon-btn { cursor: pointer; color: white; font-size: 1.6rem; transition: 0.2s; }
+        .icon-btn:hover { color: var(--neon-cyan); transform: scale(1.1); }
+        .play-pause { font-size: 2.4rem; color: var(--neon-purple); text-shadow: 0 0 10px var(--neon-purple); }
+
+        @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+        #yt-player-hidden { display: none; }
+    </style>
+</head>
+<body>
+
+<div class="nav-container">
+    <div class="nav-scroll" id="playlistNav">
+        <div class="nav-item">Loading System...</div>
+    </div>
+</div>
+
+<div class="song-container" id="songList">
+    </div>
+
+<div class="bottom-bar">
+    <div class="album-art-wrapper">
+        <img id="barArt" class="current-track-img" src="https://via.placeholder.com/150">
+    </div>
+    <div class="player-info">
+        <b id="barTitle">System Ready</b>
+        <span id="barArtist">Select a playlist</span>
+    </div>
+    <div class="controls">
+        <span class="icon-btn" onclick="prevTrack()">⏮</span>
+        <span class="icon-btn play-pause" id="playBtn" onclick="togglePlay()">▶</span>
+        <span class="icon-btn" onclick="nextTrack()">⏭</span>
+    </div>
+</div>
+
+<div id="yt-player-hidden">
+    <div id="player"></div>
+</div>
+
+<script>
+    let playlists = [];
+    let currentPlaylistIndex = 0;
+    let currentSongIndex = -1;
+    let player;
+
+    // 1. 初始化 YouTube API
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    document.head.appendChild(tag);
+
+    async function onYouTubeIframeAPIReady() {
+        const success = await fetchPlaylists();
+        if (success) {
+            player = new YT.Player('player', {
+                height: '0', width: '0',
+                events: {
+                    'onStateChange': onPlayerStateChange,
+                    'onReady': () => {
+                        initUI();
+                        loadPlaylist(0);
+                    }
+                }
+            });
+        }
+    }
+
+    // 2. Fetch JSON 資料
+    async function fetchPlaylists() {
+        try {
+            const response = await fetch('js/musics_data.json');
+            if (!response.ok) throw new Error('Network error');
+            playlists = await response.json();
+            return true;
+        } catch (err) {
+            console.error("Fetch error:", err);
+            document.getElementById('songList').innerHTML = `<p style="color:red">ERROR: Cannot load playlists.json</p>`;
+            return false;
+        }
+    }
+
+    // 3. UI 渲染邏輯
+    function initUI() {
+        const nav = document.getElementById('playlistNav');
+        nav.innerHTML = '';
+        playlists.forEach((p, idx) => {
+            const name = Object.keys(p)[0];
+            const btn = document.createElement('div');
+            btn.className = `nav-item ${idx === 0 ? 'active' : ''}`;
+            btn.innerText = name.replace(/_/g, ' ');
+            btn.onclick = () => switchPlaylist(idx, btn);
+            nav.appendChild(btn);
+        });
+    }
+
+    function switchPlaylist(idx, el) {
+        document.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
+        el.classList.add('active');
+        loadPlaylist(idx);
+    }
+
+    function loadPlaylist(idx) {
+        currentPlaylistIndex = idx;
+        const name = Object.keys(playlists[idx])[0];
+        const songs = playlists[idx][name];
+        const container = document.getElementById('songList');
+        container.innerHTML = '';
+
+        songs.forEach((song, sIdx) => {
+            const isPlaying = (currentPlaylistIndex === idx && currentSongIndex === sIdx);
+            const card = document.createElement('div');
+            card.className = `song-card ${isPlaying ? 'playing' : ''}`;
+            card.onclick = () => playTrack(sIdx);
+            card.innerHTML = `
+                <img src="https://i.ytimg.com/vi/${song.id}/mqdefault.jpg">
+                <div class="song-info">
+                    <b>${song.title}</b>
+                    <span>${song.artist}</span>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+    }
+
+    // 4. 播放控制
+    function playTrack(sIdx) {
+        currentSongIndex = sIdx;
+        const name = Object.keys(playlists[currentPlaylistIndex])[0];
+        const song = playlists[currentPlaylistIndex][name][sIdx];
+
+        player.loadVideoById(song.id);
+        
+        // Update Bottom Bar
+        document.getElementById('barTitle').innerText = song.title;
+        document.getElementById('barArtist').innerText = song.artist;
+        document.getElementById('barArt').src = `https://i.ytimg.com/vi/${song.id}/mqdefault.jpg`;
+        
+        loadPlaylist(currentPlaylistIndex);
+        updateMediaSession(song);
+    }
+
+    function togglePlay() {
+        if (currentSongIndex === -1) { playTrack(0); return; }
+        const state = player.getPlayerState();
+        state === 1 ? player.pauseVideo() : player.playVideo();
+    }
+
+    function onPlayerStateChange(event) {
+        const btn = document.getElementById('playBtn');
+        const img = document.getElementById('barArt');
+        if (event.data === YT.PlayerState.PLAYING) {
+            btn.innerText = '⏸';
+            img.classList.add('playing');
+        } else {
+            btn.innerText = '▶';
+            img.classList.remove('playing');
+        }
+        if (event.data === YT.PlayerState.ENDED) nextTrack();
+    }
+
+    function nextTrack() {
+        const name = Object.keys(playlists[currentPlaylistIndex])[0];
+        const songs = playlists[currentPlaylistIndex][name];
+        if (currentSongIndex < songs.length - 1) playTrack(currentSongIndex + 1);
+    }
+
+    function prevTrack() {
+        if (currentSongIndex > 0) playTrack(currentSongIndex - 1);
+    }
+
+    // 5. Media Session (背景播放)
+    function updateMediaSession(song) {
+        if ('mediaSession' in navigator) {
+            navigator.mediaSession.metadata = new MediaMetadata({
+                title: song.title,
+                artist: song.artist,
+                artwork: [{ src: `https://i.ytimg.com/vi/${song.id}/maxresdefault.jpg`, sizes: '512x512', type: 'image/jpeg' }]
+            });
+            navigator.mediaSession.setActionHandler('play', () => player.playVideo());
+            navigator.mediaSession.setActionHandler('pause', () => player.pauseVideo());
+            navigator.mediaSession.setActionHandler('previoustrack', () => prevTrack());
+            navigator.mediaSession.setActionHandler('nexttrack', () => nextTrack());
+        }
+    }
+</script>
+</body>
+</html>
