@@ -78,7 +78,7 @@
         }
 
         .hero-overlay { position: absolute; inset: 0; z-index: 10; display: flex; align-items: center; padding: 0 5%; }
-        .info-content { max-width: 700px; padding-bottom: 200px; }
+        .info-content { max-width: 900px; padding-bottom: 200px; }
         #hero-title { font-size: 5rem; font-weight: 900; margin: 0; line-height: 0.95; letter-spacing: -2px; }
         
         .hero-meta { margin: 25px 0; display: flex; gap: 20px; font-weight: 600; font-size: 1.1rem; align-items: center; }
@@ -326,7 +326,8 @@
                                  id="card-${i}-${mi}" 
                                  data-rating="★ ${m.rating.toFixed(1)}"
                                  style="background-image:url('${m.thumbnail}')" 
-                                 onclick="selectMovie(${i}, ${mi})">
+                                 onclick="selectMovie(${i}, ${mi})"
+                                 onmouseover="selectMovie(${i}, ${mi})">
                             </div>
                         `).join('')}
                     </div>
