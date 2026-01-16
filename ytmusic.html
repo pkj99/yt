@@ -41,8 +41,8 @@
 
         /* --- 2. 歌曲清單 (隱藏卷軸) --- */
         .main-content {
-            flex: 1; overflow-y: auto; padding: 20px; 
-            max-width: 800px; margin: 0 auto; width: 100%;
+            flex: 1; overflow-y: auto; padding: 2px; 
+            max-width: 800px; margin: 0 auto; width: 96%;
             scrollbar-width: none; /* Firefox 隱藏捲軸 */
         }
         .main-content::-webkit-scrollbar { display: none; /* Chrome 隱藏捲軸 */ }
@@ -121,10 +121,11 @@
         /* --- 5. 手機全螢幕 (Mobile Only) --- */
         @media (max-width: 768px) {
 
-            .prog-container {
-                visibility: hidden;
-                width: 0%; flex: 0; margin: 0 auto 20px; order: 2;
-            }
+            .prog-container { width: 0%; display:none; }
+            .control-set { width: 100%; justify-content: space-between; }
+            .info-box { width: 0%; display: none;}
+            .text-wrap { width: 0%;}
+            #barArt { width: 0px; height: 0px; border-radius: 6px; object-fit: cover; margin-right: 15px; }
 
             .current-track-img {
                 width: 100%;
@@ -137,17 +138,18 @@
             }
             .current-track-img.playing { animation-play-state: running; }
 
-            .text-wrap { width: 0%;}
 
 
-            .player-bar.expanded { height: 110vh; border-top: none; }
-            .player-bar.expanded .back-btn { display: block; position: absolute; top: 15px; left: 15px; z-index: 2100; }
+
+            .player-bar.expanded { height: 100vh; border-top: none; }
+            .player-bar.expanded .back-btn { display: block; position: absolute; top: 50px; left: 15px; z-index: 2100; }
             
             .player-bar.expanded .player-inner {
                 flex-direction: column; justify-content: space-evenly; padding: 60px 30px 40px;
             }
 
-            .player-bar.expanded .info-box {
+            .player-bar.expanded .info-box { 
+                display: flex;               
                 flex-direction: column; align-items: flex-start; flex: 0; width: 100%;
             }
             .player-bar.expanded #barArt {
