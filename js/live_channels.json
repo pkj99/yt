@@ -3,12 +3,6 @@
     "channels": {
         "新聞": [
             {
-                "id": "xL0ch83RAK8",
-                "title": "台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브 2026-01-16 16:08",
-                "thumbnail": "https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault.jpg",
-                "channel": "台視新聞 TTV NEWS"
-            },
-            {
                 "id": "m_dhMSvUCIc",
                 "title": "🔴LIVE：TVBS NEWS網路獨家新聞24小時直播 Taiwan News 24hr 台湾世界中のニュースを24時間配信中 대만24시간뉴스채널 55台 2026-01-16 16:08",
                 "thumbnail": "https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault.jpg",
@@ -80,6 +74,12 @@
                 "thumbnail": "https://i.ytimg.com/vi/baDV1O5EBP0/hqdefault.jpg",
                 "channel": "中視新聞"
             },
+            {
+                "id": "xL0ch83RAK8",
+                "title": "台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브 2026-01-16 16:08",
+                "thumbnail": "https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault.jpg",
+                "channel": "台視新聞 TTV NEWS"
+            },            
             {
                 "id": "kMwoV2js-B4",
                 "title": "💰94要賺錢 × SET iNEWS｜24小時新聞直播｜iNEWS CH48 台灣新聞 LIVE｜Taiwan News Live｜SET iNEWS ニュース生放送 2026-01-16 16:09",

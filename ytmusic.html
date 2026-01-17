@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CyberStream Pro V4</title>
+    <title>CyberMusic</title>
+    <link rel="icon" type="image/png" href="images/favicon.ico">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="images/favicon.ico" />      
     <style>
         :root {
             --neon-cyan: #00f2ff;
@@ -70,7 +73,7 @@
         }
         .current-track-img.playing { animation-play-state: running; }
 
-
+        @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 
         /* --- 3. 播放器容器 --- */
         .player-bar {
@@ -137,8 +140,6 @@
                 animation-play-state: paused;
             }
             .current-track-img.playing { animation-play-state: running; }
-
-
 
 
             .player-bar.expanded { height: 100vh; border-top: none; }
@@ -261,6 +262,9 @@
     }
 
     function loadPlaylist(idx) {
+        if (currentPlaylistIndex !== idx){
+            currentSongIndex = 0;
+        }
         currentPlaylistIndex = idx;
         const name = Object.keys(playlists[idx])[0];
         const songs = playlists[idx][name];
@@ -274,6 +278,12 @@
                 <div class="track-info-list"><b>${s.title}</b><span>${s.artist}</span></div>`;
             container.appendChild(item);
         });
+        if (currentSongIndex === 0){
+            container.scrollTo({
+                top: 0,
+                behavior: 'smooth' // 平滑滾動效果
+            });
+        }
     }
 
     function playTrack(sIdx) {
@@ -284,12 +294,12 @@
         document.getElementById('barTitle').innerText = song.title;
         document.getElementById('barArtist').innerText = song.artist;
         document.getElementById('barArt').src = `https://i.ytimg.com/vi/${song.id}/maxresdefault.jpg`;
-        
+        document.getElementById('barArt').classList.add('playing');
+
         if (window.innerWidth <= 768) {
             document.getElementById('playerOverlay').classList.add('expanded');
         }
         loadPlaylist(currentPlaylistIndex);
-        player.playVideo();
     }
 
     function toggleExpand() {
@@ -305,12 +315,15 @@
 
     function onPlayerStateChange(event) {
         const icon = document.getElementById('playIcon');
+        const img = document.getElementById('barArt');
         if (event.data === 1) {
             icon.innerText = '⏸';
+            img.classList.add('playing');
             icon.classList.remove('play-icon-adj'); // 暫停鈕不需要右移位
             setInterval(updateTick, 1000);
         } else {
             icon.innerText = '▶';
+            img.classList.remove('playing');
             icon.classList.add('play-icon-adj'); // 播放鈕三角型微調置中
         }
         if (event.data === 0) { isRepeat ? playTrack(currentSongIndex) : nextTrack(); }
