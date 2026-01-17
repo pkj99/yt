@@ -124,13 +124,28 @@
         /* --- 5. 手機全螢幕 (Mobile Only) --- */
         @media (max-width: 768px) {
 
-            .prog-container { width: 0%; display:none; }
+            /* .prog-container { width: 0%; display:none; } */
+            .prog-container { display:none; }
             .control-set { width: 100%; justify-content: space-between; }
-            .info-box { width: 0%; display: none;}
+            /* .info-box { width: 0%; display: none;} */
             .text-wrap { width: 0%;}
-            #barArt { width: 0px; height: 0px; border-radius: 6px; object-fit: cover; margin-right: 15px; }
+            /* #barArt { width: 0px; height: 0px; border-radius: 6px; object-fit: cover; margin-right: 15px; } */
 
-            .current-track-img {
+            /* .current-track-img {
+                width: 100%;
+                height: 100%;
+                border-radius: 50% !important;
+                border: 2px solid gray;
+                object-fit: cover;
+                animation:none;
+                animation-play-state: paused;
+            }
+            .current-track-img.playing { animation-play-state: running; }
+
+            @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } */
+
+
+            .player-bar.expanded .current-track-img {
                 width: 100%;
                 height: 100%;
                 border-radius: 6% !important;
@@ -139,7 +154,7 @@
                 animation:none;
                 animation-play-state: paused;
             }
-            .current-track-img.playing { animation-play-state: running; }
+            .player-bar.expanded .current-track-img.playing { animation-play-state: running; }
 
 
             .player-bar.expanded { height: 100vh; border-top: none; }
@@ -183,7 +198,9 @@
 <body>
 
 <div class="header-fixed">
-    <div class="nav-scroll" id="playlistNav"></div>
+    <div class="nav-scroll" id="playlistNav">
+        <div class="nav-item" onclick="window.location='index.html'"><img src="./images/home2.png" width="20px"></div>
+    </div>
 </div>
 
 <div class="main-content" id="songList"></div>
