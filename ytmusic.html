@@ -240,10 +240,11 @@
 <script>
     let playlists = [];
     let currentPlaylistIndex = 0;
-    let currentSongIndex = -1;
+    let currentSongIndex = 0;
     let isShuffle = false;
     let isRepeat = false;
     let player;
+    let isPlaylistChanged = false;
 
     var tag = document.createElement('script');
     tag.src = "https://www.youtube.com/iframe_api";
@@ -281,7 +282,9 @@
     function loadPlaylist(idx) {
         if (currentPlaylistIndex !== idx){
             currentSongIndex = 0;
-        }
+            isPlaylistChanged = true;
+        } else { isPlaylistChanged = false;}
+
         currentPlaylistIndex = idx;
         const name = Object.keys(playlists[idx])[0];
         const songs = playlists[idx][name];
@@ -295,7 +298,8 @@
                 <div class="track-info-list"><b>${s.title}</b><span>${s.artist}</span></div>`;
             container.appendChild(item);
         });
-        if (currentSongIndex === 0){
+
+        if (isPlaylistChanged){
             container.scrollTo({
                 top: 0,
                 behavior: 'smooth' // 平滑滾動效果
