@@ -65,6 +65,19 @@
         "country": "菲律賓"
     },
     {
+        "id": 42404,
+        "title": "日租家庭",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260113/9424_f3304160/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/dGRZ55srJoK6TcjPTfHe701UWq0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5zMuq6n6L8u9Ks29JAurPICXKqu.jpg",
+        "overview": "美國演員菲利浦中年偏魯，闖蕩日本七年毫無進度，隻身在大城市庸庸碌碌，夜晚看著萬家燈火倍感孤獨。本以為這次工作又是臨演套路，沒想到竟亂入活人葬禮還得跟著假哭，結束後收到名片寫著「家人可日租」，才發現原來世上還有這種服務。困惑的他展開全新事業藍圖，假扮新郎成全新娘幸福、化身記者採訪癡呆老戲骨、偽裝父親讓女孩能進入好學校就讀。來往相處中菲利浦漸漸太過投入，當每一段關係終將迎來結束，這虛構的真情實感是否就此錯付？",
+        "genre": "劇情片",
+        "release_date": "2025-11-20",
+        "rating": 7.44,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 27303,
         "title": "艾琳：連環殺手之後",
         "m3u8_url": "https://vip.ffzy-plays.com/20251031/47032_57cd21e7/index.m3u8",
@@ -8203,6 +8216,19 @@
         "country": "台灣"
     },
     {
+        "id": 42550,
+        "title": "全信沒收",
+        "m3u8_url": "https://vip.dytt-cine.com/20260117/67355_bd471903/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/y7tpK50AnQGF2DZKRmNWxpwuMey.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+        "overview": "一群邁阿密警察在一間廢棄的藏身屋發現數百萬現鈔，彼此之間的信任隨之瓦解，一切開始變得可疑，而誰又真的可靠，全都成了問題。",
+        "genre": "動作片",
+        "release_date": "2026-01-13",
+        "rating": 7.14,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 42190,
         "title": "山怪巨魔 2",
         "m3u8_url": "https://vip.dytt-cinema.com/20251201/42065_c7f803c3/index.m3u8",
@@ -8954,19 +8980,6 @@
         "release_date": "2024-04-24",
         "rating": 7.1,
         "quality": "BD",
-        "country": "韓國"
-    },
-    {
-        "id": 27580,
-        "title": "犯罪都市４",
-        "m3u8_url": "https://super.ffzy-online6.com/20240702/33974_183d0e8f/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/mIFpxKDE5GgDX3e3EEG4j6MKSee.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mO9oOVXM8tTlC11VFM4FBBNnL3f.jpg",
-        "overview": "在解決新興毒品案件後的3年後，「怪物刑警」馬錫道（馬東石 飾）與首爾廣搜隊在搜查利用外送APP販毒的案件時，發現遭通緝的APP開發者在菲律賓死亡的案件與大規模的網路非法賭博組織有關。特種部隊傭兵出身的白昌其（金武烈 飾），在菲律賓設置據點，以綁架、監禁、暴力、殺人等手段，掌控韓國網路非法賭博市場；IT業界出身的天才CEO．張東哲（李東輝 飾）則在韓國籌備規模更大的計畫。馬錫道為了將壞傢伙們一網打盡，決定與張夷帥（朴智煥 飾）、廣搜隊及網路搜查隊合作，展開更勝以往的掃蕩行動！​",
-        "genre": "動作片",
-        "release_date": "2024-04-24",
-        "rating": 7.1,
-        "quality": "HD",
         "country": "韓國"
     },
     {
@@ -12645,6 +12658,19 @@
         "genre": "動作片",
         "release_date": "1997-05-02",
         "rating": 6.582,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 261,
+        "title": "不可能的任務",
+        "m3u8_url": "https://vip.dytt-film.com/20250311/12158_f23775b5/3000k/hls/mixed.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vP0o8Jve4CZus3nmKfx78GK8naC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg",
+        "overview": "改編自70年代知名影集《虎膽妙算》的《不可能的任務》，描寫一位受誣諂的情報員韓特，由於與他同組的人員在布拉格執行任務時全遭殲滅，因此唯一的活口韓特被視為是中情局潛伏已久的叛徒，孤身一人的他雖被政府追殺卻不顧重重危機，力闖中情局總部，決心找出真正的主謀者，然而最後的真相卻出乎大家的意料。  《虎膽妙算》雖然是一部舊影集，但是卻一點也不輸給007系列的影片，可說是集集精彩刺激。湯姆克魯斯一直是相當聰明的演員，不但懂得選擇能夠展現自己魅力的影片，卻沒有流於為為花瓶的困擾，可說是名利雙收的優秀男演員。",
+        "genre": "動作片",
+        "release_date": "1996-05-22",
+        "rating": 7.012,
         "quality": "BD",
         "country": "美國"
     },
@@ -17849,19 +17875,6 @@
         "country": "台灣"
     },
     {
-        "id": 261,
-        "title": "不可能的任務",
-        "m3u8_url": "https://vip.dytt-kan.com/20251014/8139_e025b627/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/vP0o8Jve4CZus3nmKfx78GK8naC.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg",
-        "overview": "改編自70年代知名影集《虎膽妙算》的《不可能的任務》，描寫一位受誣諂的情報員韓特，由於與他同組的人員在布拉格執行任務時全遭殲滅，因此唯一的活口韓特被視為是中情局潛伏已久的叛徒，孤身一人的他雖被政府追殺卻不顧重重危機，力闖中情局總部，決心找出真正的主謀者，然而最後的真相卻出乎大家的意料。  《虎膽妙算》雖然是一部舊影集，但是卻一點也不輸給007系列的影片，可說是集集精彩刺激。湯姆克魯斯一直是相當聰明的演員，不但懂得選擇能夠展現自己魅力的影片，卻沒有流於為為花瓶的困擾，可說是名利雙收的優秀男演員。",
-        "genre": "喜劇片",
-        "release_date": "1996-05-22",
-        "rating": 7.012,
-        "quality": "BD",
-        "country": "韓國"
-    },
-    {
         "id": 8516,
         "title": "警察故事4 簡單任務",
         "m3u8_url": "https://vip.dytt-live.com/20250329/2574_8f125da0/index.m3u8",
@@ -18328,6 +18341,19 @@
         "rating": 8.435,
         "quality": "BD",
         "country": "大陸"
+    },
+    {
+        "id": 42558,
+        "title": "28年毀滅倒數：人骨聖殿",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260118/9978_feaa5178/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/rLsxpg09Y7E1G0h3vX4frr0yh1D.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
+        "overview": "",
+        "genre": "恐怖片",
+        "release_date": "2026-01-14",
+        "rating": 7.1,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 42393,
@@ -20837,6 +20863,19 @@
         "rating": 4.5,
         "quality": "BD",
         "country": "南非"
+    },
+    {
+        "id": 42595,
+        "title": "絕地盟約：我們在山上變成誰了？",
+        "m3u8_url": "https://cdn.yzzy33-play.com/20260115/4563_d74a2145/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/lpnRQzopVI4rPRE0aiXG3lOwjqq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/fh022Zgyoq1UzxshTObNLjQ2JoC.jpg",
+        "overview": "本片請到演員、劇組、導演 J·A·巴亞納和空難生還者現身說法，帶你深入瞭解《絕地盟約》的創作過程。",
+        "genre": "愛情片",
+        "release_date": "2024-01-23",
+        "rating": 7.373,
+        "quality": "HD",
+        "country": "未知"
     },
     {
         "id": 24622,
