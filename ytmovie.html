@@ -173,7 +173,8 @@
             try {
                 const response = await fetch('js/movies_data.json');
                 const data = await response.json();
-                movies = data.sort((a, b) => b.rating - a.rating || new Date(b.release_date) - new Date(a.release_date));
+                // movies = data.sort((a, b) => b.rating - a.rating || new Date(b.release_date) - new Date(a.release_date));
+                movies = data.sort((a, b) => new Date(b.release_date) - new Date(a.release_date));
                 initUI();
             } catch (err) { console.error("JSON Error", err); }
         }
@@ -184,7 +185,9 @@
             genres.forEach((g, i) => {
                 const row = document.createElement('div');
                 row.className = `genre-row`;
-                if(!isMobile() && i !== 0) row.style.display = 'none';
+                // if(!isMobile() && i !== 0) row.style.display = 'none';
+                row.style.display = 'none';
+                if (!isMobile() && g === '精選') {row.style.display = 'block';curG = i; curM = 0;}
                 const filtered = movies.filter(m => m.genre === g);
                 row.innerHTML = `<div class="genre-title">${g}</div><div class="movie-slider">${filtered.map((m, mi) => `<div class="card" id="card-${i}-${mi}" style="background-image: url('${m.thumbnail}')" onclick="selectMovie(${i}, ${mi})"></div>`).join('')}</div>`;
                 container.appendChild(row);
