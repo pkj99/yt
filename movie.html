@@ -319,6 +319,8 @@
                 curG = 0; curM = 0;
                 changeG(1);
             }
+
+            if (isMobile()) {curG = 2; curM = 0;changeG(0)}
         }
 
         function renderRows() {
@@ -341,8 +343,7 @@
                                  id="card-${i}-${mi}" 
                                  data-rating="★ ${m.rating.toFixed(1)}"
                                  style="background-image:url('${m.thumbnail}')" 
-                                 onclick="selectMovie(${i}, ${mi})"
-                                 onmouseover="selectMovie(${i}, ${mi})">
+                                 onclick="selectMovie(${i}, ${mi})">
                             </div>
                         `).join('')}
                     </div>
@@ -395,6 +396,7 @@
             if(e.key === "ArrowDown") changeG(1);
             if(e.key === "ArrowLeft") changeM(-1);
             if(e.key === "ArrowRight") changeM(1);
+            if(e.key === "Enter") handlePlayAction();
         });
 
         window.addEventListener('wheel', e => {
