@@ -1,5 +1,18 @@
 [
     {
+        "id": 4571,
+        "title": "不可能的任務：最終清算",
+        "m3u8_url": "https://vip.dytt-cinema.com/20250818/30750_437aa62e/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/uXuUzW7RlB4V3YLTh3VZigsdN7M.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
+        "overview": "這次，伊森不只要面對過去的種種，還將迎來前所未有的考驗，這是一場關乎信念與命運的抉擇。",
+        "genre": "冒險片",
+        "release_date": "2025-05-17",
+        "rating": 7.281,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 7915,
         "title": "狼人夜逃殺",
         "m3u8_url": "https://vip.dytt-live.com/20250407/3534_aa97d584/index.m3u8",
@@ -130,6 +143,19 @@
         "country": "美國"
     },
     {
+        "id": 20815,
+        "title": "007：生死交戰",
+        "m3u8_url": "https://vip.dytt-film.com/20250119/648_443cb001/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vtYpPD83bPJUgHvnRxrNnThqMVt.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
+        "overview": "從前線退休的007詹姆斯龐德，在牙買加享受著平靜的餘光，但當他的CIA中央情報局舊友菲利克斯萊特前來向他尋求幫助，這短暫的平靜也隨之結束。M派給龐德的任務本是去營救一個被綁架的科學家，但他不只發現他的007位置被一位女性探員取代，更發現他將要面對一個新型態科技犯罪組織，自己還會身陷危險之中……",
+        "genre": "冒險片",
+        "release_date": "2021-09-29",
+        "rating": 7.354,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
         "id": 1984,
         "title": "貝爾對戰荒野：停電危機",
         "m3u8_url": "https://vip.dytt-kan.com/20250804/3171_976abf49/index.m3u8",
@@ -221,19 +247,6 @@
         "country": "美國"
     },
     {
-        "id": 3911,
-        "title": "復仇者聯盟：終局之戰",
-        "m3u8_url": "https://vip.dytt-kan.com/20250615/740_edfbe1af/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/fXgoEedB0k5TgaYrBqbY3eZ3DAI.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-        "overview": "接續《復仇者聯盟：無限之戰》為復仇者聯盟系列最終章！薩諾斯彈指間毀滅宇宙一半的生物後，僅存的復仇者們要如何重整旗鼓，背水一戰，為僅存的信念而戰。",
-        "genre": "冒險片",
-        "release_date": "2019-04-24",
-        "rating": 8.237,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 28756,
         "title": "森林之子毛克利",
         "m3u8_url": "https://vip.ffzy-online1.com/20230825/42998_852efe5d/index.m3u8",
@@ -247,15 +260,28 @@
         "country": "美國"
     },
     {
-        "id": 3912,
-        "title": "復仇者聯盟：無限之戰",
-        "m3u8_url": "https://vip.dytt-kan.com/20250615/739_df263d99/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/oK7IP8Yx4pTgZSFE8RD74pwlJtW.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
-        "overview": "漫威電影宇宙10年集大成巔峰之作！史上最強超級英雄全面集結，我們打不了的戰爭，他們為我們挺身而出。地球的存亡，宇宙的平衡，在薩諾斯毀天滅地以前，尚有復仇者聯盟。《復仇者聯盟》系列的第三部，也是漫威宇宙最後階段最終章。將帶來前所未見，最極致、最致命的存亡對決。復仇者聯盟和他們的超級英雄盟友們必須要不顧一切攜手合作才有可能組止最強的終極反派薩諾斯將整個宇宙毀滅。",
+        "id": 19884,
+        "title": "不可能的任務：全面瓦解",
+        "m3u8_url": "https://vip.dytt-film.com/20250123/1803_3fab5890/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7zKZqnY76kdMpdl7wIeoLuNB0ma.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg",
+        "overview": "劇情描述伊森韓特 在逮捕無政府恐怖組織「辛迪加」的領導人連恩後，接下新任務是阻止餘黨、以約翰拉克為首的12個「使徒」的瘋狂計畫，伊森韓特得早一步比「使徒」先拿到鈽元素，避免讓「使徒」在72小時內製造出核彈攻擊主要城市。然而，伊森韓特這項搶走鈽元素的任務執行失敗，他必須接受中情局的監督，讓中情局特務沃克 進入IMF團隊，並且藉助盟友伊爾莎 的消息，合力再找回鈽元素。",
         "genre": "冒險片",
-        "release_date": "2018-04-25",
-        "rating": 8.235,
+        "release_date": "2018-07-25",
+        "rating": 7.443,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 16923,
+        "title": "古墓奇兵",
+        "m3u8_url": "https://vip.dytt-film.com/20250207/5423_7cc5ca26/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/roEGqXZ7I8qAT1XtgxtoEuuksgm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
+        "overview": "《古墓奇兵》重啟之作。無所畏懼的蘿拉為了解開探險家父親的失蹤謎團，展開一場駭人的旅程，要找出父親一直在尋找的神祕之墓。",
+        "genre": "冒險片",
+        "release_date": "2018-03-05",
+        "rating": 6.366,
         "quality": "BD",
         "country": "美國"
     },
@@ -351,19 +377,6 @@
         "country": "美國"
     },
     {
-        "id": 8467,
-        "title": "分歧者3：赤誠者",
-        "m3u8_url": "https://vip.dytt-live.com/20250330/2654_7180cffd/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/pJSPv4kbk3jOORQrDbZyPmbiWS4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
-        "overview": "《分歧者3：赤誠者》是票房強片《分歧者》系列的第三集。這次，翠絲（雪琳伍德利 飾）和四號（席歐詹姆斯 飾）會進入全新的世界，並面對前所未有的危險。在《分歧者2：叛亂者》中揭露驚天動地的祕密之後，這次在《分歧者3：赤誠者》中，翠絲（雪琳伍德利 飾）必須跟四號（席歐詹姆斯 飾）越過包圍芝加哥的高牆逃離。他們第一次要離開迄今所知的唯一城市和家人，一旦來到外面，過去的發現很快被新揭露的驚人真相推翻。當一場無情的戰火在芝加哥的高牆之外點燃，威脅到全人類，翠絲和四號必須儘快決定他們能信任誰。為了生存，翠絲會被迫做出攸關勇氣、忠誠、犧牲和愛的不可能決定。",
-        "genre": "冒險片",
-        "release_date": "2016-03-09",
-        "rating": 6.1,
-        "quality": "BD",
-        "country": "加拿大"
-    },
-    {
         "id": 4730,
         "title": "星際大戰七部曲：原力覺醒",
         "m3u8_url": "https://vip.dytt-cine.com/20250531/27455_5de40236/index.m3u8",
@@ -373,6 +386,32 @@
         "genre": "冒險片",
         "release_date": "2015-12-15",
         "rating": 7.254,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4065,
+        "title": "007：惡魔四伏",
+        "m3u8_url": "https://vip.dytt-kan.com/20250610/577_fde9264c/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/8KcTySYevFZNinrFadCZoKpF9jN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
+        "overview": "一則由前任M遺留下的神祕訊息，促使龐德開始追查一個名叫「魔鬼黨」的國際犯罪組織，在新任M努力保全MI6時，龐德已抽絲剝繭，發現惡魔黨隱藏在層層謊言下的恐怖真相。",
+        "genre": "冒險片",
+        "release_date": "2015-10-26",
+        "rating": 6.564,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
+        "id": 5011,
+        "title": "不可能的任務：失控國度",
+        "m3u8_url": "https://vip.dytt-cine.com/20250526/25863_18daa83a/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ULiEqvtKBWQii0t8islDCPlJoV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg",
+        "overview": "敘述從事深入臥底任務的IMF已為千夫所指，即使對自由世界最可怕的威脅正在醞釀，他們正面臨全面解散的危機。造成威脅的 「辛迪加」，是一個無法突破、由一群受過精良訓練的叛逃間諜組成的組織，他們為了自己的理想離鄉背井——企圖瓦解文明世界的基礎。在諜報世界裡，辛迪加長期以來只被視為空穴來風，但伊森韓特揭露眾人不願面對的現實，他發現這個秘密組織真的存在，如果再不行動，將會在全球引爆一連串災難。中情局不肯相信，伊森韓特自己的團隊命運岌岌可危，但在盡所有努力之前，他絕不會放棄。  伊森韓特面對他的終極對手，他所有無可取代的特質立刻面臨考驗：在危急時刻從容不迫的脫身能力、穿梭遊走全球各地的技巧、與邪不勝正的渴望。從維也納到卡薩布蘭加，從軍機上的一髮千鈞到深水危機，伊森韓特將用盡手段，抵抗他出生入死的間諜生涯中最嚴峻的危險。但最重要的是，他將企圖達成最具意義的任務：堅持對朋友的忠心，並維繫創造不可能的理想。",
+        "genre": "冒險片",
+        "release_date": "2015-07-28",
+        "rating": 7.217,
         "quality": "BD",
         "country": "美國"
     },
@@ -390,6 +429,19 @@
         "country": "美國"
     },
     {
+        "id": 14881,
+        "title": "哈比人：五軍之戰",
+        "m3u8_url": "https://vip.dytt-film.com/20250220/8081_4afe0449/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9q0ch2Rj3smwnMbjfb0u6eBC6pQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+        "overview": "他們雖然收復了被惡龍史矛革長期佔領的祖國，卻也在不經意的情況下，將惡龍釋放出來，在狂暴的盛怒下，史矛革襲擊了完全沒有防備的長湖鎮居民。在此同時，強大的敵人索倫已經派出半獸人大軍，準備偷襲孤山。只是一心一意只想維持家園的索林王子，完全聽不進別人的意見，導致所有人都將面臨更大的危機。",
+        "genre": "冒險片",
+        "release_date": "2014-12-10",
+        "rating": 7.327,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 15628,
         "title": "星際效應",
         "m3u8_url": "https://vip.dytt-film.com/20250216/7088_504b7f66/index.m3u8",
@@ -399,6 +451,19 @@
         "genre": "冒險片",
         "release_date": "2014-11-05",
         "rating": 8.462,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 14882,
+        "title": "哈比人：荒谷惡龍",
+        "m3u8_url": "https://vip.dytt-film.com/20250220/8079_3aaa3db6/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qI3lidFtVz4eZ02qGJ8hXfDdTtv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
+        "overview": "在意外旅程開始時僥倖逃過一劫的遠征隊員們，繼續一路向東，沿途遭遇換皮人比翁，還有恐怖幽暗密林大群射紗怪巨大蜘蛛。在逃離危險木精靈的追捕後，矮人遠征隊行經長湖鎮，終於來到目的地：孤山。他們必須面對更大的危機，來自世上最恐怖生物的威脅惡龍「史矛革」。",
+        "genre": "冒險片",
+        "release_date": "2013-12-11",
+        "rating": 7.6,
         "quality": "BD",
         "country": "美國"
     },
@@ -442,6 +507,32 @@
         "country": "美國"
     },
     {
+        "id": 4871,
+        "title": "007：空降危機",
+        "m3u8_url": "https://vip.dytt-cine.com/20250529/27242_e0b8da96/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7MnO5mopdrJAf9hp5D7p9jK64ls.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qB2eFmGEh5YCzhXUpz7As2PaDCh.jpg",
+        "overview": "英國特務龐德在伊斯坦堡的任務失敗，導致北約臥底探員名單資料外洩，身為龐德上司的M夫人因此受到情報安全委員會新主席的強烈質疑，成為政府調查的對象。此時MI6總部遭受攻擊，被眾人以為殉職的龐德祕密現身，他循線前往上海，追查一名極度危險的罪犯。在神祕女子與女探員的協助下，為了M夫人與總部，龐德是否能再次成功化解危機？",
+        "genre": "冒險片",
+        "release_date": "2012-10-24",
+        "rating": 7.256,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
+        "id": 18913,
+        "title": "不可能的任務：鬼影行動",
+        "m3u8_url": "https://vip.dytt-film.com/20250127/2975_2ef3e50f/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1IIYrHFGK3NWBCgY8I3BdHFrhX6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ih4lZkUpmSE7AP3maymiO72xJ1z.jpg",
+        "overview": "探員伊森韓特在莫斯科克林姆林宮出任務時遭陷害，引發克林姆林宮爆炸，美國總統因而啟動了鬼影行動，解散情報局，韓特在失去任何資源以及支援的險惡情況下，他必須自行找尋出路，洗清情報局的罪名，更要和其他組員合力阻止敵人引爆核彈，毀滅世界。",
+        "genre": "冒險片",
+        "release_date": "2011-12-07",
+        "rating": 7.106,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 18792,
         "title": "暮光之城：破曉Ⅰ",
         "m3u8_url": "https://vip.dytt-film.com/20250128/3125_019f8b94/index.m3u8",
@@ -479,19 +570,6 @@
         "rating": 6.562,
         "quality": "BD",
         "country": "英國"
-    },
-    {
-        "id": 4422,
-        "title": "雷神索爾",
-        "m3u8_url": "https://vip.dytt-live.com/20250604/8677_79286674/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/9oEYTuAszZ3bAm6HsC9Ce9bfvRE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
-        "overview": "故事主角雖為神話人物，但內容仍探討著自古以來不斷產生的人性衝突。一個等不及要向父王證明自己能夠繼承王位的魯莽哥哥，以及一個善妒且密謀爭奪王位的弟弟，述說一段王室之間的鬥爭存亡和致命的復仇交織而成的故事。擁有強大力量的雷神索爾，是天上的阿斯嘉王國王子，他繼承王位之日遭約頓海姆世界的寒冰巨人破壞，他憤而率眾到約頓海姆嗆聲，險些破壞雙方和平。他父王氣他魯莽貶他下凡。他被迫和人類一同生活並且學習如成為一個真正的英雄，如此一來才能對抗來自神界的強大黑暗勢力。",
-        "genre": "冒險片",
-        "release_date": "2011-04-21",
-        "rating": 6.768,
-        "quality": "BD",
-        "country": "美國"
     },
     {
         "id": 8961,
@@ -585,6 +663,19 @@
         "country": "美國"
     },
     {
+        "id": 38790,
+        "title": "赤壁：決戰天下",
+        "m3u8_url": "https://vip.ffzy-play7.com/20221231/10513_d4f9f843/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/yymD0UDuAQbQXXUZdbCGDJpMgLj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/taC4SMRB4UUbXL9R4680aJ4ejQK.jpg",
+        "overview": "故事內容緊接著上集《赤壁》的劇情，敘述孫劉聯軍因為「三江口之戰」這場決定性的勝利而士氣大振，在地勢險峻的長江南岸區域紮營。隔著河水的長江北岸，曹操則在烏林軍營的中央搭建氣勢宏偉的要塞。孫劉聯軍運用一場場的戰略攻勢讓曹操與他的大軍幾乎無招架之力，但是曹操強大的北方騎兵部隊又扭轉戰局，還讓原來進逼的敵人只能退守到河岸，隨時有被殲滅的危險。出乎意料的是，劉備率領他的軍隊突然現身相助，迫使曹軍再度轉攻為守。孫劉聯軍開始攻打曹操的要塞，周瑜則靠著趙雲與孫權的幫助，最後終於衝進被火焰吞食的要塞裡，救出愛妻小喬。這場赤壁大戰最後終於由孫劉兩軍聯手打了一場漂亮的勝仗。",
+        "genre": "冒險片",
+        "release_date": "2009-01-07",
+        "rating": 7.305,
+        "quality": "HD",
+        "country": "中國"
+    },
+    {
         "id": 9555,
         "title": "007：量子危機",
         "m3u8_url": "https://vip.dytt-live.com/20250324/1106_c9f95a0a/index.m3u8",
@@ -676,19 +767,6 @@
         "country": "英國"
     },
     {
-        "id": 16447,
-        "title": "變形金剛",
-        "m3u8_url": "https://vip.dytt-film.com/20250211/6088_c4bca428/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/iFLXpnELp6LEO9g4lYvxlvA1gOZ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
-        "overview": "一個名叫山姆的青年，因機緣巧合而捲入了博派和狂派之間的戰爭，後兩者是兩派來自同一個外星球但相互對立的機械生命體，可以變形成人類生活中常見的機械。狂派一欲奪得火種，這種東西擁有賦予機器生命的力量，而且變形金剛也正是由火種所創，狂派希望可以將其用來在地球上建立一個機器軍團，而博派則要想方設法阻止對方。",
-        "genre": "冒險片",
-        "release_date": "2007-06-27",
-        "rating": 6.819,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 5331,
         "title": "神鬼奇航3：世界的盡頭",
         "m3u8_url": "https://vip.dytt-cine.com/20250521/25497_bfaadb09/index.m3u8",
@@ -698,6 +776,19 @@
         "genre": "冒險片",
         "release_date": "2007-05-19",
         "rating": 7.263,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 9474,
+        "title": "博物館驚魂夜",
+        "m3u8_url": "https://vip.dytt-live.com/20250325/1217_6a61d423/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/71McyrcBZkxEOGtARpHAgtFvrIr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
+        "overview": "自然歷史博物館的新夜班警衛發現遊客們回家後，真正的冒險才開始，博物館的展示品都活了過來！",
+        "genre": "冒險片",
+        "release_date": "2006-12-20",
+        "rating": 6.593,
         "quality": "BD",
         "country": "美國"
     },
@@ -858,19 +949,6 @@
         "country": "美國"
     },
     {
-        "id": 1705,
-        "title": "駭客任務完結篇：最後戰役",
-        "m3u8_url": "https://vip.dytt-luck.com/20250814/16361_dc2f35f7/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/x9nulMUM5YruTbWyPTIsP2Qyfo5.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kJYPag1YrA4PsXIftFdq3QEaanV.jpg",
-        "overview": "面對機器軍團大舉入侵，人類真實世界的最後根據地錫安危在旦夕，唯一希望是救世主尼歐必須擊敗已經佔據整個母體的史密斯探員，以性命換取人類一線生機。尼歐的命運與兩個世界的未來，都繫於他與史密斯探員在滂沱大雨中的最後決戰。",
-        "genre": "冒險片",
-        "release_date": "2003-11-05",
-        "rating": 6.746,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 18631,
         "title": "古墓奇兵：風起雲湧",
         "m3u8_url": "https://vip.dytt-film.com/20250128/3321_3cfbdf46/index.m3u8",
@@ -893,19 +971,6 @@
         "genre": "冒險片",
         "release_date": "2003-07-09",
         "rating": 7.815,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
-        "id": 1706,
-        "title": "駭客任務：重裝上陣",
-        "m3u8_url": "https://vip.dytt-luck.com/20250814/16360_053b47ac/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/A6UiBTOfJ0tOMIWN7qX124rqPZH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hgWDZ0UlGEf8LvrAkKt6VqAH0bu.jpg",
-        "overview": "為了阻止機器大軍摧毀人類真實世界最後根據地「錫安」，尼歐必須設法找到傳說中的「萬物之源」，但比過去更強大也更危險的死敵史密斯探員卻緊追在後……",
-        "genre": "冒險片",
-        "release_date": "2003-05-15",
-        "rating": 7.065,
         "quality": "BD",
         "country": "美國"
     },
@@ -1352,6 +1417,19 @@
         "country": "美國"
     },
     {
+        "id": 4100,
+        "title": "007：黎明生機",
+        "m3u8_url": "https://vip.dytt-kan.com/20250610/543_81448138/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4gXOyYrj2h2ExbCzIvSxhmHnNmv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg",
+        "overview": "007系列電影，這回飾演龐德的是Timothy Dalton。故事敘述KGB當局在格別島上製造核子，英國派007執行代號為間諜之死的任務，但KGB可不是省油的燈！知道007要來就故意釋放假情報，企圖利用007借刀殺人，幸好在最後關頭被007識破，經過幾番鬥智之後，終於成功殲滅KGB的陰謀。",
+        "genre": "冒險片",
+        "release_date": "1987-06-29",
+        "rating": 6.535,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
         "id": 21003,
         "title": "龍兄虎弟",
         "m3u8_url": "https://vip.dytt-film.com/20250118/383_beed1360/index.m3u8",
@@ -1469,6 +1547,19 @@
         "country": "美國"
     },
     {
+        "id": 4877,
+        "title": "007：太空城",
+        "m3u8_url": "https://vip.dytt-cine.com/20250529/27255_0d193dd7/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4P0TH01tbrHthj2DITasDzEy3qs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mrDC5DLx2wljt4HZGwgkmqlzfcF.jpg",
+        "overview": "007系列電影，這回的龐德女郎可不讓007專美於前，她可是太空學家的狠角色呢！美國運送英國太空船中途傳出失事，引起兩國高度緊張，英方懷疑太空船被不法組織劫持，因此派007前往勘查。  經過007一番明查暗訪之後，發現挾持太空船的不法組織在製造一種神經麻痺的毒氣，還打算利用太空船發射毒氣炸彈毀滅地球上的50個大城市...。",
+        "genre": "冒險片",
+        "release_date": "1979-06-26",
+        "rating": 6.18,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
         "id": 4702,
         "title": "星際大戰四部曲：曙光乍現",
         "m3u8_url": "https://vip.dytt-cine.com/20250531/27491_d0683d84/index.m3u8",
@@ -1491,6 +1582,19 @@
         "genre": "冒險片",
         "release_date": "1964-09-20",
         "rating": 7.4,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
+        "id": 3884,
+        "title": "007：第七號情報員續集",
+        "m3u8_url": "https://vip.dytt-kan.com/20250615/768_3a835d32/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vh7KtT8HHS3XM4FW0GkUGf0T7GK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8JMiQa0OqsCYvbNUrQIrMzwV7g2.jpg",
+        "overview": "《第七號情報員續集》（英語：From Russia with Love）是一部於1963年上映的英國諜報驚悚電影，由泰倫斯·楊執導，哈利·薩爾茨曼與艾伯特·布洛克里擔任製片人，並由理查·麥鮑姆編劇。該片的劇情根據伊恩·佛萊明所著的1957年小說《來自俄羅斯的愛情》改編，同時也是詹姆士·龐德系列電影中的第2部作品。史恩·康納萊二度飾演MI6的情報員詹姆士·龐德（007）。  片中，龐德奉命去土耳其接走變節的蘇聯情報局成員泰坦娜·羅曼諾娃，而打算為成員諾博士報仇的惡魔黨則處心積慮的要置龐德於死地。隨著《第七號情報員》（1962年）的票房長紅，聯藝電影決定拍攝續集，且續集的預算翻倍。劇組除了在土耳其取景外，也有至松林製片廠、白金漢郡及蘇格蘭拍片。製片過程超時且超支。  《第七號情報員續集》在評價及票房方面皆有極佳的表現。該片在全球收穫7,900萬美元的票房，遠超其200萬美元的製片預算，並壓過了前作《第七號情報員》。續集《007：金手指》於1964年9月17日在英國上映。",
+        "genre": "冒險片",
+        "release_date": "1963-10-10",
+        "rating": 7.07,
         "quality": "BD",
         "country": "英國"
     },
@@ -5278,19 +5382,6 @@
         "country": "日本"
     },
     {
-        "id": 36711,
-        "title": "猩球崛起：終極決戰",
-        "m3u8_url": "https://vip.dytt-kan.com/20251203/10977_7ca5eb06/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/8plpyZaNWKxFy2OlUsyvY7syPyZ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
-        "overview": "全球超賣座重量級鉅作系列【猩球崛起】第三部曲【猩球崛起:終極決戰】隨著上一篇章的故事延續，在人類與猩猩間的緊繃局勢之下，兩派主宰世界的族群對峙情況逐漸加劇。凱撒所領導的猩猩族群，面對著一位冷血殘暴並率領著人類武裝軍團的軍官強烈逼迫，為了生存，牠們不得不展開致命反擊，然而，長期激烈對抗的消磨不僅讓猿類一族元氣大傷，連帶導致族類情勢急轉直下，也迫使凱撒與自己內心的黑暗本能不斷角力，並且引發牠密謀報復的想法。旅程最終兩方人馬再度對峙，凱撒及軍官都發動所有軍力全面迎戰，而這場史詩般的終極決戰將牽絆著兩方物種及這座星球的未來命運。",
-        "genre": "劇情片",
-        "release_date": "2017-07-11",
-        "rating": 7.21,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 19448,
         "title": "明月幾時有",
         "m3u8_url": "https://vip.dytt-film.com/20250125/2346_777669af/index.m3u8",
@@ -5746,6 +5837,19 @@
         "country": "台灣"
     },
     {
+        "id": 19238,
+        "title": "竊聽風雲3：土豪爭霸",
+        "m3u8_url": "https://vip.dytt-film.com/20250126/2591_978fce5b/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ww0637THZEN5UptjkvjJsXBFCwc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/u053lcYSVvHVDjVgzl1g4tiJY3b.jpg",
+        "overview": "在寸金尺土的香港，新界每個男性原居民都可以無條件向政府申請建一棟三層獨立屋。這計劃長期引起社會爭議，因此特區政府決定終止丁屋計劃，將剩餘的丁權進行統一，興建多層式的「丁屋大廈」...",
+        "genre": "劇情片",
+        "release_date": "2014-05-30",
+        "rating": 5.8,
+        "quality": "BD",
+        "country": "香港"
+    },
+    {
         "id": 17731,
         "title": "香港仔",
         "m3u8_url": "https://vip.dytt-film.com/20250203/4469_e0f120ee/index.m3u8",
@@ -6097,6 +6201,19 @@
         "country": "台灣"
     },
     {
+        "id": 15578,
+        "title": "竊聽風雲 2",
+        "m3u8_url": "https://vip.dytt-film.com/20250216/7159_42e9fb75/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/13kTrpcmVhaT9KLcWo85PPvXnFR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cBlQCu4QQPa7Lz8IXEhMNB10jEg.jpg",
+        "overview": "知名證券商羅敏生（劉青雲 飾），一次為了逃避跟蹤，引起車禍受傷。偵察此案的何智強（古天樂 飾）進行調查，發現羅敏生的車子裏被裝上竊聽器，幾經追查，何智強找出了身份神秘的竊聽者司馬念祖（吳彥祖 飾），繼而查出了在香港股市呼風喚雨的神秘組織「地主會」。隨著何智強一步一步地揭露真相，羅敏生、司馬念祖和「地主會」的角力不斷升級，駭人的事實一一披露，然而，何智強亦不自覺地牽涉進這場鬥爭之中，一場股壇風暴即將掀起……。",
+        "genre": "劇情片",
+        "release_date": "2011-08-18",
+        "rating": 6.5,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 27231,
         "title": "姊妹",
         "m3u8_url": "https://vip.dytt-kan.com/20250619/1022_93d65641/index.m3u8",
@@ -6253,19 +6370,6 @@
         "country": "美國"
     },
     {
-        "id": 16259,
-        "title": "葉問前傳",
-        "m3u8_url": "https://vip.dytt-film.com/20250211/6314_ec200199/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/nFf1ZRf3FnjjN8IjHHDMabWUkw0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4jCHr55RGHQlXzcDYwJ70b0mYj9.jpg",
-        "overview": "20世紀之初，國際局勢瞬息萬變，古老的中國更處在生死存亡的危急時刻。遠在廣東佛山，少年葉問和異姓兄弟天賜拜入詠春拳名師陳華順（洪金寶 飾）門下學習拳法。葉問天資聰穎，資質不凡，十年期間便在師兄弟之間躍然而出。成年後，葉問（杜宇航 飾）告別從小一起長大天賜（樊少皇 飾）和小師妹美慧（陳嘉桓 飾），隻身來至香港讀書。在此期間，他教訓了歧視中國人的洋鬼子，不僅名震香江，更藉此拜入詠春宗室梁贊之子——梁壁（葉准 飾）的門下。  　　回到佛山，葉問因梁壁詠春正統與否的問題與大師兄吳仲素（元彪 飾）一度發生分歧。不久，精武會館主席被人謀害。心懷鬼胎的日本人蠢蠢欲動，而昔日好友天賜似乎又完全變了模樣……",
-        "genre": "劇情片",
-        "release_date": "2010-06-24",
-        "rating": 6.836,
-        "quality": "BD",
-        "country": "香港"
-    },
-    {
         "id": 18605,
         "title": "隔離島",
         "m3u8_url": "https://vip.dytt-film.com/20250129/3353_8b9e7ab2/index.m3u8",
@@ -6355,19 +6459,6 @@
         "rating": 5.4,
         "quality": "BD",
         "country": "香港"
-    },
-    {
-        "id": 16260,
-        "title": "葉問",
-        "m3u8_url": "https://vip.dytt-film.com/20250211/6313_2118d8a1/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/apjHAN46RoRb25VvNZ4WEidoHlI.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/69QJSMkm5Hh0x9fLElZ8hjv5N4P.jpg",
-        "overview": "30年代的中國佛山，武風盛行，唯葉問行事低調，後來卻被迫出戰，以詠春拳大勝北方武師之首金山找，從此掀起一股詠春熱潮。  不久中日戰爭爆發，佛山亦淪陷在日軍手中，葉問則當起苦力，自力更生，直到同為武癡的日本將軍三蒲將摯友擊斃，他憤而反抗，擊退許多日本武術高手。  之後葉問有感每人各有使命，因此向好友工廠的職員教授詠春拳以自保，免於土匪的一再侵擾。但此時三蒲將軍又派人來捉拿葉問，希望他將自身武術傳授給日本軍隊，葉問不願成為漢奸，因此公開挑戰三蒲，不料三蒲親信為保將軍能夠致勝而暗設埋伏，二人就此展開生死之戰！",
-        "genre": "劇情片",
-        "release_date": "2008-12-12",
-        "rating": 7.759,
-        "quality": "BD",
-        "country": "中國"
     },
     {
         "id": 16448,
@@ -6875,6 +6966,19 @@
         "rating": 6.853,
         "quality": "BD",
         "country": "日本"
+    },
+    {
+        "id": 9249,
+        "title": "無間道III：終極無間",
+        "m3u8_url": "https://vip.dytt-live.com/20250325/1544_f337d999/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7jfnSTsriW9MW0OXK0lbA9qtcLI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vsTHSW1j3FDx3JTsiIfPcuu9C6h.jpg",
+        "overview": "劉建明走向地獄，陳永仁走向天堂！兩個員警都想重新做人，最後結局，將會為無間年代劃上句號！",
+        "genre": "劇情片",
+        "release_date": "2003-12-12",
+        "rating": 6.9,
+        "quality": "BD",
+        "country": "香港"
     },
     {
         "id": 32573,
@@ -7720,6 +7824,19 @@
         "rating": 7,
         "quality": "HD",
         "country": "台灣"
+    },
+    {
+        "id": 18049,
+        "title": "教父III",
+        "m3u8_url": "https://vip.dytt-film.com/20250201/4029_015e3193/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vM0cUQon6a73xs9N441mRnciSgl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
+        "overview": "本片為大導演法蘭西斯柯波拉的黑幫經典名片《教父》三部曲的最終回，接續之前的劇情，擔任柯里昂家族教父之職多年的麥可（影帝艾爾帕西諾）已日漸衰老，由於深刻瞭解到縱使宿敵多半已死的死、老的老，但自己終究無法永保家人平安，因而決定將家族企業漂白，杜絕所有非法生意；然而外在環境和年輕一代的野心，卻令麥可的決定一再受挫，其他黑幫家族覬覦柯里昂家族的地位和財勢。  而麥可血氣方剛的侄子文森（安迪嘉西亞，《小人物大英雄》）則一心想在黑手黨闖出一片江山，另一方面，麥可的獨生愛女（導演之女蘇菲亞柯波拉）卻愛上了瀟灑的文森，令老爸更增煩惱…  麥可能成功脫離黑幫和腥風血雨的過去嗎？柯里昂家族還會面臨什麼磨難和挑戰呢？",
+        "genre": "劇情片",
+        "release_date": "1990-12-25",
+        "rating": 7.419,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 39000,
@@ -8879,19 +8996,6 @@
         "country": "美國"
     },
     {
-        "id": 4571,
-        "title": "不可能的任務：最終清算",
-        "m3u8_url": "https://vip.dytt-cinema.com/20250818/30750_437aa62e/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/uXuUzW7RlB4V3YLTh3VZigsdN7M.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
-        "overview": "這次，伊森不只要面對過去的種種，還將迎來前所未有的考驗，這是一場關乎信念與命運的抉擇。",
-        "genre": "動作片",
-        "release_date": "2025-05-17",
-        "rating": 7.281,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 27036,
         "title": "Hunting Grounds",
         "m3u8_url": "https://vip.dytt-kan.com/20250808/3290_3a30be93/index.m3u8",
@@ -9620,19 +9724,6 @@
         "country": "美國"
     },
     {
-        "id": 5163,
-        "title": "私刑教育3",
-        "m3u8_url": "https://vip.dytt-cine.com/20250523/25677_8c2a6cec/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/9dyX0lTs5s378uDwVGhPgGJA9zz.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
-        "overview": "羅伯特麥考（丹佐華盛頓飾）自從放棄作為政府殺手的生活後，一直在努力釋懷過去所做的壞事，並在替壓迫者伸張正義中找到慰藉。他意外在義大利南部找到歸屬，但也發現新朋友們受到當地黑幫老大的控制。隨著事件變得危險，麥考知道自已必須採取行動：成為朋友們的保護者，並大膽挑戰黑手黨。",
-        "genre": "動作片",
-        "release_date": "2023-08-30",
-        "rating": 7.292,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 24377,
         "title": "急速殺陣",
         "m3u8_url": "https://svipsvip.ffzy-online5.com/20230927/17182_07310eca/index.m3u8",
@@ -9943,19 +10034,6 @@
         "rating": 6.783,
         "quality": "HD",
         "country": "印尼"
-    },
-    {
-        "id": 1949,
-        "title": "阿凡達：水之道",
-        "m3u8_url": "https://vip.dytt-luck.com/20250805/15241_a3149b45/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/n5uGQgDtXV0EHp1REIrh0d0OdvS.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
-        "overview": "設於首集超過十年後，成為納美人並與奈蒂莉共結連理的傑克，在潘朵拉星上與他們的孩子組成蘇里一家，過著與世無爭的幸福生活，未料威脅再度降臨，他們不遺餘力保護彼此，為了生存再度奮戰，還得承受隨之而來的悲痛創傷。",
-        "genre": "動作片",
-        "release_date": "2022-12-14",
-        "rating": 7.61,
-        "quality": "BD",
-        "country": "美國"
     },
     {
         "id": 23197,
@@ -10348,6 +10426,19 @@
         "country": "印度"
     },
     {
+        "id": 1704,
+        "title": "駭客任務：復活",
+        "m3u8_url": "https://vip.dytt-luck.com/20250814/16362_6f900a87/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/dGUoJTyE1hO0OB3SwKbTivDzvUe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+        "overview": "《駭客任務：復活》重回有兩個現實的世界，一個是日常生活，另一個則是存在於日常的背後。湯瑪斯安德森想要找出他的現實是真實的，還是想像出來的，同時真正了解自己，所以他必須再次選擇「跟著白兔走」。儘管一切都像是幻覺，但如果湯瑪斯（或是尼歐）曾經學到什麼，那就是唯有透過選擇才能進出母體，尋找背後的真相。雖然尼歐早就知道他會做出何種選擇，但他不知道的是，母體變得比以前更強大、更堅固、更危險……似曾相識。",
+        "genre": "動作片",
+        "release_date": "2021-12-16",
+        "rating": 6.36,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 4744,
         "title": "蜘蛛人：無家日",
         "m3u8_url": "https://vip.dytt-cine.com/20250530/27440_3af6ea30/index.m3u8",
@@ -10411,19 +10502,6 @@
         "rating": 6.753,
         "quality": "BD",
         "country": "美國"
-    },
-    {
-        "id": 20815,
-        "title": "007：生死交戰",
-        "m3u8_url": "https://vip.dytt-film.com/20250119/648_443cb001/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/vtYpPD83bPJUgHvnRxrNnThqMVt.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
-        "overview": "從前線退休的007詹姆斯龐德，在牙買加享受著平靜的餘光，但當他的CIA中央情報局舊友菲利克斯萊特前來向他尋求幫助，這短暫的平靜也隨之結束。M派給龐德的任務本是去營救一個被綁架的科學家，但他不只發現他的007位置被一位女性探員取代，更發現他將要面對一個新型態科技犯罪組織，自己還會身陷危險之中……",
-        "genre": "動作片",
-        "release_date": "2021-09-29",
-        "rating": 7.354,
-        "quality": "BD",
-        "country": "英國"
     },
     {
         "id": 23013,
@@ -10803,6 +10881,19 @@
         "country": "美國"
     },
     {
+        "id": 8393,
+        "title": "魔鬼終結者：黑暗宿命",
+        "m3u8_url": "https://vip.dytt-live.com/20250330/2789_b19aa25f/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/p190DtShYv9DAmf28PTA1iGs19b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
+        "overview": "莎拉康納保護了約翰康納並避免了審判日來臨，地球30億人因此獲救，卻守不住她最親愛兒子的性命，她決定誓死追殺T-800。在2020年，未來2045年傳送了女性強化人葛雷絲，前來保護未來的重要人物──丹妮。然而殘暴的「軍團」傳送更先進的終結者Rev-9追殺丹妮，於是三位女性攜手對抗Rev-9的追擊……",
+        "genre": "動作片",
+        "release_date": "2019-10-23",
+        "rating": 6.415,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 4196,
         "title": "藍波：最後一滴血",
         "m3u8_url": "https://vip.dytt-kan.com/20250607/448_9b70e8fe/index.m3u8",
@@ -10878,6 +10969,19 @@
         "release_date": "2019-06-14",
         "rating": 6.534,
         "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 23330,
+        "title": "MIB星際戰警：跨國行動",
+        "m3u8_url": "https://vip.ffzy-play7.com/20221229/10239_28cbc06b/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/41BTYug5HbMPaAXrCXzW4fWQsg4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/uK9uFbAwQ1s2JHKkJ5l0obPTcXI.jpg",
+        "overview": "曾由威爾史密斯擔綱演出的外星人動作片系列，這次交由克里斯漢斯沃（Chris Hemsworth）化身H探員出任務！卡司還有泰莎湯普森（Tessa Thompson）、連恩尼遜（Liam Neeson）、艾瑪湯普遜（Emma Thompson）。 MIB星際戰警永遠捍衛地球免於宇宙無賴的危害，在新展開的冒險篇章中，他們將要面對另一個巨大危機，MIB中有內鬼出現。 劇情描述，H探員 與M探員 在看似平常捍衛地球免於外星人威脅的任務中，竟意外發現有敵人的魔爪已滲入MIB總部，引起前所未見的巨大危機⋯這一次，為了維護MIB的使命，兩位探員將潛入世界各地，聯手突破重重挑戰才能解開真相、拯救一切回歸秩序！",
+        "genre": "動作片",
+        "release_date": "2019-06-12",
+        "rating": 5.9,
+        "quality": "HD",
         "country": "美國"
     },
     {
@@ -11141,19 +11245,6 @@
         "country": "美國"
     },
     {
-        "id": 19884,
-        "title": "不可能的任務：全面瓦解",
-        "m3u8_url": "https://vip.dytt-film.com/20250123/1803_3fab5890/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/7zKZqnY76kdMpdl7wIeoLuNB0ma.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg",
-        "overview": "劇情描述伊森韓特 在逮捕無政府恐怖組織「辛迪加」的領導人連恩後，接下新任務是阻止餘黨、以約翰拉克為首的12個「使徒」的瘋狂計畫，伊森韓特得早一步比「使徒」先拿到鈽元素，避免讓「使徒」在72小時內製造出核彈攻擊主要城市。然而，伊森韓特這項搶走鈽元素的任務執行失敗，他必須接受中情局的監督，讓中情局特務沃克 進入IMF團隊，並且藉助盟友伊爾莎 的消息，合力再找回鈽元素。",
-        "genre": "動作片",
-        "release_date": "2018-07-25",
-        "rating": 7.443,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 4676,
         "title": "蟻人與黃蜂女",
         "m3u8_url": "https://vip.dytt-cine.com/20250531/27525_1a0f5365/index.m3u8",
@@ -11232,19 +11323,6 @@
         "country": "美國"
     },
     {
-        "id": 16923,
-        "title": "古墓奇兵",
-        "m3u8_url": "https://vip.dytt-film.com/20250207/5423_7cc5ca26/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/roEGqXZ7I8qAT1XtgxtoEuuksgm.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
-        "overview": "《古墓奇兵》重啟之作。無所畏懼的蘿拉為了解開探險家父親的失蹤謎團，展開一場駭人的旅程，要找出父親一直在尋找的神祕之墓。",
-        "genre": "動作片",
-        "release_date": "2018-03-05",
-        "rating": 6.366,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 818,
         "title": "棟篤特工",
         "m3u8_url": "https://vip.dytt-kan.com/20250923/6034_78421a2e/index.m3u8",
@@ -11256,19 +11334,6 @@
         "rating": 5.8,
         "quality": "BD",
         "country": "香港"
-    },
-    {
-        "id": 877,
-        "title": "角頭2：王者再起",
-        "m3u8_url": "https://vip.dytt-kan.com/20250919/5815_2835acf1/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/tyAr9mLsohMW8V2yEkVIRThuH5e.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mx6b1VxtUA9k1xLinVf38tVjT7f.jpg",
-        "overview": "《角頭2-王者再起》延續《角頭》「今天公祭，明天忘記」、「歹路不可行」的警世主旨，導演顏正國以過來人的身分表示，拍攝黑幫電影，是想以自身成長經驗中所付出的代價警惕年輕學子不宜輕易以身試法，黑道險惡難行，做兄弟的，到頭來就是一首悲歌！ 《角頭2：王者再起》故事描述仁哥（王識賢 飾演）面對曾經的好兄弟，如今卻「走味」變成『最換帖的敵人』的劉健（鄒兆龍 飾演）重現江湖，不斷挑起紛爭與衝突，破壞仁哥的忍耐與努力維持的和平。看著劉健的事業版圖逐漸擴大，身邊的兄弟為了情義有所犧牲，仁哥終究按耐不住釋放出心中的猛獸，與亦敵亦友的劉健正式開戰，為江湖掀起腥風血雨的廝殺。",
-        "genre": "動作片",
-        "release_date": "2018-02-14",
-        "rating": 5.467,
-        "quality": "BD",
-        "country": "台灣"
     },
     {
         "id": 4603,
@@ -11310,19 +11375,6 @@
         "country": "韓國"
     },
     {
-        "id": 4421,
-        "title": "雷神索爾 3：諸神黃昏",
-        "m3u8_url": "https://vip.dytt-live.com/20250604/8678_2201611d/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/hcE3W9QWPX84PU1fUEeVSZWj85b.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
-        "overview": "索爾被監禁在一個沒有辦法使用雷神之鎚的平行宇宙，他必須要與時間賽跑，試圖回到阿斯嘉阻止善惡對決所造成的諸神黃昏，也就是阿斯嘉文明的盡頭、索爾家鄉的毀滅，而這一切都是冥後海拉所主導。在諸神黃昏毀滅世界之前，他必須要在競技場上面對曾經的好夥伴浩克，這樣的對決會帶來什麼後果呢？",
-        "genre": "動作片",
-        "release_date": "2017-10-02",
-        "rating": 7.583,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 27108,
         "title": "金牌特務：機密對決",
         "m3u8_url": "https://vip.dytt-kan.com/20251024/8902_c5603055/index.m3u8",
@@ -11358,19 +11410,6 @@
         "genre": "動作片",
         "release_date": "2017-08-16",
         "rating": 6.9,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
-        "id": 19582,
-        "title": "變形金剛5：最終騎士",
-        "m3u8_url": "https://vip.dytt-film.com/20250124/2182_d51b4167/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/4aWYoX5kRIWAp2y3yuTjPIO8y10.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
-        "overview": "變形金剛最新篇章【變形金剛5：最終騎士】打破了整個神話的核心，並重新檢視了英雄的定義。人類和鋼鐵筋骨即將開戰，柯博文離開了，拯救未來的關鍵埋沒在地球上被隱瞞的歷史裡。然而出乎意料的組合：凱德伊格（馬克華柏格 飾）、大黃蜂、英國勛爵（安東尼霍普金斯 飾）和一位牛津教授（蘿拉哈德克 飾）卻肩扛拯救世界的重擔。每個人的生命中，總會有一個時刻、一個讓你做出改變的時刻。在【變形金剛5：最終騎士】中，獵物變成了英雄；英雄變成了惡人。只有一方能夠存活下來：是它們，還是我們？",
-        "genre": "動作片",
-        "release_date": "2017-06-16",
-        "rating": 6.1,
         "quality": "BD",
         "country": "美國"
     },
@@ -11531,19 +11570,6 @@
         "country": "香港"
     },
     {
-        "id": 16724,
-        "title": "神隱任務：永不回頭",
-        "m3u8_url": "https://vip.dytt-film.com/20250208/5679_166cee72/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/iAhWysmLnUJFK96bBQ73T0FW6at.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
-        "overview": "李奇從軍隊退役後，透娜少校接掌他的職位，不料被扣上叛國的罪名遭逮補，但她其實是無辜的。李奇必須把她從監獄救出來，揭發政府內部龐大的共謀結構，以示兩人的清白。李奇在逃亡的過程中，也意外發現自己過往的秘密，他的人生將因此改變。  阿湯哥飾演的傑克李奇將重返維吉尼亞的美國軍警總部，與舊識特納少校解決一些「私人問題」，怎料特納卻被逮捕，傑克也因此被誣陷犯有重罪，失去記憶的他必須抽絲剝繭，找出陰謀背後的真相並為自己洗刷罪名。",
-        "genre": "動作片",
-        "release_date": "2016-10-19",
-        "rating": 5.991,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 12960,
         "title": "極速秒殺2",
         "m3u8_url": "https://vip.dytt-film.com/20250304/10465_41263b9a/index.m3u8",
@@ -11648,6 +11674,19 @@
         "country": "美國"
     },
     {
+        "id": 8467,
+        "title": "分歧者3：赤誠者",
+        "m3u8_url": "https://vip.dytt-live.com/20250330/2654_7180cffd/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pJSPv4kbk3jOORQrDbZyPmbiWS4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
+        "overview": "《分歧者3：赤誠者》是票房強片《分歧者》系列的第三集。這次，翠絲（雪琳伍德利 飾）和四號（席歐詹姆斯 飾）會進入全新的世界，並面對前所未有的危險。在《分歧者2：叛亂者》中揭露驚天動地的祕密之後，這次在《分歧者3：赤誠者》中，翠絲（雪琳伍德利 飾）必須跟四號（席歐詹姆斯 飾）越過包圍芝加哥的高牆逃離。他們第一次要離開迄今所知的唯一城市和家人，一旦來到外面，過去的發現很快被新揭露的驚人真相推翻。當一場無情的戰火在芝加哥的高牆之外點燃，威脅到全人類，翠絲和四號必須儘快決定他們能信任誰。為了生存，翠絲會被迫做出攸關勇氣、忠誠、犧牲和愛的不可能決定。",
+        "genre": "動作片",
+        "release_date": "2016-03-09",
+        "rating": 6.1,
+        "quality": "BD",
+        "country": "加拿大"
+    },
+    {
         "id": 19135,
         "title": "全面攻佔2：倫敦救援",
         "m3u8_url": "https://vip.dytt-film.com/20250126/2699_0415740e/index.m3u8",
@@ -11713,19 +11752,6 @@
         "country": "美國"
     },
     {
-        "id": 4065,
-        "title": "007：惡魔四伏",
-        "m3u8_url": "https://vip.dytt-kan.com/20250610/577_fde9264c/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/8KcTySYevFZNinrFadCZoKpF9jN.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
-        "overview": "一則由前任M遺留下的神祕訊息，促使龐德開始追查一個名叫「魔鬼黨」的國際犯罪組織，在新任M努力保全MI6時，龐德已抽絲剝繭，發現惡魔黨隱藏在層層謊言下的恐怖真相。",
-        "genre": "動作片",
-        "release_date": "2015-10-26",
-        "rating": 6.564,
-        "quality": "BD",
-        "country": "英國"
-    },
-    {
         "id": 19056,
         "title": "玩命快遞：肆意橫行",
         "m3u8_url": "https://vip.dytt-film.com/20250126/2806_c0f971d8/index.m3u8",
@@ -11752,15 +11778,15 @@
         "country": "美國"
     },
     {
-        "id": 5011,
-        "title": "不可能的任務：失控國度",
-        "m3u8_url": "https://vip.dytt-cine.com/20250526/25863_18daa83a/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/ULiEqvtKBWQii0t8islDCPlJoV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg",
-        "overview": "敘述從事深入臥底任務的IMF已為千夫所指，即使對自由世界最可怕的威脅正在醞釀，他們正面臨全面解散的危機。造成威脅的 「辛迪加」，是一個無法突破、由一群受過精良訓練的叛逃間諜組成的組織，他們為了自己的理想離鄉背井——企圖瓦解文明世界的基礎。在諜報世界裡，辛迪加長期以來只被視為空穴來風，但伊森韓特揭露眾人不願面對的現實，他發現這個秘密組織真的存在，如果再不行動，將會在全球引爆一連串災難。中情局不肯相信，伊森韓特自己的團隊命運岌岌可危，但在盡所有努力之前，他絕不會放棄。  伊森韓特面對他的終極對手，他所有無可取代的特質立刻面臨考驗：在危急時刻從容不迫的脫身能力、穿梭遊走全球各地的技巧、與邪不勝正的渴望。從維也納到卡薩布蘭加，從軍機上的一髮千鈞到深水危機，伊森韓特將用盡手段，抵抗他出生入死的間諜生涯中最嚴峻的危險。但最重要的是，他將企圖達成最具意義的任務：堅持對朋友的忠心，並維繫創造不可能的理想。",
+        "id": 18983,
+        "title": "魔鬼終結者：創世契機",
+        "m3u8_url": "https://vip.dytt-film.com/20250127/2892_6fe13163/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sBKdPymxVzHphqKN0SrFaSj0t5G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+        "overview": "以約翰康納為首的人類反抗者，在2029年的未來世界中與超級電腦「天網」對抗。同時約翰康納也將戰士凱爾瑞斯送回1984年，保護母親莎拉康納不被機器人殺害。然而因為時間軸的破裂與混亂，人類獲勝的希望愈趨渺茫……",
         "genre": "動作片",
-        "release_date": "2015-07-28",
-        "rating": 7.217,
+        "release_date": "2015-06-23",
+        "rating": 5.9,
         "quality": "BD",
         "country": "美國"
     },
@@ -11817,19 +11843,6 @@
         "country": "香港"
     },
     {
-        "id": 3913,
-        "title": "復仇者聯盟2：奧創紀元",
-        "m3u8_url": "https://vip.dytt-kan.com/20250615/738_217eedd1/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/vnqTgYrnS9dnq9y6gzpR69vsiNu.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
-        "overview": "「鋼鐵人」東尼史塔克為了維護地球和平安全，神盾局瓦解後，把史塔克大樓改成新的復仇者基地。鋼鐵人在圍剿九頭蛇時，中了汪達的幻術魔法，認為地球無力抵抗外星人入侵，於是打造人工智慧機器人「奧創」，不料奧創自行進化，卻認為唯有殲滅人類，才能維護世界和平。而後奧創與汪達結盟，黑寡婦、美國隊長與雷神索爾接連中了汪達的幻術，心中的夢魘陰影化成幻覺浮現眼前，浩克大搞破壞，鋼鐵人只好穿上「浩克毀滅者」來制服。復仇者們遭逢前所未見的心理戰猛攻，潰不成軍。他們要如何克服自己的陰影，重新集結，打敗奧創呢?",
-        "genre": "動作片",
-        "release_date": "2015-04-22",
-        "rating": 7.27,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 16992,
         "title": "玩命關頭7",
         "m3u8_url": "https://vip.dytt-film.com/20250207/5347_48e95c45/index.m3u8",
@@ -11854,19 +11867,6 @@
         "rating": 6.364,
         "quality": "BD",
         "country": "加拿大"
-    },
-    {
-        "id": 14881,
-        "title": "哈比人：五軍之戰",
-        "m3u8_url": "https://vip.dytt-film.com/20250220/8081_4afe0449/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/9q0ch2Rj3smwnMbjfb0u6eBC6pQ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
-        "overview": "他們雖然收復了被惡龍史矛革長期佔領的祖國，卻也在不經意的情況下，將惡龍釋放出來，在狂暴的盛怒下，史矛革襲擊了完全沒有防備的長湖鎮居民。在此同時，強大的敵人索倫已經派出半獸人大軍，準備偷襲孤山。只是一心一意只想維持家園的索林王子，完全聽不進別人的意見，導致所有人都將面臨更大的危機。",
-        "genre": "動作片",
-        "release_date": "2014-12-10",
-        "rating": 7.327,
-        "quality": "BD",
-        "country": "美國"
     },
     {
         "id": 6812,
@@ -11973,6 +11973,19 @@
         "country": "美國"
     },
     {
+        "id": 19315,
+        "title": "賭城風雲 / 賭神4之誰與爭鋒",
+        "m3u8_url": "https://vip.dytt-film.com/20250125/2499_cd10c7f3/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/97xLI9oJY1CS1SIzcUsBPiSxTP9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/aY8QYqpeIvNVbl4fDCyZ5YFrxEr.jpg",
+        "overview": "由王晶和鍾少雄擔任導演，劉偉強、王雅琳監製，周潤發、謝霆鋒、杜汶澤、景甜、童菲等演出。  外號「贏盡天下無敵手」的石一堅（周潤發 飾），不單能摸出麻將點數，連撲克牌點數也能摸出來，他從美國賭城擔任保安總顧問退休回澳門老家，遇上當年好友Benz（許紹雄 飾）、其兒子曬冷（謝霆鋒 飾）及外甥牛必勝（杜汶澤 飾），曬冷及牛必勝希望能跟這位傳奇人物拜師學藝，堅要曬冷騙倒他一次或贏他一次，才答應收為徒。  曬冷之同母異父兄長陳龍（伍允龍 飾）是臥底探員，一直潛伏於國際賭業犯罪組織，組織將全球外圍球賽博彩的黑幫聯合起來，操縱賽果，其開會過程被龍拍下，並將罪証內容藏於一隻假眼中，而這隻假眼輾轉落入堅的獨女彩虹（童菲 飾）手中，令原本退休的堅不得不再以「魔術手」佈下騙局解救危機….",
+        "genre": "動作片",
+        "release_date": "2014-01-30",
+        "rating": 5.095,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 27267,
         "title": "Ninja: Shadow of a Tear",
         "m3u8_url": "https://vip.dytt-film.com/20250128/3150_77ee3bc5/index.m3u8",
@@ -12023,19 +12036,6 @@
         "rating": 7.3,
         "quality": "BD",
         "country": "韓國"
-    },
-    {
-        "id": 4529,
-        "title": "雷神索爾2：黑暗世界",
-        "m3u8_url": "https://vip.dytt-cine.com/20250603/27776_29e7194c/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/bcnWbZK503AQOVidHMeW8v0TsR2.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
-        "overview": "劇情承接《復仇者聯盟》的紐約之戰；索爾在大戰結束之後，帶著洛基回到自己的世界，並開始進行宇宙秩序的重建。不料，咒神魔雷基為了報仇，引領一神秘古老的種族「黑暗精靈」來到人類世界，打算征服全宇宙，讓一切都被黑暗所包覆。這次的侵略力量十分強大，連奧丁和阿斯嘉王國都不是敵方的對手；因此，索爾朝人類世界出發，即將面對有生以來最為危險的對象。在這次的旅程中，索爾將與珍佛斯特再次相遇；但他事前並未預料到的是，為了拯救宇宙，他不但會向弟弟洛基求助，還必須犧牲自己的一切……，他做得到嗎？",
-        "genre": "動作片",
-        "release_date": "2013-10-30",
-        "rating": 6.511,
-        "quality": "BD",
-        "country": "美國"
     },
     {
         "id": 9771,
@@ -12207,19 +12207,6 @@
         "country": "香港"
     },
     {
-        "id": 4871,
-        "title": "007：空降危機",
-        "m3u8_url": "https://vip.dytt-cine.com/20250529/27242_e0b8da96/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/7MnO5mopdrJAf9hp5D7p9jK64ls.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qB2eFmGEh5YCzhXUpz7As2PaDCh.jpg",
-        "overview": "英國特務龐德在伊斯坦堡的任務失敗，導致北約臥底探員名單資料外洩，身為龐德上司的M夫人因此受到情報安全委員會新主席的強烈質疑，成為政府調查的對象。此時MI6總部遭受攻擊，被眾人以為殉職的龐德祕密現身，他循線前往上海，追查一名極度危險的罪犯。在神祕女子與女探員的協助下，為了M夫人與總部，龐德是否能再次成功化解危機？",
-        "genre": "動作片",
-        "release_date": "2012-10-24",
-        "rating": 7.256,
-        "quality": "BD",
-        "country": "英國"
-    },
-    {
         "id": 9037,
         "title": "即刻救援2",
         "m3u8_url": "https://vip.dytt-live.com/20250326/1873_d4b2aeb2/index.m3u8",
@@ -12324,19 +12311,6 @@
         "country": "阿聯"
     },
     {
-        "id": 18913,
-        "title": "不可能的任務：鬼影行動",
-        "m3u8_url": "https://vip.dytt-film.com/20250127/2975_2ef3e50f/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/1IIYrHFGK3NWBCgY8I3BdHFrhX6.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ih4lZkUpmSE7AP3maymiO72xJ1z.jpg",
-        "overview": "探員伊森韓特在莫斯科克林姆林宮出任務時遭陷害，引發克林姆林宮爆炸，美國總統因而啟動了鬼影行動，解散情報局，韓特在失去任何資源以及支援的險惡情況下，他必須自行找尋出路，洗清情報局的罪名，更要和其他組員合力阻止敵人引爆核彈，毀滅世界。",
-        "genre": "動作片",
-        "release_date": "2011-12-07",
-        "rating": 7.106,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 35007,
         "title": "賽德克．巴萊(下)彩虹橋",
         "m3u8_url": "https://vip.ffzy-play7.com/20230312/17882_78b4b49d/index.m3u8",
@@ -12348,19 +12322,6 @@
         "rating": 8,
         "quality": "HD",
         "country": "台灣"
-    },
-    {
-        "id": 15578,
-        "title": "竊聽風雲 2",
-        "m3u8_url": "https://vip.dytt-film.com/20250216/7159_42e9fb75/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/13kTrpcmVhaT9KLcWo85PPvXnFR.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cBlQCu4QQPa7Lz8IXEhMNB10jEg.jpg",
-        "overview": "知名證券商羅敏生（劉青雲 飾），一次為了逃避跟蹤，引起車禍受傷。偵察此案的何智強（古天樂 飾）進行調查，發現羅敏生的車子裏被裝上竊聽器，幾經追查，何智強找出了身份神秘的竊聽者司馬念祖（吳彥祖 飾），繼而查出了在香港股市呼風喚雨的神秘組織「地主會」。隨著何智強一步一步地揭露真相，羅敏生、司馬念祖和「地主會」的角力不斷升級，駭人的事實一一披露，然而，何智強亦不自覺地牽涉進這場鬥爭之中，一場股壇風暴即將掀起……。",
-        "genre": "動作片",
-        "release_date": "2011-08-18",
-        "rating": 6.5,
-        "quality": "BD",
-        "country": "中國"
     },
     {
         "id": 12164,
@@ -12385,19 +12346,6 @@
         "genre": "動作片",
         "release_date": "2011-07-22",
         "rating": 7.004,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
-        "id": 18953,
-        "title": "變形金剛3",
-        "m3u8_url": "https://vip.dytt-film.com/20250127/2930_6624b6d8/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/ia6SDGv51Is6kdcjHtcpFEoxN2G.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
-        "overview": "山姆大學畢業後找不到工作，透過女友卡莉介紹在一家公司當信件收發小弟，卻被卡莉上司利用而捲入危機。此時40年前阿波羅11號登陸月球時的機密曝光！原來在月球上早就發現了變形金剛的殘骸，60年代博派首領「御天至尊」，帶著拯救變形金剛星球的秘密武器「能量柱」逃到月球，被登陸月球的美國阿波羅11號太空船發現，美政府列此為最高機密。多年後，狂派「密卡登」設下陷阱，讓柯博文帶回御天至尊和能量柱，掀起兩派在地球的戰事。",
-        "genre": "動作片",
-        "release_date": "2011-06-28",
-        "rating": 6.218,
         "quality": "BD",
         "country": "美國"
     },
@@ -12506,6 +12454,19 @@
         "country": "美國"
     },
     {
+        "id": 16259,
+        "title": "葉問前傳",
+        "m3u8_url": "https://vip.dytt-film.com/20250211/6314_ec200199/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/nFf1ZRf3FnjjN8IjHHDMabWUkw0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4jCHr55RGHQlXzcDYwJ70b0mYj9.jpg",
+        "overview": "20世紀之初，國際局勢瞬息萬變，古老的中國更處在生死存亡的危急時刻。遠在廣東佛山，少年葉問和異姓兄弟天賜拜入詠春拳名師陳華順（洪金寶 飾）門下學習拳法。葉問天資聰穎，資質不凡，十年期間便在師兄弟之間躍然而出。成年後，葉問（杜宇航 飾）告別從小一起長大天賜（樊少皇 飾）和小師妹美慧（陳嘉桓 飾），隻身來至香港讀書。在此期間，他教訓了歧視中國人的洋鬼子，不僅名震香江，更藉此拜入詠春宗室梁贊之子——梁壁（葉准 飾）的門下。  　　回到佛山，葉問因梁壁詠春正統與否的問題與大師兄吳仲素（元彪 飾）一度發生分歧。不久，精武會館主席被人謀害。心懷鬼胎的日本人蠢蠢欲動，而昔日好友天賜似乎又完全變了模樣……",
+        "genre": "動作片",
+        "release_date": "2010-06-24",
+        "rating": 6.836,
+        "quality": "BD",
+        "country": "香港"
+    },
+    {
         "id": 3113,
         "title": "打擂台",
         "m3u8_url": "https://vip.dytt-kan.com/20250705/1703_375c7134/index.m3u8",
@@ -12597,19 +12558,6 @@
         "country": "香港"
     },
     {
-        "id": 1947,
-        "title": "阿凡達",
-        "m3u8_url": "https://vip.dytt-cine.com/20250926/57082_c2c86788/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/aKeJgTDAiBe5hFgFgI3V3ChOLmh.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
-        "overview": "在未來世界中，人類為取得另一星球資源，開啟阿凡達計畫，以人類與納美人的DNA混血，培養出身高近3米高的阿凡達，以利在潘朵拉星球生存並採礦。受傷的退役軍人傑克，首肯接受實驗並以他的阿凡達來到天堂般的潘朵拉星球。然而，在這唯美幽境裡，地上爬的、天上飛的、土裡鑽的生物卻隻隻巨大致命…傑克背負重任，身處險境中，與納美人首次的意外接觸後，雖然開啟了溝通的可能性，卻也即將面臨一場意想不到、浩瀚壯烈的世紀衝突與空前啟示…",
-        "genre": "動作片",
-        "release_date": "2009-12-16",
-        "rating": 7.6,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 16395,
         "title": "刺陵",
         "m3u8_url": "https://vip.dytt-film.com/20250211/6153_a4d5fad8/index.m3u8",
@@ -12688,16 +12636,16 @@
         "country": "香港"
     },
     {
-        "id": 38790,
-        "title": "赤壁：決戰天下",
-        "m3u8_url": "https://vip.ffzy-play7.com/20221231/10513_d4f9f843/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/yymD0UDuAQbQXXUZdbCGDJpMgLj.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/taC4SMRB4UUbXL9R4680aJ4ejQK.jpg",
-        "overview": "故事內容緊接著上集《赤壁》的劇情，敘述孫劉聯軍因為「三江口之戰」這場決定性的勝利而士氣大振，在地勢險峻的長江南岸區域紮營。隔著河水的長江北岸，曹操則在烏林軍營的中央搭建氣勢宏偉的要塞。孫劉聯軍運用一場場的戰略攻勢讓曹操與他的大軍幾乎無招架之力，但是曹操強大的北方騎兵部隊又扭轉戰局，還讓原來進逼的敵人只能退守到河岸，隨時有被殲滅的危險。出乎意料的是，劉備率領他的軍隊突然現身相助，迫使曹軍再度轉攻為守。孫劉聯軍開始攻打曹操的要塞，周瑜則靠著趙雲與孫權的幫助，最後終於衝進被火焰吞食的要塞裡，救出愛妻小喬。這場赤壁大戰最後終於由孫劉兩軍聯手打了一場漂亮的勝仗。",
+        "id": 16260,
+        "title": "葉問",
+        "m3u8_url": "https://vip.dytt-film.com/20250211/6313_2118d8a1/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/apjHAN46RoRb25VvNZ4WEidoHlI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/69QJSMkm5Hh0x9fLElZ8hjv5N4P.jpg",
+        "overview": "30年代的中國佛山，武風盛行，唯葉問行事低調，後來卻被迫出戰，以詠春拳大勝北方武師之首金山找，從此掀起一股詠春熱潮。  不久中日戰爭爆發，佛山亦淪陷在日軍手中，葉問則當起苦力，自力更生，直到同為武癡的日本將軍三蒲將摯友擊斃，他憤而反抗，擊退許多日本武術高手。  之後葉問有感每人各有使命，因此向好友工廠的職員教授詠春拳以自保，免於土匪的一再侵擾。但此時三蒲將軍又派人來捉拿葉問，希望他將自身武術傳授給日本軍隊，葉問不願成為漢奸，因此公開挑戰三蒲，不料三蒲親信為保將軍能夠致勝而暗設埋伏，二人就此展開生死之戰！",
         "genre": "動作片",
-        "release_date": "2009-01-07",
-        "rating": 7.305,
-        "quality": "HD",
+        "release_date": "2008-12-12",
+        "rating": 7.759,
+        "quality": "BD",
         "country": "中國"
     },
     {
@@ -12974,19 +12922,6 @@
         "country": "法國"
     },
     {
-        "id": 9474,
-        "title": "博物館驚魂夜",
-        "m3u8_url": "https://vip.dytt-live.com/20250325/1217_6a61d423/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/71McyrcBZkxEOGtARpHAgtFvrIr.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
-        "overview": "自然歷史博物館的新夜班警衛發現遊客們回家後，真正的冒險才開始，博物館的展示品都活了過來！",
-        "genre": "動作片",
-        "release_date": "2006-12-20",
-        "rating": 6.593,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 15299,
         "title": "放‧逐",
         "m3u8_url": "https://vip.dytt-film.com/20250218/7518_cf98f161/index.m3u8",
@@ -13247,6 +13182,19 @@
         "country": "香港"
     },
     {
+        "id": 1705,
+        "title": "駭客任務完結篇：最後戰役",
+        "m3u8_url": "https://vip.dytt-luck.com/20250814/16361_dc2f35f7/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/x9nulMUM5YruTbWyPTIsP2Qyfo5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kJYPag1YrA4PsXIftFdq3QEaanV.jpg",
+        "overview": "面對機器軍團大舉入侵，人類真實世界的最後根據地錫安危在旦夕，唯一希望是救世主尼歐必須擊敗已經佔據整個母體的史密斯探員，以性命換取人類一線生機。尼歐的命運與兩個世界的未來，都繫於他與史密斯探員在滂沱大雨中的最後決戰。",
+        "genre": "動作片",
+        "release_date": "2003-11-05",
+        "rating": 6.746,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 17050,
         "title": "追殺比爾",
         "m3u8_url": "https://vip.dytt-film.com/20250207/5272_e8855b35/index.m3u8",
@@ -13336,6 +13284,19 @@
         "rating": 5.8,
         "quality": "BD",
         "country": "香港"
+    },
+    {
+        "id": 1706,
+        "title": "駭客任務：重裝上陣",
+        "m3u8_url": "https://vip.dytt-luck.com/20250814/16360_053b47ac/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/A6UiBTOfJ0tOMIWN7qX124rqPZH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hgWDZ0UlGEf8LvrAkKt6VqAH0bu.jpg",
+        "overview": "為了阻止機器大軍摧毀人類真實世界最後根據地「錫安」，尼歐必須設法找到傳說中的「萬物之源」，但比過去更強大也更危險的死敵史密斯探員卻緊追在後……",
+        "genre": "動作片",
+        "release_date": "2003-05-15",
+        "rating": 7.065,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 16491,
@@ -14846,19 +14807,6 @@
         "country": "香港"
     },
     {
-        "id": 3730,
-        "title": "倩女幽魂3：道道道",
-        "m3u8_url": "https://vip.dytt-kan.com/20250618/918_1e056d2b/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/3eyS0bgjLvkshWIA0XKMw2YjqsR.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dvdxLxcmxOi3enwAhisPHLDDwBM.jpg",
-        "overview": "小和尚十方（梁朝偉）隨師父白雲 護送金佛，在蘭若寺遭女鬼小卓（王祖賢）與小蝶（利智）用美色氣弄，十方好心放走小卓，後來漸生愛意。姥姥出現，與白雲大戰，白雲失手被捉，燕在錢的條件下答應十方救回去，並得小卓幫助，引姥姥出來，但小卓竟被姥姥捉回，並迫她下嫁黑山老妖...。",
-        "genre": "動作片",
-        "release_date": "1991-07-18",
-        "rating": 6.427,
-        "quality": "BD",
-        "country": "香港"
-    },
-    {
         "id": 4693,
         "title": "魔鬼終結者2",
         "m3u8_url": "https://vip.dytt-cine.com/20250531/27503_63c94b74/index.m3u8",
@@ -15587,19 +15535,6 @@
         "country": "香港"
     },
     {
-        "id": 4100,
-        "title": "007：黎明生機",
-        "m3u8_url": "https://vip.dytt-kan.com/20250610/543_81448138/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/4gXOyYrj2h2ExbCzIvSxhmHnNmv.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg",
-        "overview": "007系列電影，這回飾演龐德的是Timothy Dalton。故事敘述KGB當局在格別島上製造核子，英國派007執行代號為間諜之死的任務，但KGB可不是省油的燈！知道007要來就故意釋放假情報，企圖利用007借刀殺人，幸好在最後關頭被007識破，經過幾番鬥智之後，終於成功殲滅KGB的陰謀。",
-        "genre": "動作片",
-        "release_date": "1987-06-29",
-        "rating": 6.535,
-        "quality": "BD",
-        "country": "英國"
-    },
-    {
         "id": 21036,
         "title": "江湖情",
         "m3u8_url": "https://vip.dytt-film.com/20250118/343_3ad7c2eb/index.m3u8",
@@ -15689,19 +15624,6 @@
         "rating": 5.071,
         "quality": "HD",
         "country": "香港"
-    },
-    {
-        "id": 8773,
-        "title": "異形2",
-        "m3u8_url": "https://vip.dytt-live.com/20250326/2233_e0f7a4d0/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/XfIWdTyj19l7xQLe1E3PGefoNE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
-        "overview": "蕾普莉（雪歌妮·薇佛 飾）是首次探險任務遇到異形後的唯一生還者，她一直冬眠直到被救援隊救回地球。當她睜開眼睛後，才發現自己已經冬眠了57年！  期間，人類已經移居到了異形所在的星球。蕾普莉知道後，馬上向當局報局該星球上異形的情況，但卻被當局認為要麼精神不正常，要麼謊話連篇。蕾普莉見當局對她的說話不予理睬，便決心不再涉足和異形有關的任何事。  果不其然，在那個異形所在的那個星球上定居的人忽然和地球中斷了聯系。這時當局才注意到蕾普莉之前彙報的情況，決定派出軍隊去營救。蕾普莉被說服參與營救行動。  又一場腥風血雨的戰鬥展開了！",
-        "genre": "動作片",
-        "release_date": "1986-07-18",
-        "rating": 8,
-        "quality": "BD",
-        "country": "美國"
     },
     {
         "id": 10368,
@@ -16133,19 +16055,6 @@
         "country": "香港"
     },
     {
-        "id": 4877,
-        "title": "007：太空城",
-        "m3u8_url": "https://vip.dytt-cine.com/20250529/27255_0d193dd7/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/4P0TH01tbrHthj2DITasDzEy3qs.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mrDC5DLx2wljt4HZGwgkmqlzfcF.jpg",
-        "overview": "007系列電影，這回的龐德女郎可不讓007專美於前，她可是太空學家的狠角色呢！美國運送英國太空船中途傳出失事，引起兩國高度緊張，英方懷疑太空船被不法組織劫持，因此派007前往勘查。  經過007一番明查暗訪之後，發現挾持太空船的不法組織在製造一種神經麻痺的毒氣，還打算利用太空船發射毒氣炸彈毀滅地球上的50個大城市...。",
-        "genre": "動作片",
-        "release_date": "1979-06-26",
-        "rating": 6.18,
-        "quality": "BD",
-        "country": "英國"
-    },
-    {
         "id": 14437,
         "title": "洪拳與詠春",
         "m3u8_url": "https://vip.dytt-film.com/20250201/3986_540393ae/index.m3u8",
@@ -16170,19 +16079,6 @@
         "rating": 6.1,
         "quality": "BD",
         "country": "美國"
-    },
-    {
-        "id": 3884,
-        "title": "007：第七號情報員續集",
-        "m3u8_url": "https://vip.dytt-kan.com/20250615/768_3a835d32/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/vh7KtT8HHS3XM4FW0GkUGf0T7GK.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8JMiQa0OqsCYvbNUrQIrMzwV7g2.jpg",
-        "overview": "《第七號情報員續集》（英語：From Russia with Love）是一部於1963年上映的英國諜報驚悚電影，由泰倫斯·楊執導，哈利·薩爾茨曼與艾伯特·布洛克里擔任製片人，並由理查·麥鮑姆編劇。該片的劇情根據伊恩·佛萊明所著的1957年小說《來自俄羅斯的愛情》改編，同時也是詹姆士·龐德系列電影中的第2部作品。史恩·康納萊二度飾演MI6的情報員詹姆士·龐德（007）。  片中，龐德奉命去土耳其接走變節的蘇聯情報局成員泰坦娜·羅曼諾娃，而打算為成員諾博士報仇的惡魔黨則處心積慮的要置龐德於死地。隨著《第七號情報員》（1962年）的票房長紅，聯藝電影決定拍攝續集，且續集的預算翻倍。劇組除了在土耳其取景外，也有至松林製片廠、白金漢郡及蘇格蘭拍片。製片過程超時且超支。  《第七號情報員續集》在評價及票房方面皆有極佳的表現。該片在全球收穫7,900萬美元的票房，遠超其200萬美元的製片預算，並壓過了前作《第七號情報員》。續集《007：金手指》於1964年9月17日在英國上映。",
-        "genre": "動作片",
-        "release_date": "1963-10-10",
-        "rating": 7.07,
-        "quality": "BD",
-        "country": "英國"
     },
     {
         "id": 8194,
@@ -19032,19 +18928,6 @@
         "country": "美國"
     },
     {
-        "id": 23330,
-        "title": "MIB星際戰警：跨國行動",
-        "m3u8_url": "https://vip.ffzy-play7.com/20221229/10239_28cbc06b/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/41BTYug5HbMPaAXrCXzW4fWQsg4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/uK9uFbAwQ1s2JHKkJ5l0obPTcXI.jpg",
-        "overview": "曾由威爾史密斯擔綱演出的外星人動作片系列，這次交由克里斯漢斯沃（Chris Hemsworth）化身H探員出任務！卡司還有泰莎湯普森（Tessa Thompson）、連恩尼遜（Liam Neeson）、艾瑪湯普遜（Emma Thompson）。 MIB星際戰警永遠捍衛地球免於宇宙無賴的危害，在新展開的冒險篇章中，他們將要面對另一個巨大危機，MIB中有內鬼出現。 劇情描述，H探員 與M探員 在看似平常捍衛地球免於外星人威脅的任務中，竟意外發現有敵人的魔爪已滲入MIB總部，引起前所未見的巨大危機⋯這一次，為了維護MIB的使命，兩位探員將潛入世界各地，聯手突破重重挑戰才能解開真相、拯救一切回歸秩序！",
-        "genre": "喜劇片",
-        "release_date": "2019-06-12",
-        "rating": 5.9,
-        "quality": "HD",
-        "country": "美國"
-    },
-    {
         "id": 37807,
         "title": "寄生上流",
         "m3u8_url": "https://vip.dytt-broadcast.com/20251018/136941_a0f3dac8/index.m3u8",
@@ -19550,19 +19433,6 @@
         "rating": 0,
         "quality": "BD",
         "country": "台灣"
-    },
-    {
-        "id": 19315,
-        "title": "賭城風雲 / 賭神4之誰與爭鋒",
-        "m3u8_url": "https://vip.dytt-film.com/20250125/2499_cd10c7f3/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/97xLI9oJY1CS1SIzcUsBPiSxTP9.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/aY8QYqpeIvNVbl4fDCyZ5YFrxEr.jpg",
-        "overview": "由王晶和鍾少雄擔任導演，劉偉強、王雅琳監製，周潤發、謝霆鋒、杜汶澤、景甜、童菲等演出。  外號「贏盡天下無敵手」的石一堅（周潤發 飾），不單能摸出麻將點數，連撲克牌點數也能摸出來，他從美國賭城擔任保安總顧問退休回澳門老家，遇上當年好友Benz（許紹雄 飾）、其兒子曬冷（謝霆鋒 飾）及外甥牛必勝（杜汶澤 飾），曬冷及牛必勝希望能跟這位傳奇人物拜師學藝，堅要曬冷騙倒他一次或贏他一次，才答應收為徒。  曬冷之同母異父兄長陳龍（伍允龍 飾）是臥底探員，一直潛伏於國際賭業犯罪組織，組織將全球外圍球賽博彩的黑幫聯合起來，操縱賽果，其開會過程被龍拍下，並將罪証內容藏於一隻假眼中，而這隻假眼輾轉落入堅的獨女彩虹（童菲 飾）手中，令原本退休的堅不得不再以「魔術手」佈下騙局解救危機….",
-        "genre": "喜劇片",
-        "release_date": "2014-01-30",
-        "rating": 5.095,
-        "quality": "BD",
-        "country": "中國"
     },
     {
         "id": 30023,
@@ -21255,6 +21125,19 @@
         "country": "美國"
     },
     {
+        "id": 4421,
+        "title": "雷神索爾 3：諸神黃昏",
+        "m3u8_url": "https://vip.dytt-live.com/20250604/8678_2201611d/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hcE3W9QWPX84PU1fUEeVSZWj85b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+        "overview": "索爾被監禁在一個沒有辦法使用雷神之鎚的平行宇宙，他必須要與時間賽跑，試圖回到阿斯嘉阻止善惡對決所造成的諸神黃昏，也就是阿斯嘉文明的盡頭、索爾家鄉的毀滅，而這一切都是冥後海拉所主導。在諸神黃昏毀滅世界之前，他必須要在競技場上面對曾經的好夥伴浩克，這樣的對決會帶來什麼後果呢？",
+        "genre": "奇幻片",
+        "release_date": "2017-10-02",
+        "rating": 7.583,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 4241,
         "title": "決戰異世界：弒血之戰",
         "m3u8_url": "https://vip.dytt-kan.com/20250606/401_816b112c/index.m3u8",
@@ -21294,15 +21177,15 @@
         "country": "台灣"
     },
     {
-        "id": 14882,
-        "title": "哈比人：荒谷惡龍",
-        "m3u8_url": "https://vip.dytt-film.com/20250220/8079_3aaa3db6/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/qI3lidFtVz4eZ02qGJ8hXfDdTtv.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
-        "overview": "在意外旅程開始時僥倖逃過一劫的遠征隊員們，繼續一路向東，沿途遭遇換皮人比翁，還有恐怖幽暗密林大群射紗怪巨大蜘蛛。在逃離危險木精靈的追捕後，矮人遠征隊行經長湖鎮，終於來到目的地：孤山。他們必須面對更大的危機，來自世上最恐怖生物的威脅惡龍「史矛革」。",
+        "id": 4529,
+        "title": "雷神索爾2：黑暗世界",
+        "m3u8_url": "https://vip.dytt-cine.com/20250603/27776_29e7194c/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bcnWbZK503AQOVidHMeW8v0TsR2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
+        "overview": "劇情承接《復仇者聯盟》的紐約之戰；索爾在大戰結束之後，帶著洛基回到自己的世界，並開始進行宇宙秩序的重建。不料，咒神魔雷基為了報仇，引領一神秘古老的種族「黑暗精靈」來到人類世界，打算征服全宇宙，讓一切都被黑暗所包覆。這次的侵略力量十分強大，連奧丁和阿斯嘉王國都不是敵方的對手；因此，索爾朝人類世界出發，即將面對有生以來最為危險的對象。在這次的旅程中，索爾將與珍佛斯特再次相遇；但他事前並未預料到的是，為了拯救宇宙，他不但會向弟弟洛基求助，還必須犧牲自己的一切……，他做得到嗎？",
         "genre": "奇幻片",
-        "release_date": "2013-12-11",
-        "rating": 7.6,
+        "release_date": "2013-10-30",
+        "rating": 6.511,
         "quality": "BD",
         "country": "美國"
     },
@@ -21329,6 +21212,19 @@
         "genre": "奇幻片",
         "release_date": "2012-01-19",
         "rating": 6.327,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4422,
+        "title": "雷神索爾",
+        "m3u8_url": "https://vip.dytt-live.com/20250604/8677_79286674/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9oEYTuAszZ3bAm6HsC9Ce9bfvRE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+        "overview": "故事主角雖為神話人物，但內容仍探討著自古以來不斷產生的人性衝突。一個等不及要向父王證明自己能夠繼承王位的魯莽哥哥，以及一個善妒且密謀爭奪王位的弟弟，述說一段王室之間的鬥爭存亡和致命的復仇交織而成的故事。擁有強大力量的雷神索爾，是天上的阿斯嘉王國王子，他繼承王位之日遭約頓海姆世界的寒冰巨人破壞，他憤而率眾到約頓海姆嗆聲，險些破壞雙方和平。他父王氣他魯莽貶他下凡。他被迫和人類一同生活並且學習如成為一個真正的英雄，如此一來才能對抗來自神界的強大黑暗勢力。",
+        "genre": "奇幻片",
+        "release_date": "2011-04-21",
+        "rating": 6.768,
         "quality": "BD",
         "country": "美國"
     },
@@ -21526,6 +21422,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "台灣"
+    },
+    {
+        "id": 3730,
+        "title": "倩女幽魂3：道道道",
+        "m3u8_url": "https://vip.dytt-kan.com/20250618/918_1e056d2b/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3eyS0bgjLvkshWIA0XKMw2YjqsR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dvdxLxcmxOi3enwAhisPHLDDwBM.jpg",
+        "overview": "小和尚十方（梁朝偉）隨師父白雲 護送金佛，在蘭若寺遭女鬼小卓（王祖賢）與小蝶（利智）用美色氣弄，十方好心放走小卓，後來漸生愛意。姥姥出現，與白雲大戰，白雲失手被捉，燕在錢的條件下答應十方救回去，並得小卓幫助，引姥姥出來，但小卓竟被姥姥捉回，並迫她下嫁黑山老妖...。",
+        "genre": "奇幻片",
+        "release_date": "1991-07-18",
+        "rating": 6.427,
+        "quality": "BD",
+        "country": "香港"
     },
     {
         "id": 1212,
@@ -23747,19 +23656,6 @@
         "genre": "恐怖片",
         "release_date": "1980-05-23",
         "rating": 8.208,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
-        "id": 9791,
-        "title": "異形",
-        "m3u8_url": "https://vip.dytt-cinema.com/20250813/30066_69fe9173/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/sz3BuGc2gfAboxQ1dIrXII2wfsQ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cEobq5QrnOJjO6giDs8q4RxmMKh.jpg",
-        "overview": "這是影史上的一部經典科幻片，並且獲得奧斯卡最佳視覺效果獎。雪歌妮薇佛份演硬朗女長官蕾普莉，她和下屬乘坐商用太空船，在不知名的星球探險，下屬回到船上才發現一頭嗜血怪物上了船，從此無寧日，恐怖事件接二連三登場….。",
-        "genre": "恐怖片",
-        "release_date": "1979-05-25",
-        "rating": 8.166,
         "quality": "BD",
         "country": "美國"
     },
@@ -27417,6 +27313,19 @@
         "country": "挪威"
     },
     {
+        "id": 877,
+        "title": "角頭2：王者再起",
+        "m3u8_url": "https://vip.dytt-kan.com/20250919/5815_2835acf1/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/tyAr9mLsohMW8V2yEkVIRThuH5e.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mx6b1VxtUA9k1xLinVf38tVjT7f.jpg",
+        "overview": "《角頭2-王者再起》延續《角頭》「今天公祭，明天忘記」、「歹路不可行」的警世主旨，導演顏正國以過來人的身分表示，拍攝黑幫電影，是想以自身成長經驗中所付出的代價警惕年輕學子不宜輕易以身試法，黑道險惡難行，做兄弟的，到頭來就是一首悲歌！ 《角頭2：王者再起》故事描述仁哥（王識賢 飾演）面對曾經的好兄弟，如今卻「走味」變成『最換帖的敵人』的劉健（鄒兆龍 飾演）重現江湖，不斷挑起紛爭與衝突，破壞仁哥的忍耐與努力維持的和平。看著劉健的事業版圖逐漸擴大，身邊的兄弟為了情義有所犧牲，仁哥終究按耐不住釋放出心中的猛獸，與亦敵亦友的劉健正式開戰，為江湖掀起腥風血雨的廝殺。",
+        "genre": "犯罪片",
+        "release_date": "2018-02-14",
+        "rating": 5.467,
+        "quality": "BD",
+        "country": "台灣"
+    },
+    {
         "id": 13678,
         "title": "狂獸",
         "m3u8_url": "https://vip.dytt-film.com/20250227/9580_0cdbb4e6/index.m3u8",
@@ -27466,6 +27375,19 @@
         "release_date": "2017-03-24",
         "rating": 6.134,
         "quality": "HD",
+        "country": "美國"
+    },
+    {
+        "id": 16724,
+        "title": "神隱任務：永不回頭",
+        "m3u8_url": "https://vip.dytt-film.com/20250208/5679_166cee72/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/iAhWysmLnUJFK96bBQ73T0FW6at.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+        "overview": "李奇從軍隊退役後，透娜少校接掌他的職位，不料被扣上叛國的罪名遭逮補，但她其實是無辜的。李奇必須把她從監獄救出來，揭發政府內部龐大的共謀結構，以示兩人的清白。李奇在逃亡的過程中，也意外發現自己過往的秘密，他的人生將因此改變。  阿湯哥飾演的傑克李奇將重返維吉尼亞的美國軍警總部，與舊識特納少校解決一些「私人問題」，怎料特納卻被逮捕，傑克也因此被誣陷犯有重罪，失去記憶的他必須抽絲剝繭，找出陰謀背後的真相並為自己洗刷罪名。",
+        "genre": "犯罪片",
+        "release_date": "2016-10-19",
+        "rating": 5.991,
+        "quality": "BD",
         "country": "美國"
     },
     {
@@ -27595,19 +27517,6 @@
         "genre": "犯罪片",
         "release_date": "2014-06-19",
         "rating": 5.9,
-        "quality": "BD",
-        "country": "香港"
-    },
-    {
-        "id": 19238,
-        "title": "竊聽風雲3：土豪爭霸",
-        "m3u8_url": "https://vip.dytt-film.com/20250126/2591_978fce5b/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/ww0637THZEN5UptjkvjJsXBFCwc.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/u053lcYSVvHVDjVgzl1g4tiJY3b.jpg",
-        "overview": "在寸金尺土的香港，新界每個男性原居民都可以無條件向政府申請建一棟三層獨立屋。這計劃長期引起社會爭議，因此特區政府決定終止丁屋計劃，將剩餘的丁權進行統一，興建多層式的「丁屋大廈」...",
-        "genre": "犯罪片",
-        "release_date": "2014-05-30",
-        "rating": 5.8,
         "quality": "BD",
         "country": "香港"
     },
@@ -27766,19 +27675,6 @@
         "rating": 5.206,
         "quality": "HD",
         "country": "美國"
-    },
-    {
-        "id": 9249,
-        "title": "無間道III：終極無間",
-        "m3u8_url": "https://vip.dytt-live.com/20250325/1544_f337d999/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/7jfnSTsriW9MW0OXK0lbA9qtcLI.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vsTHSW1j3FDx3JTsiIfPcuu9C6h.jpg",
-        "overview": "劉建明走向地獄，陳永仁走向天堂！兩個員警都想重新做人，最後結局，將會為無間年代劃上句號！",
-        "genre": "犯罪片",
-        "release_date": "2003-12-12",
-        "rating": 6.9,
-        "quality": "BD",
-        "country": "香港"
     },
     {
         "id": 27275,
@@ -28145,19 +28041,6 @@
         "country": "美國"
     },
     {
-        "id": 18049,
-        "title": "教父III",
-        "m3u8_url": "https://vip.dytt-film.com/20250201/4029_015e3193/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/vM0cUQon6a73xs9N441mRnciSgl.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
-        "overview": "本片為大導演法蘭西斯柯波拉的黑幫經典名片《教父》三部曲的最終回，接續之前的劇情，擔任柯里昂家族教父之職多年的麥可（影帝艾爾帕西諾）已日漸衰老，由於深刻瞭解到縱使宿敵多半已死的死、老的老，但自己終究無法永保家人平安，因而決定將家族企業漂白，杜絕所有非法生意；然而外在環境和年輕一代的野心，卻令麥可的決定一再受挫，其他黑幫家族覬覦柯里昂家族的地位和財勢。  而麥可血氣方剛的侄子文森（安迪嘉西亞，《小人物大英雄》）則一心想在黑手黨闖出一片江山，另一方面，麥可的獨生愛女（導演之女蘇菲亞柯波拉）卻愛上了瀟灑的文森，令老爸更增煩惱…  麥可能成功脫離黑幫和腥風血雨的過去嗎？柯里昂家族還會面臨什麼磨難和挑戰呢？",
-        "genre": "犯罪片",
-        "release_date": "1990-12-25",
-        "rating": 7.419,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 14461,
         "title": "阿飛正傳",
         "m3u8_url": "https://vip.dytt-film.com/20250223/8613_ad8eda80/index.m3u8",
@@ -28483,19 +28366,6 @@
         "country": "美國"
     },
     {
-        "id": 24923,
-        "title": "猩球崛起：王國誕生",
-        "m3u8_url": "https://vip.dytt-kan.com/20251203/10975_482b4b31/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/tE10WMV3SK2kq79aLHztJhz0EM5.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
-        "overview": "故事背景發生在凱撒統治過後的幾世代。猩猩主導著世界，而人類則被迫在陰影中苟延殘喘的生活。隨著新的暴君領袖崛起，一隻年輕的猩猩踏上了一段質疑自己過去信念的旅程，牠也將做出影響猩猩和人類未來命運的選擇。",
-        "genre": "科幻片",
-        "release_date": "2024-05-08",
-        "rating": 7.057,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 24894,
         "title": "Rebel Moon — 第 2 部：烙印之人",
         "m3u8_url": "https://vip.dytt-kan.com/20251203/10979_9cc25407/index.m3u8",
@@ -28652,6 +28522,19 @@
         "country": "韓國"
     },
     {
+        "id": 1949,
+        "title": "阿凡達：水之道",
+        "m3u8_url": "https://vip.dytt-luck.com/20250805/15241_a3149b45/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/n5uGQgDtXV0EHp1REIrh0d0OdvS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+        "overview": "設於首集超過十年後，成為納美人並與奈蒂莉共結連理的傑克，在潘朵拉星上與他們的孩子組成蘇里一家，過著與世無爭的幸福生活，未料威脅再度降臨，他們不遺餘力保護彼此，為了生存再度奮戰，還得承受隨之而來的悲痛創傷。",
+        "genre": "科幻片",
+        "release_date": "2022-12-14",
+        "rating": 7.61,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 282,
         "title": "雷射二人組",
         "m3u8_url": "https://vip.dytt-kan.com/20251019/8592_670c2618/index.m3u8",
@@ -28689,19 +28572,6 @@
         "rating": 5.3,
         "quality": "BD",
         "country": "法國"
-    },
-    {
-        "id": 1704,
-        "title": "駭客任務：復活",
-        "m3u8_url": "https://vip.dytt-luck.com/20250814/16362_6f900a87/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/dGUoJTyE1hO0OB3SwKbTivDzvUe.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
-        "overview": "《駭客任務：復活》重回有兩個現實的世界，一個是日常生活，另一個則是存在於日常的背後。湯瑪斯安德森想要找出他的現實是真實的，還是想像出來的，同時真正了解自己，所以他必須再次選擇「跟著白兔走」。儘管一切都像是幻覺，但如果湯瑪斯（或是尼歐）曾經學到什麼，那就是唯有透過選擇才能進出母體，尋找背後的真相。雖然尼歐早就知道他會做出何種選擇，但他不知道的是，母體變得比以前更強大、更堅固、更危險……似曾相識。",
-        "genre": "科幻片",
-        "release_date": "2021-12-16",
-        "rating": 6.36,
-        "quality": "BD",
-        "country": "美國"
     },
     {
         "id": 4699,
@@ -28795,19 +28665,6 @@
         "country": "俄羅斯"
     },
     {
-        "id": 8393,
-        "title": "魔鬼終結者：黑暗宿命",
-        "m3u8_url": "https://vip.dytt-live.com/20250330/2789_b19aa25f/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/p190DtShYv9DAmf28PTA1iGs19b.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
-        "overview": "莎拉康納保護了約翰康納並避免了審判日來臨，地球30億人因此獲救，卻守不住她最親愛兒子的性命，她決定誓死追殺T-800。在2020年，未來2045年傳送了女性強化人葛雷絲，前來保護未來的重要人物──丹妮。然而殘暴的「軍團」傳送更先進的終結者Rev-9追殺丹妮，於是三位女性攜手對抗Rev-9的追擊……",
-        "genre": "科幻片",
-        "release_date": "2019-10-23",
-        "rating": 6.415,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 37078,
         "title": "凶月",
         "m3u8_url": "https://vip.ffzy-play7.com/20230213/14615_691d2958/index.m3u8",
@@ -28856,6 +28713,19 @@
         "genre": "科幻片",
         "release_date": "2019-05-29",
         "rating": 6.694,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 3911,
+        "title": "復仇者聯盟：終局之戰",
+        "m3u8_url": "https://vip.dytt-kan.com/20250615/740_edfbe1af/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/fXgoEedB0k5TgaYrBqbY3eZ3DAI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "overview": "接續《復仇者聯盟：無限之戰》為復仇者聯盟系列最終章！薩諾斯彈指間毀滅宇宙一半的生物後，僅存的復仇者們要如何重整旗鼓，背水一戰，為僅存的信念而戰。",
+        "genre": "科幻片",
+        "release_date": "2019-04-24",
+        "rating": 8.237,
         "quality": "BD",
         "country": "美國"
     },
@@ -28925,6 +28795,19 @@
         "country": "美國"
     },
     {
+        "id": 3912,
+        "title": "復仇者聯盟：無限之戰",
+        "m3u8_url": "https://vip.dytt-kan.com/20250615/739_df263d99/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/oK7IP8Yx4pTgZSFE8RD74pwlJtW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+        "overview": "漫威電影宇宙10年集大成巔峰之作！史上最強超級英雄全面集結，我們打不了的戰爭，他們為我們挺身而出。地球的存亡，宇宙的平衡，在薩諾斯毀天滅地以前，尚有復仇者聯盟。《復仇者聯盟》系列的第三部，也是漫威宇宙最後階段最終章。將帶來前所未見，最極致、最致命的存亡對決。復仇者聯盟和他們的超級英雄盟友們必須要不顧一切攜手合作才有可能組止最強的終極反派薩諾斯將整個宇宙毀滅。",
+        "genre": "科幻片",
+        "release_date": "2018-04-25",
+        "rating": 8.235,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 14160,
         "title": "自殺突擊隊：慘痛代價",
         "m3u8_url": "https://vip.dytt-film.com/20250225/8985_e8a69bf6/index.m3u8",
@@ -28990,6 +28873,19 @@
         "country": "美國"
     },
     {
+        "id": 19582,
+        "title": "變形金剛5：最終騎士",
+        "m3u8_url": "https://vip.dytt-film.com/20250124/2182_d51b4167/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4aWYoX5kRIWAp2y3yuTjPIO8y10.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+        "overview": "變形金剛最新篇章【變形金剛5：最終騎士】打破了整個神話的核心，並重新檢視了英雄的定義。人類和鋼鐵筋骨即將開戰，柯博文離開了，拯救未來的關鍵埋沒在地球上被隱瞞的歷史裡。然而出乎意料的組合：凱德伊格（馬克華柏格 飾）、大黃蜂、英國勛爵（安東尼霍普金斯 飾）和一位牛津教授（蘿拉哈德克 飾）卻肩扛拯救世界的重擔。每個人的生命中，總會有一個時刻、一個讓你做出改變的時刻。在【變形金剛5：最終騎士】中，獵物變成了英雄；英雄變成了惡人。只有一方能夠存活下來：是它們，還是我們？",
+        "genre": "科幻片",
+        "release_date": "2017-06-16",
+        "rating": 6.1,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 3315,
         "title": "星際異攻隊2",
         "m3u8_url": "https://vip.dytt-kan.com/20250626/1401_9701a1c1/index.m3u8",
@@ -29042,15 +28938,15 @@
         "country": "美國"
     },
     {
-        "id": 18983,
-        "title": "魔鬼終結者：創世契機",
-        "m3u8_url": "https://vip.dytt-film.com/20250127/2892_6fe13163/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/sBKdPymxVzHphqKN0SrFaSj0t5G.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
-        "overview": "以約翰康納為首的人類反抗者，在2029年的未來世界中與超級電腦「天網」對抗。同時約翰康納也將戰士凱爾瑞斯送回1984年，保護母親莎拉康納不被機器人殺害。然而因為時間軸的破裂與混亂，人類獲勝的希望愈趨渺茫……",
+        "id": 3913,
+        "title": "復仇者聯盟2：奧創紀元",
+        "m3u8_url": "https://vip.dytt-kan.com/20250615/738_217eedd1/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vnqTgYrnS9dnq9y6gzpR69vsiNu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+        "overview": "「鋼鐵人」東尼史塔克為了維護地球和平安全，神盾局瓦解後，把史塔克大樓改成新的復仇者基地。鋼鐵人在圍剿九頭蛇時，中了汪達的幻術魔法，認為地球無力抵抗外星人入侵，於是打造人工智慧機器人「奧創」，不料奧創自行進化，卻認為唯有殲滅人類，才能維護世界和平。而後奧創與汪達結盟，黑寡婦、美國隊長與雷神索爾接連中了汪達的幻術，心中的夢魘陰影化成幻覺浮現眼前，浩克大搞破壞，鋼鐵人只好穿上「浩克毀滅者」來制服。復仇者們遭逢前所未見的心理戰猛攻，潰不成軍。他們要如何克服自己的陰影，重新集結，打敗奧創呢?",
         "genre": "科幻片",
-        "release_date": "2015-06-23",
-        "rating": 5.9,
+        "release_date": "2015-04-22",
+        "rating": 7.27,
         "quality": "BD",
         "country": "美國"
     },
@@ -29064,19 +28960,6 @@
         "genre": "科幻片",
         "release_date": "2014-11-19",
         "rating": 6.815,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
-        "id": 36712,
-        "title": "猩球崛起：黎明的進擊",
-        "m3u8_url": "https://vip.dytt-kan.com/20251203/10976_31b5b7b6/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w780/bFCHdkiXTppqtqHXjpiSjpK5hxi.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3SozaNPOYUadcmTPgndDibMyDNC.jpg",
-        "overview": "當人類的貪婪造成了無可避免的大自然反撲，後果是人類將失去家園及一切，並面臨異族的迫害；基因科學家威爾羅德曼為研發藥物治療阿茲海默症，對人猿進行活體基因實驗，但在實驗宣告失敗後，他將當中一隻剛出生的人猿從實驗室救出並取名凱撒。凱撒還在胎中時，其母親受到大量的藥物實驗，意外讓他突變並具有智慧，但後來在誤傷了人類後被關進收容所，也導致凱撒與人類漸行漸遠，最後反目成仇並集結人猿展開革命。 隨著時間的流逝，由凱撒領軍的人猿軍團不斷地進化並佔領地球，而十年前遭受到病毒爆發後存活下來的人類們，正悄悄地密謀反攻，當兩方人馬不斷地各自壯大，地球上兩個足以主宰世界的生物—人類與人猿間對立態勢漸趨緊繃，戰爭隨時一觸即發，最終究竟是誰能夠握有地球統治權？",
-        "genre": "科幻片",
-        "release_date": "2014-07-08",
-        "rating": 7.334,
         "quality": "BD",
         "country": "美國"
     },
@@ -29185,6 +29068,32 @@
         "country": "美國"
     },
     {
+        "id": 18953,
+        "title": "變形金剛3",
+        "m3u8_url": "https://vip.dytt-film.com/20250127/2930_6624b6d8/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ia6SDGv51Is6kdcjHtcpFEoxN2G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
+        "overview": "山姆大學畢業後找不到工作，透過女友卡莉介紹在一家公司當信件收發小弟，卻被卡莉上司利用而捲入危機。此時40年前阿波羅11號登陸月球時的機密曝光！原來在月球上早就發現了變形金剛的殘骸，60年代博派首領「御天至尊」，帶著拯救變形金剛星球的秘密武器「能量柱」逃到月球，被登陸月球的美國阿波羅11號太空船發現，美政府列此為最高機密。多年後，狂派「密卡登」設下陷阱，讓柯博文帶回御天至尊和能量柱，掀起兩派在地球的戰事。",
+        "genre": "科幻片",
+        "release_date": "2011-06-28",
+        "rating": 6.218,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 1947,
+        "title": "阿凡達",
+        "m3u8_url": "https://vip.dytt-cine.com/20250926/57082_c2c86788/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aKeJgTDAiBe5hFgFgI3V3ChOLmh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+        "overview": "在未來世界中，人類為取得另一星球資源，開啟阿凡達計畫，以人類與納美人的DNA混血，培養出身高近3米高的阿凡達，以利在潘朵拉星球生存並採礦。受傷的退役軍人傑克，首肯接受實驗並以他的阿凡達來到天堂般的潘朵拉星球。然而，在這唯美幽境裡，地上爬的、天上飛的、土裡鑽的生物卻隻隻巨大致命…傑克背負重任，身處險境中，與納美人首次的意外接觸後，雖然開啟了溝通的可能性，卻也即將面臨一場意想不到、浩瀚壯烈的世紀衝突與空前啟示…",
+        "genre": "科幻片",
+        "release_date": "2009-12-16",
+        "rating": 7.6,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 41453,
         "title": "蝴蝶效應3：啟示",
         "m3u8_url": "https://vip.dytt-kan.com/20251107/10084_c1aff675/index.m3u8",
@@ -29207,6 +29116,19 @@
         "genre": "科幻片",
         "release_date": "2008-06-12",
         "rating": 6.225,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 16447,
+        "title": "變形金剛",
+        "m3u8_url": "https://vip.dytt-film.com/20250211/6088_c4bca428/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/iFLXpnELp6LEO9g4lYvxlvA1gOZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+        "overview": "一個名叫山姆的青年，因機緣巧合而捲入了博派和狂派之間的戰爭，後兩者是兩派來自同一個外星球但相互對立的機械生命體，可以變形成人類生活中常見的機械。狂派一欲奪得火種，這種東西擁有賦予機器生命的力量，而且變形金剛也正是由火種所創，狂派希望可以將其用來在地球上建立一個機器軍團，而博派則要想方設法阻止對方。",
+        "genre": "科幻片",
+        "release_date": "2007-06-27",
+        "rating": 6.819,
         "quality": "BD",
         "country": "美國"
     },
@@ -29328,6 +29250,19 @@
         "country": "香港"
     },
     {
+        "id": 8773,
+        "title": "異形2",
+        "m3u8_url": "https://vip.dytt-live.com/20250326/2233_e0f7a4d0/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/XfIWdTyj19l7xQLe1E3PGefoNE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+        "overview": "蕾普莉（雪歌妮·薇佛 飾）是首次探險任務遇到異形後的唯一生還者，她一直冬眠直到被救援隊救回地球。當她睜開眼睛後，才發現自己已經冬眠了57年！  期間，人類已經移居到了異形所在的星球。蕾普莉知道後，馬上向當局報局該星球上異形的情況，但卻被當局認為要麼精神不正常，要麼謊話連篇。蕾普莉見當局對她的說話不予理睬，便決心不再涉足和異形有關的任何事。  果不其然，在那個異形所在的那個星球上定居的人忽然和地球中斷了聯系。這時當局才注意到蕾普莉之前彙報的情況，決定派出軍隊去營救。蕾普莉被說服參與營救行動。  又一場腥風血雨的戰鬥展開了！",
+        "genre": "科幻片",
+        "release_date": "1986-07-18",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 25916,
         "title": "哥吉拉",
         "m3u8_url": "https://svipsvip.ffzyread1.com/20241122/33654_5282e962/index.m3u8",
@@ -29339,6 +29274,19 @@
         "rating": 7.181,
         "quality": "HD",
         "country": "日本"
+    },
+    {
+        "id": 9791,
+        "title": "異形",
+        "m3u8_url": "https://vip.dytt-cinema.com/20250813/30066_69fe9173/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sz3BuGc2gfAboxQ1dIrXII2wfsQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cEobq5QrnOJjO6giDs8q4RxmMKh.jpg",
+        "overview": "這是影史上的一部經典科幻片，並且獲得奧斯卡最佳視覺效果獎。雪歌妮薇佛份演硬朗女長官蕾普莉，她和下屬乘坐商用太空船，在不知名的星球探險，下屬回到船上才發現一頭嗜血怪物上了船，從此無寧日，恐怖事件接二連三登場….。",
+        "genre": "科幻片",
+        "release_date": "1979-05-25",
+        "rating": 8.166,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 1507,
@@ -30472,6 +30420,19 @@
         "country": "義大利"
     },
     {
+        "id": 24923,
+        "title": "猩球崛起：王國誕生",
+        "m3u8_url": "https://vip.dytt-kan.com/20251203/10975_482b4b31/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/tE10WMV3SK2kq79aLHztJhz0EM5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
+        "overview": "故事背景發生在凱撒統治過後的幾世代。猩猩主導著世界，而人類則被迫在陰影中苟延殘喘的生活。隨著新的暴君領袖崛起，一隻年輕的猩猩踏上了一段質疑自己過去信念的旅程，牠也將做出影響猩猩和人類未來命運的選擇。",
+        "genre": "驚悚片",
+        "release_date": "2024-05-08",
+        "rating": 7.057,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 24722,
         "title": "校園火劫",
         "m3u8_url": "https://yzzy.play-cdn19.com/20240120/15920_b9b1b334/index.m3u8",
@@ -30535,6 +30496,19 @@
         "rating": 5.1,
         "quality": "HD",
         "country": "沙烏地阿拉伯"
+    },
+    {
+        "id": 5163,
+        "title": "私刑教育3",
+        "m3u8_url": "https://vip.dytt-cine.com/20250523/25677_8c2a6cec/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9dyX0lTs5s378uDwVGhPgGJA9zz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+        "overview": "羅伯特麥考（丹佐華盛頓飾）自從放棄作為政府殺手的生活後，一直在努力釋懷過去所做的壞事，並在替壓迫者伸張正義中找到慰藉。他意外在義大利南部找到歸屬，但也發現新朋友們受到當地黑幫老大的控制。隨著事件變得危險，麥考知道自已必須採取行動：成為朋友們的保護者，並大膽挑戰黑手黨。",
+        "genre": "驚悚片",
+        "release_date": "2023-08-30",
+        "rating": 7.292,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 23922,
@@ -31070,6 +31044,19 @@
         "country": "台灣"
     },
     {
+        "id": 36711,
+        "title": "猩球崛起：終極決戰",
+        "m3u8_url": "https://vip.dytt-kan.com/20251203/10977_7ca5eb06/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/8plpyZaNWKxFy2OlUsyvY7syPyZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+        "overview": "全球超賣座重量級鉅作系列【猩球崛起】第三部曲【猩球崛起:終極決戰】隨著上一篇章的故事延續，在人類與猩猩間的緊繃局勢之下，兩派主宰世界的族群對峙情況逐漸加劇。凱撒所領導的猩猩族群，面對著一位冷血殘暴並率領著人類武裝軍團的軍官強烈逼迫，為了生存，牠們不得不展開致命反擊，然而，長期激烈對抗的消磨不僅讓猿類一族元氣大傷，連帶導致族類情勢急轉直下，也迫使凱撒與自己內心的黑暗本能不斷角力，並且引發牠密謀報復的想法。旅程最終兩方人馬再度對峙，凱撒及軍官都發動所有軍力全面迎戰，而這場史詩般的終極決戰將牽絆著兩方物種及這座星球的未來命運。",
+        "genre": "驚悚片",
+        "release_date": "2017-07-11",
+        "rating": 7.21,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 35016,
         "title": "破碎我心",
         "m3u8_url": "https://vip.ffzy-play7.com/20230312/17871_c73e3a3f/index.m3u8",
@@ -31157,6 +31144,19 @@
         "genre": "驚悚片",
         "release_date": "2014-08-12",
         "rating": 7.325,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 36712,
+        "title": "猩球崛起：黎明的進擊",
+        "m3u8_url": "https://vip.dytt-kan.com/20251203/10976_31b5b7b6/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bFCHdkiXTppqtqHXjpiSjpK5hxi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3SozaNPOYUadcmTPgndDibMyDNC.jpg",
+        "overview": "當人類的貪婪造成了無可避免的大自然反撲，後果是人類將失去家園及一切，並面臨異族的迫害；基因科學家威爾羅德曼為研發藥物治療阿茲海默症，對人猿進行活體基因實驗，但在實驗宣告失敗後，他將當中一隻剛出生的人猿從實驗室救出並取名凱撒。凱撒還在胎中時，其母親受到大量的藥物實驗，意外讓他突變並具有智慧，但後來在誤傷了人類後被關進收容所，也導致凱撒與人類漸行漸遠，最後反目成仇並集結人猿展開革命。 隨著時間的流逝，由凱撒領軍的人猿軍團不斷地進化並佔領地球，而十年前遭受到病毒爆發後存活下來的人類們，正悄悄地密謀反攻，當兩方人馬不斷地各自壯大，地球上兩個足以主宰世界的生物—人類與人猿間對立態勢漸趨緊繃，戰爭隨時一觸即發，最終究竟是誰能夠握有地球統治權？",
+        "genre": "驚悚片",
+        "release_date": "2014-07-08",
+        "rating": 7.334,
         "quality": "BD",
         "country": "美國"
     },

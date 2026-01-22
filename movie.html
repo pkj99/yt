@@ -314,8 +314,8 @@
             genres = [...new Set(filteredMovies.map(m => m.genre))];
             renderRows();
 
-            console.log(filteredMovies);
-            if (s !== ''){
+            // console.log(filteredMovies);
+            if (s !== '' || c !== 'all' || y !== 'all'){
                 curG = 0; curM = 0;
                 changeG(1);
             }
