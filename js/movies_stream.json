@@ -1,5 +1,18 @@
 [
     {
+        "id": 42590,
+        "title": "大蟒蛇",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260127/10590_236522d7/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/elc1eu8l517X0dKjQgVlJDiIKLj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/yo41R39airbREp0PYfG30Ofxtgt.jpg",
+        "overview": "",
+        "genre": "冒險片",
+        "release_date": "2025-12-24",
+        "rating": 5.9,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 4571,
         "title": "不可能的任務：最終清算",
         "m3u8_url": "https://vip.dytt-cinema.com/20250818/30750_437aa62e/index.m3u8",
@@ -1599,6 +1612,19 @@
         "country": "英國"
     },
     {
+        "id": 42735,
+        "title": "致我的青春",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260130/10707_e8ad3f3f/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/7bgnGJxHjysPtIAvpqoxFDWHHlY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3RaVf9MWpB74kK8AtPJ7DJmfZNA.jpg",
+        "overview": "叛逆的少年與拘謹的照顧者在孤兒院意外建立情誼，同時正視各自痛苦的過去。",
+        "genre": "劇情片",
+        "release_date": "2026-01-29",
+        "rating": 7.4,
+        "quality": "BD",
+        "country": "印尼"
+    },
+    {
         "id": 42439,
         "title": "再見六月",
         "m3u8_url": "https://vip.ffzy-video.com/20251224/34173_acd8d58c/index.m3u8",
@@ -1688,6 +1714,19 @@
         "rating": 6.776,
         "quality": "BD",
         "country": "西班牙"
+    },
+    {
+        "id": 42743,
+        "title": "河鰻",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260202/10837_ab41f0c4/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/cs3GxeMsuIEzW2l83gJgFuzEyqE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/AnblbJZaVsaAdBQgHZtnYWrRWyQ.jpg",
+        "overview": "幾乎被台北人遺忘的社子島上，在垃圾焚化廠工作的青年守著老鴿舍，被困在鐵皮屋裡反覆度日，生命遲滯。一個燥熱午後，河上漂來神祕女子，兩人身處慾望與命運的匯流處，他們能擺脫共同的生命困境、降河迴游，或從此沉淪擱淺沙洲？",
+        "genre": "劇情片",
+        "release_date": "2025-10-03",
+        "rating": 0,
+        "quality": "BD",
+        "country": "台灣"
     },
     {
         "id": 27301,
@@ -3993,14 +4032,14 @@
     {
         "id": 22754,
         "title": "以她之名",
-        "m3u8_url": "https://yzzy.play-cdn7.com/20221004/21440_dae8b4fa/index.m3u8",
+        "m3u8_url": "https://vip.dytt-network.com/20260127/15599_8cc9db4e/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/m6bUeV4mczG3z2YXXr5XDKPsQzv.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xPUxumLPovJK6sr5s7QP2FjmV1p.jpg",
         "overview": "一名殺手有系統地針對某個大型兒童販運集團的成員下手，一位不屈不撓的警探找出她與殺手的共通點。",
         "genre": "劇情片",
         "release_date": "2021-05-14",
         "rating": 6.562,
-        "quality": "HD",
+        "quality": "BD",
         "country": "美國"
     },
     {
@@ -8684,6 +8723,19 @@
         "country": "德國"
     },
     {
+        "id": 42713,
+        "title": "暴衝特攻隊",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260129/10660_ada71870/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/Aq2k7ZzKSYBZDGhFsTrCXOOvqEY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/e4OnHU8HNAhdS6C4Ypk6NA26kPQ.jpg",
+        "overview": "在《暴衝特攻隊》中，感情疏離的同父異母兄弟強尼與詹姆士因父親離奇死亡而被迫重聚。兩人追查真相時，塵封的祕密逐一浮現，揭露一場足以撕裂家族的陰謀。故事背景設定於夏威夷，由安傑爾曼努爾索托執導，克萊斯邦、雅各布貝塔隆、史蒂芬魯特、莫蓮娜芭卡琳主演。",
+        "genre": "動作片",
+        "release_date": "2026-01-28",
+        "rating": 6.556,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 42550,
         "title": "全信沒收",
         "m3u8_url": "https://vip.dytt-cine.com/20260117/67355_bd471903/index.m3u8",
@@ -8693,6 +8745,45 @@
         "genre": "動作片",
         "release_date": "2026-01-13",
         "rating": 7.14,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 42714,
+        "title": "實習生",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260129/10667_2e7fc7cb/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+        "overview": "",
+        "genre": "動作片",
+        "release_date": "2026-01-13",
+        "rating": 6.194,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 42459,
+        "title": "天劫倒數2：大遷徙",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260112/9305_e561611f/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/aWWCcUC3GIASiBxBfFmgu7jbtrf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/gtKWn9l32PolrFwCuZQsujEAEoc.jpg",
+        "overview": "倖存的蓋瑞提一家必須離開安全的格陵蘭島避難所，踏上危險的旅程，穿越歐洲滿目瘡痍的冰凍荒原，尋找新的家園。",
+        "genre": "動作片",
+        "release_date": "2026-01-07",
+        "rating": 6.8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 42506,
+        "title": "邦尼殺死他",
+        "m3u8_url": "https://vip.dytt-cine.com/20260116/67254_c5aa1ea0/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/8ITneaY29kRHAWZ3d5kPhsvhZsO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+        "overview": "小女孩奧蘿拉深信，家中的地板下潛伏著一隻吃掉她全家的神祕怪物。她決定向隔壁冷峻的鄰居求助，因為她發現這位看似平凡的男人竟是一名職業殺手！",
+        "genre": "動作片",
+        "release_date": "2025-12-11",
+        "rating": 7.1,
         "quality": "BD",
         "country": "美國"
     },
@@ -8838,6 +8929,19 @@
         "rating": 6.102,
         "quality": "BD",
         "country": "韓國"
+    },
+    {
+        "id": 655,
+        "title": "96分鐘",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260130/10704_dacb283d/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/r1fgAwOytdkm0dyMPXLDPqa6guU.jpg",
+        "overview": "前拆彈專家宋康任與未婚妻⿈欣搭上⼀台被放置炸彈的⾼鐵。與此同時，陷入外遇醜聞的知名物理補習班⽼師劉楷，為了追回搭乘上⼀班⾼鐵負氣返鄉的妻⼦婷娟，也搭上了這班炸彈列⾞……究竟，這次能夠順利地拆除炸彈嗎︖",
+        "genre": "動作片",
+        "release_date": "2025-09-05",
+        "rating": 7,
+        "quality": "TC",
+        "country": "台灣"
     },
     {
         "id": 583,
@@ -9344,6 +9448,19 @@
         "release_date": "2024-09-10",
         "rating": 7.2,
         "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 42712,
+        "title": "Strangers",
+        "m3u8_url": "https://vip.dytt-cinema.com/20250930/35886_52ef2da9/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ohpuwSBMgP44OPduPkpOtLxh90w.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xGbNoh7aWmU81oYuxJoFI07Rz5I.jpg",
+        "overview": "",
+        "genre": "動作片",
+        "release_date": "2024-08-16",
+        "rating": 5.3,
+        "quality": "TC",
         "country": "美國"
     },
     {
@@ -16094,6 +16211,32 @@
         "country": "日本"
     },
     {
+        "id": 42432,
+        "title": "海綿寶寶電影版：尋寶大冒險",
+        "m3u8_url": "https://vip.dytt-tvs.com/20251231/8892_10a409f7/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/bbLSBQIXEXdTyi0VWdrt5zXUxyp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+        "overview": "為了成為一個大人物，海綿寶寶決定向蟹老闆證明自己的勇氣，追隨神祕又充滿傳奇色彩的幽靈海盜，飛行荷蘭人，踏上一場充滿笑料與驚奇的航海冒險旅程，而這場大冒險也將帶他深入他從來沒有去過的海底最深處。",
+        "genre": "動畫片",
+        "release_date": "2025-12-16",
+        "rating": 7.071,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 42793,
+        "title": "大衛：王者降臨",
+        "m3u8_url": "https://vip.dytt-kan.com/20251017/8357_b1c1c47f/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/lVyK4nBoUGgLAH6iBnUdEZAfHvM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+        "overview": "當巨人歌利亞崛起，威脅到整個國家時，一個年輕的牧羊人靠著投石索、幾顆石頭，以及堅定不移的信仰，挺身而出。在權力的驅使與使命的指引下，他展開一段考驗著忠誠、愛與信仰的冒險旅程。最終，他不僅要為王冠而戰，更要為國家的命運而戰。",
+        "genre": "動畫片",
+        "release_date": "2025-12-14",
+        "rating": 8.145,
+        "quality": "BD",
+        "country": "南非"
+    },
+    {
         "id": 42258,
         "title": "動物方城市2",
         "m3u8_url": "https://vip.dytt-tvs.com/20251227/8694_c37a2122/index.m3u8",
@@ -21277,7 +21420,7 @@
         "genre": "奇幻片",
         "release_date": "2007-07-27",
         "rating": 7.6,
-        "quality": "HD",
+        "quality": "BD",
         "country": "台灣"
     },
     {
@@ -22139,6 +22282,19 @@
         "country": "美國"
     },
     {
+        "id": 3609,
+        "title": "罪人",
+        "m3u8_url": "https://vip.dytt-kan.com/20250620/1075_46072631/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/I91EahT9ytqtl4KfA2QCzGlvSD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+        "overview": "「夜路走多的人，有天會發現有東西跟著你回家…」 雙胞胎兄弟（麥可·B·喬丹　飾演）試圖擺脫不愉快的過往，回到家鄉想重新開始，但卻發現更為恐怖的邪惡勢力正等待著他們的回歸…",
+        "genre": "恐怖片",
+        "release_date": "2025-04-16",
+        "rating": 7.513,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2342,
         "title": "醜繼妹",
         "m3u8_url": "https://vip.dytt-kan.com/20250724/2868_8b3bac12/index.m3u8",
@@ -22908,14 +23064,14 @@
     {
         "id": 28990,
         "title": "安娜貝爾：造孽",
-        "m3u8_url": "https://vip.ffzy-online1.com/20230804/42688_b811056f/index.m3u8",
+        "m3u8_url": "https://vip.dytt-kan.com/20260104/12098_f73c2c53/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/8PgAeOu2rZrjgWymDSIldTe7Cdp.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
         "overview": "在《安娜貝爾：造孽》的故事中，清楚交代安娜貝爾的起源，手藝精巧的洋娃娃製作師山謬(安東尼拉帕格利亞 飾)及其妻子(米蘭妲奧圖 飾)遭逢愛女小貝的死亡意外，思女心切的他們終日祈禱能夠重見愛女，而他們的祈求竟獲得回應：「小貝」表達希望能夠附身在娃娃身上的願望。但是很快地，這對夫妻發現附身在娃娃身上的不是他們的女兒，於是決定將「它」關起來。\r 幾年後這對夫妻款待了一名修女及幾名孤兒院的女孩們來到他們家，但這群女孩很快地成為安娜貝爾娃娃的新目標。\r 《安娜貝爾：造孽》由《鬼關燈》導演大衛桑德柏格執導，《厲陰宅》導演溫子仁與彼得沙佛朗擔任製作人，演員包括史蒂芬席格曼、安東尼拉帕格利亞、米蘭妲奧圖與童星泰莉莎貝特曼與露露威爾森等共同演出。",
         "genre": "恐怖片",
         "release_date": "2017-08-03",
         "rating": 6.604,
-        "quality": "HD",
+        "quality": "BD",
         "country": "美國"
     },
     {
@@ -26093,7 +26249,7 @@
     {
         "id": 42393,
         "title": "家弒服務",
-        "m3u8_url": "https://vip.dytt-tvs.com/20251223/8180_6e187996/index.m3u8",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260203/10886_f2a13eea/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/jxdaDOTQ9caZ8oWbmfJcrRyaFv3.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
         "overview": "生活困頓的米莉得到在妮娜和丈夫安德魯的豪宅擔任幫傭的機會，她原本以為這是人生的嶄新開始，殊不知這對生活富裕的夫妻有著不可告人的危險祕密……",
@@ -26102,6 +26258,19 @@
         "rating": 8.176,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 42155,
+        "title": "大使館謀殺案",
+        "m3u8_url": "https://vip.dytt-cine.com/20251114/61965_f891f3a2/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/3DBmBItPdy0A2ol59jgHhS54Lua.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/gLXibzLQ4qegvjdqDC0f8yTij2P.jpg",
+        "overview": "1934年，私家偵探米蘭達·格林調查了一起發生在英國駐開羅大使館的謀殺案，一份絕密文件被盜，危及白金漢宮和世界和平。",
+        "genre": "懸疑片",
+        "release_date": "2025-11-14",
+        "rating": 6.5,
+        "quality": "BD",
+        "country": "英國"
     },
     {
         "id": 625,
@@ -30041,6 +30210,32 @@
         "rating": 0,
         "quality": "HD",
         "country": "台灣"
+    },
+    {
+        "id": 42655,
+        "title": "偽術奇才",
+        "m3u8_url": "https://vip.dytt-cine.com/20260124/67937_0820215b/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/kukyCs3z672sgO0TE4z8I4Wc2DC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg",
+        "overview": "這部劇情片取材自真人真事，描述 1970 年代羅馬一位胸懷大志的藝術家成為替地下犯罪集團服務的偽造大師。",
+        "genre": "驚悚片",
+        "release_date": "2026-01-22",
+        "rating": 6.385,
+        "quality": "BD",
+        "country": "義大利"
+    },
+    {
+        "id": 42650,
+        "title": "校園火劫：深淵",
+        "m3u8_url": "https://vip.dytt-cine.com/20260123/67782_712fef85/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ddlYVZBPSiFhN2HToro4jU2zZMi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/uiSaYXR0jLLWma0EPA1tcBhX6wT.jpg",
+        "overview": "三名女校學生在一場暴風雨中受困地下坑洞，她們必須努力求生，並面對各自內心的矛盾。",
+        "genre": "驚悚片",
+        "release_date": "2026-01-21",
+        "rating": 3.846,
+        "quality": "BD",
+        "country": "沙烏地阿拉伯"
     },
     {
         "id": 42347,
