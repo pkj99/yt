@@ -1768,6 +1768,19 @@
         "country": "法國"
     },
     {
+        "id": 42806,
+        "title": "我家的事",
+        "m3u8_url": "https://vip.ffzy-plays.com/20260204/50208_2b040bf7/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/rms2HpZTpd4D10q8AfLTNpVgqAK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/y0VkevEaXZAEgDW83iwrelTeBKK.jpg",
+        "overview": "貼心的姊姊小春為了申請學費減免，意外發現自己是家中收養的孩子；弟弟夏仔在入伍前遇見了爸爸阿冬同梯的好友阿淵，卻發現阿淵跟媽媽阿秋之間的憋扭。小春跟夏仔逐漸發現隱藏在家人之間的秘密⋯⋯。",
+        "genre": "劇情片",
+        "release_date": "2025-09-12",
+        "rating": 7,
+        "quality": "HD",
+        "country": "台灣"
+    },
+    {
         "id": 2621,
         "title": "私家偵探",
         "m3u8_url": "https://vip.dytt-kan.com/20250719/2418_db60b95d/index.m3u8",
@@ -22100,6 +22113,19 @@
         "country": "美國"
     },
     {
+        "id": 42726,
+        "title": "荒島囚救",
+        "m3u8_url": "https://vip.dytt-see.com/20260128/27788_e17f6cb9/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/wcm09e232izMfEPqhgS1hRILFqK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/jo17HPxcJqT9jpSw3Xv92mQBY1h.jpg",
+        "overview": "兩名同事在飛機失事後，成為唯一倖存者被困在荒島上。他們必須放下過往恩怨、共同求生，但最終演變成一場不安又充滿黑色幽默的意志與智慧對決……",
+        "genre": "恐怖片",
+        "release_date": "2026-01-22",
+        "rating": 7.1,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
         "id": 42558,
         "title": "28年毀滅倒數：人骨聖殿",
         "m3u8_url": "https://vip.dytt-tvs.com/20260118/9978_feaa5178/index.m3u8",
@@ -31575,6 +31601,19 @@
         "rating": 0,
         "quality": "HD",
         "country": "台灣"
+    },
+    {
+        "id": 31027,
+        "title": "平安夜，殺人夜",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260129/10661_ef2f8301/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ypj2JwAN4vWcc4zSqFCTgUwMbJV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/aTu1mLpKuhfZWezMveE7z1d7Rc8.jpg",
+        "overview": "",
+        "genre": "驚悚片",
+        "release_date": "1984-11-09",
+        "rating": 5.9,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 21075,

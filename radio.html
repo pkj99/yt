@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Internet Radio | 網路電台</title>
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="images/favicon.png" />        
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.4.12/hls.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --neon-blue: #00f3ff;
+            --neon-purple: #bc13fe;
+            --bg-dark: #050b18;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: white;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            overflow-x: hidden;
+        }
+
+        .glass-panel {
+            background: rgba(15, 23, 42, 0.8);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(0, 243, 255, 0.2);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);
+        }
+
+        .neon-text {
+            text-shadow: 0 0 10px var(--neon-blue);
+        }
+
+        .neon-border-hover:hover {
+            border-color: var(--neon-blue);
+            box-shadow: 0 0 15px rgba(0, 243, 255, 0.4);
+        }
+
+        .audio-visualizer {
+            display: flex;
+            align-items: flex-end;
+            gap: 3px;
+            height: 30px;
+        }
+
+        .bar {
+            width: 4px;
+            background: var(--neon-blue);
+            border-radius: 2px;
+            animation: bounce 1s ease-in-out infinite alternate;
+            animation-play-state: paused;
+        }
+
+        .playing .bar {
+            animation-play-state: running;
+        }
+
+        @keyframes bounce {
+            0% { height: 5px; opacity: 0.3; }
+            100% { height: 25px; opacity: 1; }
+        }
+
+        /* 滾動條樣式 */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-dark);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #1e293b;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--neon-blue);
+        }
+
+        .active-station {
+            background: rgba(0, 243, 255, 0.1) !important;
+            border-color: var(--neon-blue) !important;
+        }
+
+        .pulse {
+            animation: pulse-animation 2s infinite;
+        }
+
+        @keyframes pulse-animation {
+            0% { box-shadow: 0 0 0 0px rgba(0, 243, 255, 0.4); }
+            100% { box-shadow: 0 0 0 15px rgba(0, 243, 255, 0); }
+        }
+    </style>
+</head>
+<body class="h-screen flex flex-col">
+
+    <!-- Header -->
+    <header class="p-4 glass-panel z-50 flex justify-between items-center border-b border-cyan-900/50">
+        <div class="flex items-center gap-3">
+            <div class="w-10 h-10 bg-cyan-500 rounded-full flex items-center justify-center pulse">
+                <i class="fas fa-broadcast-tower text-slate-900 text-xl"></i>
+            </div>
+            <h1 class="text-xl font-bold tracking-widest neon-text">RADIO</h1>
+            <div class="status-tag" onclick="window.location='index.html'"><img src="./images/home2.png" width="30px"></div>
+        </div>
+        <div id="status-indicator" class="text-xs text-cyan-400 opacity-70">
+            SYSTEM READY
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-1 overflow-y-auto p-4 md:p-8">
+        <div class="max-w-6xl mx-auto">
+            <!-- Search & Filter -->
+            <div class="mb-8 relative">
+                <input type="text" id="search" placeholder="搜尋電台名稱..." 
+                    class="w-full bg-slate-900/50 border border-cyan-900/50 rounded-full py-3 px-12 focus:outline-none focus:border-cyan-400 text-cyan-100 transition-all">
+                <i class="fas fa-search absolute left-5 top-4 text-cyan-700"></i>
+            </div>
+
+            <!-- Radio Grid -->
+            <div id="radio-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                <!-- Data will be injected here -->
+                <div class="col-span-full text-center py-20 opacity-50">載入數據中...</div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Player Bar (Mobile Fixed) -->
+    <footer id="player-bar" class="glass-panel p-4 border-t border-cyan-900/50 hidden">
+        <div class="max-w-6xl mx-auto flex items-center gap-4">
+            <img id="current-logo" src="./images/radio.png" class="w-14 h-14 rounded-lg object-cover border border-cyan-800" alt="logo">
+            <div class="flex-1 min-w-0">
+                <div id="current-title" class="font-bold truncate text-cyan-100">未選擇電台</div>
+                <div id="current-info" class="text-xs text-cyan-500/70 truncate">N/A</div>
+            </div>
+            
+            <div class="flex items-center gap-4">
+                <div id="visualizer" class="audio-visualizer hidden md:flex mr-4">
+                    <div class="bar" style="animation-delay: 0.1s"></div>
+                    <div class="bar" style="animation-delay: 0.3s"></div>
+                    <div class="bar" style="animation-delay: 0.2s"></div>
+                    <div class="bar" style="animation-delay: 0.4s"></div>
+                    <div class="bar" style="animation-delay: 0.1s"></div>
+                </div>
+                
+                <button id="play-pause-btn" class="w-12 h-12 bg-cyan-500 rounded-full flex items-center justify-center hover:bg-cyan-400 transition-colors">
+                    <i class="fas fa-play text-slate-900 text-xl ml-1"></i>
+                </button>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Audio Element -->
+    <audio id="main-audio" crossorigin="anonymous"></audio>
+
+    <script>
+        let radioData = []; // 改為由 Fetch 抓取
+        const defaultLogo = "./images/radio.png";
+        const grid = document.getElementById('radio-grid');
+        const searchInput = document.getElementById('search');
+        const audio = document.getElementById('main-audio');
+        const playerBar = document.getElementById('player-bar');
+        const playPauseBtn = document.getElementById('play-pause-btn');
+        const statusIndicator = document.getElementById('status-indicator');
+        
+        let hls = null;
+        let currentStation = null;
+
+        // 從 radio_data.json 獲取數據
+        async function fetchRadioData() {
+            try {
+                statusIndicator.textContent = "FETCHING DATA...";
+                const response = await fetch('./js/radio_data.json');
+                if (!response.ok) throw new Error('Network response was not ok');
+                radioData = await response.json();
+                statusIndicator.textContent = "DATA LOADED";
+                renderStations();
+            } catch (error) {
+                console.error('Fetch error:', error);
+                statusIndicator.textContent = "FETCH ERROR";
+                grid.innerHTML = `<div class="col-span-full text-center py-20 text-red-400">無法載入電台數據，請檢查 radio_data.json 是否存在。</div>`;
+            }
+        }
+
+        // 初始化電台清單
+        function renderStations(filter = "") {
+            grid.innerHTML = "";
+            const filtered = radioData.filter(s => s.title.toLowerCase().includes(filter.toLowerCase()));
+            
+            if (filtered.length === 0 && radioData.length > 0) {
+                grid.innerHTML = `<div class="col-span-full text-center py-20 opacity-50">找不到符合的電台</div>`;
+                return;
+            }
+
+            filtered.forEach(station => {
+                const card = document.createElement('div');
+                card.className = "station-card glass-panel p-4 rounded-2xl flex items-center gap-4 cursor-pointer neon-border-hover transition-all border border-transparent";
+                card.dataset.id = station.id;
+                
+                if (currentStation && currentStation.id === station.id) {
+                    card.classList.add('active-station');
+                }
+
+                const logoSrc = station.logo && station.logo !== "" ? station.logo : defaultLogo;
+                
+                card.innerHTML = `
+                    <div class="relative w-16 h-16 flex-shrink-0">
+                        <img src="${logoSrc}" class="w-full h-full object-cover rounded-xl border border-cyan-900" 
+                             onerror="this.src='${defaultLogo}'" alt="logo">
+                        <div class="absolute inset-0 bg-cyan-500/10 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity">
+                            <i class="fas fa-play text-cyan-400"></i>
+                        </div>
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <div class="font-semibold text-cyan-50 truncate">${station.title}</div>
+                        <div class="text-xs text-cyan-600 truncate">${station.info || ''}</div>
+                    </div>
+                `;
+
+                card.addEventListener('click', () => playStation(station));
+                grid.appendChild(card);
+            });
+        }
+
+        // 播放控制
+        function playStation(station) {
+            if (currentStation && currentStation.id === station.id) {
+                togglePlay();
+                return;
+            }
+
+            // 更新 UI 狀態
+            currentStation = station;
+            document.querySelectorAll('.station-card').forEach(c => c.classList.remove('active-station'));
+            const activeCard = document.querySelector(`.station-card[data-id="${station.id}"]`);
+            if (activeCard) activeCard.classList.add('active-station');
+
+            playerBar.classList.remove('hidden');
+            document.getElementById('current-title').textContent = station.title;
+            document.getElementById('current-info').textContent = station.info || 'N/A';
+            document.getElementById('current-logo').src = station.logo || defaultLogo;
+            statusIndicator.textContent = "CONNECTING...";
+
+            // 處理音訊源
+            const url = station.url;
+            
+            if (hls) {
+                hls.destroy();
+                hls = null;
+            }
+
+            if (url.includes('.m3u8')) {
+                if (Hls.isSupported()) {
+                    hls = new Hls();
+                    hls.loadSource(url);
+                    hls.attachMedia(audio);
+                    hls.on(Hls.Events.MANIFEST_PARSED, () => audio.play());
+                } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+                    audio.src = url;
+                    audio.play();
+                }
+            } else {
+                audio.src = url;
+                audio.play();
+            }
+
+            // 更新 MediaSession (背景播放支援)
+            if ('mediaSession' in navigator) {
+                navigator.mediaSession.metadata = new MediaMetadata({
+                    title: station.title,
+                    artist: 'Future Radio Online',
+                    album: station.info || '',
+                    artwork: [
+                        { src: station.logo || defaultLogo, sizes: '512x512', type: 'image/png' }
+                    ]
+                });
+
+                navigator.mediaSession.setActionHandler('play', () => audio.play());
+                navigator.mediaSession.setActionHandler('pause', () => audio.pause());
+                navigator.mediaSession.setActionHandler('stop', () => {
+                    audio.pause();
+                    audio.src = "";
+                });
+            }
+        }
+
+        function togglePlay() {
+            if (audio.paused) {
+                audio.play();
+            } else {
+                audio.pause();
+            }
+        }
+
+        // 事件監聽
+        playPauseBtn.addEventListener('click', togglePlay);
+
+        audio.onplay = () => {
+            playPauseBtn.innerHTML = '<i class="fas fa-pause text-slate-900 text-xl"></i>';
+            document.getElementById('visualizer').classList.add('playing');
+            statusIndicator.textContent = "SIGNAL LIVE";
+            statusIndicator.classList.add('neon-text');
+        };
+
+        audio.onpause = () => {
+            playPauseBtn.innerHTML = '<i class="fas fa-play text-slate-900 text-xl ml-1"></i>';
+            document.getElementById('visualizer').classList.remove('playing');
+            statusIndicator.textContent = "PAUSED";
+            statusIndicator.classList.remove('neon-text');
+        };
+
+        audio.onerror = () => {
+            statusIndicator.textContent = "SIGNAL ERROR";
+            console.error("Audio Load Error");
+        };
+
+        searchInput.addEventListener('input', (e) => {
+            renderStations(e.target.value);
+        });
+
+        // 啟動：改為先抓取數據
+        window.onload = () => {
+            fetchRadioData();
+        };
+
+    </script>
+</body>
+</html>
