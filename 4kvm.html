@@ -421,24 +421,25 @@
         function handlePlayAction() {
             const activeMovies = filteredMovies.filter(m => m.genre === genres[curG]);
             const m = activeMovies[curM];
-
-            fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(m.m3u8_url)}`)
-            .then(response => {
-                if (response.ok) return response.text()
-                throw new Error('Network response was not ok.')
-            })
-            .then(data => {
-                var Url = data.split("source: '")[1].split('.svg')[0].replace('/ws/','/m3/')+'.m3u8';
-                location.href = 'xplayer.html?url='+Url+'&img='+encodeURIComponent(m.backdrop);
-                // window.open(Url,'Video');
-                // document.getElementById('video-modal').style.display = 'flex';
-                // const v = document.getElementById('modal-player');
-                // if(hlsModal) hlsModal.destroy();
-                // if(Hls.isSupported()){
-                //     hlsModal = new Hls(); hlsModal.loadSource(Url); hlsModal.attachMedia(v);
-                // } else { v.src = Url; }
-                // v.play();                
-            });
+            
+            try {
+                fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(m.m3u8_url)}`)
+                .then(response => {
+                    if (response.ok) return response.text()
+                    throw new Error('Network response was not ok.')
+                })
+                .then(data => {
+                    var Url = data.split("source: '")[1].split('.svg')[0].replace('/ws/','/m3/')+'.m3u8';
+                    location.href = 'xplayer.html?url='+Url+'&img='+encodeURIComponent(m.backdrop);
+                });
+            } catch (error) {
+                console.error("An error occurred:", error.message);
+                location.href = m.m3u8_url;
+            } finally {
+                // Code that always runs
+                console.log("Execution finished."); 
+                location.href = m.m3u8_url;
+            }
 
             // const activeMovies = filteredMovies.filter(m => m.genre === genres[curG]);
             // const m = activeMovies[curM];
