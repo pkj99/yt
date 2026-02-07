@@ -1,0 +1,156 @@
+:root {
+    --bg: #141414;
+    --red: #e50914;
+    --white: #fff;
+}
+
+body {
+    background: var(--bg);
+    color: var(--white);
+    font-family: sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 0 4%;
+    z-index: 1000;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), transparent);
+    transition: 0.3s;
+}
+
+.logo {
+    color: var(--red);
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.nav-links span {
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.hero {
+    position: relative;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    transition: background 0.5s ease;
+}
+
+#hero-player {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100vw;
+    height: 56.25vw;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+}
+
+.hero-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, var(--bg) 10%, transparent 50%), linear-gradient(to right, var(--bg) 10%, transparent 60%);
+}
+
+.hero-content {
+    position: absolute;
+    bottom: 20%;
+    left: 4%;
+    z-index: 10;
+    max-width: 600px;
+}
+
+.btn-play {
+    background: white;
+    color: black;
+    border: none;
+    padding: 10px 25px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 15px;
+    padding: 20px 4%;
+}
+
+.video-item {
+    cursor: pointer;
+    transition: transform 0.3s;
+    position: relative;
+}
+
+.video-item:hover {
+    transform: scale(1.08);
+    z-index: 5;
+}
+
+.video-item img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.badge {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: var(--red);
+    padding: 2px 6px;
+    font-size: 0.7rem;
+    border-radius: 3px;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 2000;
+}
+
+.modal-content {
+    width: 90%;
+    max-width: 900px;
+    margin: 3% auto;
+    background: #181818;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.ep-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 20px;
+}
+
+.ep-btn {
+    background: #333;
+    color: white;
+    border: 1px solid #444;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.ep-btn:hover {
+    background: var(--red);
+}
