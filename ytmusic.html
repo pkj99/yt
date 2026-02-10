@@ -152,6 +152,10 @@
             @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } */
 
             .nav-scroll {       
+                padding-top: 0px;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-bottom: 0px;
                 scrollbar-width: none;
             }
 
@@ -314,6 +318,8 @@
                 top: 0,
                 behavior: 'smooth' // 平滑滾動效果
             });
+        } else {
+            document.getElementsByClassName('track-item playing')[0].scrollIntoView({ behavior: "smooth", block: "start", inline: "nearest" });
         }
     }
 
@@ -327,12 +333,31 @@
         document.getElementById('barArt').src = `https://i.ytimg.com/vi/${song.id}/maxresdefault.jpg`;
         document.getElementById('barArt').classList.add('playing');
 
-        if (window.innerWidth <= 768) {
-            document.getElementById('playerOverlay').classList.add('expanded');
-        }
+        // if (window.innerWidth <= 768) {
+        //     document.getElementById('playerOverlay').classList.add('expanded');
+        // }
         loadPlaylist(currentPlaylistIndex);
 
-        document.getElementsByClassName('track-item playing')[0].scrollIntoView({ behavior: "smooth", block: "start" });
+        // 更新 MediaSession (背景播放支援)
+        if ('mediaSession' in navigator) {
+            navigator.mediaSession.metadata = new MediaMetadata({
+                title: song.title,
+                artist: song.artist,
+                album: 'Youtube Music' || '',
+                artwork: [
+                    { src: './js/music.png' || defaultLogo, sizes: '512x512', type: 'image/png' }
+                ]
+            });
+
+            navigator.mediaSession.setActionHandler('play', () => player.playVideo());
+            navigator.mediaSession.setActionHandler('pause', () => player.pauseVideo());
+            navigator.mediaSession.setActionHandler('stop', () => {
+                player.pauseVideo();
+                player.src = "";
+            });
+        }
+
+
     }
 
     function toggleExpand() {
