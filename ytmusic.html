@@ -321,6 +321,9 @@
         } else {
             document.getElementsByClassName('track-item playing')[0].scrollIntoView({ behavior: "smooth", block: "start", inline: "nearest" });
         }
+
+        player.getPlayerState() === 1 ? player.playVideo() : player.pauseVideo();
+
     }
 
     function playTrack(sIdx) {
@@ -337,26 +340,6 @@
         //     document.getElementById('playerOverlay').classList.add('expanded');
         // }
         loadPlaylist(currentPlaylistIndex);
-
-        // 更新 MediaSession (背景播放支援)
-        if ('mediaSession' in navigator) {
-            navigator.mediaSession.metadata = new MediaMetadata({
-                title: song.title,
-                artist: song.artist,
-                album: 'Youtube Music' || '',
-                artwork: [
-                    { src: './js/music.png' || defaultLogo, sizes: '512x512', type: 'image/png' }
-                ]
-            });
-
-            navigator.mediaSession.setActionHandler('play', () => player.playVideo());
-            navigator.mediaSession.setActionHandler('pause', () => player.pauseVideo());
-            navigator.mediaSession.setActionHandler('stop', () => {
-                player.pauseVideo();
-                player.src = "";
-            });
-        }
-
 
     }
 
