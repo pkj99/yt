@@ -32,8 +32,15 @@
             padding: 15px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.1);
         }
         .nav-scroll {
-            display: flex; gap: 12px; padding: 0 20px; 
-            overflow-x: auto; scrollbar-width: none; /* 隱藏捲軸 */
+            display: flex; gap: 12px; 
+            /* padding: 0 30px;  */
+            padding-top: 5px;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-bottom: 10px;
+            overflow-x: auto; 
+            /* scrollbar-width: none; */
+            scrollbar-width: thin; 
         }
         .nav-scroll::-webkit-scrollbar { display: none; }
         .nav-item {
@@ -144,6 +151,9 @@
 
             @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } */
 
+            .nav-scroll {       
+                scrollbar-width: none;
+            }
 
             .player-bar.expanded .current-track-img {
                 width: 100%;
@@ -321,6 +331,8 @@
             document.getElementById('playerOverlay').classList.add('expanded');
         }
         loadPlaylist(currentPlaylistIndex);
+
+        document.getElementsByClassName('track-item playing')[0].scrollIntoView({ behavior: "smooth", block: "start" });
     }
 
     function toggleExpand() {

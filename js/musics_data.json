@@ -137,14 +137,14 @@
                 "artist": "Rauw Alejandro"
             },
             {
-                "id": "_TywDvzjStQ",
-                "title": "Rosones- Tito Double P",
-                "artist": "Tito Double P"
-            },
-            {
                 "id": "aSugSGCC12I",
                 "title": "Sabrina Carpenter - Manchild",
                 "artist": "Sabrina Carpenter"
+            },
+            {
+                "id": "_TywDvzjStQ",
+                "title": "Rosones- Tito Double P",
+                "artist": "Tito Double P"
             },
             {
                 "id": "Fu3u83byc5A",
@@ -167,19 +167,29 @@
                 "artist": "Chris Brown"
             },
             {
-                "id": "rEUOTboDmBQ",
-                "title": "8Uno - Pelotero A La Bola Feat. Airam Páez  #warnermusicmexico",
-                "artist": "8Uno"
-            },
-            {
                 "id": "5EpyN_6dqyk",
                 "title": "The Weeknd, Playboi Carti - Timeless",
                 "artist": "The Weeknd"
             },
             {
+                "id": "rEUOTboDmBQ",
+                "title": "8Uno - Pelotero A La Bola Feat. Airam Páez  #warnermusicmexico",
+                "artist": "8Uno"
+            },
+            {
                 "id": "PkMKJEkE8Mo",
                 "title": "“Gnarly\"  (Choreography Ver.) | KATSEYE",
                 "artist": "KATSEYE"
+            },
+            {
+                "id": "nNUiVCKu_9Y",
+                "title": "Grupo Frontera, Fuerza Regida - COQUETA",
+                "artist": "FUERZA REGIDA"
+            },
+            {
+                "id": "Qh8QwVYOSVU",
+                "title": "Teddy Swims - Bad Dreams",
+                "artist": "Teddy Swims"
             },
             {
                 "id": "dgUHE8wWhiE",
@@ -190,16 +200,6 @@
                 "id": "O0DgxEW0vGQ",
                 "title": "Neton Vega, Peso Pluma - Morena",
                 "artist": "Neton Vega"
-            },
-            {
-                "id": "Qh8QwVYOSVU",
-                "title": "Teddy Swims - Bad Dreams",
-                "artist": "Teddy Swims"
-            },
-            {
-                "id": "nNUiVCKu_9Y",
-                "title": "Grupo Frontera, Fuerza Regida - COQUETA",
-                "artist": "FUERZA REGIDA"
             },
             {
                 "id": "IpgbHjhiotg",
@@ -237,14 +237,14 @@
                 "artist": "Juan Freer"
             },
             {
-                "id": "egemoVK0IKY",
-                "title": "Doechii - Anxiety",
-                "artist": "Doechii"
-            },
-            {
                 "id": "495zc7_vGgA",
                 "title": "G Herbo - Went Legit",
                 "artist": "G Herbo"
+            },
+            {
+                "id": "egemoVK0IKY",
+                "title": "Doechii - Anxiety",
+                "artist": "Doechii"
             },
             {
                 "id": "myDIeOjqQos",
@@ -307,9 +307,9 @@
                 "artist": "Drake"
             },
             {
-                "id": "-ymi6hZahlo",
-                "title": "Rumi & Jinu - 'Free'  | KPop Demon Hunters | Netflix Philippines",
-                "artist": "Netflix Philippines"
+                "id": "1lrFsXkT_rM",
+                "title": "Gigi Perez - Sailor Song",
+                "artist": "Gigi Perez"
             },
             {
                 "id": "JVDUsaqgSq0",
@@ -317,9 +317,9 @@
                 "artist": "BigXthaPlug"
             },
             {
-                "id": "1lrFsXkT_rM",
-                "title": "Gigi Perez - Sailor Song",
-                "artist": "Gigi Perez"
+                "id": "-ymi6hZahlo",
+                "title": "Rumi & Jinu - 'Free'  | KPop Demon Hunters | Netflix Philippines",
+                "artist": "Netflix Philippines"
             },
             {
                 "id": "uJ_1HMAGb4k",
@@ -352,6 +352,11 @@
                 "artist": "YoungBoy Never Broke Again"
             },
             {
+                "id": "_Gp82aDbPQ4",
+                "title": "Kane Rodriguez - SE VOLVIERON LOCOS",
+                "artist": "Kane Rodriguez"
+            },
+            {
                 "id": "F7KdQ8CTe5E",
                 "title": "Morgan Wallen - Smile",
                 "artist": "Morgan Wallen"
@@ -362,19 +367,14 @@
                 "artist": "Riley Green"
             },
             {
-                "id": "_Gp82aDbPQ4",
-                "title": "Kane Rodriguez - SE VOLVIERON LOCOS",
-                "artist": "Kane Rodriguez"
+                "id": "tBKYI3-3lMg",
+                "title": "King Von - Armed & Dangerous",
+                "artist": "King Von"
             },
             {
                 "id": "RQxQZV66Bl8",
                 "title": "803Fresh - Boots On The Ground  \"Where Them Fans At?\"",
                 "artist": "803Fresh"
-            },
-            {
-                "id": "tBKYI3-3lMg",
-                "title": "King Von - Armed & Dangerous",
-                "artist": "King Von"
             },
             {
                 "id": "3QwZjhHcLZk",
@@ -412,14 +412,14 @@
                 "artist": "Gracie Abrams"
             },
             {
-                "id": "XoUaH0xzxEI",
-                "title": "Lil Baby, Young Thug, Future - Dum, Dumb, and Dumber",
-                "artist": "Lil Baby Official "
-            },
-            {
                 "id": "vZi8ET9k11g",
                 "title": "d4vd - Feel It",
                 "artist": "d4vd"
+            },
+            {
+                "id": "XoUaH0xzxEI",
+                "title": "Lil Baby, Young Thug, Future - Dum, Dumb, and Dumber",
+                "artist": "Lil Baby Official "
             },
             {
                 "id": "cIG5gSp-Wa8",
@@ -432,14 +432,14 @@
                 "artist": "Zach Top"
             },
             {
-                "id": "A5mURRozXtg",
-                "title": "Don Toliver - No Pole",
-                "artist": "Don Toliver"
-            },
-            {
                 "id": "Qn8F_u0vBNI",
                 "title": "The Marías - No One Noticed",
                 "artist": "The Marías"
+            },
+            {
+                "id": "A5mURRozXtg",
+                "title": "Don Toliver - No Pole",
+                "artist": "Don Toliver"
             },
             {
                 "id": "aFpfY-EZwFo",
@@ -447,14 +447,14 @@
                 "artist": "Jessie Murph"
             },
             {
-                "id": "2Mk7VTUwbck",
-                "title": "GELO - Tweaker",
-                "artist": "GELO"
-            },
-            {
                 "id": "LO71pC20BDI",
                 "title": "Breakin' Dishes",
                 "artist": "Rihanna"
+            },
+            {
+                "id": "2Mk7VTUwbck",
+                "title": "GELO - Tweaker",
+                "artist": "GELO"
             },
             {
                 "id": "0iMPhRWExTo",
@@ -506,19 +506,9 @@
     {
         "Mandopop Hits 2025": [
             {
-                "id": "mRma6NkHwWU",
-                "title": "美秀集團 Amazing Show－愛情的大壞蛋 Bastards of Love",
-                "artist": "美秀集團 Amazing Show"
-            },
-            {
-                "id": "mldcDidGJCg",
-                "title": "揽佬SKAI ISYOURGOD-《大展鸿图》ft.AR刘夫阳",
-                "artist": "揽佬SKAI ISYOURGOD"
-            },
-            {
-                "id": "785sf7xodmY",
-                "title": "黃奇斌 Ng KiPin - 若無你我欲去佗位 How Do I Go On Without You｜｜《96分鐘》電影主題曲",
-                "artist": "黃奇斌 Ng KiPin"
+                "id": "d9ktAt-Gg2k",
+                "title": "Mayday – “Willful”  | Theme Song of “The First Frost”",
+                "artist": "相信音樂BinMusic"
             },
             {
                 "id": "pGNnHRLVR6c",
@@ -526,14 +516,19 @@
                 "artist": "林宥嘉 Yoga Lin"
             },
             {
+                "id": "785sf7xodmY",
+                "title": "黃奇斌 Ng KiPin - 若無你我欲去佗位 How Do I Go On Without You｜｜《96分鐘》電影主題曲",
+                "artist": "黃奇斌 Ng KiPin"
+            },
+            {
+                "id": "mldcDidGJCg",
+                "title": "揽佬SKAI ISYOURGOD-《大展鸿图》ft.AR刘夫阳",
+                "artist": "揽佬SKAI ISYOURGOD"
+            },
+            {
                 "id": "mghMddhSOdY",
                 "title": "像晴天像雨天（电视剧《难哄》心动曲）",
                 "artist": "汪苏泷Silence Wang"
-            },
-            {
-                "id": "8H1I9VT6lYQ",
-                "title": "看着我的眼睛说",
-                "artist": "张远 - Topic"
             },
             {
                 "id": "OkTlYjO6SNY",
@@ -546,24 +541,19 @@
                 "artist": "揽佬SKAI ISYOURGOD"
             },
             {
-                "id": "d9ktAt-Gg2k",
-                "title": "Mayday – “Willful”  | Theme Song of “The First Frost”",
-                "artist": "相信音樂BinMusic"
-            },
-            {
                 "id": "gHk8MIx6nfY",
                 "title": "第57次取消发送",
                 "artist": "菲菲公主（陆绮菲） - Topic"
             },
             {
-                "id": "zHfncpPpA0k",
-                "title": "DIOR大穎 - 節約用愛 SAVE SOME.  - (）",
-                "artist": "DIOR大穎"
-            },
-            {
                 "id": "yJT4SaIJm0c",
                 "title": "爱错",
                 "artist": "en - Topic"
+            },
+            {
+                "id": "zHfncpPpA0k",
+                "title": "DIOR大穎 - 節約用愛 SAVE SOME.  - (）",
+                "artist": "DIOR大穎"
             },
             {
                 "id": "xXr4Z7HAZCE",
@@ -576,19 +566,29 @@
                 "artist": "美秀集團 Amazing Show"
             },
             {
-                "id": "dXgmoqhJIak",
-                "title": "頑童MJ116【OGS】",
-                "artist": "滾石唱片 ROCK RECORDS"
-            },
-            {
                 "id": "QVIrAWjB2ZU",
                 "title": "盧廣仲 Crowd Lu【愚人節快樂 All Fool’s Day】Official",
                 "artist": "添翼音樂 TEAM EAR MUSIC"
             },
             {
+                "id": "mRma6NkHwWU",
+                "title": "美秀集團 Amazing Show－愛情的大壞蛋 Bastards of Love",
+                "artist": "美秀集團 Amazing Show"
+            },
+            {
+                "id": "dXgmoqhJIak",
+                "title": "頑童MJ116【OGS】",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
                 "id": "1q-rNAzye8U",
                 "title": "曾沛慈 Pets Tseng〈數到十 Count to Ten〉",
                 "artist": "曾沛慈 Pets Tseng"
+            },
+            {
+                "id": "312KM1ldkkM",
+                "title": "陳立農 Chen Linong 《還愛著你 Still Loving You》  (4K)",
+                "artist": "陳立農 Chen Linong"
             },
             {
                 "id": "s__iJysWkCY",
@@ -601,9 +601,9 @@
                 "artist": "承桓 - Topic"
             },
             {
-                "id": "312KM1ldkkM",
-                "title": "陳立農 Chen Linong 《還愛著你 Still Loving You》  (4K)",
-                "artist": "陳立農 Chen Linong"
+                "id": "IqCcqboPeX0",
+                "title": "两难",
+                "artist": "加木 - Topic"
             },
             {
                 "id": "hOcUZRKL6Yc",
@@ -614,11 +614,6 @@
                 "id": "WIwn0DkcFEA",
                 "title": "周興哲Eric Chou《想念你想我When you missed me》(電視劇《冬至》片頭曲)",
                 "artist": "周興哲 Eric Chou"
-            },
-            {
-                "id": "IqCcqboPeX0",
-                "title": "两难",
-                "artist": "加木 - Topic"
             },
             {
                 "id": "-5OO4hov_l4",
@@ -641,14 +636,14 @@
                 "artist": "Boba Beats"
             },
             {
-                "id": "RC0Dkh-sx7o",
-                "title": "頑童MJ116【NONO】(4K)",
-                "artist": "滾石唱片 ROCK RECORDS"
-            },
-            {
                 "id": "3r_cw32tzXY",
                 "title": "我想要擁有你",
                 "artist": "MECBand 小男孩樂團 Men Envy Children"
+            },
+            {
+                "id": "RC0Dkh-sx7o",
+                "title": "頑童MJ116【NONO】(4K)",
+                "artist": "滾石唱片 ROCK RECORDS"
             },
             {
                 "id": "wTdpLsX8iog",
@@ -706,6 +701,16 @@
                 "artist": "刘大壮 - Topic"
             },
             {
+                "id": "oM24b1klWpY",
+                "title": "消散对白",
+                "artist": "丁禹兮 - Topic"
+            },
+            {
+                "id": "4KgU53WT_UE",
+                "title": "跳楼机",
+                "artist": "en - Topic"
+            },
+            {
                 "id": "mbSlotJDgL4",
                 "title": "愛你真的梅辦法",
                 "artist": "義義 - Topic"
@@ -716,14 +721,19 @@
                 "artist": "EWwayMusicVEVO"
             },
             {
+                "id": "Tnw5ci8bTwc",
+                "title": "只为你着迷",
+                "artist": "李秉成 - Topic"
+            },
+            {
                 "id": "812omgU1tHs",
                 "title": "Khalil Fong (方大同) - 愛愛愛",
                 "artist": "warnermusichk"
             },
             {
-                "id": "Tnw5ci8bTwc",
-                "title": "只为你着迷",
-                "artist": "李秉成 - Topic"
+                "id": "-OV0fHQ_tUE",
+                "title": "#張遠 《看著我的眼睛說》2025.03.31",
+                "artist": "張遠Bird_粉絲專頁"
             },
             {
                 "id": "Y680Pk-63VU",
@@ -741,19 +751,9 @@
                 "artist": "Timeless Music"
             },
             {
-                "id": "4KgU53WT_UE",
-                "title": "跳楼机",
-                "artist": "en - Topic"
-            },
-            {
                 "id": "vLsON4Ze1rg",
                 "title": "田園 - 有一種遺憾叫我們『其實我比你更早知道我們不適合』",
                 "artist": "Boba Beats"
-            },
-            {
-                "id": "oM24b1klWpY",
-                "title": "消散对白",
-                "artist": "丁禹兮 - Topic"
             }
         ]
     },
@@ -800,13 +800,13 @@
                 "artist": "HWASA"
             },
             {
-                "id": "xn8mQqz2xmM",
-                "title": "BABYMONSTER - ‘HOT SAUCE’",
+                "id": "Zp-Jhuhq0bQ",
+                "title": "BABYMONSTER - 'DRIP'",
                 "artist": "BABYMONSTER"
             },
             {
-                "id": "Zp-Jhuhq0bQ",
-                "title": "BABYMONSTER - 'DRIP'",
+                "id": "xn8mQqz2xmM",
+                "title": "BABYMONSTER - ‘HOT SAUCE’",
                 "artist": "BABYMONSTER"
             },
             {
@@ -820,14 +820,14 @@
                 "artist": "JYP Entertainment"
             },
             {
-                "id": "gZNQs3jA7aE",
-                "title": "TREASURE - ‘PARADISE’",
-                "artist": "TREASURE (트레저)"
-            },
-            {
                 "id": "eHHQaoEW30Q",
                 "title": "TWICE \"THIS IS FOR\"",
                 "artist": "JYP Entertainment"
+            },
+            {
+                "id": "gZNQs3jA7aE",
+                "title": "TREASURE - ‘PARADISE’",
+                "artist": "TREASURE (트레저)"
             },
             {
                 "id": "PkMKJEkE8Mo",
@@ -855,19 +855,14 @@
                 "artist": "SMTOWN"
             },
             {
-                "id": "EmeW6li6bbo",
-                "title": "NMIXX(엔믹스) “Blue Valentine”",
-                "artist": "JYP Entertainment"
+                "id": "42wfEs7oIP8",
+                "title": "CORTIS (코르티스) 'FaSHioN'",
+                "artist": "HYBE LABELS and CORTIS"
             },
             {
                 "id": "eWAdpUyzCkI",
                 "title": "JENNIE, Doechii - ExtraL",
                 "artist": "JENNIE"
-            },
-            {
-                "id": "42wfEs7oIP8",
-                "title": "CORTIS (코르티스) 'FaSHioN'",
-                "artist": "HYBE LABELS and CORTIS"
             },
             {
                 "id": "Sz_wWzgh-vQ",
@@ -880,9 +875,9 @@
                 "artist": "HYBE LABELS"
             },
             {
-                "id": "pS57UX6s-xw",
-                "title": "SEVENTEEN (세븐틴) 'THUNDER'",
-                "artist": "HYBE LABELS and SEVENTEEN"
+                "id": "EmeW6li6bbo",
+                "title": "NMIXX(엔믹스) “Blue Valentine”",
+                "artist": "JYP Entertainment"
             },
             {
                 "id": "eA0lHNZ1KCA",
@@ -890,14 +885,19 @@
                 "artist": "ROSÉ"
             },
             {
-                "id": "hAONx6nuEgI",
-                "title": "i-dle (아이들) 'Good Thing'",
-                "artist": "i-dle (아이들)"
+                "id": "pS57UX6s-xw",
+                "title": "SEVENTEEN (세븐틴) 'THUNDER'",
+                "artist": "HYBE LABELS and SEVENTEEN"
             },
             {
                 "id": "2V6lvCUPT8I",
                 "title": "JISOO - earthquake",
                 "artist": "JISOO"
+            },
+            {
+                "id": "hAONx6nuEgI",
+                "title": "i-dle (아이들) 'Good Thing'",
+                "artist": "i-dle (아이들)"
             },
             {
                 "id": "sL0pCS6K9bc",
@@ -910,14 +910,14 @@
                 "artist": "HYBE LABELS and CORTIS"
             },
             {
-                "id": "ia2Ph61bYzc",
-                "title": "ROSÉ - Messy (From F1® The Movie)",
-                "artist": "ROSÉ"
-            },
-            {
                 "id": "XShaIZs7J7M",
                 "title": "BABYMONSTER - ‘Really Like You’",
                 "artist": "BABYMONSTER"
+            },
+            {
+                "id": "ia2Ph61bYzc",
+                "title": "ROSÉ - Messy (From F1® The Movie)",
+                "artist": "ROSÉ"
             },
             {
                 "id": "GkG60kISnfc",
@@ -935,9 +935,9 @@
                 "artist": "HYBE LABELS and LE SSERAFIM"
             },
             {
-                "id": "B1ShLiq3EVc",
-                "title": "IVE 아이브 ‘XOXZ’",
-                "artist": "STARSHIP"
+                "id": "5OflOlcHLb8",
+                "title": "ATEEZ(에이티즈) - 'Ice On My Teeth'",
+                "artist": "KQ ENTERTAINMENT"
             },
             {
                 "id": "n7kFRxFIPrI",
@@ -945,14 +945,19 @@
                 "artist": "SMTOWN"
             },
             {
+                "id": "B1ShLiq3EVc",
+                "title": "IVE 아이브 ‘XOXZ’",
+                "artist": "STARSHIP and IVE"
+            },
+            {
                 "id": "R55VGD7aYUI",
                 "title": "TREASURE - ‘YELLOW’",
                 "artist": "TREASURE (트레저)"
             },
             {
-                "id": "5OflOlcHLb8",
-                "title": "ATEEZ(에이티즈) - 'Ice On My Teeth'",
-                "artist": "KQ ENTERTAINMENT"
+                "id": "cXmYNmQ4BuM",
+                "title": "JENNIE - ZEN",
+                "artist": "JENNIE"
             },
             {
                 "id": "negtrQu5mTA",
@@ -965,19 +970,14 @@
                 "artist": "SMTOWN"
             },
             {
-                "id": "cXmYNmQ4BuM",
-                "title": "JENNIE - ZEN",
-                "artist": "JENNIE"
+                "id": "rDolt3jJRsM",
+                "title": "ENHYPEN (엔하이픈) 'No Doubt'",
+                "artist": "HYBE LABELS"
             },
             {
                 "id": "o9DhvbqYzns",
                 "title": "G-DRAGON - TOO BAD (feat. Anderson .Paak)",
                 "artist": "OfficialGDRAGON"
-            },
-            {
-                "id": "rDolt3jJRsM",
-                "title": "ENHYPEN (엔하이픈) 'No Doubt'",
-                "artist": "HYBE LABELS"
             },
             {
                 "id": "Ve_a9CXjlQc",
@@ -995,14 +995,9 @@
                 "artist": "JENNIE"
             },
             {
-                "id": "-ymi6hZahlo",
-                "title": "Rumi & Jinu - 'Free'  | KPop Demon Hunters | Netflix Philippines",
-                "artist": "Netflix Philippines"
-            },
-            {
                 "id": "g36q0ZLvygQ",
                 "title": "IVE 아이브 'REBEL HEART'",
-                "artist": "STARSHIP"
+                "artist": "STARSHIP and IVE"
             },
             {
                 "id": "d3mqW9wqqx0",
@@ -1012,7 +1007,12 @@
             {
                 "id": "38xYeot-ciM",
                 "title": "IVE 아이브 'ATTITUDE'",
-                "artist": "STARSHIP"
+                "artist": "STARSHIP and IVE"
+            },
+            {
+                "id": "-ymi6hZahlo",
+                "title": "Rumi & Jinu - 'Free'  | KPop Demon Hunters | Netflix Philippines",
+                "artist": "Netflix Philippines"
             },
             {
                 "id": "ic31SJ4uK4Y",
@@ -1020,19 +1020,14 @@
                 "artist": "HYBE LABELS and BOYNEXTDOOR"
             },
             {
-                "id": "GWL1Tzl0YdY",
-                "title": "비비 (BIBI) - 종말의 사과나무 (Apocalypse)",
-                "artist": "BIBI"
-            },
-            {
-                "id": "5C5lcn1GYfM",
-                "title": "JEON SOMI(전소미) - ‘CLOSER’",
-                "artist": "THEBLACKLABEL and JEON SOMI (전소미)"
-            },
-            {
                 "id": "AAbokV76tkU",
                 "title": "BIGBANG - FANTASTIC BABY",
                 "artist": "BIGBANG"
+            },
+            {
+                "id": "GWL1Tzl0YdY",
+                "title": "비비 (BIBI) - 종말의 사과나무 (Apocalypse)",
+                "artist": "BIBI"
             },
             {
                 "id": "8aRTMQvbODs",
@@ -1043,6 +1038,11 @@
                 "id": "seARsMwjbEU",
                 "title": "JENNIE & Dua Lipa - Handlebars",
                 "artist": "JENNIE"
+            },
+            {
+                "id": "5C5lcn1GYfM",
+                "title": "JEON SOMI(전소미) - ‘CLOSER’",
+                "artist": "THEBLACKLABEL and JEON SOMI (전소미)"
             },
             {
                 "id": "aFrQIJ5cbRc",
@@ -1080,11 +1080,6 @@
                 "artist": "HYBE LABELS and TWS"
             },
             {
-                "id": "pTycfmVzdl8",
-                "title": "tripleS(트리플에스) '깨어' (Are You Alive)",
-                "artist": "tripleS official"
-            },
-            {
                 "id": "qlgEadao-Sk",
                 "title": "ILLIT (아일릿) 'Almond Chocolate' Special Film",
                 "artist": "HYBE LABELS"
@@ -1093,6 +1088,11 @@
                 "id": "Mt9SBZam4X4",
                 "title": "부석순 (SEVENTEEN) '청바지'",
                 "artist": "HYBE LABELS and SEVENTEEN"
+            },
+            {
+                "id": "pTycfmVzdl8",
+                "title": "tripleS(트리플에스) '깨어' (Are You Alive)",
+                "artist": "tripleS official"
             },
             {
                 "id": "52IyDIMyejQ",
@@ -1107,12 +1107,7 @@
             {
                 "id": "u5wMLWs6LSs",
                 "title": "KiiiKiii 키키 'DANCING ALONE'",
-                "artist": "STARSHIP"
-            },
-            {
-                "id": "RblIsNFR1j4",
-                "title": "NMIXX(엔믹스) Blue Valentine Core: “SPINNIN’ ON IT”",
-                "artist": "JYP Entertainment"
+                "artist": "STARSHIP and KiiiKiii"
             },
             {
                 "id": "jUnkeLTw7kU",
@@ -1120,14 +1115,14 @@
                 "artist": "TOMORROW X TOGETHER OFFICIAL"
             },
             {
+                "id": "RblIsNFR1j4",
+                "title": "NMIXX(엔믹스) Blue Valentine Core: “SPINNIN’ ON IT”",
+                "artist": "JYP Entertainment"
+            },
+            {
                 "id": "qzE9tNcUUss",
                 "title": "JENNIE - with the IE (way up)",
                 "artist": "JENNIE"
-            },
-            {
-                "id": "z-xfGoabprU",
-                "title": "STAYC(스테이씨) 'BEBE'",
-                "artist": "STAYC"
             },
             {
                 "id": "IgIqM68qvF0",
@@ -1135,14 +1130,19 @@
                 "artist": "OfficialGDRAGON"
             },
             {
-                "id": "vmL-XgxwQZU",
-                "title": "RIIZE 라이즈 'Bag Bad Back'",
-                "artist": "SMTOWN"
+                "id": "z-xfGoabprU",
+                "title": "STAYC(스테이씨) 'BEBE'",
+                "artist": "STAYC"
             },
             {
                 "id": "vHvOYQ0hbBA",
                 "title": "ROSÉ - stay a little longer",
                 "artist": "ROSÉ"
+            },
+            {
+                "id": "vmL-XgxwQZU",
+                "title": "RIIZE 라이즈 'Bag Bad Back'",
+                "artist": "SMTOWN"
             },
             {
                 "id": "u7uko6XB2nQ",
@@ -1215,19 +1215,19 @@
                 "artist": "DAESUNG"
             },
             {
-                "id": "OLK0iePvZeY",
-                "title": "CHUNG HA 청하 | 'STRESS'",
-                "artist": "CHUNG HA 청하"
-            },
-            {
                 "id": "4zve1lFvVQA",
                 "title": "RIIZE 라이즈 'Hug (포옹)' Stage",
                 "artist": "SMTOWN"
             },
             {
-                "id": "Y4D-izCxbAI",
-                "title": "ALLDAY PROJECT - 'WICKED' DANCE PRACTICE VIDEO",
-                "artist": "ALLDAY PROJECT"
+                "id": "OLK0iePvZeY",
+                "title": "CHUNG HA 청하 | 'STRESS'",
+                "artist": "CHUNG HA 청하"
+            },
+            {
+                "id": "h7HP9aiIFfc",
+                "title": "ROSÉ - dance all night",
+                "artist": "ROSÉ"
             },
             {
                 "id": "dAvDMSPt7BM",
@@ -1235,9 +1235,9 @@
                 "artist": "SMTOWN"
             },
             {
-                "id": "h7HP9aiIFfc",
-                "title": "ROSÉ - dance all night",
-                "artist": "ROSÉ"
+                "id": "Y4D-izCxbAI",
+                "title": "ALLDAY PROJECT - 'WICKED' DANCE PRACTICE VIDEO",
+                "artist": "ALLDAY PROJECT"
             },
             {
                 "id": "OjoKYCQXDTg",
@@ -1399,14 +1399,14 @@
                 "artist": "Connie Francis - Official"
             },
             {
-                "id": "rwlFWWGaZ5Y",
-                "title": "Tate McRae - Revolving door",
-                "artist": "Tate McRae"
-            },
-            {
                 "id": "vjBFftpQxxM",
                 "title": "BUTCHER VANITY ft. Yi Xi",
                 "artist": "Vane Lily"
+            },
+            {
+                "id": "rwlFWWGaZ5Y",
+                "title": "Tate McRae - Revolving door",
+                "artist": "Tate McRae"
             },
             {
                 "id": "BcqxLCWn-CE",
@@ -1434,14 +1434,14 @@
                 "artist": "Myles Smith"
             },
             {
-                "id": "3m6NBnqLc-g",
-                "title": "Sabrina Carpenter - Busy Woman",
-                "artist": "Sabrina Carpenter"
-            },
-            {
                 "id": "BDHM8cyJQa8",
                 "title": "Gracie Abrams - That’s So True",
                 "artist": "Gracie Abrams"
+            },
+            {
+                "id": "3m6NBnqLc-g",
+                "title": "Sabrina Carpenter - Busy Woman",
+                "artist": "Sabrina Carpenter"
             },
             {
                 "id": "aFpfY-EZwFo",
@@ -1464,14 +1464,14 @@
                 "artist": "Josiah Queen"
             },
             {
-                "id": "QC_mOB2uBj4",
-                "title": "Alex Warren - Burning Down (with Joe Jonas)",
-                "artist": "Alex Warren"
-            },
-            {
                 "id": "nmnjL26OBcY",
                 "title": "The Black Eyed Peas - Rock That Body",
                 "artist": "Black Eyed Peas"
+            },
+            {
+                "id": "QC_mOB2uBj4",
+                "title": "Alex Warren - Burning Down (with Joe Jonas)",
+                "artist": "Alex Warren"
             },
             {
                 "id": "OuTLKgPyaF0",
@@ -1479,24 +1479,24 @@
                 "artist": "Conan Gray"
             },
             {
-                "id": "MQlyMtaICxI",
-                "title": "LOVELI LORI - Love For You",
-                "artist": "LOVELI LORI"
-            },
-            {
                 "id": "ZLkCUhmwLdw",
                 "title": "Jade LeMac - Constellations (Piano Version)",
                 "artist": "Jade LeMac"
             },
             {
-                "id": "65aNPjAwGnw",
-                "title": "Thomas Rhett - Somethin' 'Bout A Woman (Official Lyric ) ft. Teddy Swims",
-                "artist": "Thomas Rhett"
+                "id": "MQlyMtaICxI",
+                "title": "LOVELI LORI - Love For You",
+                "artist": "LOVELI LORI"
             },
             {
                 "id": "Zf21-IpYDUU",
                 "title": "Colleccionando Heridas Karol G - Feat Marco Antonio Solís",
                 "artist": "Marco Antonio Solís"
+            },
+            {
+                "id": "65aNPjAwGnw",
+                "title": "Thomas Rhett - Somethin' 'Bout A Woman (Official Lyric ) ft. Teddy Swims",
+                "artist": "Thomas Rhett"
             },
             {
                 "id": "q27Jvh5U4fo",
@@ -1583,11 +1583,6 @@
                 "artist": "G Herbo"
             },
             {
-                "id": "E_0y8bmIATM",
-                "title": "Cardi B - Safe (feat. Kehlani)",
-                "artist": "Cardi B"
-            },
-            {
                 "id": "hgYhws0AHcg",
                 "title": "Juice WRLD - Empty Out Your Pockets",
                 "artist": "Juice WRLD"
@@ -1596,6 +1591,11 @@
                 "id": "7kyHvPNbugk",
                 "title": "BigXthaPlug - All The Way feat. Bailey Zimmerman",
                 "artist": "BigXthaPlug"
+            },
+            {
+                "id": "E_0y8bmIATM",
+                "title": "Cardi B - Safe (feat. Kehlani)",
+                "artist": "Cardi B"
             },
             {
                 "id": "5p29VznFXhg",
@@ -1608,14 +1608,14 @@
                 "artist": "Kendrick Lamar"
             },
             {
-                "id": "F0cdbR5ognY",
-                "title": "Doechii - DENIAL IS A RIVER",
-                "artist": "Doechii"
-            },
-            {
                 "id": "vJJ7Yt-uqJE",
                 "title": "YoungBoy Never Broke Again - Finest",
                 "artist": "YoungBoy Never Broke Again"
+            },
+            {
+                "id": "F0cdbR5ognY",
+                "title": "Doechii - DENIAL IS A RIVER",
+                "artist": "Doechii"
             },
             {
                 "id": "iUZyn_w6Y1Q",
@@ -1633,14 +1633,19 @@
                 "artist": "BigXthaPlug"
             },
             {
+                "id": "w7Wf0h1Q8a4",
+                "title": "Gunna - HIM ALL ALONG",
+                "artist": "Gunna"
+            },
+            {
                 "id": "ljHdccyQbT4",
                 "title": "SUGAR ON MY TONGUE",
                 "artist": "Tyler, The Creator"
             },
             {
-                "id": "w7Wf0h1Q8a4",
-                "title": "Gunna - HIM ALL ALONG",
-                "artist": "Gunna"
+                "id": "gt_Oe2yGE4o",
+                "title": "4 Raws",
+                "artist": "EsDeeKid"
             },
             {
                 "id": "yo7_px4vXYQ",
@@ -1661,11 +1666,6 @@
                 "id": "F7dJY0jkpyU",
                 "title": "YoungBoy Never Broke Again - Where I Been / Shot Callin",
                 "artist": "YoungBoy Never Broke Again"
-            },
-            {
-                "id": "gt_Oe2yGE4o",
-                "title": "4 Raws",
-                "artist": "EsDeeKid"
             },
             {
                 "id": "qB7kLilZWwg",
@@ -1772,49 +1772,19 @@
                 "artist": "Evanescence"
             },
             {
-                "id": "k95oDnsCu_8",
-                "title": "Dayseeker - Pale Moonlight",
-                "artist": "Dayseeker"
-            },
-            {
-                "id": "WMm6G1S9sIs",
-                "title": "Shinedown - Three Six Five",
-                "artist": "Shinedown"
-            },
-            {
-                "id": "JrVBBsDfQ6I",
-                "title": "Red Leather - SINS (with Sueco & WesGhost)",
-                "artist": "Red Leather"
-            },
-            {
-                "id": "Jmipwil2fQY",
-                "title": "Kami Kehoe - DOPAMINE / COME DOWN",
-                "artist": "Kami Kehoe"
-            },
-            {
-                "id": "_MozmAUo8CY",
-                "title": "mgk - your name forever",
-                "artist": "mgk"
-            },
-            {
-                "id": "cFwCpvdO9Fw",
-                "title": "Papa Roach - EVEN IF IT KILLS ME",
-                "artist": "Papa Roach"
-            },
-            {
-                "id": "W25A1P7ORDs",
-                "title": "Three Days Grace - Apologies",
-                "artist": "Three Days Grace"
-            },
-            {
-                "id": "2Ieu6WeUAS8",
-                "title": "Memphis May Fire - The Other Side",
-                "artist": "riserecords"
+                "id": "eVqZrI9JE6Q",
+                "title": "deftones - my mind is a mountain",
+                "artist": "Deftones"
             },
             {
                 "id": "97Mj6pXYMd8",
                 "title": "Up From The Bottom  - Linkin Park",
                 "artist": "Linkin Park"
+            },
+            {
+                "id": "Nfk1Su1Q8SI",
+                "title": "TURNSTILE - NEVER ENOUGH",
+                "artist": "Turnstile"
             },
             {
                 "id": "xqJurrQKNdE",
@@ -1862,9 +1832,9 @@
                 "artist": "HARDY"
             },
             {
-                "id": "eVqZrI9JE6Q",
-                "title": "deftones - my mind is a mountain",
-                "artist": "Deftones"
+                "id": "cFwCpvdO9Fw",
+                "title": "Papa Roach - EVEN IF IT KILLS ME",
+                "artist": "Papa Roach"
             },
             {
                 "id": "SnMyroAH0rg",
@@ -1872,9 +1842,19 @@
                 "artist": "Nine Inch Nails"
             },
             {
+                "id": "k95oDnsCu_8",
+                "title": "Dayseeker - Pale Moonlight",
+                "artist": "Dayseeker"
+            },
+            {
                 "id": "EL_bkfuSSRI",
                 "title": "Sleep Theory - \"Gravity\"",
                 "artist": "Sleep Theory"
+            },
+            {
+                "id": "W25A1P7ORDs",
+                "title": "Three Days Grace - Apologies",
+                "artist": "Three Days Grace"
             },
             {
                 "id": "eD7tRv4A1FA",
@@ -1887,6 +1867,11 @@
                 "artist": "Linkin Park"
             },
             {
+                "id": "_MozmAUo8CY",
+                "title": "mgk - your name forever",
+                "artist": "mgk"
+            },
+            {
                 "id": "7w7rAEnMXDI",
                 "title": "Mammoth: The End",
                 "artist": "Mammoth"
@@ -1897,19 +1882,24 @@
                 "artist": "Sleep Token"
             },
             {
+                "id": "Jmipwil2fQY",
+                "title": "Kami Kehoe - DOPAMINE / COME DOWN",
+                "artist": "Kami Kehoe"
+            },
+            {
                 "id": "qiUZ-FzbZEo",
                 "title": "Evanescence - Fight Like A Girl (feat. K.Flay) -",
                 "artist": "Evanescence"
             },
             {
-                "id": "ru5afNNSPeU",
-                "title": "Jack White – Archbishop Harold Holmes",
-                "artist": "Jack White"
-            },
-            {
                 "id": "jGxykN8cx7w",
                 "title": "A Day To Remember - All My Friends",
                 "artist": "A Day To Remember"
+            },
+            {
+                "id": "ru5afNNSPeU",
+                "title": "Jack White – Archbishop Harold Holmes",
+                "artist": "Jack White"
             },
             {
                 "id": "SWkvpy29pRY",
@@ -1932,16 +1922,6 @@
                 "artist": "Hollywood Undead"
             },
             {
-                "id": "Nfk1Su1Q8SI",
-                "title": "TURNSTILE - NEVER ENOUGH",
-                "artist": "Turnstile"
-            },
-            {
-                "id": "X-mNYFFP1aw",
-                "title": "Dayseeker - Creature In the Black Night",
-                "artist": "Dayseeker"
-            },
-            {
                 "id": "dKxkB4jQ8Pk",
                 "title": "Red Leather - CAN'T GET HIGH",
                 "artist": "Red Leather"
@@ -1955,6 +1935,11 @@
                 "id": "nmZBkJI7g_k",
                 "title": "Pierce The Veil - So Far So Fake",
                 "artist": "Pierce The Veil"
+            },
+            {
+                "id": "JrVBBsDfQ6I",
+                "title": "Red Leather - SINS (with Sueco & WesGhost)",
+                "artist": "Red Leather"
             },
             {
                 "id": "BGWgho39Xvk",
@@ -1972,6 +1957,11 @@
                 "artist": "Thriller Records"
             },
             {
+                "id": "OrI609trLMI",
+                "title": "Creature In The Black Night",
+                "artist": "Dayseeker"
+            },
+            {
                 "id": "g9Oty97D6vA",
                 "title": "Magnolia Park - \"SHALLOW\"",
                 "artist": "Magnolia Park"
@@ -1980,6 +1970,11 @@
                 "id": "NEDot7WkQHY",
                 "title": "Poppy - the cost of giving up",
                 "artist": "Poppy"
+            },
+            {
+                "id": "WMm6G1S9sIs",
+                "title": "Shinedown - Three Six Five",
+                "artist": "Shinedown"
             },
             {
                 "id": "iEzGpYaER14",
@@ -2000,6 +1995,11 @@
                 "id": "HlSee59wViE",
                 "title": "Chevelle - Rabbit Hole (Cowards, Pt. 1)",
                 "artist": "CheVelle"
+            },
+            {
+                "id": "2Ieu6WeUAS8",
+                "title": "Memphis May Fire - The Other Side",
+                "artist": "riserecords"
             },
             {
                 "id": "UpLkY4zJoaA",
@@ -2026,6 +2026,11 @@
                 "artist": "Kehlani"
             },
             {
+                "id": "U0C1UrO91B8",
+                "title": "Leon Thomas, Freddie Gibbs - MUTT (REMIX)",
+                "artist": "Leon Thomas"
+            },
+            {
                 "id": "7hardmXJShA",
                 "title": "Ella Mai - Little Things",
                 "artist": "Ella Mai"
@@ -2044,11 +2049,6 @@
                 "id": "Jx9h3iWudTU",
                 "title": "Mariah the Scientist - Burning Blue",
                 "artist": "Mariah the Scientist"
-            },
-            {
-                "id": "U0C1UrO91B8",
-                "title": "Leon Thomas, Freddie Gibbs - MUTT (REMIX)",
-                "artist": "Leon Thomas"
             },
             {
                 "id": "Kjof9tYTqD0",
@@ -2086,19 +2086,19 @@
                 "artist": "Olivia Dean"
             },
             {
-                "id": "fXivMSJm_kA",
-                "title": "Justin Bieber - YUKON",
-                "artist": "Justin Bieber"
-            },
-            {
                 "id": "3sur4BmjQt8",
                 "title": "Olivia Dean - So Easy (To Fall In Love)",
                 "artist": "Olivia Dean"
             },
             {
-                "id": "E_0y8bmIATM",
-                "title": "Cardi B - Safe (feat. Kehlani)",
-                "artist": "Cardi B"
+                "id": "fXivMSJm_kA",
+                "title": "Justin Bieber - YUKON",
+                "artist": "Justin Bieber"
+            },
+            {
+                "id": "YVLHaqeJzEk",
+                "title": "Lloyd - You  ft. Lil Wayne",
+                "artist": "Lloyd"
             },
             {
                 "id": "SZpiiixlHWY",
@@ -2106,9 +2106,9 @@
                 "artist": "Tyla"
             },
             {
-                "id": "YVLHaqeJzEk",
-                "title": "Lloyd - You  ft. Lil Wayne",
-                "artist": "Lloyd"
+                "id": "E_0y8bmIATM",
+                "title": "Cardi B - Safe (feat. Kehlani)",
+                "artist": "Cardi B"
             },
             {
                 "id": "bn8gP5N8hqM",
@@ -2131,14 +2131,14 @@
                 "artist": "Mariah the Scientist"
             },
             {
-                "id": "RQxQZV66Bl8",
-                "title": "803Fresh - Boots On The Ground  \"Where Them Fans At?\"",
-                "artist": "803Fresh"
-            },
-            {
                 "id": "tQg5-6DHxQY",
                 "title": "Fridayy, Meek Mill - Proud Of Me",
                 "artist": "Fridayy"
+            },
+            {
+                "id": "RQxQZV66Bl8",
+                "title": "803Fresh - Boots On The Ground  \"Where Them Fans At?\"",
+                "artist": "803Fresh"
             },
             {
                 "id": "QwPgtjgir8I",
@@ -2201,14 +2201,14 @@
                 "artist": "Jacquees"
             },
             {
-                "id": "mUQCcfcpTek",
-                "title": "Xania Monet - How Was I supposed to Know?",
-                "artist": "Xania Monet"
-            },
-            {
                 "id": "iFv02CwVdpM",
                 "title": "\"Pour Me A Drank\"",
                 "artist": "Sir Charles Jones"
+            },
+            {
+                "id": "mUQCcfcpTek",
+                "title": "Xania Monet - How Was I supposed to Know?",
+                "artist": "Xania Monet"
             },
             {
                 "id": "SgBqd_w91yY",
@@ -2246,14 +2246,14 @@
                 "artist": "Summer Walker"
             },
             {
-                "id": "LbRb0YYIh-M",
-                "title": "Mariah Carey - Sugar Sweet feat. Shenseea & Kehlani",
-                "artist": "Mariah Carey"
-            },
-            {
                 "id": "pGqx3PJwgdI",
                 "title": "Ann Marie - Hennessy & You",
                 "artist": "Ann Marie"
+            },
+            {
+                "id": "LbRb0YYIh-M",
+                "title": "Mariah Carey - Sugar Sweet feat. Shenseea & Kehlani",
+                "artist": "Mariah Carey"
             },
             {
                 "id": "cDt9VDAJwXo",
@@ -2275,14 +2275,14 @@
     {
         "輕柔華語抒情歌": [
             {
-                "id": "LrabOJbMLy8",
+                "id": "AeatuvJ2jEQ",
                 "title": "[ Forever Forever ] Jay Chou ╳ Jerry Yan ╳ VanNess Wu ╳ Vic Chou ╳ Mayday Ashin｜",
                 "artist": "相信音樂BinMusic"
             },
             {
-                "id": "cpSPALgne4w",
-                "title": "李聖傑 Sam Lee《不勇敢》",
-                "artist": "李聖傑 Sam Lee"
+                "id": "7tD4l86bxtk",
+                "title": "吳克群 Kenji Wu《念念》feat. 戴佩妮 Penny Tai 官方演唱會版 Live Concert",
+                "artist": "吳克群 Kenji Wu"
             },
             {
                 "id": "jeRu6h4XbUU",
@@ -2290,9 +2290,14 @@
                 "artist": "A-Lin官方專屬頻道"
             },
             {
-                "id": "AsTKf9yqd2Y",
-                "title": "Keung To 姜濤 《 流浪星球 》（Lonely Planet）",
-                "artist": "MIRROR"
+                "id": "brDLsqPS9sY",
+                "title": "再見的時候-電影〈陽光女子合唱團〉主題曲-再見版",
+                "artist": "洪佩瑜 Pei-Yu Hung"
+            },
+            {
+                "id": "cpSPALgne4w",
+                "title": "李聖傑 Sam Lee《不勇敢》",
+                "artist": "李聖傑 Sam Lee"
             },
             {
                 "id": "yIaqX7GQmhE",
@@ -2300,19 +2305,9 @@
                 "artist": "王心凌 Cyndi Wang"
             },
             {
-                "id": "9yuo8xoqrjg",
-                "title": "Haezee 黃瑋昕 - 懂事得可以 SO BE IT",
-                "artist": "Haezee 黃瑋昕"
-            },
-            {
                 "id": "Ra6tyMqBoss",
                 "title": "林俊傑 JJ Lin《明日座標 Atlas of Tomorrow》",
                 "artist": "JJ Lin林俊傑"
-            },
-            {
-                "id": "PQEB93Z87EM",
-                "title": "李千娜 Nana Lee〈再會啦心愛的無緣的人 ft. 黃奇斌 Ng KiPin〉",
-                "artist": "李千娜"
             },
             {
                 "id": "PM-gd-QO6dI",
@@ -2320,39 +2315,19 @@
                 "artist": "許茹芸 Valen Hsu"
             },
             {
-                "id": "brDLsqPS9sY",
-                "title": "再見的時候-電影〈陽光女子合唱團〉主題曲-再見版",
-                "artist": "洪佩瑜 Pei-Yu Hung"
+                "id": "9yuo8xoqrjg",
+                "title": "Haezee 黃瑋昕 - 懂事得可以 SO BE IT",
+                "artist": "Haezee 黃瑋昕"
             },
             {
-                "id": "L06eGYvdK6Q",
-                "title": "Juice Boy & TYSON YOSHI《別說再見 No Goodbyes》",
-                "artist": "Juice Boy"
+                "id": "3zh6sJ2NzM0",
+                "title": "[So Heartbroken] \"Wasted\"  - Ariel Tsai",
+                "artist": "蔡佩軒 Ariel Tsai"
             },
             {
                 "id": "4aqvaoF_nyU",
                 "title": "我的存在就是愛你",
                 "artist": "aMEI - Topic"
-            },
-            {
-                "id": "r__zUyGtLZc",
-                "title": "吳克群 Kenji Wu《念念》feat. 戴佩妮 Penny Tai Official Vertical",
-                "artist": "吳克群 Kenji Wu"
-            },
-            {
-                "id": "tMWsgY4mT2Y",
-                "title": "郭家瑋 Trevor【你算個老幾 You Got Me Anyway】",
-                "artist": "郭家瑋 Trevor"
-            },
-            {
-                "id": "stdbnBaTRek",
-                "title": "林俊傑 JJ Lin 《瞬間的瞬間 Blink of Eternity》(電影《他年她日 Measure In Love》主題曲)",
-                "artist": "JJ Lin林俊傑"
-            },
-            {
-                "id": "-xVfoztSwnA",
-                "title": "振永 Jinyoung & 9m88《此刻永遠 Timeless》 - 電影「那張照片裡的我們」主題曲",
-                "artist": "台灣索尼音樂 Sony Music Taiwan"
             },
             {
                 "id": "s7NE196cNFY",
@@ -2365,19 +2340,19 @@
                 "artist": "吳青峰 Wu Qing Feng"
             },
             {
+                "id": "-xVfoztSwnA",
+                "title": "振永 Jinyoung & 9m88《此刻永遠 Timeless》 - 電影「那張照片裡的我們」主題曲",
+                "artist": "台灣索尼音樂 Sony Music Taiwan"
+            },
+            {
+                "id": "tMWsgY4mT2Y",
+                "title": "郭家瑋 Trevor【你算個老幾 You Got Me Anyway】",
+                "artist": "郭家瑋 Trevor"
+            },
+            {
                 "id": "22hKinXP0pM",
                 "title": "無害",
                 "artist": "Vicky 陳忻玥"
-            },
-            {
-                "id": "42O8jnoD1XM",
-                "title": "孫盛希 Shi Shi【曾經見過太陽 Had I Seen the Sun】Netflix影集《如果我不曾見過太陽》片頭曲  @SUNSHENGHSI",
-                "artist": "滾石唱片 ROCK RECORDS"
-            },
-            {
-                "id": "89HdknAODTI",
-                "title": "菲道尔 Firdhaus - 好好吃飯 Eat Well ft. Jeryl 李佩玲",
-                "artist": "菲道尔 Firdhaus"
             },
             {
                 "id": "_9641PdtNMA",
@@ -2385,9 +2360,24 @@
                 "artist": "en - Topic"
             },
             {
-                "id": "9KlPYyIWL7A",
-                "title": "bittersweet",
-                "artist": "moon tang"
+                "id": "42O8jnoD1XM",
+                "title": "孫盛希 Shi Shi【曾經見過太陽 Had I Seen the Sun】Netflix影集《如果我不曾見過太陽》片頭曲  @SUNSHENGHSI",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "3rCoY1a_Bm8",
+                "title": "曾經如今",
+                "artist": "丁噹 Della Ding"
+            },
+            {
+                "id": "nO5eh-0cNxM",
+                "title": "沉默那麼的痛",
+                "artist": "宏兒_"
+            },
+            {
+                "id": "iZwKYf6U6XQ",
+                "title": "張語噥 Sammy -【親近的陌生人 So Far, So Gone】",
+                "artist": "張語噥Sammy"
             },
             {
                 "id": "KKXqHI4bhN8",
@@ -2410,29 +2400,24 @@
                 "artist": "韋禮安 WeiBird"
             },
             {
-                "id": "LjJXnsPfNY4",
-                "title": "念旧的人都困在回忆里",
-                "artist": "刘宇宁 - Topic"
-            },
-            {
                 "id": "AeMAK6MU2M4",
                 "title": "蕭煌奇 Ricky Hsiao〈 突破三千米的勇氣 〉 《 突破：三千米的泳氣 Second Life》電影主題曲",
                 "artist": "蕭煌奇 Ricky Hsiao"
             },
             {
+                "id": "9KlPYyIWL7A",
+                "title": "bittersweet",
+                "artist": "moon tang"
+            },
+            {
+                "id": "MTC9XuO3wrI",
+                "title": "魏如萱 waa wei [ 普通的日子 Deep Quiet ] 【電影《深度安靜》宣傳曲】",
+                "artist": "forgoodmusic"
+            },
+            {
                 "id": "t3VPMhrD-hc",
                 "title": "影 (Lexa) (Netflix影集《如果我不曾見過太陽》插曲)",
                 "artist": "KAXA - Topic"
-            },
-            {
-                "id": "EAeeOvJVIlY",
-                "title": "彭佳慧 Julia Peng《那些你不知道的我 Love's Hidden Side》 - 影集「那些你不知道的我」同名主題曲",
-                "artist": "彭佳慧 Julia Peng"
-            },
-            {
-                "id": "anSiC9vTD48",
-                "title": "我也很想他",
-                "artist": "吳汶芳Fang Wu Official"
             },
             {
                 "id": "oOuqlPR7-ko",
@@ -2450,14 +2435,24 @@
                 "artist": "陳零九 Nine Chen"
             },
             {
+                "id": "j1rvMEuKmc0",
+                "title": "鄭興 Xing Zheng【沒發生的愛情 The Youth Love】",
+                "artist": "鄭興 Xing Zheng"
+            },
+            {
                 "id": "Xrau_5jLTAI",
                 "title": "恰逢雨季",
                 "artist": "LBI - Topic"
             },
             {
-                "id": "3UPteJUZyGY",
-                "title": "風起流年 (《風起西州》電視劇主題曲)",
-                "artist": "ZhouShen Official"
+                "id": "pEcj86WZK5c",
+                "title": "Stardust in the Air",
+                "artist": "Release - Topic"
+            },
+            {
+                "id": "EAeeOvJVIlY",
+                "title": "彭佳慧 Julia Peng《那些你不知道的我 Love's Hidden Side》 - 影集「那些你不知道的我」同名主題曲",
+                "artist": "彭佳慧 Julia Peng"
             },
             {
                 "id": "FjYdFnNIHIk",
@@ -2470,6 +2465,11 @@
                 "artist": "Shiga Lin連詩雅"
             },
             {
+                "id": "4NuGcXc0Rlo",
+                "title": "ZHANG HAO《紅顏為誰開 》(《玄界之門》動畫片尾曲）| 官方版 ｜騰訊音樂發行頻道",
+                "artist": "腾讯音乐发行"
+            },
+            {
                 "id": "20mtRfT9pYA",
                 "title": "紙星星（電視劇《梟起青壤》情感插曲）",
                 "artist": "郁可唯 Yisa Yu"
@@ -2480,24 +2480,29 @@
                 "artist": "彭佳慧 Julia Peng"
             },
             {
-                "id": "4NuGcXc0Rlo",
-                "title": "ZHANG HAO《紅顏為誰開 》(《玄界之門》動畫片尾曲）| 官方版 ｜騰訊音樂發行頻道",
-                "artist": "腾讯音乐发行"
-            },
-            {
                 "id": "hwBLKcWq9jk",
                 "title": "你難道就沒有想起我",
                 "artist": "文慧如Boon Hui Lu"
             },
             {
-                "id": "_94pe6JPevw",
-                "title": "黃子弘凡 Lars Huang《愛與欠》",
-                "artist": "黄子弘凡 Lars Huang"
-            },
-            {
                 "id": "RRyD4TGAcBY",
                 "title": "Late Bloomer",
                 "artist": "李聖傑 Sam Lee"
+            },
+            {
+                "id": "3q8Hh-Cfx_U",
+                "title": "摩登兄弟刘宇宁&银河快递-念旧的人都困在回忆里",
+                "artist": "摩登兄弟歌迷MD_歌儿"
+            },
+            {
+                "id": "3UPteJUZyGY",
+                "title": "風起流年 (《風起西州》電視劇主題曲)",
+                "artist": "ZhouShen Official"
+            },
+            {
+                "id": "_94pe6JPevw",
+                "title": "黃子弘凡 Lars Huang《愛與欠》",
+                "artist": "黄子弘凡 Lars Huang"
             },
             {
                 "id": "zbvPWPEjS1Q",
@@ -2510,24 +2515,9 @@
                 "artist": "柏霖 PoLin"
             },
             {
-                "id": "bay8dwjtx_Y",
-                "title": "The Youth Love",
-                "artist": "鄭興 Xing Zheng"
-            },
-            {
-                "id": "_47EgwB2E04",
-                "title": "黄子弘凡 Lars Huang《上升的一切》",
-                "artist": "黄子弘凡 Lars Huang"
-            },
-            {
                 "id": "Cx8p6rFMqSk",
                 "title": "大Q秉洛 - 唱我們的歌(My Song)",
                 "artist": "大Q秉洛"
-            },
-            {
-                "id": "e5MDiece-7I",
-                "title": "JC 陳詠桐《假如真的不再約會》 [電影《驅魔龍族馬小玲》主題曲]",
-                "artist": "耀·音樂 LIT Music"
             },
             {
                 "id": "dQyR0plKQ9k",
@@ -2535,51 +2525,26 @@
                 "artist": "Kimberley Chen"
             },
             {
-                "id": "IM3eD3sJdf4",
-                "title": "布秧 - 電影《地母》主題曲",
-                "artist": "戴佩妮 Penny Tai Official"
-            },
-            {
                 "id": "TaBapeNn9zQ",
                 "title": "陳零九 Nine Chen【一步兩步 Three Steps Away】影集《師大公園地下社會》片尾曲 (4K)",
                 "artist": "滾石唱片 ROCK RECORDS"
             },
             {
-                "id": "Kb8uHvYyBHM",
-                "title": "完美猎人",
-                "artist": "陳立農 Chen Linong"
+                "id": "IM3eD3sJdf4",
+                "title": "布秧 - 電影《地母》主題曲",
+                "artist": "戴佩妮 Penny Tai Official"
             },
             {
-                "id": "1RVp5WBfRI8",
-                "title": "承桓 - 失落焰火 ◖當藍色閃爍劃破你眼中的遼闊，多天真以為我們會永恆快樂◗  官方版",
-                "artist": "nøise"
-            },
-            {
-                "id": "zPSFbrfEdJw",
-                "title": "Peace of Heart Is Home",
-                "artist": "李翊君 LEE YI JUN 官方頻道"
-            },
-            {
-                "id": "KoJiIspoPS0",
-                "title": "You Are Amazing (TV Series \"Adrift in Love\" Interlude Song)",
-                "artist": "Shawn尚融"
-            },
-            {
-                "id": "u2FoUsvRYZQ",
-                "title": "Lola Amour, Chen Linong - With You",
-                "artist": "Lola Amour"
-            },
-            {
-                "id": "l1hcRgNARhc",
-                "title": "小球 ✨ 莊鵑瑛  -【星星城市與我們】",
-                "artist": "莊鵑瑛-小球"
+                "id": "uzC9p9TtCL4",
+                "title": "鳳凰城",
+                "artist": "Release - Topic"
             }
         ]
     },
     {
         "輕鬆愉快的華語音樂": [
             {
-                "id": "LrabOJbMLy8",
+                "id": "AeatuvJ2jEQ",
                 "title": "[ Forever Forever ] Jay Chou ╳ Jerry Yan ╳ VanNess Wu ╳ Vic Chou ╳ Mayday Ashin｜",
                 "artist": "相信音樂BinMusic"
             },
@@ -2604,18 +2569,13 @@
                 "artist": "相信音樂BinMusic"
             },
             {
-                "id": "H8r5qrmWrzY",
-                "title": "蕭秉治 Xiao Bing Chih [ 恆星 Eternal Love ]",
-                "artist": "相信音樂BinMusic"
-            },
-            {
                 "id": "8CII0DXvrhI",
                 "title": "丁噹 Della feat. 蕭景鴻 (阿弟) Edy Hsiao [ 可以是朋友 Love for Friends ]",
                 "artist": "相信音樂BinMusic"
             },
             {
-                "id": "76dpyqyCV9Y",
-                "title": "[ 聖誕夜驚魂 The Nightmare Before Christmas ] 公益聖誕單曲 丨Energy x 丁噹 x 白安 x 鼓鼓呂思緯 x 蕭秉治",
+                "id": "H8r5qrmWrzY",
+                "title": "蕭秉治 Xiao Bing Chih [ 恆星 Eternal Love ]",
                 "artist": "相信音樂BinMusic"
             },
             {
@@ -2624,9 +2584,14 @@
                 "artist": "Juice Boy"
             },
             {
-                "id": "DfYQtLT7FQA",
-                "title": "Ozone - '浪漫主意 (Winter Wonderzone)'",
-                "artist": "Ozone"
+                "id": "MIQqlx8wY1g",
+                "title": "非凡 劉德華",
+                "artist": "Focus Music Official"
+            },
+            {
+                "id": "76dpyqyCV9Y",
+                "title": "[ 聖誕夜驚魂 The Nightmare Before Christmas ] 公益聖誕單曲 丨Energy x 丁噹 x 白安 x 鼓鼓呂思緯 x 蕭秉治",
+                "artist": "相信音樂BinMusic"
             },
             {
                 "id": "HrIhYDmxZrg",
@@ -2634,9 +2599,19 @@
                 "artist": "DIOR大穎"
             },
             {
-                "id": "Eo6SvGV6XKA",
-                "title": "罵醒我 (Reimagined)",
-                "artist": "周湯豪 NICKTHEREAL"
+                "id": "wjrbcZBSfFw",
+                "title": "黃文廷 Tin Huang - '黏踢踢 (sTTicky)'",
+                "artist": "Ozone and 黃文廷Tin"
+            },
+            {
+                "id": "DfYQtLT7FQA",
+                "title": "Ozone - '浪漫主意 (Winter Wonderzone)'",
+                "artist": "Ozone"
+            },
+            {
+                "id": "A6buEwpj2Es",
+                "title": "郭家瑋 Trevor【我也我也 After a Few Days】",
+                "artist": "郭家瑋 Trevor"
             },
             {
                 "id": "BUxYSJVIKi8",
@@ -2644,19 +2619,14 @@
                 "artist": "周湯豪 NICKTHEREAL"
             },
             {
-                "id": "H9zmMUf_2v4",
-                "title": "五月天 阿信 Ashin ╳ René 劉若英  [ 意外勇敢的臉龐 Unexpected Courage ] 片花版 ｜《我們意外的勇氣》 電影歌曲",
-                "artist": "相信音樂BinMusic and 五月天 阿信"
-            },
-            {
                 "id": "mZhdegW6VWA",
                 "title": "魏嘉瑩 Arrow Wei【 我要把眼淚當汽水 Drink Tears as Soda 】",
                 "artist": "魏嘉瑩"
             },
             {
-                "id": "OPwBozJPel4",
-                "title": "FEniX  《DAY OFF》",
-                "artist": "FEniX"
+                "id": "H9zmMUf_2v4",
+                "title": "五月天 阿信 Ashin ╳ René 劉若英  [ 意外勇敢的臉龐 Unexpected Courage ] 片花版 ｜《我們意外的勇氣》 電影歌曲",
+                "artist": "相信音樂BinMusic and 五月天 阿信"
             },
             {
                 "id": "addhxW0qAN8",
@@ -2679,9 +2649,24 @@
                 "artist": "Rainie Yang's Official Channel楊丞琳官方專屬頻道"
             },
             {
+                "id": "OPwBozJPel4",
+                "title": "FEniX  《DAY OFF》",
+                "artist": "FEniX"
+            },
+            {
+                "id": "-nKb4GQ7mms",
+                "title": "晨悠CHENYO【本能動作 The Impact of Your Gaze】",
+                "artist": "晨悠CHENYO"
+            },
+            {
                 "id": "kqROqdrr5_E",
                 "title": "Sabrina 胡恂舞 - 沒空想你",
                 "artist": "Sabrina 胡恂舞"
+            },
+            {
+                "id": "uN7xe7i75e8",
+                "title": "蔡旻佑 Evan Yo〈可惜不可以〉歌詞版",
+                "artist": "蔡旻佑 Evan Yo"
             },
             {
                 "id": "mgDhpTgzU9c",
@@ -2689,39 +2674,19 @@
                 "artist": "韋禮安 WeiBird"
             },
             {
-                "id": "LZ_akVRrHDI",
-                "title": "曹楊 Young [ 你終結了我的流浪 From Here On ]",
-                "artist": "曹楊 Young"
+                "id": "88pxwrEwqd8",
+                "title": "為你暫停 (Stop For You)",
+                "artist": "Sam Lin"
             },
             {
-                "id": "3mUgSJpimhU",
-                "title": "心海里的光 (影视剧《锦月如歌》心光浮漾主题曲)",
-                "artist": "ZhouShen Official"
+                "id": "xlDw1Bv4VtY",
+                "title": "牡羊座的浪漫",
+                "artist": "C.Y - Topic"
             },
             {
-                "id": "x8fdf4VtsfA",
-                "title": "天空下",
-                "artist": "李杰明 W.M.L"
-            },
-            {
-                "id": "dAux_12Folk",
-                "title": "夙愿 (影视剧《锦月如歌》宿命羁绊曲)",
-                "artist": "张远 - Topic"
-            },
-            {
-                "id": "Bj5VEvpBBdE",
-                "title": "U:NUS【如果愛都說不出來 4Reasons】(4K)",
-                "artist": "滾石唱片 ROCK RECORDS"
-            },
-            {
-                "id": "kfr98c-CXsE",
-                "title": "Feng Ze - moonlight",
-                "artist": "Feng Ze邱鋒澤"
-            },
-            {
-                "id": "buyluckTcK0",
-                "title": "高爾宣OSN-Used To",
-                "artist": "高爾宣OSN"
+                "id": "xo_s8xyGilc",
+                "title": "As Long As (Movie \"Kung Fu\" Theme Song)",
+                "artist": "Bii畢書盡"
             },
             {
                 "id": "xfzW69iCHlY",
@@ -2734,19 +2699,29 @@
                 "artist": "李浩瑋 Howard Lee"
             },
             {
-                "id": "72UOaVQHL2g",
-                "title": "李聖傑 Sam Lee《複製貼上》",
-                "artist": "李聖傑 Sam Lee"
-            },
-            {
                 "id": "AeMAK6MU2M4",
                 "title": "蕭煌奇 Ricky Hsiao〈 突破三千米的勇氣 〉 《 突破：三千米的泳氣 Second Life》電影主題曲",
                 "artist": "蕭煌奇 Ricky Hsiao"
             },
             {
-                "id": "QaTG-s5X5XA",
-                "title": "韋禮安 WeiBird - \"珍妮佛 Jennifer\"  (官方修復版)",
-                "artist": "韋禮安 WeiBird"
+                "id": "x8fdf4VtsfA",
+                "title": "天空下",
+                "artist": "李杰明 W.M.L"
+            },
+            {
+                "id": "2LfU7jr442o",
+                "title": "李佳歡 Kaia Lee X 曾柏鈞 JIMBo - 第七根菸",
+                "artist": "李佳歡 Kaia Lee and JIMBo曾柏鈞"
+            },
+            {
+                "id": "LZ_akVRrHDI",
+                "title": "曹楊 Young [ 你終結了我的流浪 From Here On ]",
+                "artist": "曹楊 Young"
+            },
+            {
+                "id": "kfr98c-CXsE",
+                "title": "Feng Ze - moonlight",
+                "artist": "Feng Ze邱鋒澤"
             },
             {
                 "id": "nleM5xItWl0",
@@ -2759,19 +2734,14 @@
                 "artist": "滾石唱片 ROCK RECORDS"
             },
             {
-                "id": "qwNdpaQ7cK4",
-                "title": "張語噥 Sammy -【寫予未來的情歌 Love song to the future (feat. 同理 Zunya)】 - 臺語台影集《人生只租不賣》主題曲",
-                "artist": "張語噥Sammy"
-            },
-            {
                 "id": "VaxYBf9uRHs",
                 "title": "折断玫瑰 (电影《匿杀》推广曲)",
                 "artist": "張韶涵Angela Zhang"
             },
             {
-                "id": "SqL2o7FEaBs",
-                "title": "4to9 - 桃子 Đào Tử A1J x  @diitonmusic",
-                "artist": "桃子 Đào Tử A1J"
+                "id": "qwNdpaQ7cK4",
+                "title": "張語噥 Sammy -【寫予未來的情歌 Love song to the future (feat. 同理 Zunya)】 - 臺語台影集《人生只租不賣》主題曲",
+                "artist": "張語噥Sammy"
             },
             {
                 "id": "P1i8DW5BaAE",
@@ -2779,29 +2749,24 @@
                 "artist": "黄子弘凡 Lars Huang"
             },
             {
+                "id": "SqL2o7FEaBs",
+                "title": "4to9 - 桃子 Đào Tử A1J x  @diitonmusic",
+                "artist": "桃子 Đào Tử A1J"
+            },
+            {
                 "id": "Hl-SVZHJavQ",
                 "title": "First Flight",
                 "artist": "CAELAN庆怜"
             },
             {
-                "id": "8U5KDJ7M4as",
-                "title": "非凡",
-                "artist": "劉德華 - Topic"
-            },
-            {
                 "id": "cku5sAvIfSI",
-                "title": "張語噥 Sammy - 【垃圾帶走 Litter Bit of Love】",
+                "title": "張語噥 Sammy -【垃圾帶走 Litter Bit of Love】",
                 "artist": "張語噥Sammy"
             },
             {
                 "id": "0lcaOdZdfRk",
                 "title": "Lil RAD & Coy6oi - 為你痛整個冬天  ‪@lilrad920",
                 "artist": "COY6OI and Lil RAD"
-            },
-            {
-                "id": "-5tKpbv1gQ4",
-                "title": "蕭敬騰 Jam Hsiao《為愛狂歡 Love Sensation》",
-                "artist": "蕭敬騰 Jam Hsiao"
             },
             {
                 "id": "52Awhn5XV3o",
@@ -2814,11 +2779,6 @@
                 "artist": "文慧如Boon Hui Lu"
             },
             {
-                "id": "ayH_uhixQY0",
-                "title": "I Love You?",
-                "artist": "陳立農 Chen Linong"
-            },
-            {
                 "id": "LTW2fJ6R8kM",
                 "title": "懂事的人",
                 "artist": "許維芳Yvonne"
@@ -2829,14 +2789,14 @@
                 "artist": "TEMPEST"
             },
             {
+                "id": "8pGAYmupsAE",
+                "title": "煮沸 feat. +How（影集《就算一個人也可以好好的吃飯2》片尾曲）",
+                "artist": "babyMINT丞妘 - Topic"
+            },
+            {
                 "id": "y4K_esRX5oM",
                 "title": "F.F.O ‘你那麼可愛Too Cute To Handle’ Dance Performance",
                 "artist": "F.F.O"
-            },
-            {
-                "id": "aArp4DF6kXc",
-                "title": "PROOF",
-                "artist": "JC-T - Topic"
             },
             {
                 "id": "nooe13loeSc",
@@ -2844,9 +2804,9 @@
                 "artist": "黃若欣"
             },
             {
-                "id": "8pGAYmupsAE",
-                "title": "煮沸 feat. +How（影集《就算一個人也可以好好的吃飯2》片尾曲）",
-                "artist": "babyMINT丞妘 - Topic"
+                "id": "aArp4DF6kXc",
+                "title": "PROOF",
+                "artist": "JC-T - Topic"
             },
             {
                 "id": "REmq0Jp8gn0",
@@ -2867,11 +2827,6 @@
                 "id": "595h8kCZbEE",
                 "title": "同理 Zunya - 一朝成名 GENESIS (片花)｜影視劇《一朝成名》同名主題曲",
                 "artist": "同理 Zunya"
-            },
-            {
-                "id": "wuvAqTvGdr8",
-                "title": "Rylee張若凡 - '多愛我 No Puppet'  - 影集「看看你有多愛我」自由主題曲",
-                "artist": "Rylee張若凡"
             },
             {
                 "id": "ge0VNUZhxSc",
@@ -2943,6 +2898,11 @@
                 "artist": "Britney Spears"
             },
             {
+                "id": "zpzdgmqIHOQ",
+                "title": "Madonna - La Isla Bonita",
+                "artist": "Madonna"
+            },
+            {
                 "id": "E8gmARGvPlI",
                 "title": "Wham! - Last Christmas",
                 "artist": "WHAM!"
@@ -2951,11 +2911,6 @@
                 "id": "sOnqjkJTMaA",
                 "title": "Michael Jackson - Thriller (Official 4K )",
                 "artist": "Michael Jackson"
-            },
-            {
-                "id": "zpzdgmqIHOQ",
-                "title": "Madonna - La Isla Bonita",
-                "artist": "Madonna"
             },
             {
                 "id": "xFrGuyw1V8s",
@@ -2968,14 +2923,14 @@
                 "artist": "Whitney Houston"
             },
             {
-                "id": "k2C5TjS2sh4",
-                "title": "Roxette - It Must Have Been Love",
-                "artist": "Roxette"
-            },
-            {
                 "id": "Y0pdQU87dc8",
                 "title": "Bryan Adams - (Everything I Do) I Do It For You",
                 "artist": "Bryan Adams"
+            },
+            {
+                "id": "k2C5TjS2sh4",
+                "title": "Roxette - It Must Have Been Love",
+                "artist": "Roxette"
             },
             {
                 "id": "4kHl4FoK1Ys",
@@ -2988,14 +2943,14 @@
                 "artist": "Richard Marx"
             },
             {
-                "id": "NJsa6-y4sDs",
-                "title": "Céline Dion - I'm Alive (Official HD )",
-                "artist": "Celine Dion"
-            },
-            {
                 "id": "3wxyN3z9PL4",
                 "title": "Starship - Nothing's Gonna Stop Us Now  [HD]",
                 "artist": "RHINO"
+            },
+            {
+                "id": "NJsa6-y4sDs",
+                "title": "Céline Dion - I'm Alive (Official HD )",
+                "artist": "Celine Dion"
             },
             {
                 "id": "Bx51eegLTY8",
@@ -3028,19 +2983,19 @@
                 "artist": "Whitney Houston"
             },
             {
+                "id": "r3Pr1_v7hsw",
+                "title": "Foreigner - I Want To Know What Love Is",
+                "artist": "RHINO"
+            },
+            {
                 "id": "dsUXAEzaC3Q",
-                "title": "Michael Jackson - Bad (Shortened Version)",
+                "title": "Michael Jackson - Bad",
                 "artist": "Michael Jackson"
             },
             {
                 "id": "F2AitTPI5U0",
                 "title": "Michael Jackson - Black Or White ( - Shortened Version)",
                 "artist": "Michael Jackson"
-            },
-            {
-                "id": "r3Pr1_v7hsw",
-                "title": "Foreigner - I Want To Know What Love Is",
-                "artist": "RHINO"
             },
             {
                 "id": "ogoIxkPjRts",
@@ -3148,14 +3103,14 @@
                 "artist": "Whitney Houston"
             },
             {
-                "id": "e3-5YC_oHjE",
-                "title": "U2 - I Still Haven't Found What I'm Looking For",
-                "artist": "U2"
-            },
-            {
                 "id": "zpOULjyy-n8",
                 "title": "REO Speedwagon - Can't Fight This Feeling (Official HD )",
                 "artist": "REO Speedwagon"
+            },
+            {
+                "id": "e3-5YC_oHjE",
+                "title": "U2 - I Still Haven't Found What I'm Looking For",
+                "artist": "U2"
             },
             {
                 "id": "G333Is7VPOg",
@@ -3188,6 +3143,11 @@
                 "artist": "Madonna"
             },
             {
+                "id": "92cwKCU8Z5c",
+                "title": "ABBA - The Winner Takes It All",
+                "artist": "ABBA"
+            },
+            {
                 "id": "dRHetRTOD1Q",
                 "title": "Pet Shop Boys - It's A Sin  [HD REMASTERED]",
                 "artist": "Pet Shop Boys"
@@ -3196,11 +3156,6 @@
                 "id": "4TYv2PhG89A",
                 "title": "Sade - Smooth Operator - Official - 1984",
                 "artist": "Sade"
-            },
-            {
-                "id": "92cwKCU8Z5c",
-                "title": "ABBA - The Winner Takes It All",
-                "artist": "ABBA"
             },
             {
                 "id": "loWXMtjUZWM",
@@ -3218,14 +3173,14 @@
                 "artist": "ABBA"
             },
             {
-                "id": "8YzabSdk7ZA",
-                "title": "Britney Spears - Everytime (Official HD )",
-                "artist": "Britney Spears"
-            },
-            {
                 "id": "uxX2gA18grk",
                 "title": "Billy Ocean - Caribbean Queen (No More Love on the Run) (Official HD )",
                 "artist": "Billy Ocean"
+            },
+            {
+                "id": "8YzabSdk7ZA",
+                "title": "Britney Spears - Everytime (Official HD )",
+                "artist": "Britney Spears"
             },
             {
                 "id": "-crgQGdpZR0",
@@ -3283,14 +3238,14 @@
                 "artist": "ABBA"
             },
             {
-                "id": "3Uo0JAUWijM",
-                "title": "ABBA - Happy New Year",
-                "artist": "ABBA"
-            },
-            {
                 "id": "IAuRoAUV19o",
                 "title": "Céline Dion - My Heart Will Go On (Taking Chances World Tour: The Concert)",
                 "artist": "Celine Dion"
+            },
+            {
+                "id": "3Uo0JAUWijM",
+                "title": "ABBA - Happy New Year",
+                "artist": "ABBA"
             },
             {
                 "id": "R7f189Z0v0Y",
@@ -3318,14 +3273,14 @@
                 "artist": "Westlife "
             },
             {
-                "id": "ewxmv2tyeRs",
-                "title": "Whitney Houston - Saving All My Love For You (Official HD )",
-                "artist": "Whitney Houston"
-            },
-            {
                 "id": "8Ms3mJFkSeg",
                 "title": "Debbie Gibson - Lost In Your Eyes",
                 "artist": "RHINO"
+            },
+            {
+                "id": "ewxmv2tyeRs",
+                "title": "Whitney Houston - Saving All My Love For You (Official HD )",
+                "artist": "Whitney Houston"
             },
             {
                 "id": "32ScTb6_KHg",
@@ -3393,14 +3348,14 @@
                 "artist": "HD Film Tributes"
             },
             {
-                "id": "ujMxXOHJloI",
-                "title": "Aerosmith - I Don't Wanna Miss a Thing - Armageddon - Original Soundtrack | SPOILER ALERT!",
-                "artist": "Niche Films"
-            },
-            {
                 "id": "lHytjEj7B9g",
                 "title": "The Neverending Story • Theme Song • Limahl",
                 "artist": "HD Film Tributes"
+            },
+            {
+                "id": "ujMxXOHJloI",
+                "title": "Aerosmith - I Don't Wanna Miss a Thing - Armageddon - Original Soundtrack | SPOILER ALERT!",
+                "artist": "Niche Films"
             },
             {
                 "id": "snsTmi9N9Gs",
@@ -3473,14 +3428,14 @@
                 "artist": "PhilOakeyVEVO"
             },
             {
-                "id": "ea2kr3yTpFw",
-                "title": "[OST : TITANIC] Celine Dion _ My Heart Will Go On",
-                "artist": "SNSD give me TWICE to GFriend from ITZY for Æ"
-            },
-            {
                 "id": "qf8BoWKeHow",
                 "title": "Debbie Gibson - Foolish Beat",
                 "artist": "RHINO"
+            },
+            {
+                "id": "ea2kr3yTpFw",
+                "title": "[OST : TITANIC] Celine Dion _ My Heart Will Go On",
+                "artist": "SNSD give me TWICE to GFriend from ITZY for Æ"
             },
             {
                 "id": "MLxTEV5vpyg",
@@ -3508,14 +3463,14 @@
                 "artist": "Arturo Cayetano"
             },
             {
-                "id": "HQW7I62TNOw",
-                "title": "KENNY ROGERS &  DOLLY PARTON -  ISLANDS IN THE STREAM - HQ",
-                "artist": "paradiseresort"
-            },
-            {
                 "id": "goc5wF50-Xo",
                 "title": "Air Supply - Just As I Am",
                 "artist": "Air Supply"
+            },
+            {
+                "id": "HQW7I62TNOw",
+                "title": "KENNY ROGERS &  DOLLY PARTON -  ISLANDS IN THE STREAM - HQ",
+                "artist": "paradiseresort"
             },
             {
                 "id": "J1x1WGtePSE",
@@ -3548,14 +3503,14 @@
                 "artist": "REO Speedwagon"
             },
             {
-                "id": "1qYH0R5o5vw",
-                "title": "Air Supply - Here I Am (Just When I Thought I Was Over You)",
-                "artist": "Air Supply"
-            },
-            {
                 "id": "lqAOB143KqY",
                 "title": "Debbie Gibson - Electric Youth",
                 "artist": "RHINO"
+            },
+            {
+                "id": "1qYH0R5o5vw",
+                "title": "Air Supply - Here I Am (Just When I Thought I Was Over You)",
+                "artist": "Air Supply"
             },
             {
                 "id": "Yqk6y5Hmy9s",
@@ -3687,9 +3642,14 @@
     {
         "KKBOX新歌排行榜": [
             {
-                "id": "p13tH7Etlzc",
-                "title": "王艷薇 Evangeline -【離開我的依賴 Leaving】｜",
-                "artist": "SKRpresents 陶山音樂"
+                "id": "jeRu6h4XbUU",
+                "title": "A-Lin《幸福在歌唱 Happiness Is Singing》 - 電影《陽光女子合唱團》幸福版主題曲",
+                "artist": "A-Lin官方專屬頻道"
+            },
+            {
+                "id": "WkWkGrcyCzw",
+                "title": "洪佩瑜 Pei-Yu Hung〈再見的時候 Till We Meet Again〉 - 電影《陽光女子合唱團》再見版主題曲",
+                "artist": "何樂音樂 PQP MUSIC and 洪佩瑜 Pei-Yu Hung"
             },
             {
                 "id": "PzKmAbt2NTc",
@@ -3697,9 +3657,19 @@
                 "artist": "DAPUN 大胖音樂"
             },
             {
+                "id": "p13tH7Etlzc",
+                "title": "王艷薇 Evangeline -【離開我的依賴 Leaving】｜",
+                "artist": "SKRpresents 陶山音樂"
+            },
+            {
                 "id": "IkZFVOcahnQ",
                 "title": "張遠 - 看著我的眼睛說『來 你看著我的眼睛說 你從沒愛過我，再看著我的眼睛說 你一點都不難過。』【高音質|】♫",
                 "artist": "4K Music Make"
+            },
+            {
+                "id": "r__zUyGtLZc",
+                "title": "吳克群 Kenji Wu《念念》feat. 戴佩妮 Penny Tai",
+                "artist": "吳克群 Kenji Wu"
             },
             {
                 "id": "785sf7xodmY",
@@ -3707,24 +3677,14 @@
                 "artist": "黃奇斌 Ng KiPin"
             },
             {
-                "id": "gUda9Vm1w8o",
-                "title": "LBI利比（時柏塵）- 跳樓機『我刪訪問記錄的時候有多慌張，他會看見嗎曾經只有我能看的模樣。』【 | Pinyin Lyrics】【AWALK MUSIC】",
-                "artist": "AWALK MUSIC CHANNEL"
-            },
-            {
                 "id": "i5YRIjxyJP8",
                 "title": "盧廣仲 Crowd Lu【太陽與地球 Sun & Earth】",
                 "artist": "添翼音樂 TEAM EAR MUSIC"
             },
             {
-                "id": "jeRu6h4XbUU",
-                "title": "A-Lin《幸福在歌唱 Happiness Is Singing》 - 電影《陽光女子合唱團》幸福版主題曲",
-                "artist": "A-Lin官方專屬頻道"
-            },
-            {
-                "id": "jcd6xxeZf4I",
-                "title": "[ 愛人啊 ✦ Finding Lovers ] 言承旭 Jerry ╳ 五月天阿信 Ashin｜Official Stage",
-                "artist": "相信音樂BinMusic"
+                "id": "gUda9Vm1w8o",
+                "title": "LBI利比（時柏塵）- 跳樓機『我刪訪問記錄的時候有多慌張，他會看見嗎曾經只有我能看的模樣。』【 | Pinyin Lyrics】【AWALK MUSIC】",
+                "artist": "AWALK MUSIC CHANNEL"
             },
             {
                 "id": "flBsWg14Rgc",
@@ -3732,19 +3692,24 @@
                 "artist": "Dreamer Music"
             },
             {
-                "id": "WgOtTaAYtKU",
-                "title": "派偉俊 Patrick Brasca & 陳華 Hua Chen【你沒等我去的舊金山 Unsent】",
-                "artist": "派偉俊 Patrick Brasca"
+                "id": "CC782M_c_88",
+                "title": "丁噹 Della [ 最痛的遺憾 When You’re No Longer Here ]",
+                "artist": "相信音樂BinMusic"
             },
             {
-                "id": "IWB0xk9lR88",
-                "title": "派偉俊 Patrick Brasca ft. mac ova seas - 左轉燈 1000 times+1",
-                "artist": "派偉俊 Patrick Brasca"
+                "id": "jcd6xxeZf4I",
+                "title": "[ 愛人啊 ✦ Finding Lovers ] 言承旭 Jerry ╳ 五月天阿信 Ashin｜Official Stage",
+                "artist": "相信音樂BinMusic"
             },
             {
-                "id": "SV8FrhDQDao",
-                "title": "C.Y 蔡承祐 x ZORN【飛蛾與蝴蝶 Chasing the Light】Netflix影集《如果我不曾見過太陽》片尾曲_晝夜版  @4.10_CY",
-                "artist": "滾石唱片 ROCK RECORDS"
+                "id": "uYWF1VZV5MQ",
+                "title": "動力火車 Power Station [ I Need You ]",
+                "artist": "動力火車 Power Station官方專屬頻道"
+            },
+            {
+                "id": "7LSpkUvosKI",
+                "title": "八三夭 feat. 瘦子E.SO【你壞壞 我愛愛 BAD LUV】",
+                "artist": "八三夭 831"
             },
             {
                 "id": "S0ZZsE_6R30",
@@ -3752,24 +3717,34 @@
                 "artist": "于冬然"
             },
             {
-                "id": "8MG--WuNW1Y",
-                "title": "韋禮安 WeiBird《如果可以 Red Scarf》 - 電影「月老」主題曲導演親剪音樂視角版",
-                "artist": "韋禮安 WeiBird"
-            },
-            {
-                "id": "d9ktAt-Gg2k",
-                "title": "Mayday – “Willful”  | Theme Song of “The First Frost”",
-                "artist": "相信音樂BinMusic"
-            },
-            {
                 "id": "YJfHuATJYsQ",
                 "title": "周杰倫 Jay Chou【擱淺 Step Aside】-",
                 "artist": "周杰倫 Jay Chou"
             },
             {
-                "id": "4aqvaoF_nyU",
-                "title": "我的存在就是愛你",
-                "artist": "aMEI - Topic"
+                "id": "8MG--WuNW1Y",
+                "title": "韋禮安 WeiBird《如果可以 Red Scarf》 - 電影「月老」主題曲導演親剪音樂視角版",
+                "artist": "韋禮安 WeiBird"
+            },
+            {
+                "id": "FBxvtVvx978",
+                "title": "【天空下】 Under the Same Sky - 李杰明, 陳忻玥, 王艷薇 |",
+                "artist": "SKRpresents 陶山音樂"
+            },
+            {
+                "id": "IWB0xk9lR88",
+                "title": "派偉俊 Patrick Brasca ft. mac ova seas - 左轉燈 1000 times+1",
+                "artist": "派偉俊 Patrick Brasca"
+            },
+            {
+                "id": "WgOtTaAYtKU",
+                "title": "派偉俊 Patrick Brasca & 陳華 Hua Chen【你沒等我去的舊金山 Unsent】",
+                "artist": "派偉俊 Patrick Brasca"
+            },
+            {
+                "id": "uN7xe7i75e8",
+                "title": "蔡旻佑 Evan Yo〈可惜不可以〉歌詞版",
+                "artist": "蔡旻佑 Evan Yo"
             },
             {
                 "id": "vGqpGFH3vh8",
@@ -3777,19 +3752,9 @@
                 "artist": "A-Lin官方專屬頻道"
             },
             {
-                "id": "CC782M_c_88",
-                "title": "丁噹 Della [ 最痛的遺憾 When You’re No Longer Here ]",
-                "artist": "相信音樂BinMusic"
-            },
-            {
-                "id": "r__zUyGtLZc",
-                "title": "吳克群 Kenji Wu《念念》feat. 戴佩妮 Penny Tai Official Vertical",
-                "artist": "吳克群 Kenji Wu"
-            },
-            {
-                "id": "i5YVMS1noIo",
-                "title": "Miss Ko 葛仲珊《got.to.believe》",
-                "artist": "Miss Ko 葛仲珊"
+                "id": "DYptgVvkVLQ",
+                "title": "周杰倫 Jay Chou【晴天 Sunny Day】-",
+                "artist": "周杰倫 Jay Chou"
             },
             {
                 "id": "3hLESh77fSg",
@@ -3797,44 +3762,19 @@
                 "artist": "理想混蛋 Bestards"
             },
             {
-                "id": "DYptgVvkVLQ",
-                "title": "周杰倫 Jay Chou【晴天 Sunny Day】-",
-                "artist": "周杰倫 Jay Chou"
-            },
-            {
-                "id": "cnlloWWvvLc",
-                "title": "Ur The Reason （中文版）",
-                "artist": "Van Ness Wu 吳建豪"
-            },
-            {
-                "id": "QVIrAWjB2ZU",
-                "title": "盧廣仲 Crowd Lu【愚人節快樂 All Fool’s Day】Official",
-                "artist": "添翼音樂 TEAM EAR MUSIC"
-            },
-            {
-                "id": "0rp3pP2Xwhs",
-                "title": "茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (﻿)《當男人戀愛時》電影主題曲",
-                "artist": "茄子蛋EggPlantEgg"
-            },
-            {
-                "id": "O3if3wCqh_w",
-                "title": "【纯享版】刘宇宁“爱情保安”爆改“初恋杀手”！搭档姚晓棠一曲《座位》将青春时期无疾而终的爱唱绝了！ #天赐的声音6 EP2 20250425",
-                "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -"
-            },
-            {
-                "id": "1RAJ3SvyBus",
-                "title": "八三夭【沒有翅膀的人 Nobody Can Fly】",
-                "artist": "八三夭 831"
-            },
-            {
-                "id": "ljd9ISixsWo",
-                "title": "陳華 HuaChen【想和你看五月的晚霞 Sunset In May】feat. LCY呂植宇 |",
-                "artist": "鮪魚肚影音 TheWayWeDo Productions"
-            },
-            {
                 "id": "X06y7ZuT7_Y",
                 "title": "曾瑋中『必巡』／／收錄在曾瑋中『總會有一工』專輯",
                 "artist": "時代創藝娛樂頻道"
+            },
+            {
+                "id": "d9ktAt-Gg2k",
+                "title": "Mayday – “Willful”  | Theme Song of “The First Frost”",
+                "artist": "相信音樂BinMusic"
+            },
+            {
+                "id": "FQ8wupNyBwA",
+                "title": "林佳辰SuMMeR - '都不難過了，好嗎？(Not Sad Anymore, Okay?)' 片花  - 影集「那些你不知道的我」插曲",
+                "artist": "Ozone"
             },
             {
                 "id": "N9XgnvGaZxk",
@@ -3842,9 +3782,14 @@
                 "artist": "Boba Beats"
             },
             {
-                "id": "0VcsvIlsOnE",
-                "title": "icyball 冰球樂團 - 不在乎",
-                "artist": "icyball 冰球樂團"
+                "id": "ljd9ISixsWo",
+                "title": "陳華 HuaChen【想和你看五月的晚霞 Sunset In May】feat. LCY呂植宇 |",
+                "artist": "鮪魚肚影音 TheWayWeDo Productions"
+            },
+            {
+                "id": "k1GY2D1IM80",
+                "title": "C.Y 蔡承祐【牡羊座的浪漫 Apricity of Aries】",
+                "artist": "C.Y蔡承祐"
             },
             {
                 "id": "1q-rNAzye8U",
@@ -3852,14 +3797,9 @@
                 "artist": "曾沛慈 Pets Tseng"
             },
             {
-                "id": "IscPlLsh6iU",
-                "title": "Khalil Fong (方大同) - Special Person (特別的人)",
-                "artist": "warnermusichk"
-            },
-            {
-                "id": "do25hszrh9U",
-                "title": "盧廣仲 Crowd Lu【一夜一夜一夜 Sleepless Night】",
-                "artist": "添翼音樂 TEAM EAR MUSIC"
+                "id": "8CII0DXvrhI",
+                "title": "丁噹 Della feat. 蕭景鴻 (阿弟) Edy Hsiao [ 可以是朋友 Love for Friends ]",
+                "artist": "相信音樂BinMusic"
             },
             {
                 "id": "yaNPy3xKw1M",
@@ -3867,9 +3807,19 @@
                 "artist": "ORT Music"
             },
             {
-                "id": "brDLsqPS9sY",
-                "title": "再見的時候-電影〈陽光女子合唱團〉主題曲-再見版",
-                "artist": "洪佩瑜 Pei-Yu Hung"
+                "id": "O3if3wCqh_w",
+                "title": "【纯享版】刘宇宁“爱情保安”爆改“初恋杀手”！搭档姚晓棠一曲《座位》将青春时期无疾而终的爱唱绝了！ #天赐的声音6 EP2 20250425",
+                "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -"
+            },
+            {
+                "id": "A6buEwpj2Es",
+                "title": "郭家瑋 Trevor【我也我也 After a Few Days】",
+                "artist": "郭家瑋 Trevor"
+            },
+            {
+                "id": "0rp3pP2Xwhs",
+                "title": "茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (﻿)《當男人戀愛時》電影主題曲",
+                "artist": "茄子蛋EggPlantEgg"
             },
             {
                 "id": "x-OinY-8bxc",
@@ -3877,29 +3827,54 @@
                 "artist": "邱軍Kui"
             },
             {
-                "id": "PX8GYiIf5K0",
-                "title": "[ Always be My Bro ] Jerry Yan ╳ Van Ness Wu ╳ Vic Chou ╳ Mayday Ashin｜Official Stage",
+                "id": "jPzkNvWOcGc",
+                "title": "張遠 - 嘉賓【高音質|Lyrics】♫『感謝你特別邀請，來見證你的愛情。』Zhang Yuan-Khách",
+                "artist": "4K Music Make"
+            },
+            {
+                "id": "kfr98c-CXsE",
+                "title": "Feng Ze - moonlight",
+                "artist": "Feng Ze邱鋒澤"
+            },
+            {
+                "id": "x-pCAngjeOw",
+                "title": "[avex官方]伍佰 & China Blue 淚橋",
+                "artist": "愛貝克思 avex taiwan"
+            },
+            {
+                "id": "AeatuvJ2jEQ",
+                "title": "[ Forever Forever ] Jay Chou ╳ Jerry Yan ╳ VanNess Wu ╳ Vic Chou ╳ Mayday Ashin｜",
                 "artist": "相信音樂BinMusic"
             },
             {
-                "id": "vkcw7iLlo3k",
-                "title": "善后",
-                "artist": "马师傅 - Topic"
+                "id": "igQjN5iZHWM",
+                "title": "仙杜貝拉 Bella【我喜歡你就是你】",
+                "artist": "MRM 樂子中心 Music Room  and 仙杜貝拉Bella"
             },
             {
-                "id": "j1TTQREaZMg",
-                "title": "JOLIN 蔡依林《Pleasure》",
-                "artist": "JOLIN 蔡依林"
+                "id": "QVIrAWjB2ZU",
+                "title": "盧廣仲 Crowd Lu【愚人節快樂 All Fool’s Day】Official",
+                "artist": "添翼音樂 TEAM EAR MUSIC"
             },
             {
-                "id": "lmFlqWPzl-E",
-                "title": "[avex官方] A-Lin 失戀無罪",
-                "artist": "愛貝克思 avex taiwan"
+                "id": "hEMRM6J7LlY",
+                "title": "小阿七《从前说》【高音质 动态歌词Lyrics】",
+                "artist": "音樂品味頻道"
             },
             {
                 "id": "3HsIaWuNeX0",
                 "title": "動力火車 Power Station [ 我很好騙 Love Me True ]",
                 "artist": "動力火車 Power Station官方專屬頻道"
+            },
+            {
+                "id": "IscPlLsh6iU",
+                "title": "Khalil Fong (方大同) - Special Person (特別的人)",
+                "artist": "warnermusichk"
+            },
+            {
+                "id": "6D79CYTxvOM",
+                "title": "告五人 Accusefive 【愛人錯過 Somewhere in time】",
+                "artist": "告五人Accusefive"
             },
             {
                 "id": "iZjoBsRoOV0",
@@ -3912,184 +3887,19 @@
                 "artist": "周杰倫 Jay Chou"
             },
             {
-                "id": "6D79CYTxvOM",
-                "title": "告五人 Accusefive 【愛人錯過 Somewhere in time】",
-                "artist": "告五人Accusefive"
+                "id": "Hlp8XD0R5qo",
+                "title": "《孤勇者》（《英雄聯盟：雙城之戰》動畫劇集中文主題曲）陳奕迅 Eason Chan",
+                "artist": "Eason Chan"
             },
             {
-                "id": "mRma6NkHwWU",
-                "title": "美秀集團 Amazing Show－愛情的大壞蛋 Bastards of Love",
-                "artist": "美秀集團 Amazing Show"
+                "id": "wSBXfzgqHtE",
+                "title": "Eric周興哲《你，好不好？ How Have You Been?》《遺憾拼圖》片尾曲",
+                "artist": "周興哲 Eric Chou"
             },
             {
-                "id": "jPzkNvWOcGc",
-                "title": "張遠 - 嘉賓【高音質|Lyrics】♫『感謝你特別邀請，來見證你的愛情。』Zhang Yuan-Khách",
-                "artist": "4K Music Make"
-            },
-            {
-                "id": "wlSvIL-H1GQ",
-                "title": "菲道尔 & 大颖 - 在加納共和國離婚 Divorce in Ghana",
-                "artist": "菲道尔 Firdhaus"
-            },
-            {
-                "id": "LrabOJbMLy8",
-                "title": "[ Forever Forever ] Jay Chou ╳ Jerry Yan ╳ VanNess Wu ╳ Vic Chou ╳ Mayday Ashin｜",
-                "artist": "相信音樂BinMusic"
-            },
-            {
-                "id": "PJJhHihvDpo",
-                "title": "茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (﻿)",
-                "artist": "茄子蛋EggPlantEgg"
-            },
-            {
-                "id": "tMWsgY4mT2Y",
-                "title": "郭家瑋 Trevor【你算個老幾 You Got Me Anyway】",
-                "artist": "郭家瑋 Trevor"
-            },
-            {
-                "id": "rDBFRaG93PU",
-                "title": "調頻",
-                "artist": "蕭子墨 - Topic"
-            },
-            {
-                "id": "PM3hK5tDJZA",
-                "title": "你的存在就是愛我",
-                "artist": "AMIT - Topic"
-            },
-            {
-                "id": "-FZKz7ji5PE",
-                "title": "一覺醒來 (電影《最親愛的陌生人》宣傳曲)",
-                "artist": "郁可唯 - Topic"
-            },
-            {
-                "id": "RRyD4TGAcBY",
-                "title": "Late Bloomer",
-                "artist": "李聖傑 Sam Lee"
-            },
-            {
-                "id": "OPwBozJPel4",
-                "title": "FEniX  《DAY OFF》",
-                "artist": "FEniX"
-            },
-            {
-                "id": "mqU4krG-Rac",
-                "title": "陈小春 - 街角的晚风『缠绵的晚风 吹熄爱的梦，留下我在记忆里沉重。』『动态歌词』#翻唱 #必听热门歌曲",
-                "artist": "雲夢music"
-            },
-            {
-                "id": "4RZ2V62gotk",
-                "title": "和你在聖誕",
-                "artist": "Sam Lin"
-            },
-            {
-                "id": "BUxYSJVIKi8",
-                "title": "周湯豪 NICKTHEREAL〈TIL THE END〉",
-                "artist": "周湯豪 NICKTHEREAL"
-            },
-            {
-                "id": "lnw9Sj1SFv0",
-                "title": "麻吉Go",
-                "artist": "U:NUS"
-            },
-            {
-                "id": "OwnR9YslRgk",
-                "title": "逍遙Lee - 不如『不如當你死掉了就好 死在你離開的那一秒 不如當你會愛我到老 不愛的樣子我見不到』",
-                "artist": "Starlight Music"
-            },
-            {
-                "id": "cku5sAvIfSI",
-                "title": "張語噥 Sammy - 【垃圾帶走 Litter Bit of Love】",
-                "artist": "張語噥Sammy"
-            },
-            {
-                "id": "_wnPpH0jjhA",
-                "title": "陳零九 Nine Chen【我是什麼很賤的人嗎】",
-                "artist": "MRM 樂子中心 Music Room "
-            },
-            {
-                "id": "ClIZj1O7aLY",
-                "title": "黃氏兄弟瑋瑋- 《祝你新年快樂》『祝你新年快樂 幸福可樂 打開新的人生 丟棄不珍惜你的 人 高清』",
-                "artist": "音韵之声 Sound music"
-            },
-            {
-                "id": "-R9icKqr9Xo",
-                "title": "最後一搏 ( 影集《凶宅專賣店》主題曲 )",
-                "artist": "動力火車 Power Station官方專屬頻道"
-            },
-            {
-                "id": "HASI_YJS2C8",
-                "title": "斑恩Ben【你是我，想擁抱的理由】|",
-                "artist": "鮪魚肚影音 TheWayWeDo Productions and 斑恩"
-            },
-            {
-                "id": "HtqFqZUuD0Q",
-                "title": "Stage: Liu Yuning \"Those Who Are Destined to Meet Will Meet Again\"| Crush of Music | iQIYI SuperShow",
-                "artist": "iQIYI 潮综艺 - Get the iQIYI APP"
-            },
-            {
-                "id": "FYne6sp1UUU",
-                "title": "SAD BOI",
-                "artist": "FEniX"
-            },
-            {
-                "id": "tLgT-478K4o",
-                "title": "姓名 (雨声在重播你模糊的姓和名)",
-                "artist": "鹿轻轻 - Topic"
-            },
-            {
-                "id": "Ao0ntWCyiLo",
-                "title": "Not Alone",
-                "artist": "FEniX"
-            },
-            {
-                "id": "hFiLAgeDgmY",
-                "title": "心電圖",
-                "artist": "B CRUSH 不小心製造 - Topic"
-            },
-            {
-                "id": "lkSgXlBE4Io",
-                "title": "Iceberg",
-                "artist": "FEniX"
-            },
-            {
-                "id": "4K9nNxcSIQM",
-                "title": "王艷薇 Evangeline -【不想再愛】I Don't Want to Love Again |",
-                "artist": "SKRpresents 陶山音樂"
-            },
-            {
-                "id": "9UC3KX8VICU",
-                "title": "Wolf n Sheep",
-                "artist": "FEniX"
-            },
-            {
-                "id": "iFIaXrgqoB0",
-                "title": "Slow-Mo",
-                "artist": "FEniX"
-            },
-            {
-                "id": "oU82-aLLncY",
-                "title": "Avant-Garde",
-                "artist": "FEniX"
-            },
-            {
-                "id": "t3VPMhrD-hc",
-                "title": "影 (Lexa) (Netflix影集《如果我不曾見過太陽》插曲)",
-                "artist": "KAXA - Topic"
-            },
-            {
-                "id": "qTSxFphKtA8",
-                "title": "How You've Been",
-                "artist": "8lak張鈞"
-            },
-            {
-                "id": "x7MF5rDjopM",
-                "title": "【新歌首发】张碧晨《似我似你》  电视剧《骄阳似我》主题曲  | 张碧晨资讯站",
-                "artist": "张碧晨资讯站-Diamond Station"
-            },
-            {
-                "id": "NXiiom_rlFA",
-                "title": "無比走心",
-                "artist": "李浩瑋 Howard Lee"
+                "id": "wjrbcZBSfFw",
+                "title": "黃文廷 Tin Huang - '黏踢踢 (sTTicky)'",
+                "artist": "Ozone and 黃文廷Tin"
             },
             {
                 "id": "VaxYBf9uRHs",
@@ -4097,14 +3907,19 @@
                 "artist": "張韶涵Angela Zhang"
             },
             {
-                "id": "a1OjQNteoSI",
-                "title": "《流心》 by Zhang Bichen  | 骄阳似我 Shine On Me | #ZhangBichen #cdrama #ost",
-                "artist": "西嘻影业官方频道 XiXi Pictures Official Channel"
+                "id": "-FZKz7ji5PE",
+                "title": "一覺醒來 (電影《最親愛的陌生人》宣傳曲)",
+                "artist": "郁可唯 - Topic"
             },
             {
-                "id": "12v0_rrqwyY",
-                "title": "庸俗救星 Vulgar Savior【夢醒時分 Dream to Awakening】歌詞版",
-                "artist": "滾石唱片 ROCK RECORDS"
+                "id": "-nKb4GQ7mms",
+                "title": "晨悠CHENYO【本能動作 The Impact of Your Gaze】",
+                "artist": "晨悠CHENYO"
+            },
+            {
+                "id": "lwqAdR4Y8lE",
+                "title": "PIZZALI【拼一個浪漫】",
+                "artist": "PIZZALI"
             },
             {
                 "id": "qwNdpaQ7cK4",
@@ -4112,19 +3927,154 @@
                 "artist": "張語噥Sammy"
             },
             {
-                "id": "tETeBn9pyao",
-                "title": "Ace【石碑裡的蝴蝶 Butterfly Within the Stone】ft.INHON",
-                "artist": "Ace"
+                "id": "Pse7nbniVNo",
+                "title": "閻奕格 Janice Yan x Marz23【戒不掉你的愛 Can't Quit You 合唱版 Duet Ver.】",
+                "artist": "Janice Yan閻奕格 and Marz23"
             },
             {
-                "id": "91dVQsolCYA",
-                "title": "不是你想像的那種好人",
-                "artist": "Anni Hung"
+                "id": "033S21MseEY",
+                "title": "Special Night - 韦礼安 WeiBird（轧戏 电视剧密语主题曲 OST） | Love Between Lines OST",
+                "artist": "Daily Music Official"
             },
             {
-                "id": "AyGeZp-0e2c",
-                "title": "不要不禮貌",
-                "artist": "雷擎L8ching"
+                "id": "1y4AZwEguJg",
+                "title": "李佳歡 Kaia Lee【拉黑我吧】",
+                "artist": "MRM 樂子中心 Music Room  and 李佳歡 Kaia Lee"
+            },
+            {
+                "id": "EAeeOvJVIlY",
+                "title": "彭佳慧 Julia Peng《那些你不知道的我 Love's Hidden Side》 - 影集「那些你不知道的我」同名主題曲",
+                "artist": "彭佳慧 Julia Peng"
+            },
+            {
+                "id": "N62_poncQpw",
+                "title": "PPLin - 我想我又想你了",
+                "artist": "PPlin 林芃逸"
+            },
+            {
+                "id": "MTC9XuO3wrI",
+                "title": "魏如萱 waa wei [ 普通的日子 Deep Quiet ] 【電影《深度安靜》宣傳曲】",
+                "artist": "forgoodmusic"
+            },
+            {
+                "id": "5LOSuYTu4Bc",
+                "title": "初雪",
+                "artist": "Diana Wang 王詩安"
+            },
+            {
+                "id": "3zh6sJ2NzM0",
+                "title": "[So Heartbroken] \"Wasted\"  - Ariel Tsai",
+                "artist": "蔡佩軒 Ariel Tsai"
+            },
+            {
+                "id": "9mEFFj7fxYM",
+                "title": "宏兒 Kuan Hong【沉默那麽的痛】",
+                "artist": "MRM 樂子中心 Music Room  and 宏兒_"
+            },
+            {
+                "id": "2LfU7jr442o",
+                "title": "李佳歡 Kaia Lee X 曾柏鈞 JIMBo - 第七根菸",
+                "artist": "李佳歡 Kaia Lee and JIMBo曾柏鈞"
+            },
+            {
+                "id": "EURnJBR-cVY",
+                "title": "It's My Turn - 孙盛希（轧戏 电视剧破茧曲 OST） | Love Between Lines OST",
+                "artist": "Daily Music Official"
+            },
+            {
+                "id": "LLTwpmB8jYE",
+                "title": "163braces【寫一首歌 APRIL 5, 1969】歌詞版",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "-oGf-8ndto4",
+                "title": "Karencici - 我的錯",
+                "artist": "Karencici"
+            },
+            {
+                "id": "isOfxuXSyOE",
+                "title": "靠近（电视剧《轧戏》双栖曲）",
+                "artist": "都智文 - Topic"
+            },
+            {
+                "id": "-GcaCD0p_JY",
+                "title": "卡帶森林 - 心碎的夢 「你別在 這午夜時分出現我腦海 我怕在 夢裡不願醒來」♪",
+                "artist": "JellyFish Music"
+            },
+            {
+                "id": "uw3fk7bqtR4",
+                "title": "Letting Go (Live)",
+                "artist": "蔡健雅 Tanya Chua"
+            },
+            {
+                "id": "9XalPdfYFo4",
+                "title": "《三國志·戰略版》五週年主題曲《#當鋒》#A-Lin",
+                "artist": "三國志・戰略版"
+            },
+            {
+                "id": "OjfnpYXaZ1s",
+                "title": "我跟你說",
+                "artist": "Jocelyn 9.4.0"
+            },
+            {
+                "id": "XtA6Ied71kU",
+                "title": "【纯享】#周兴哲 #姚晓棠 《屋顶》感受独属于自己的那份心动与默契｜《声生不息·华流季》Infinity And Beyond·Mandopop｜ MangoTV",
+                "artist": "芒果TV音乐 MangoTV Music"
+            },
+            {
+                "id": "ZD6DwJVTxO4",
+                "title": "玖壹壹X怕胖團 Nine one one X PAPUN BAND【浪人情歌  Wanderer's Love Song】歌詞版 @TWnineoneone911 @papun_band",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "rnPHaua1jrw",
+                "title": "卡带森林 - 心碎的梦 ( 女版 ) 『 你别在这午夜时分出现我脑海 我怕在梦里不愿醒来』【 动态歌词 】",
+                "artist": "JCC MUSIC"
+            },
+            {
+                "id": "YJiML6j6JMA",
+                "title": "趙傳 Zhao Chuan [ 歲月也搶不走的東西 Bond untouched by time ]",
+                "artist": "相信音樂BinMusic"
+            },
+            {
+                "id": "mR214j_gULw",
+                "title": "姓名",
+                "artist": "大头针official"
+            },
+            {
+                "id": "3rCoY1a_Bm8",
+                "title": "曾經如今",
+                "artist": "丁噹 Della Ding"
+            },
+            {
+                "id": "a0j0YIkKLmc",
+                "title": "名为你的期待（电视剧《轧戏》奔赴片尾曲）",
+                "artist": "颜人中 - Topic"
+            },
+            {
+                "id": "-YfKlqFD1ao",
+                "title": "Bii畢書盡 & 徐暐翔Vash Hsu《想要保護的 As Long As》 - 電影「功夫」主題曲",
+                "artist": "台灣索尼音樂 Sony Music Taiwan and 3 more"
+            },
+            {
+                "id": "VCgNJ2id11o",
+                "title": "公館青少年 GGteens【至少我們都還沒放棄】 ♪",
+                "artist": "公館青少年 GGteens"
+            },
+            {
+                "id": "5bB4ASz6YXk",
+                "title": "Hello Nico【愛的初體驗 Love's First Taste】歌詞版",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "8WBmTF1a7aw",
+                "title": "重来（电视剧《轧戏》破晓主题曲）",
+                "artist": "金玟岐 - Topic"
+            },
+            {
+                "id": "yStckX5qzcI",
+                "title": "我知道你已經不愛",
+                "artist": "利善榛 - Topic"
             },
             {
                 "id": "aMvIBU2_2zY",
@@ -4132,14 +4082,29 @@
                 "artist": "VH (Vast & Hazy) - Topic"
             },
             {
-                "id": "MyhRQOE_H8Y",
-                "title": "諾然 - 2026一定會幸福 『2026 我一定會幸福的』【女聲版】",
-                "artist": "Lin Music "
+                "id": "FtVgvm9Lyxw",
+                "title": "阿福羅火山",
+                "artist": "比莉 - Topic"
             },
             {
-                "id": "9yuo8xoqrjg",
-                "title": "Haezee 黃瑋昕 - 懂事得可以 SO BE IT",
-                "artist": "Haezee 黃瑋昕"
+                "id": "GeMsulqSgcg",
+                "title": "柏霖 PoLin - '回不到那天 Never back to that day'  - 影視劇「怒風」主題曲",
+                "artist": "柏霖 PoLin"
+            },
+            {
+                "id": "ClIZj1O7aLY",
+                "title": "黃氏兄弟瑋瑋- 《祝你新年快樂》『祝你新年快樂 幸福可樂 打開新的人生 丟棄不珍惜你的 人 高清』",
+                "artist": "音韵之声 Sound music"
+            },
+            {
+                "id": "Wfaxcx17eME",
+                "title": "Danny 許佳麟&袁莉媛 | 往前飛去 (影視劇《護花》插曲) Official 【高音質 】",
+                "artist": " C-OST Melody 追劇聽"
+            },
+            {
+                "id": "F04O1bjNQsw",
+                "title": "真心話大冒險",
+                "artist": "林可綸AcRoss - Topic"
             },
             {
                 "id": "cpSPALgne4w",
@@ -4147,44 +4112,34 @@
                 "artist": "李聖傑 Sam Lee"
             },
             {
-                "id": "KKXqHI4bhN8",
-                "title": "C.Y 蔡承祐【覆蓋回憶 Overwriting】Netflix影集《如果我不曾見過太陽》插曲",
-                "artist": "滾石唱片 ROCK RECORDS"
+                "id": "01zAHefcbm0",
+                "title": "Gotcha!",
+                "artist": "Release - Topic"
             },
             {
-                "id": "_AC7tihZQ74",
-                "title": "U:NUS【Be Your Sun】Netflix影集《如果我不曾見過太陽》插曲 (4K)",
-                "artist": "滾石唱片 ROCK RECORDS"
+                "id": "PfuBpbIR638",
+                "title": "一半一半",
+                "artist": "Top Barry - Topic"
             },
             {
-                "id": "p10UIg9SQro",
-                "title": "羅志祥 Show Lo《ALL EYES ON ME》 Official Live",
-                "artist": "Show Lo's Official Channel羅志祥官方專屬頻道"
+                "id": "yUVfPtlTKAE",
+                "title": "[NEW] 陈卓璇 Chen Zhuoxuan Krystal - 记忆点 Vivid Echoes｜动态歌词  (ZH/EN)｜20260101",
+                "artist": "陈卓璇 Chen Zhuoxuan Music"
             },
             {
-                "id": "7WR9prrEl1s",
-                "title": "我偏要（《雙軌》影視劇主題曲） - 張碧晨『Wo pian yao (《Shuang gui 》 Ying shi ju zhu ti qu ) - Zhang bi chen』",
-                "artist": "Dreamer Music"
+                "id": "hjEQJvzPnlM",
+                "title": "我已经很努力的控制自己的情绪",
+                "artist": "卢晚婷 - Topic"
             },
             {
-                "id": "8prJOfr0l2U",
-                "title": "en(王翊恩) - 唯一的偏愛『你是我唯一的偏愛，是我所有原則的例外。』【高音質|Lyrics】♫",
-                "artist": "4K Music Make"
+                "id": "vDv_EGiUC9s",
+                "title": "感性生物",
+                "artist": "周蕙 Where Chou"
             },
             {
-                "id": "9B0qfmfLJQ4",
-                "title": "說愛我吧",
-                "artist": "icyball 冰球樂團"
-            },
-            {
-                "id": "IajFJ5RMvVk",
-                "title": "Pale Dawn",
-                "artist": "Kuei-Gang - Topic"
-            },
-            {
-                "id": "SRBzegzNDPs",
-                "title": "張韶涵Angela Zhang 《大小孩》| 官方版｜騰訊音樂發行頻道",
-                "artist": "腾讯音乐发行"
+                "id": "OrY6zhX29mM",
+                "title": "qnz.tpc",
+                "artist": "Miss Ko 葛仲珊"
             }
         ]
     },
@@ -5464,6 +5419,928 @@
                 "id": "HegSBovl24I",
                 "title": "利比《跳楼机》(官方歌词)｜LBI - Jumping Machine",
                 "artist": "Sony Music China索尼音樂中國"
+            }
+        ]
+    },
+    {
+        "情人節華語情歌": [
+            {
+                "id": "uYWF1VZV5MQ",
+                "title": "動力火車 Power Station [ I Need You ]",
+                "artist": "動力火車 Power Station官方專屬頻道"
+            },
+            {
+                "id": "bu7nU9Mhpyo",
+                "title": "周杰倫 Jay Chou (特別演出: 派偉俊)【告白氣球 Love Confession】",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "HQDDlgGy2hg",
+                "title": "高爾宣 OSN -【Without You】沒了妳｜",
+                "artist": "SKRpresents 陶山音樂"
+            },
+            {
+                "id": "4iRupuNet3Q",
+                "title": "八三夭 831【想見你想見你想見你 Miss You 3000】電視劇「想見你상견니」片尾曲",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "0rp3pP2Xwhs",
+                "title": "茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (﻿)《當男人戀愛時》電影主題曲",
+                "artist": "茄子蛋EggPlantEgg"
+            },
+            {
+                "id": "LWV-f6dMN3Q",
+                "title": "林俊傑 JJ Lin - 修煉愛情 Practice Love (華納official 高畫質HD)",
+                "artist": "JJ Lin林俊傑"
+            },
+            {
+                "id": "s__iJysWkCY",
+                "title": "Patrick Brasca & Jay Chou【Six Degrees】",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "WIwn0DkcFEA",
+                "title": "周興哲Eric Chou《想念你想我When you missed me》(電視劇《冬至》片頭曲)",
+                "artist": "周興哲 Eric Chou"
+            },
+            {
+                "id": "D9ksLn6hZ7Q",
+                "title": "G.E.M.【多遠都要在一起 LONG DISTANCE】 [HD] 鄧紫棋",
+                "artist": "GEM鄧紫棋"
+            },
+            {
+                "id": "fJWN7wtvaJ0",
+                "title": "HEBE TIEN 田馥甄 [愛著愛著就永遠 Forever Love]  HD",
+                "artist": "華研國際"
+            },
+            {
+                "id": "3r_cw32tzXY",
+                "title": "我想要擁有你",
+                "artist": "MECBand 小男孩樂團 Men Envy Children"
+            },
+            {
+                "id": "1CcQDuuhdXA",
+                "title": "田馥甄 Hebe Tien [還是要幸福 Still in Happiness]",
+                "artist": "華研國際"
+            },
+            {
+                "id": "YaJ_lYFgr6c",
+                "title": "【卡農 in Love】”Canon in Love”  - 蔡佩軒 Ariel Tsai",
+                "artist": "蔡佩軒 Ariel Tsai"
+            },
+            {
+                "id": "atGbcYTjZCY",
+                "title": "蕭敬騰 Jam Hsiao - 讓我為你唱情歌 A Love Song For You (華納official 官方)",
+                "artist": "蕭敬騰 Jam Hsiao"
+            },
+            {
+                "id": "vDR-e3W6ARc",
+                "title": "G.E.M.【新的心跳 HEARTBEAT】 [HD] 鄧紫棋",
+                "artist": "GEM鄧紫棋"
+            },
+            {
+                "id": "itjyryJ-8IU",
+                "title": "情歌",
+                "artist": "梁靜茹  Fish Leong "
+            },
+            {
+                "id": "4aqvaoF_nyU",
+                "title": "我的存在就是愛你",
+                "artist": "aMEI - Topic"
+            },
+            {
+                "id": "IFTZtuXKzFs",
+                "title": "MAYDAY [ Elope to the Moon ] feat.陳綺貞 Official Live",
+                "artist": "相信音樂BinMusic"
+            },
+            {
+                "id": "H7hpK6cm-6k",
+                "title": "周杰倫 Jay Chou【開不了口 I Find It Hard To Say】",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "Sv0OblpjrOw",
+                "title": "茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness",
+                "artist": "茄子蛋EggPlantEgg"
+            },
+            {
+                "id": "kcxCVn5ToQc",
+                "title": "艾薇Ivy〈計算浪漫 Calculating Romance〉",
+                "artist": "艾薇Ivy"
+            },
+            {
+                "id": "AGLU8j10VpQ",
+                "title": "Dang Ni",
+                "artist": "王心凌 Cyndi Wang"
+            },
+            {
+                "id": "VdwAkhNdZi8",
+                "title": "陳奕迅 Eason Chan, 王菲 Faye Wong - 因為愛情",
+                "artist": "universalmusichk"
+            },
+            {
+                "id": "h-woMj_Vt0A",
+                "title": "林俊傑 JJ Lin【小酒窩 Dimples】（合唱：蔡卓妍 A-Sa）",
+                "artist": "太合音樂 Taihe Music-精選"
+            },
+            {
+                "id": "P6QXo88IG2c",
+                "title": "G.E.M.鄧紫棋【好想好想你 Missing You】",
+                "artist": "GEM鄧紫棋"
+            },
+            {
+                "id": "VhCRokYVF1I",
+                "title": "郭靜 Claire Kuo - 心牆 (官方版)",
+                "artist": "福茂唱片"
+            },
+            {
+                "id": "Vs9A65M3v-k",
+                "title": "林宥嘉Yoga Lin - 少女 Otomen",
+                "artist": "華研國際"
+            },
+            {
+                "id": "uN7xe7i75e8",
+                "title": "蔡旻佑 Evan Yo〈可惜不可以〉歌詞版",
+                "artist": "蔡旻佑 Evan Yo"
+            },
+            {
+                "id": "4VpklHOAVfQ",
+                "title": "當你",
+                "artist": "JJ Lin林俊傑"
+            },
+            {
+                "id": "ozLKRjCuJ-c",
+                "title": "我好想你",
+                "artist": "Sodagreen - Topic"
+            },
+            {
+                "id": "KIYt4fn6yoM",
+                "title": "大城小愛",
+                "artist": "王力宏 Wang Leehom"
+            },
+            {
+                "id": "5XK2C9w6oVk",
+                "title": "周杰倫 Jay Chou【愛在西元前 Love before AD】",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "xlDw1Bv4VtY",
+                "title": "牡羊座的浪漫",
+                "artist": "C.Y - Topic"
+            },
+            {
+                "id": "QQucPUfXUQQ",
+                "title": "周杰倫Jay Chou(ジェイ・チョウ)【等你下課Waiting For You (with 楊瑞代 Gary)】(君を待っている)",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "rFsn1tzhcHk",
+                "title": "光良 Michael Wong【第一次 First time】",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "kPUc7w3G-WM",
+                "title": "S.H.E [愛上你 Loving You]",
+                "artist": "華研國際"
+            },
+            {
+                "id": "7Jhdn2riuC0",
+                "title": "G.E.M.鄧紫棋【倒流時間I'll Be Missing You】",
+                "artist": "GEM鄧紫棋"
+            },
+            {
+                "id": "812omgU1tHs",
+                "title": "Khalil Fong (方大同) - 愛愛愛",
+                "artist": "warnermusichk"
+            },
+            {
+                "id": "wXJWZJOmhdI",
+                "title": "心花開",
+                "artist": "李千娜"
+            },
+            {
+                "id": "iSkRGgYSQfY",
+                "title": "五月天 Mayday【戀愛ING Love-ing】",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "d7YJ_fOcOks",
+                "title": "韋禮安 Weibird Wei - 因為愛 (官方版) - 民視偶像劇「星座愛情」水瓶女插曲",
+                "artist": "福茂唱片"
+            },
+            {
+                "id": "nNEw8BtKU-E",
+                "title": "'九澤CP' 陳零九 Nine Chen 邱鋒澤 FENG ZE【陪在你身邊 By Your Side】",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "oOuqlPR7-ko",
+                "title": "想你的時候",
+                "artist": "宏兒_"
+            },
+            {
+                "id": "s1nlIafxVYQ",
+                "title": "陶喆 David Tao - 愛，很簡單 I Love You",
+                "artist": "Timeless Music"
+            },
+            {
+                "id": "mm8T-lBXQXA",
+                "title": "周杰倫 Jay Chou【甜甜的 Sweet】-",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "Shxik4JT_hE",
+                "title": "Khalil Fong (方大同)  - Love Song",
+                "artist": "warnermusichk"
+            },
+            {
+                "id": "IvTy0RTPjjs",
+                "title": "〈 飄洋過海來看你 SEA  You Soon〉梁靜茹Fish Leong ｘ艾怡良 Eve Ai",
+                "artist": "梁靜茹  Fish Leong "
+            },
+            {
+                "id": "M9EHlbeY8UA",
+                "title": "蕭亞軒 Elva Hsiao - CAPPUCCINO",
+                "artist": "Timeless Music"
+            },
+            {
+                "id": "T18wjAz4LxU",
+                "title": "你是不是有點動心 - Kimberley Chen 陳芳語 | Subsessions",
+                "artist": "Kimberley Chen"
+            },
+            {
+                "id": "NN57oao67GY",
+                "title": "王ADEN -【我跟你不只ENFP是LOVE】",
+                "artist": "王ADEN"
+            },
+            {
+                "id": "U9G5pVTNGik",
+                "title": "[Not] Over You",
+                "artist": "K.Swo - Topic"
+            },
+            {
+                "id": "yFQrHCyS2ZQ",
+                "title": "梁文音Wen Yin Liang – 每一次戀愛 (「媽咪的男朋友」片尾曲 / )",
+                "artist": "UNIVERSAL MUSIC TAIWAN 環球音樂"
+            },
+            {
+                "id": "AqEE-r965XU",
+                "title": "Kiss Me",
+                "artist": "陳立農 Chen Linong"
+            },
+            {
+                "id": "gnA3E_E3SNA",
+                "title": "Ai Ni (A Cappella Version)",
+                "artist": "Kimberley Chen"
+            }
+        ]
+    },
+    {
+        "跨年熱門華語歌曲": [
+            {
+                "id": "bu7nU9Mhpyo",
+                "title": "周杰倫 Jay Chou (特別演出: 派偉俊)【告白氣球 Love Confession】",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "HK7SPnGSxLM",
+                "title": "周杰倫 Jay Chou【說好不哭 Won't Cry】with 五月天阿信 (Mayday Ashin)",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "R2V9sHAlLuQ",
+                "title": "玖壹壹(Nine one one) - 來個蹦蹦‭ ‬Ft‭. ‬Ella‭ ‬陳嘉樺 Like Boom Boom Ft. Ella 官方首播",
+                "artist": "玖壹壹"
+            },
+            {
+                "id": "jiawzYgfkuI",
+                "title": "林俊傑 JJ Lin & 成龍 Jackie Chan《Skibidi》",
+                "artist": "JJ Lin林俊傑"
+            },
+            {
+                "id": "MAjY8mCTXWk",
+                "title": "周杰倫 Jay Chou【不愛我就拉倒 If You Don't Love Me, It's Fine】 發燒影片華語地區蟬聯第一 美國直衝前二",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "BSlMAJ7SkMA",
+                "title": "周杰倫 Jay Chou【還在流浪 Still Wandering】",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "sHD_z90ZKV0",
+                "title": "周杰倫 Jay Chou【稻香 Rice Field】-",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "C7wRb9adQUc",
+                "title": "Jolin Tsai - I'm Not Yours Feat. NAMIE AMURO (華納official 高畫質HD)",
+                "artist": "JOLIN 蔡依林"
+            },
+            {
+                "id": "ocDo3ySyHSI",
+                "title": "周杰倫 Jay Chou【千里之外 Far Away (feat.費玉清 Fei Yu-ching)】-",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "s1me26qbUBI",
+                "title": "李芷婷 Nasi《燒成灰燼 Burn To Ashes》",
+                "artist": "李芷婷Nasi"
+            },
+            {
+                "id": "5p_4gOeSf8k",
+                "title": "琟娜 VERNA - Okashii 奇怪欸",
+                "artist": "琟娜 VERNA"
+            },
+            {
+                "id": "AGLU8j10VpQ",
+                "title": "Dang Ni",
+                "artist": "王心凌 Cyndi Wang"
+            },
+            {
+                "id": "doFqIhKQWss",
+                "title": "Cosmos People 宇宙人 [ 不曾寧靜的夜 Endless Nights ]",
+                "artist": "宇宙人Cosmos People"
+            },
+            {
+                "id": "3AOC1AUVwwo",
+                "title": "讓我留在你身邊",
+                "artist": "Eason Chan"
+            },
+            {
+                "id": "mgDhpTgzU9c",
+                "title": "韋禮安 WeiBird - \"不開心就跳起來 Kick off the Chains\" feat. 艾蜜莉AMILI  - 影集「監所男子囚生記」片頭曲",
+                "artist": "韋禮安 WeiBird"
+            },
+            {
+                "id": "oDhNxLk1B7I",
+                "title": "Billie X NICKTHEREAL〈什麼都不必說 – 2022 Remix〉",
+                "artist": "UNIVERSAL MUSIC TAIWAN 環球音樂"
+            },
+            {
+                "id": "lMRqfH1zc1w",
+                "title": "FEniX  《我就是無法失去你 I Just Can't Let You Go 》",
+                "artist": "FEniX"
+            },
+            {
+                "id": "bG46ysbbVTs",
+                "title": "鄭秀文 Sammi Cheng x 八三夭831【眉飛色舞PLUS】",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "o5LX1mEPJtg",
+                "title": "MAYDAY 五月天 [ 你的神曲 A Song with You ]",
+                "artist": "相信音樂BinMusic"
+            },
+            {
+                "id": "QQucPUfXUQQ",
+                "title": "周杰倫Jay Chou(ジェイ・チョウ)【等你下課Waiting For You (with 楊瑞代 Gary)】(君を待っている)",
+                "artist": "周杰倫 Jay Chou"
+            },
+            {
+                "id": "cTK7cozOcB4",
+                "title": "周湯豪 NICKTHEREAL〈我做的是愛不是夢〉",
+                "artist": "周湯豪 NICKTHEREAL"
+            },
+            {
+                "id": "_hxEeNYz5VQ",
+                "title": "Ozone - '沒去過的地方 (Never Been)'",
+                "artist": "Ozone"
+            },
+            {
+                "id": "EmwRKKsAiSw",
+                "title": "玖壹壹(Nine one one) - 哥哥帶上我 Ft. DJ SODA Take me alone Ft. DJ SODA 官方首播 @djsodaofficialtv  ​",
+                "artist": "玖壹壹"
+            },
+            {
+                "id": "sXGGJpUX9R8",
+                "title": "玖壹壹(Nine one one) - AMIGO 官方首播",
+                "artist": "玖壹壹"
+            },
+            {
+                "id": "WQc-36G4MEE",
+                "title": "玖壹壹(Nine one one) - 過來我家坐 Welcome to My Home 官方首播",
+                "artist": "玖壹壹"
+            },
+            {
+                "id": "7xSLoQx2KKA",
+                "title": "徐懷鈺 Yuki【來都來 Lie Don‘t Lie】(4K)",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "1YWmCiWCxlE",
+                "title": "G.E.M. 鄧紫棋【FIND YOU】 | Chapter 10 | 啓示錄 REVELATION",
+                "artist": "GEM鄧紫棋"
+            },
+            {
+                "id": "sDb4Ee4VI5k",
+                "title": "FEniX  《陷洞 SINKHOLE 》",
+                "artist": "FEniX"
+            },
+            {
+                "id": "1j_mpwKmlJg",
+                "title": "五月天 Mayday【憨人 Fool】",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "wXJWZJOmhdI",
+                "title": "心花開",
+                "artist": "李千娜"
+            },
+            {
+                "id": "UNgHD07NQKU",
+                "title": "G.E.M. 鄧紫棋【只有我和你的地方 ME & YOU】 | Chapter 03 | 啓示錄 REVELATION",
+                "artist": "GEM鄧紫棋"
+            },
+            {
+                "id": "WLyHWAMrMoo",
+                "title": "Matzka Feat.小S《早晨瑜伽 Morning Yoga》",
+                "artist": "Matzka"
+            },
+            {
+                "id": "PpIlruokg5s",
+                "title": "Steve Aoki + 蔡依林 Jolin Tsai + MAX “都沒差”",
+                "artist": "JOLIN 蔡依林"
+            },
+            {
+                "id": "w3rOAlK26ts",
+                "title": "周湯豪 NICKTHEREAL〈GET REAL〉",
+                "artist": "周湯豪 NICKTHEREAL"
+            },
+            {
+                "id": "nNEw8BtKU-E",
+                "title": "'九澤CP' 陳零九 Nine Chen 邱鋒澤 FENG ZE【陪在你身邊 By Your Side】",
+                "artist": "滾石唱片 ROCK RECORDS"
+            },
+            {
+                "id": "wpyVeB9y0ok",
+                "title": "G.E.M. 鄧紫棋【讓世界暫停一分鐘 ONE MINUTE】 | Chapter 12 | 啓示錄 REVELATION",
+                "artist": "GEM鄧紫棋"
+            },
+            {
+                "id": "_PPFvlWW0tU",
+                "title": "玖壹壹(Nine one one) - 歡迎光臨 ft. @PowerStation 、#林美秀、#范少勳 官方首播",
+                "artist": "玖壹壹"
+            },
+            {
+                "id": "5ClWn8_8bTg",
+                "title": "ALL EYES ON ME",
+                "artist": "Show Lo's Official Channel羅志祥官方專屬頻道"
+            },
+            {
+                "id": "UNM2Hgag8Ag",
+                "title": "MAYDAY 五月天 [ 終結孤單 Loneliness Terminator ] Official Live",
+                "artist": "相信音樂BinMusic"
+            },
+            {
+                "id": "4K9TpWPxlS4",
+                "title": "BITE",
+                "artist": "ØZI"
+            },
+            {
+                "id": "KyLxRZBIfX0",
+                "title": "玖壹壹(Nine one one) - 母湯對我 SAY NO ft. @Matzka 瑪斯卡 but no Starr Chen 官方首播",
+                "artist": "玖壹壹"
+            },
+            {
+                "id": "EG4gCTEPQRs",
+                "title": "全家一起飛 (320+1嘉義市城市博覽會主題曲)",
+                "artist": "美秀集團 Amazing Show"
+            },
+            {
+                "id": "uqOxS829bpg",
+                "title": "派對動物",
+                "artist": "Mayday - Topic"
+            },
+            {
+                "id": "CNwlcQIVltk",
+                "title": "跳進來",
+                "artist": "aMEI - Topic"
+            },
+            {
+                "id": "SFp7CSmR8rI",
+                "title": "A-Lin《No Label》 - 影集「妮波自由式」片頭主題曲",
+                "artist": "A-Lin官方專屬頻道"
+            },
+            {
+                "id": "ewAlyClphiQ",
+                "title": "下班下班",
+                "artist": "吳克群 Kenji Wu"
+            },
+            {
+                "id": "ctEMvb1PCHY",
+                "title": "【babyMINT】心悸寶貝 BIUBIU ( BB Gals of the Galaxy)｜Dance Performance",
+                "artist": "babyMINT"
+            },
+            {
+                "id": "cMGwPh9quTA",
+                "title": "妳是我的花朵",
+                "artist": "伍佰 Wu Bai & China Blue"
+            },
+            {
+                "id": "l4a-xowjvs8",
+                "title": "祝褔 (Live)",
+                "artist": "張學友 Jacky Cheung"
+            },
+            {
+                "id": "F5gxFjnIuW0",
+                "title": "三天三夜",
+                "artist": "aMEI - Topic"
+            }
+        ]
+    },
+    {
+        "經典國語大精選": [
+            {
+                "id": "HjaLdmkLIIA",
+                "title": "Without you",
+                "artist": "蕭敬騰 Jam Hsiao"
+            },
+            {
+                "id": "eVQdv25oUEs",
+                "title": "Ting Shuo Ai Qing Hui Lai Guo",
+                "artist": "彭佳慧 Julia Peng"
+            },
+            {
+                "id": "Y3HTqbAbg24",
+                "title": "想哭 (國)",
+                "artist": "Eason Chan"
+            },
+            {
+                "id": "T0MRFzsIlxo",
+                "title": "在,也不見 (電影「再見，在也不見」主題曲)",
+                "artist": "孫燕姿 Sun Yanzi"
+            },
+            {
+                "id": "CQoiFGsAe8Y",
+                "title": "You Don't Belong to Me (\"More than Blue\" TV Series Theme Song)",
+                "artist": "周興哲 Eric Chou"
+            },
+            {
+                "id": "59NRbqOQCrE",
+                "title": "聽說愛情回來過",
+                "artist": "Sandy Lam Official Channel 林憶蓮官方頻道"
+            },
+            {
+                "id": "MRX_bmmmjZs",
+                "title": "有沒有一首歌會讓你想起我",
+                "artist": "周華健 Wakin Chau"
+            },
+            {
+                "id": "vIN4IMr5Ljg",
+                "title": "At Least I've Got You",
+                "artist": "Sandy Lam Official Channel 林憶蓮官方頻道"
+            },
+            {
+                "id": "SQw1kTNQasY",
+                "title": "聖誕結 (國)",
+                "artist": "Eason Chan"
+            },
+            {
+                "id": "CsgulnYMHxI",
+                "title": "Reality",
+                "artist": "aMEI - Topic"
+            },
+            {
+                "id": "suc0VabYmHM",
+                "title": "Eric林健輝-【內傷】",
+                "artist": "creativestarsrecord"
+            },
+            {
+                "id": "KItWKYRSmKI",
+                "title": "Si Xin Yan",
+                "artist": "彭佳慧 Julia Peng"
+            },
+            {
+                "id": "dYr9X_AbwBc",
+                "title": "You Are The Reason",
+                "artist": "JJ Lin林俊傑"
+            },
+            {
+                "id": "1Gak0_qP0to",
+                "title": "Lian Ming Dai Xing",
+                "artist": "aMEI - Topic"
+            },
+            {
+                "id": "8FsZTjDfhcs",
+                "title": "兩隻戀人",
+                "artist": "Release - Topic"
+            },
+            {
+                "id": "gZ9za2AtUdQ",
+                "title": "Repeat Again",
+                "artist": "黃小琥官方專屬頻道 Tiger's Official Channel"
+            },
+            {
+                "id": "WwZkjD4wiKs",
+                "title": "分享",
+                "artist": "Sky Wu - Topic"
+            },
+            {
+                "id": "U2PjKOaijJA",
+                "title": "傷痕",
+                "artist": "Sandy Lam Official Channel 林憶蓮官方頻道"
+            },
+            {
+                "id": "5tTaFx9OkLI",
+                "title": "I Love You",
+                "artist": "陶喆 David Tao"
+            },
+            {
+                "id": "VjcqbpQTwO4",
+                "title": "城裡的月光",
+                "artist": "Mavis Hsu - Topic"
+            },
+            {
+                "id": "XqE_dwLu5tY",
+                "title": "再痛也沒關係 (片尾曲)",
+                "artist": "陳勢安 Andrew Tan"
+            },
+            {
+                "id": "v8vAhKvysFw",
+                "title": "忽然之間",
+                "artist": "莫文蔚 Karen Mok"
+            },
+            {
+                "id": "ozLKRjCuJ-c",
+                "title": "我好想你",
+                "artist": "Sodagreen - Topic"
+            },
+            {
+                "id": "CzD2BDIiBHU",
+                "title": "還是會寂寞",
+                "artist": "陳綺貞 cheerego com"
+            },
+            {
+                "id": "fqBk6DjrZFg",
+                "title": "And The Winner Is",
+                "artist": "李榮浩 Ronghao Li"
+            },
+            {
+                "id": "bD9dVpME6xA",
+                "title": "約定",
+                "artist": "周蕙 Where Chou"
+            },
+            {
+                "id": "FGnTanLHjEE",
+                "title": "無字的情批",
+                "artist": "Hong Ming You - Topic"
+            },
+            {
+                "id": "GSHQPZNa9FA",
+                "title": "Unwanted Song",
+                "artist": "Princess Ai - Topic"
+            },
+            {
+                "id": "qUGIjcGqAKM",
+                "title": "San Ming San Ri",
+                "artist": "Jacky Wu's Official Channel 吳宗憲官方專屬頻道"
+            },
+            {
+                "id": "VVvhetcmrtc",
+                "title": "落雨聲",
+                "artist": "Jody Chiang - Topic"
+            },
+            {
+                "id": "a97UXJgEjYw",
+                "title": "因為愛",
+                "artist": "韋禮安 WeiBird"
+            },
+            {
+                "id": "oe8xkNYozjg",
+                "title": "還是要幸福 (Still in happiness)",
+                "artist": "Hebe Tien's Official Channel田馥甄官方專屬頻道"
+            },
+            {
+                "id": "SWOZeJYOf0U",
+                "title": "第一次",
+                "artist": "光良官方專屬頻道 Michael Wong's Official Channel"
+            },
+            {
+                "id": "u-nxErpFZEQ",
+                "title": "My Desired Happiness",
+                "artist": "孫燕姿 Sun Yanzi"
+            },
+            {
+                "id": "b6V61YCQibU",
+                "title": "心跳",
+                "artist": "王力宏 Wang Leehom"
+            },
+            {
+                "id": "5nJ533qXfhA",
+                "title": "Gray Raindrop",
+                "artist": "Cyndi Chaw - Topic"
+            },
+            {
+                "id": "HOUzd8ngx1A",
+                "title": "Amphibian",
+                "artist": "蔡健雅 Tanya Chua"
+            },
+            {
+                "id": "kOtvIDVtB4Q",
+                "title": "只願和你相愛",
+                "artist": "動力火車 Power Station官方專屬頻道"
+            },
+            {
+                "id": "tfWaDph4_aM",
+                "title": "Remember",
+                "artist": "aMEI - Topic"
+            },
+            {
+                "id": "EIigVtiC6Wk",
+                "title": "我比從前想你了",
+                "artist": "Bii畢書盡"
+            },
+            {
+                "id": "9ksyHEWvtUo",
+                "title": "諾言",
+                "artist": "李翊君 LEE YI JUN 官方頻道"
+            },
+            {
+                "id": "X-9OGg_3yxA",
+                "title": "猜心",
+                "artist": "Abin Fang - Topic"
+            },
+            {
+                "id": "HF6GB7b5N-E",
+                "title": "寂寞的戀人啊",
+                "artist": "莫文蔚 Karen Mok"
+            },
+            {
+                "id": "U635KgVxlOI",
+                "title": "忘不了",
+                "artist": "Angus Tung - Topic"
+            },
+            {
+                "id": "frNUy9wOYPU",
+                "title": "溫柔的慈悲",
+                "artist": "林良樂, 孫建平 - Topic"
+            },
+            {
+                "id": "CP9rE05I4lU",
+                "title": "你最珍貴",
+                "artist": "張學友 Jacky Cheung"
+            },
+            {
+                "id": "gFQ9J75gdeA",
+                "title": "Zhuan Shen",
+                "artist": "Francesa Kao - Topic"
+            },
+            {
+                "id": "eP9XbsS50Oc",
+                "title": "You Ren Wei Nai Tou Tou Zai Ku",
+                "artist": "William So - Topic"
+            },
+            {
+                "id": "tN3afyiamEE",
+                "title": "大雨的夜裡",
+                "artist": "張清芳 Stella"
+            },
+            {
+                "id": "rACpz8uoEAE",
+                "title": "Birds Prisoned in Cages",
+                "artist": "張宇官方頻道"
+            },
+            {
+                "id": "OEPqHmCJtLk",
+                "title": "How I Envy You (Full Mix)",
+                "artist": "江美琪 Maggie Chiang"
+            },
+            {
+                "id": "azh4uZDsV6I",
+                "title": "夢裡的女孩",
+                "artist": "陳零九 Nine Chen"
+            },
+            {
+                "id": "KSuLD9mvPpE",
+                "title": "Equivalence Relation (feat. aMEI)",
+                "artist": "李榮浩 Ronghao Li"
+            },
+            {
+                "id": "NzkB0k46GEQ",
+                "title": "我愛的",
+                "artist": "Namewee"
+            },
+            {
+                "id": "1wLFAPXbfQQ",
+                "title": "kinda Like You",
+                "artist": "原子邦妮 AstroBunny"
+            },
+            {
+                "id": "-6ICPSIdZmY",
+                "title": "寂寞讓你更快樂 (國)",
+                "artist": "Eason Chan"
+            },
+            {
+                "id": "qhyjdpxJ0hw",
+                "title": "Next Romance",
+                "artist": "蕭亞軒Elva Hsiao"
+            },
+            {
+                "id": "JklAa-s59Q0",
+                "title": "Graduation (\"Mom, Don't Do That!\" TV Series Theme Song)",
+                "artist": "周興哲 Eric Chou"
+            },
+            {
+                "id": "Z5pOeuxccKs",
+                "title": "No More Missing",
+                "artist": "Shunza - Topic"
+            },
+            {
+                "id": "iQCgRxuJZV4",
+                "title": "Meng Po Tang",
+                "artist": "Hong Ming You - Topic"
+            },
+            {
+                "id": "kQ6-3TIVlwI",
+                "title": "A Kind of Sorrow (The movie theme song of \"More than Blue\")",
+                "artist": "A-Lin官方專屬頻道"
+            },
+            {
+                "id": "-BuVoEMPs-A",
+                "title": "愛一個人好難",
+                "artist": "William So - Topic"
+            },
+            {
+                "id": "0126IUDxYeE",
+                "title": "贪图",
+                "artist": "蔡健雅 Tanya Chua"
+            },
+            {
+                "id": "pgyBUWTWiYk",
+                "title": "門沒鎖",
+                "artist": "Victor Wong - Topic"
+            },
+            {
+                "id": "yZS43DtoAfE",
+                "title": "Across The Ocean",
+                "artist": "Sun Ho - Topic"
+            },
+            {
+                "id": "qj2_y35XApk",
+                "title": "Superwoman",
+                "artist": "曹格Gary Chaw"
+            },
+            {
+                "id": "XI6jDJHMOHU",
+                "title": "Lost Love (Theme Song Of The Movie \"Lost Love\")",
+                "artist": "Sammi Cheng - Topic"
+            },
+            {
+                "id": "JClfYCxGg-I",
+                "title": "What's on Your Mind (\"My Best Friend's Breakfast\" Theme Song)",
+                "artist": "周興哲 Eric Chou"
+            },
+            {
+                "id": "E4JJimklGsY",
+                "title": "Ni Shi Ai Wo De",
+                "artist": "aMEI - Topic"
+            },
+            {
+                "id": "9wtq_Wya1Bw",
+                "title": "背叛",
+                "artist": "Release - Topic"
+            },
+            {
+                "id": "vICtzM4Kl0w",
+                "title": "Bie Rang Wo Xin Teng",
+                "artist": "Ronald Cheng - Topic"
+            },
+            {
+                "id": "Ul1jQGgT4pQ",
+                "title": "Men and Women",
+                "artist": "許茹芸 Valen Hsu"
+            },
+            {
+                "id": "jHg2rV_FaTA",
+                "title": "電台情歌",
+                "artist": "莫文蔚 Karen Mok"
+            },
+            {
+                "id": "57VMfkViG7c",
+                "title": "Red Bean",
+                "artist": "Khalil Fong 方大同"
+            },
+            {
+                "id": "0V2oChlaoCg",
+                "title": "眼淚知道",
+                "artist": "溫嵐 Landy Wen"
+            },
+            {
+                "id": "ptCzOhIOPJ8",
+                "title": "Without You (feat. Z-Chen)",
+                "artist": "謝和弦 R-chord"
+            },
+            {
+                "id": "iNpb7Y-mtVA",
+                "title": "Ai Yu Yuan Wei",
+                "artist": "Francesa Kao - Topic"
+            },
+            {
+                "id": "xzFodeQj6nw",
+                "title": "玻璃心 (feat. 陳芳語)",
+                "artist": "Namewee"
             }
         ]
     }

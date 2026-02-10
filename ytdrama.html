@@ -238,7 +238,7 @@
                 
                 const sort = (a, b) => b.rating - a.rating || new Date(b.release_date) - new Date(a.release_date);
                 db.trending.sort(sort);
-                db.drama.sort(sort);
+                // db.drama.sort(sort);
 
                 renderUI();
                 updateInfo(0);
@@ -263,13 +263,12 @@
             row.innerHTML = db[curCat].map((d, i) => `
                 <div class="drama-card" 
                      style="background-image: url('${d.poster}')"
-                     onmouseover="updateInfo(${i})"
                      onclick="updateInfo(${i})"
                      data-idx="${i}">
                 </div>
             `).join('');
         }
-
+                    //  onmouseover="updateInfo(${i})"
                     //  onclick="playVideo('${d.episode[0].id}')"
 
 
