@@ -261,7 +261,6 @@
                 renderPlaylists(data);
                 populateDropdown(data);
 
-                currentIndex = 0;
                 playSongFromList(0, 0);
 
             } catch (error) {
@@ -322,7 +321,7 @@
                 height: '100%',
                 width: '100%',
                 playerVars: { 
-                    'autoplay': 1, 
+                    'autoplay': 0, 
                     'controls': 1, 
                     'rel': 0, 
                     'modestbranding': 1,
