@@ -260,9 +260,6 @@
                 allMusicData = data;
                 renderPlaylists(data);
                 populateDropdown(data);
-
-                playSongFromList(0, 0);
-
             } catch (error) {
                 console.error("Fetch Error:", error);
             }
@@ -563,6 +560,15 @@
                 navigator.mediaSession.setActionHandler('nexttrack', () => document.getElementById('btn-next').click());
             }
         }
+
+        window.onload=function() {
+            playSongFromList(0, 0);
+            // const listName = Object.keys(allMusicData[0])[0];
+            // currentPlaylist = allMusicData[0][listName];
+            // currentIndex = sIdx;
+            // renderQueue();   
+        }
+
     </script>
 </body>
 </html>
