@@ -60,20 +60,12 @@
             position: absolute;
             top: -9999px;
             left: -9999px;
+            width: 10px;
+            height: 10px;
             opacity: 0;
-            width: 1px;
-            height: 1px;
         }
 
-        .playlist-card {
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .playlist-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(157, 0, 255, 0.2);
-        }
-
-        /* 下拉選單樣式優化 */
+        /* 下拉選單樣式修正 */
         .custom-select {
             background: #1f2937; 
             border: 1px solid rgba(157, 0, 255, 0.6);
@@ -93,15 +85,15 @@
         .custom-select option {
             background-color: #111827;
             color: #ffffff;
-            padding: 10px;
         }
 
-        /* 預設封面占位符 */
-        .default-cover-bg {
-            background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0c 100%);
-            display: flex;
-            align-items: center;
-            justify-content: center;
+        .animate-spin-slow {
+            animation: spin 8s linear infinite;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
         }
     </style>
 </head>
@@ -117,7 +109,7 @@
         <div class="flex items-center gap-4">
             <div class="flex items-center gap-2">
                 <i class="fas fa-list-ul text-purple-400 text-sm"></i>
-                <select id="playlist-dropdown" class="custom-select text-sm focus:ring-2 focus:ring-purple-500 transition shadow-lg">
+                <select id="playlist-dropdown" class="custom-select text-sm shadow-lg">
                     <option value="">快速跳轉清單...</option>
                 </select>
             </div>
@@ -127,18 +119,18 @@
     <!-- 主要內容區 -->
     <main class="flex-grow p-4 md:p-8 flex flex-col lg:flex-row gap-8 mb-32">
         
-        <!-- 左側：動態生成清單 -->
+        <!-- 左側：清單 -->
         <div class="w-full lg:w-2/3 space-y-8 order-2 lg:order-1">
             <div id="playlists-container" class="space-y-12">
-                <div class="animate-pulse text-gray-500 font-tech">INITIALIZING CORE...</div>
+                <div class="animate-pulse text-gray-500 font-tech uppercase">Syncing with Mainframe...</div>
             </div>
         </div>
 
-        <!-- 右側：播放器核心 -->
+        <!-- 右側：播放器 -->
         <div class="w-full lg:w-1/3 order-1 lg:order-2">
             <div class="glass-panel rounded-3xl p-6 sticky top-24 border border-purple-500/20 shadow-2xl">
                 
-                <!-- 影片/音訊 切換開關 -->
+                <!-- 模式切換 -->
                 <div class="flex justify-center mb-6">
                     <div class="bg-black/40 p-1 rounded-full flex items-center gap-1 border border-white/5">
                         <button id="mode-audio" class="px-6 py-1.5 rounded-full text-xs font-bold transition duration-300 bg-purple-600 text-white shadow-lg">
@@ -150,23 +142,23 @@
                     </div>
                 </div>
                 
-                <!-- 播放顯示區 -->
+                <!-- 顯示區 -->
                 <div id="player-display-area" class="relative">
-                    <!-- 音訊模式顯示 -->
+                    <!-- 音訊模式封面 -->
                     <div id="display-audio" class="text-center py-4">
                         <div class="relative inline-block mb-6">
                             <div id="glow-effect" class="absolute inset-0 bg-purple-600 blur-[60px] opacity-20 rounded-full transition-all duration-1000"></div>
-                            <!-- 固定音樂圖樣作為預設封面 -->
-                            <div id="thumb-wrapper" class="w-64 h-64 rounded-2xl shadow-2xl mx-auto relative z-10 border-2 border-white/10 overflow-hidden bg-zinc-900">
+                            <div id="thumb-wrapper" class="w-64 h-64 rounded-2xl shadow-2xl mx-auto relative z-10 border-2 border-white/10 overflow-hidden bg-zinc-900 flex items-center justify-center">
                                 <img id="current-thumb" src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=500&auto=format&fit=crop" class="w-full h-full object-cover" alt="Cover">
-                                <div id="default-icon" class="absolute inset-0 flex items-center justify-center bg-zinc-900 hidden">
-                                    <i class="fas fa-compact-disc text-6xl text-purple-500 animate-spin-slow"></i>
+                                <div id="default-cover-icon" class="hidden flex flex-col items-center">
+                                    <i class="fas fa-compact-disc text-6xl text-purple-500 animate-spin-slow mb-4"></i>
+                                    <span class="text-xs font-tech text-purple-400">LOADING AUDIO</span>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- 影片模式顯示 -->
+                    <!-- 影片模式容器 -->
                     <div id="display-video" class="video-mode-container hidden mb-6 shadow-2xl border border-white/10">
                         <div id="youtube-player-container"></div>
                     </div>
@@ -174,77 +166,62 @@
 
                 <div class="text-center mb-6">
                     <h2 id="current-title" class="text-xl font-bold truncate px-4">請選擇歌曲</h2>
-                    <p id="current-artist" class="text-purple-400 mt-1 font-medium font-tech">SYSTEM IDLE</p>
+                    <p id="current-artist" class="text-purple-400 mt-1 font-medium font-tech">SYSTEM READY</p>
                 </div>
 
-                <!-- 待播隊列 -->
+                <!-- 隊列 -->
                 <div class="border-t border-white/5 pt-4">
-                    <h3 class="text-[10px] font-tech text-gray-500 uppercase tracking-widest mb-3 px-2">NEXT IN QUEUE</h3>
-                    <div id="queue-container" class="max-h-[25vh] overflow-y-auto space-y-1 pr-2 custom-scrollbar">
-                        <!-- 隊列內容 -->
-                    </div>
+                    <h3 class="text-[10px] font-tech text-gray-500 uppercase tracking-widest mb-3 px-2">Next Tracks</h3>
+                    <div id="queue-container" class="max-h-[25vh] overflow-y-auto space-y-1 pr-2 custom-scrollbar"></div>
                 </div>
             </div>
         </div>
     </main>
 
-    <!-- 底部控制列 -->
+    <!-- 控制列 -->
     <div class="fixed bottom-0 left-0 w-full glass-panel border-t border-white/10 p-4 pb-6 z-50">
         <div class="progress-container w-full px-4 mb-4">
             <div class="flex justify-between text-[10px] font-tech text-gray-400 mb-1">
                 <span id="time-current">0:00</span>
                 <span id="time-total">0:00</span>
             </div>
-            <div id="progress-bg" class="w-full bg-white/10 rounded-full overflow-hidden h-1.5 cursor-pointer">
-                <div id="progress-fill" class="h-full w-0 bg-gradient-to-r from-purple-600 to-cyan-400 relative">
-                    <div class="absolute right-0 top-1/2 -translate-y-1/2 w-3 h-3 bg-white rounded-full shadow-lg scale-0 hover:scale-100 transition"></div>
-                </div>
+            <div id="progress-bg" class="w-full bg-white/10 rounded-full h-1.5 cursor-pointer">
+                <div id="progress-fill" class="h-full w-0 bg-gradient-to-r from-purple-600 to-cyan-400 transition-all duration-100 relative"></div>
             </div>
         </div>
 
         <div class="max-w-7xl mx-auto flex items-center justify-between gap-4">
-            <!-- 迷你資訊 -->
             <div class="hidden sm:flex items-center gap-4 w-1/4">
                 <img id="mini-thumb" src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=100&auto=format&fit=crop" class="w-12 h-12 rounded-lg object-cover shadow-lg">
                 <div class="truncate">
-                    <div id="mini-title" class="font-bold text-sm truncate">尚未播放</div>
+                    <div id="mini-title" class="font-bold text-sm truncate">IDLE</div>
                     <div id="mini-artist" class="text-xs text-gray-500 truncate">-</div>
                 </div>
             </div>
 
-            <!-- 控制核心 -->
             <div class="flex flex-col items-center gap-2 flex-grow sm:flex-grow-0">
                 <div class="flex items-center gap-6 md:gap-8">
-                    <button id="btn-shuffle" class="text-gray-500 hover:text-purple-400 transition">
-                        <i class="fas fa-random"></i>
-                    </button>
-                    <button id="btn-prev" class="text-white hover:text-purple-400 transition text-xl">
-                        <i class="fas fa-step-backward"></i>
-                    </button>
-                    <button id="btn-play-pause" class="w-14 h-14 bg-white text-black rounded-full flex items-center justify-center hover:scale-110 active:scale-95 transition shadow-[0_0_20px_rgba(255,255,255,0.3)]">
+                    <button id="btn-shuffle" class="text-gray-500 hover:text-purple-400 transition text-3xl"><i class="fas fa-random"></i></button>
+                    <button id="btn-prev" class="text-white hover:text-purple-400 transition text-3xl"><i class="fas fa-step-backward"></i></button>
+                    <button id="btn-play-pause" class="w-14 h-14 bg-white text-black rounded-full flex items-center justify-center hover:scale-110 active:scale-95 transition">
                         <i class="fas fa-play text-xl ml-1" id="play-icon"></i>
                     </button>
-                    <button id="btn-next" class="text-white hover:text-purple-400 transition text-xl">
-                        <i class="fas fa-step-forward"></i>
-                    </button>
-                    <button id="btn-repeat" class="text-gray-500 hover:text-purple-400 transition relative">
+                    <button id="btn-next" class="text-white hover:text-purple-400 transition text-3xl"><i class="fas fa-step-forward"></i></button>
+                    <button id="btn-repeat" class="text-gray-500 hover:text-purple-400 transition text-3xl relative">
                         <i class="fas fa-redo"></i>
                         <span id="repeat-one-tag" class="hidden absolute -top-1 -right-1 bg-purple-600 text-[8px] w-3 h-3 rounded-full flex items-center justify-center">1</span>
                     </button>
                 </div>
             </div>
 
-            <!-- 音量 -->
             <div class="hidden sm:flex items-center justify-end gap-4 w-1/4">
-                <button id="btn-mute" class="text-gray-400 hover:text-white transition">
-                    <i id="volume-icon" class="fas fa-volume-up"></i>
-                </button>
+                <i id="volume-icon" class="fas fa-volume-up text-gray-400"></i>
                 <input type="range" id="volume-slider" min="0" max="100" value="80" class="w-24 accent-purple-500 h-1 cursor-pointer">
             </div>
         </div>
     </div>
 
-    <!-- 原始 YouTube 容器 (會根據模式移動位置) -->
+    <!-- 隱藏容器 -->
     <div id="player-hidden-box" class="hidden-player">
         <div id="youtube-player"></div>
     </div>
@@ -258,8 +235,8 @@
         let repeatMode = 0; 
         let allMusicData = [];
         let isVideoMode = false;
+        let isApiReady = false;
 
-        // 初始化
         async function loadMusicData() {
             try {
                 const response = await fetch('./js/musics_data.json');
@@ -268,7 +245,7 @@
                 renderPlaylists(data);
                 populateDropdown(data);
             } catch (error) {
-                console.error("Fetch Error:", error);
+                console.error("Music Data Fetch Error:", error);
             }
         }
 
@@ -281,17 +258,11 @@
                 option.textContent = listName;
                 dropdown.appendChild(option);
             });
-
             dropdown.addEventListener('change', (e) => {
-                if (e.target.value) {
-                    const target = document.getElementById(e.target.value);
-                    if (target) {
-                        const navHeight = document.querySelector('nav').offsetHeight;
-                        window.scrollTo({
-                            top: target.offsetTop - navHeight - 20,
-                            behavior: 'smooth'
-                        });
-                    }
+                const target = document.getElementById(e.target.value);
+                if (target) {
+                    const navHeight = document.querySelector('nav').offsetHeight;
+                    window.scrollTo({ top: target.offsetTop - navHeight - 20, behavior: 'smooth' });
                 }
             });
         }
@@ -299,34 +270,18 @@
         function renderPlaylists(data) {
             const container = document.getElementById('playlists-container');
             container.innerHTML = '';
-
             data.forEach((listObj, listIndex) => {
                 const listName = Object.keys(listObj)[0];
                 const songs = listObj[listName];
-
                 const section = document.createElement('section');
                 section.id = `list-section-${listIndex}`;
                 section.innerHTML = `
-                    <div class="flex items-center justify-between mb-6">
-                        <h2 class="text-2xl font-tech font-bold flex items-center gap-3">
-                            <span class="text-purple-500 text-3xl">/</span> ${listName}
-                        </h2>
-                        <span class="text-xs text-gray-500 font-tech">${songs.length} TRACKS</span>
-                    </div>
+                    <h2 class="text-2xl font-tech font-bold mb-6"><span class="text-purple-500">/</span> ${listName}</h2>
                     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-6">
                         ${songs.map((song, idx) => `
-                            <div class="playlist-card group cursor-pointer bg-white/5 p-4 rounded-3xl hover:bg-white/10 transition-all border border-transparent hover:border-purple-500/30" 
-                                 onclick="playSongFromList(${listIndex}, ${idx})">
-                                <div class="relative aspect-square mb-4 overflow-hidden rounded-2xl">
-                                    <img src="https://img.youtube.com/vi/${song.id}/hqdefault.jpg" 
-                                         class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
-                                    <div class="absolute inset-0 bg-purple-900/40 opacity-0 group-hover:opacity-100 flex items-center justify-center transition-all duration-300">
-                                        <div class="w-12 h-12 bg-white rounded-full flex items-center justify-center text-black shadow-xl">
-                                            <i class="fas fa-play ml-1"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="font-bold text-sm line-clamp-1 mb-1 group-hover:text-purple-400 transition">${song.title}</div>
+                            <div class="playlist-card bg-white/5 p-4 rounded-3xl cursor-pointer hover:bg-white/10" onclick="playSongFromList(${listIndex}, ${idx})">
+                                <img src="https://img.youtube.com/vi/${song.id}/hqdefault.jpg" class="aspect-square object-cover rounded-2xl mb-4">
+                                <div class="font-bold text-sm truncate">${song.title}</div>
                                 <div class="text-xs text-gray-500 truncate">${song.artist}</div>
                             </div>
                         `).join('')}
@@ -340,15 +295,9 @@
             player = new YT.Player('youtube-player', {
                 height: '100%',
                 width: '100%',
-                playerVars: {
-                    'autoplay': 0,
-                    'controls': 1,
-                    'rel': 0,
-                    'modestbranding': 1,
-                    'origin': window.location.origin
-                },
+                playerVars: { 'autoplay': 0, 'controls': 1, 'rel': 0, 'modestbranding': 1, 'origin': window.location.origin },
                 events: {
-                    'onReady': () => { loadMusicData(); updateProgress(); },
+                    'onReady': () => { isApiReady = true; loadMusicData(); updateProgress(); },
                     'onStateChange': onPlayerStateChange
                 }
             });
@@ -368,108 +317,97 @@
             }
         }
 
-        // 核心切換邏輯：修復切換時重新載入問題
-        const modeAudioBtn = document.getElementById('mode-audio');
-        const modeVideoBtn = document.getElementById('mode-video');
-        const displayAudio = document.getElementById('display-audio');
-        const displayVideo = document.getElementById('display-video');
-        const ytPlayerElement = document.getElementById('youtube-player');
-
+        // 優化模式切換：解決播放中斷問題
         function setMode(videoMode) {
             if (isVideoMode === videoMode) return;
             
-            // 記錄當前狀態
             const wasPlaying = player && player.getPlayerState && player.getPlayerState() === YT.PlayerState.PLAYING;
             const currentTime = player && player.getCurrentTime ? player.getCurrentTime() : 0;
-            
+            const currentVideoId = currentPlaylist[currentIndex]?.id;
+
             isVideoMode = videoMode;
+            const ytPlayer = document.getElementById('youtube-player');
             
             if (videoMode) {
-                modeVideoBtn.className = "px-6 py-1.5 rounded-full text-xs font-bold transition bg-purple-600 text-white shadow-lg";
-                modeAudioBtn.className = "px-6 py-1.5 rounded-full text-xs font-bold transition text-gray-400 hover:text-white";
-                displayAudio.classList.add('hidden');
-                displayVideo.classList.remove('hidden');
-                document.getElementById('youtube-player-container').appendChild(ytPlayerElement);
+                document.getElementById('mode-video').className = "px-6 py-1.5 rounded-full text-xs font-bold bg-purple-600 text-white shadow-lg";
+                document.getElementById('mode-audio').className = "px-6 py-1.5 rounded-full text-xs font-bold text-gray-400 hover:text-white";
+                document.getElementById('display-audio').classList.add('hidden');
+                document.getElementById('display-video').classList.remove('hidden');
+                document.getElementById('youtube-player-container').appendChild(ytPlayer);
             } else {
-                modeAudioBtn.className = "px-6 py-1.5 rounded-full text-xs font-bold transition bg-purple-600 text-white shadow-lg";
-                modeVideoBtn.className = "px-6 py-1.5 rounded-full text-xs font-bold transition text-gray-400 hover:text-white";
-                displayAudio.classList.remove('hidden');
-                displayVideo.classList.add('hidden');
-                document.getElementById('player-hidden-box').appendChild(ytPlayerElement);
+                document.getElementById('mode-audio').className = "px-6 py-1.5 rounded-full text-xs font-bold bg-purple-600 text-white shadow-lg";
+                document.getElementById('mode-video').className = "px-6 py-1.5 rounded-full text-xs font-bold text-gray-400 hover:text-white";
+                document.getElementById('display-audio').classList.remove('hidden');
+                document.getElementById('display-video').classList.add('hidden');
+                document.getElementById('player-hidden-box').appendChild(ytPlayer);
             }
 
-            // 因為 DOM 移動會導致 iframe 重載，需在微小延遲後恢復狀態
-            if (currentIndex !== -1) {
+            // 核心修復：DOM 變動後需要重新初始化播放器連結
+            if (currentVideoId) {
                 setTimeout(() => {
-                    player.seekTo(currentTime, true);
-                    if (wasPlaying) player.playVideo();
-                }, 100);
+                    // 使用 cueVideoById 或 loadVideoById 確保重新連結播放器
+                    if (wasPlaying) {
+                        player.loadVideoById({ 'videoId': currentVideoId, 'startSeconds': currentTime });
+                    } else {
+                        player.cueVideoById({ 'videoId': currentVideoId, 'startSeconds': currentTime });
+                    }
+                }, 200); 
             }
         }
 
-        modeAudioBtn.onclick = () => setMode(false);
-        modeVideoBtn.onclick = () => setMode(true);
+        document.getElementById('mode-audio').onclick = () => setMode(false);
+        document.getElementById('mode-video').onclick = () => setMode(true);
 
-        function playSongFromList(listIdx, songIdx) {
-            const listName = Object.keys(allMusicData[listIdx])[0];
-            currentPlaylist = allMusicData[listIdx][listName];
-            currentIndex = songIdx;
+        function playSongFromList(lIdx, sIdx) {
+            const lName = Object.keys(allMusicData[lIdx])[0];
+            currentPlaylist = allMusicData[lIdx][lName];
+            currentIndex = sIdx;
             renderQueue();
             loadAndPlay();
         }
 
         function loadAndPlay() {
+            if (!isApiReady) return;
             const song = currentPlaylist[currentIndex];
             player.loadVideoById(song.id);
             updateUI(song);
-            
-            setTimeout(() => {
-                const activeEl = document.querySelector('.active-song');
-                if (activeEl) activeEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }, 500);
         }
 
         function updateUI(song) {
             document.getElementById('current-title').innerText = song.title;
             document.getElementById('current-artist').innerText = song.artist;
             document.getElementById('current-thumb').src = `https://img.youtube.com/vi/${song.id}/maxresdefault.jpg`;
-            
             document.getElementById('mini-title').innerText = song.title;
             document.getElementById('mini-artist').innerText = song.artist;
             document.getElementById('mini-thumb').src = `https://img.youtube.com/vi/${song.id}/default.jpg`;
 
             document.querySelectorAll('.queue-item').forEach((el, idx) => {
-                if (idx === currentIndex) el.classList.add('active-song');
-                else el.classList.remove('active-song');
+                el.classList.toggle('active-song', idx === currentIndex);
             });
         }
 
         function renderQueue() {
             const container = document.getElementById('queue-container');
             container.innerHTML = currentPlaylist.map((song, idx) => `
-                <div class="queue-item p-3 flex items-center gap-3 rounded-2xl cursor-pointer hover:bg-white/5 transition-all ${idx === currentIndex ? 'active-song' : ''}"
+                <div class="queue-item p-3 flex items-center gap-3 rounded-2xl cursor-pointer hover:bg-white/5 ${idx === currentIndex ? 'active-song' : ''}"
                      onclick="currentIndex=${idx}; loadAndPlay();">
                     <img src="https://img.youtube.com/vi/${song.id}/default.jpg" class="w-10 h-10 rounded-lg object-cover">
-                    <div class="flex-grow truncate">
+                    <div class="truncate">
                         <div class="text-sm font-bold truncate">${song.title}</div>
-                        <div class="text-[10px] text-gray-500 uppercase font-tech">${song.artist}</div>
+                        <div class="text-[10px] text-gray-500 uppercase">${song.artist}</div>
                     </div>
                 </div>
             `).join('');
         }
 
         document.getElementById('btn-play-pause').onclick = () => {
-            const state = player.getPlayerState();
-            state === YT.PlayerState.PLAYING ? player.pauseVideo() : player.playVideo();
+            const s = player.getPlayerState();
+            s === YT.PlayerState.PLAYING ? player.pauseVideo() : player.playVideo();
         };
 
         document.getElementById('btn-next').onclick = () => {
             if (currentPlaylist.length === 0) return;
-            if (isShuffle) {
-                currentIndex = Math.floor(Math.random() * currentPlaylist.length);
-            } else {
-                currentIndex = (currentIndex + 1) % currentPlaylist.length;
-            }
+            currentIndex = isShuffle ? Math.floor(Math.random() * currentPlaylist.length) : (currentIndex + 1) % currentPlaylist.length;
             loadAndPlay();
         };
 
@@ -495,60 +433,38 @@
             document.getElementById('repeat-one-tag').classList.toggle('hidden', repeatMode !== 2);
         };
 
-        const volSlider = document.getElementById('volume-slider');
-        volSlider.oninput = (e) => player.setVolume(e.target.value);
-        
-        document.getElementById('btn-mute').onclick = () => {
-            if (player.isMuted()) {
-                player.unMute();
-                document.getElementById('volume-icon').className = 'fas fa-volume-up';
-            } else {
-                player.mute();
-                document.getElementById('volume-icon').className = 'fas fa-volume-mute';
-            }
-        };
-
-        const progressFill = document.getElementById('progress-fill');
-        const progressBg = document.getElementById('progress-bg');
+        document.getElementById('volume-slider').oninput = (e) => player.setVolume(e.target.value);
 
         function updateProgress() {
             if (player && player.getCurrentTime) {
-                const current = player.getCurrentTime();
-                const total = player.getDuration();
-                if (total > 0) {
-                    const pct = (current / total) * 100;
-                    progressFill.style.width = pct + '%';
-                    document.getElementById('time-current').innerText = formatTime(current);
-                    document.getElementById('time-total').innerText = formatTime(total);
+                const cur = player.getCurrentTime(), tot = player.getDuration();
+                if (tot > 0) {
+                    document.getElementById('progress-fill').style.width = (cur/tot*100) + '%';
+                    document.getElementById('time-current').innerText = formatTime(cur);
+                    document.getElementById('time-total').innerText = formatTime(tot);
                 }
             }
             requestAnimationFrame(updateProgress);
         }
 
-        progressBg.onclick = (e) => {
-            const rect = progressBg.getBoundingClientRect();
+        document.getElementById('progress-bg').onclick = (e) => {
+            const rect = e.currentTarget.getBoundingClientRect();
             const pos = (e.clientX - rect.left) / rect.width;
             player.seekTo(pos * player.getDuration());
         };
 
-        function formatTime(sec) {
-            const m = Math.floor(sec / 60);
-            const s = Math.floor(sec % 60);
-            return `${m}:${s < 10 ? '0' : ''}${s}`;
+        function formatTime(s) {
+            const m = Math.floor(s/60), sec = Math.floor(s%60);
+            return `${m}:${sec < 10 ? '0' : ''}${sec}`;
         }
 
         function updateMediaSession() {
             if ('mediaSession' in navigator && currentPlaylist[currentIndex]) {
-                const song = currentPlaylist[currentIndex];
+                const s = currentPlaylist[currentIndex];
                 navigator.mediaSession.metadata = new MediaMetadata({
-                    title: song.title,
-                    artist: song.artist,
-                    artwork: [{ src: `https://img.youtube.com/vi/${song.id}/maxresdefault.jpg`, sizes: '512x512', type: 'image/jpg' }]
+                    title: s.title, artist: s.artist,
+                    artwork: [{ src: `https://img.youtube.com/vi/${s.id}/maxresdefault.jpg`, sizes: '512x512', type: 'image/jpg' }]
                 });
-                navigator.mediaSession.setActionHandler('play', () => player.playVideo());
-                navigator.mediaSession.setActionHandler('pause', () => player.pauseVideo());
-                navigator.mediaSession.setActionHandler('previoustrack', () => document.getElementById('btn-prev').click());
-                navigator.mediaSession.setActionHandler('nexttrack', () => document.getElementById('btn-next').click());
             }
         }
     </script>
