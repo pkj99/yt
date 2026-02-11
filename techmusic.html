@@ -42,7 +42,6 @@
 
         .neon-text-purple { text-shadow: 0 0 10px var(--neon-purple); }
 
-        /* 影片/音訊切換樣式 */
         .video-mode-container {
             position: relative;
             width: 100%;
@@ -62,6 +61,8 @@
             top: -9999px;
             left: -9999px;
             opacity: 0;
+            width: 1px;
+            height: 1px;
         }
 
         .playlist-card {
@@ -74,8 +75,8 @@
 
         /* 下拉選單樣式優化 */
         .custom-select {
-            background: #1f2937; /* 使用較深的不透明背景確保對比度 */
-            border: 1px solid rgba(157, 0, 255, 0.5);
+            background: #1f2937; 
+            border: 1px solid rgba(157, 0, 255, 0.6);
             color: #ffffff;
             padding: 0.5rem 2.5rem 0.5rem 1rem;
             border-radius: 9999px;
@@ -86,12 +87,21 @@
             background-repeat: no-repeat;
             background-position: right 0.75rem center;
             background-size: 1rem;
+            font-weight: 600;
         }
         
-        /* 確保選單內部選項在不同系統下背景正確 */
         .custom-select option {
             background-color: #111827;
             color: #ffffff;
+            padding: 10px;
+        }
+
+        /* 預設封面占位符 */
+        .default-cover-bg {
+            background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0c 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
     </style>
 </head>
@@ -105,10 +115,9 @@
         </div>
         
         <div class="flex items-center gap-4">
-            <!-- 播放清單下拉選單 -->
             <div class="flex items-center gap-2">
                 <i class="fas fa-list-ul text-purple-400 text-sm"></i>
-                <select id="playlist-dropdown" class="custom-select text-sm font-medium focus:border-purple-500 transition shadow-lg">
+                <select id="playlist-dropdown" class="custom-select text-sm focus:ring-2 focus:ring-purple-500 transition shadow-lg">
                     <option value="">快速跳轉清單...</option>
                 </select>
             </div>
@@ -121,7 +130,7 @@
         <!-- 左側：動態生成清單 -->
         <div class="w-full lg:w-2/3 space-y-8 order-2 lg:order-1">
             <div id="playlists-container" class="space-y-12">
-                <div class="animate-pulse text-gray-500">正在加載音樂數據...</div>
+                <div class="animate-pulse text-gray-500 font-tech">INITIALIZING CORE...</div>
             </div>
         </div>
 
@@ -132,10 +141,10 @@
                 <!-- 影片/音訊 切換開關 -->
                 <div class="flex justify-center mb-6">
                     <div class="bg-black/40 p-1 rounded-full flex items-center gap-1 border border-white/5">
-                        <button id="mode-audio" class="px-4 py-1.5 rounded-full text-xs font-bold transition duration-300 bg-purple-600 text-white">
+                        <button id="mode-audio" class="px-6 py-1.5 rounded-full text-xs font-bold transition duration-300 bg-purple-600 text-white shadow-lg">
                             <i class="fas fa-music mr-2"></i>音訊
                         </button>
-                        <button id="mode-video" class="px-4 py-1.5 rounded-full text-xs font-bold transition duration-300 text-gray-400 hover:text-white">
+                        <button id="mode-video" class="px-6 py-1.5 rounded-full text-xs font-bold transition duration-300 text-gray-400 hover:text-white">
                             <i class="fas fa-video mr-2"></i>影片
                         </button>
                     </div>
@@ -147,25 +156,30 @@
                     <div id="display-audio" class="text-center py-4">
                         <div class="relative inline-block mb-6">
                             <div id="glow-effect" class="absolute inset-0 bg-purple-600 blur-[60px] opacity-20 rounded-full transition-all duration-1000"></div>
-                            <!-- 預設使用音樂圖樣封面 -->
-                            <img id="current-thumb" src="https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=500&auto=format&fit=crop" class="w-64 h-64 object-cover rounded-2xl shadow-2xl mx-auto relative z-10 border-2 border-white/10" alt="Cover">
+                            <!-- 固定音樂圖樣作為預設封面 -->
+                            <div id="thumb-wrapper" class="w-64 h-64 rounded-2xl shadow-2xl mx-auto relative z-10 border-2 border-white/10 overflow-hidden bg-zinc-900">
+                                <img id="current-thumb" src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=500&auto=format&fit=crop" class="w-full h-full object-cover" alt="Cover">
+                                <div id="default-icon" class="absolute inset-0 flex items-center justify-center bg-zinc-900 hidden">
+                                    <i class="fas fa-compact-disc text-6xl text-purple-500 animate-spin-slow"></i>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
-                    <!-- 影片模式顯示 (初始隱藏) -->
-                    <div id="display-video" class="video-mode-container hidden mb-6 shadow-2xl">
+                    <!-- 影片模式顯示 -->
+                    <div id="display-video" class="video-mode-container hidden mb-6 shadow-2xl border border-white/10">
                         <div id="youtube-player-container"></div>
                     </div>
                 </div>
 
                 <div class="text-center mb-6">
                     <h2 id="current-title" class="text-xl font-bold truncate px-4">請選擇歌曲</h2>
-                    <p id="current-artist" class="text-purple-400 mt-1 font-medium">Ready to Play</p>
+                    <p id="current-artist" class="text-purple-400 mt-1 font-medium font-tech">SYSTEM IDLE</p>
                 </div>
 
                 <!-- 待播隊列 -->
                 <div class="border-t border-white/5 pt-4">
-                    <h3 class="text-xs font-tech text-gray-500 uppercase tracking-widest mb-3 px-2">Next in Queue</h3>
+                    <h3 class="text-[10px] font-tech text-gray-500 uppercase tracking-widest mb-3 px-2">NEXT IN QUEUE</h3>
                     <div id="queue-container" class="max-h-[25vh] overflow-y-auto space-y-1 pr-2 custom-scrollbar">
                         <!-- 隊列內容 -->
                     </div>
@@ -191,17 +205,17 @@
         <div class="max-w-7xl mx-auto flex items-center justify-between gap-4">
             <!-- 迷你資訊 -->
             <div class="hidden sm:flex items-center gap-4 w-1/4">
-                <img id="mini-thumb" src="" class="w-12 h-12 rounded-lg object-cover shadow-lg" style="display: none;">
+                <img id="mini-thumb" src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=100&auto=format&fit=crop" class="w-12 h-12 rounded-lg object-cover shadow-lg">
                 <div class="truncate">
-                    <div id="mini-title" class="font-bold text-sm truncate"></div>
-                    <div id="mini-artist" class="text-xs text-gray-500 truncate"></div>
+                    <div id="mini-title" class="font-bold text-sm truncate">尚未播放</div>
+                    <div id="mini-artist" class="text-xs text-gray-500 truncate">-</div>
                 </div>
             </div>
 
             <!-- 控制核心 -->
             <div class="flex flex-col items-center gap-2 flex-grow sm:flex-grow-0">
                 <div class="flex items-center gap-6 md:gap-8">
-                    <button id="btn-shuffle" class="text-gray-500 hover:text-purple-400 transition" title="隨機播放">
+                    <button id="btn-shuffle" class="text-gray-500 hover:text-purple-400 transition">
                         <i class="fas fa-random"></i>
                     </button>
                     <button id="btn-prev" class="text-white hover:text-purple-400 transition text-xl">
@@ -213,7 +227,7 @@
                     <button id="btn-next" class="text-white hover:text-purple-400 transition text-xl">
                         <i class="fas fa-step-forward"></i>
                     </button>
-                    <button id="btn-repeat" class="text-gray-500 hover:text-purple-400 transition relative" title="重複播放">
+                    <button id="btn-repeat" class="text-gray-500 hover:text-purple-400 transition relative">
                         <i class="fas fa-redo"></i>
                         <span id="repeat-one-tag" class="hidden absolute -top-1 -right-1 bg-purple-600 text-[8px] w-3 h-3 rounded-full flex items-center justify-center">1</span>
                     </button>
@@ -241,7 +255,7 @@
         let currentPlaylist = [];
         let currentIndex = -1;
         let isShuffle = false;
-        let repeatMode = 0; // 0: None, 1: List, 2: Single
+        let repeatMode = 0; 
         let allMusicData = [];
         let isVideoMode = false;
 
@@ -322,7 +336,6 @@
             });
         }
 
-        // YouTube IFrame 邏輯
         function onYouTubeIframeAPIReady() {
             player = new YT.Player('youtube-player', {
                 height: '100%',
@@ -355,7 +368,7 @@
             }
         }
 
-        // 模式切換邏輯
+        // 核心切換邏輯：修復切換時重新載入問題
         const modeAudioBtn = document.getElementById('mode-audio');
         const modeVideoBtn = document.getElementById('mode-video');
         const displayAudio = document.getElementById('display-audio');
@@ -363,26 +376,40 @@
         const ytPlayerElement = document.getElementById('youtube-player');
 
         function setMode(videoMode) {
+            if (isVideoMode === videoMode) return;
+            
+            // 記錄當前狀態
+            const wasPlaying = player && player.getPlayerState && player.getPlayerState() === YT.PlayerState.PLAYING;
+            const currentTime = player && player.getCurrentTime ? player.getCurrentTime() : 0;
+            
             isVideoMode = videoMode;
+            
             if (videoMode) {
-                modeVideoBtn.className = "px-4 py-1.5 rounded-full text-xs font-bold transition bg-purple-600 text-white";
-                modeAudioBtn.className = "px-4 py-1.5 rounded-full text-xs font-bold transition text-gray-400 hover:text-white";
+                modeVideoBtn.className = "px-6 py-1.5 rounded-full text-xs font-bold transition bg-purple-600 text-white shadow-lg";
+                modeAudioBtn.className = "px-6 py-1.5 rounded-full text-xs font-bold transition text-gray-400 hover:text-white";
                 displayAudio.classList.add('hidden');
                 displayVideo.classList.remove('hidden');
                 document.getElementById('youtube-player-container').appendChild(ytPlayerElement);
             } else {
-                modeAudioBtn.className = "px-4 py-1.5 rounded-full text-xs font-bold transition bg-purple-600 text-white";
-                modeVideoBtn.className = "px-4 py-1.5 rounded-full text-xs font-bold transition text-gray-400 hover:text-white";
+                modeAudioBtn.className = "px-6 py-1.5 rounded-full text-xs font-bold transition bg-purple-600 text-white shadow-lg";
+                modeVideoBtn.className = "px-6 py-1.5 rounded-full text-xs font-bold transition text-gray-400 hover:text-white";
                 displayAudio.classList.remove('hidden');
                 displayVideo.classList.add('hidden');
                 document.getElementById('player-hidden-box').appendChild(ytPlayerElement);
+            }
+
+            // 因為 DOM 移動會導致 iframe 重載，需在微小延遲後恢復狀態
+            if (currentIndex !== -1) {
+                setTimeout(() => {
+                    player.seekTo(currentTime, true);
+                    if (wasPlaying) player.playVideo();
+                }, 100);
             }
         }
 
         modeAudioBtn.onclick = () => setMode(false);
         modeVideoBtn.onclick = () => setMode(true);
 
-        // 播放核心功能
         function playSongFromList(listIdx, songIdx) {
             const listName = Object.keys(allMusicData[listIdx])[0];
             currentPlaylist = allMusicData[listIdx][listName];
@@ -410,7 +437,6 @@
             document.getElementById('mini-title').innerText = song.title;
             document.getElementById('mini-artist').innerText = song.artist;
             document.getElementById('mini-thumb').src = `https://img.youtube.com/vi/${song.id}/default.jpg`;
-            document.getElementById('mini-thumb').style.display = 'block';
 
             document.querySelectorAll('.queue-item').forEach((el, idx) => {
                 if (idx === currentIndex) el.classList.add('active-song');
@@ -426,13 +452,12 @@
                     <img src="https://img.youtube.com/vi/${song.id}/default.jpg" class="w-10 h-10 rounded-lg object-cover">
                     <div class="flex-grow truncate">
                         <div class="text-sm font-bold truncate">${song.title}</div>
-                        <div class="text-[10px] text-gray-500 uppercase">${song.artist}</div>
+                        <div class="text-[10px] text-gray-500 uppercase font-tech">${song.artist}</div>
                     </div>
                 </div>
             `).join('');
         }
 
-        // 控制按鈕
         document.getElementById('btn-play-pause').onclick = () => {
             const state = player.getPlayerState();
             state === YT.PlayerState.PLAYING ? player.pauseVideo() : player.playVideo();
@@ -470,7 +495,6 @@
             document.getElementById('repeat-one-tag').classList.toggle('hidden', repeatMode !== 2);
         };
 
-        // 進度與音量
         const volSlider = document.getElementById('volume-slider');
         volSlider.oninput = (e) => player.setVolume(e.target.value);
         
