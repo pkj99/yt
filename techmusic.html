@@ -105,8 +105,9 @@
     <!-- 頂部導航 -->
     <nav class="p-4 glass-panel sticky top-0 z-50 flex justify-between items-center px-6">
         <div class="flex items-center gap-2">
-            <i class="fab fa-youtube text-red-600 text-3xl"></i>
-            <span class="text-xl font-tech font-bold tracking-tighter neon-text-purple uppercase hidden sm:inline">Tech Music</span>
+            <!-- <i class="fab fa-youtube text-red-600 text-3xl"></i> -->
+			<div onclick="window.location='index.html'"><img src="./images/home2.png" width="20px"></div>
+			<span class="text-xl font-tech font-bold tracking-tighter neon-text-purple uppercase hidden sm:inline">Tech Music</span>
         </div>
         
         <div class="flex items-center gap-4">
@@ -437,7 +438,8 @@
             });
 
             // 自動滾動隊列到當前歌曲
-            const activeItem = document.querySelector('.active-song');
+            <!-- const activeItem = document.querySelector('.active-song'); -->
+            const activeItem = document.getElementById('player-display-area');
             if (activeItem) activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         }
 
