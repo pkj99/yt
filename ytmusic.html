@@ -449,12 +449,13 @@
 
             // 自動滾動隊列到當前歌曲
             var activeItem;
-            activeItem = document.querySelector('.active-song');
-            if (activeItem) activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
             if (isMobile()){
                 activeItem = document.getElementById('player-display-area');
                 window.scrollTo({ top: 0, behavior: 'smooth' });
-            } 
+            } else {
+                activeItem = document.querySelector('.active-song');
+                if (activeItem) activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
         }
 
         function renderQueue() {
