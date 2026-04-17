@@ -1,5 +1,31 @@
 [
     {
+        "id": 43658,
+        "title": "超級瑪利歐銀河電影版",
+        "m3u8_url": "https://vip.dytt-see.com/20260407/31494_db07748a/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/yAI5H1T6qzFPHml5PFC7rthjRU3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+        "overview": "",
+        "genre": "冒險片",
+        "release_date": "2026-04-01",
+        "rating": 6.925,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 43704,
+        "title": "Starbright",
+        "m3u8_url": "https://vip.dytt-tvb.com/20251102/58320_b289013b/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
+        "overview": "",
+        "genre": "冒險片",
+        "release_date": "2026-02-27",
+        "rating": 7.375,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 42590,
         "title": "大蟒蛇",
         "m3u8_url": "https://vip.dytt-tvs.com/20260127/10590_236522d7/index.m3u8",
@@ -2290,7 +2316,7 @@
     {
         "id": 25290,
         "title": "烏鴉籤王",
-        "m3u8_url": "https://vip.dytt-kan.com/20251203/10973_b1c14790/index.m3u8",
+        "m3u8_url": "https://vip.dytt-kan.com/20260322/12597_44e96ded/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/eMVrGkoPZ8hW1Fw7cAH4yyADYL9.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vlQCRJmy4H37pwakJQH2CttBtgq.jpg",
         "overview": "進出監獄對凱子並不陌生，這次卻有些不同；女友懷孕以及手裡抽到的厄運籤，讓即將失去自由的凱子感到不安與惶恐，他希望參與孩子的成長，希望出來之後一切沒有變。",
@@ -4344,7 +4370,7 @@
     {
         "id": 27243,
         "title": "父親",
-        "m3u8_url": "https://vip.dytt-look.com/20250417/496188_8b848d70/index.m3u8",
+        "m3u8_url": "https://vip.dytt-see.com/20260313/31213_5ae6fe0b/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/arHAt8CHHDVhztFzKhs2AnMz5TR.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
         "overview": "罹患失智症的父親安東尼，隨著年齡增長，他所認知的世界與現實逐漸產生差距。即使充滿疑惑，他卻無法接受自己患病的事實，更拒絕女兒安所安排的一切協助與照顧。隨著病情急轉直下，他逐漸遺忘時間、空間，甚至是自己摯愛的親人…。",
@@ -8827,6 +8853,19 @@
         "country": "德國"
     },
     {
+        "id": 43515,
+        "title": "舞夜殺機",
+        "m3u8_url": "https://vip.dytt-kan.com/20260326/12765_c80bfa00/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/hOWBt0j7ccH09hglIcQKeTbj85E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/6GuqUJ33BnWDAoVPZP55gDr5G55.jpg",
+        "overview": "這是一部動作場面滿點的驚悚片。五名芭蕾舞者在前往舞蹈比賽途中受困偏僻森林，只能投宿由黛沃拉卡西默經營的詭異路邊旅店。為了活命，她們必須將精英訓練化為武器。",
+        "genre": "動作片",
+        "release_date": "2026-03-13",
+        "rating": 6.717,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 43105,
         "title": "絕命懸崖",
         "m3u8_url": "https://vip.dytt-tvs.com/20260227/12281_fb51aea2/index.m3u8",
@@ -8927,6 +8966,19 @@
         "genre": "動作片",
         "release_date": "2026-01-07",
         "rating": 6.8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 43503,
+        "title": "天劫倒數 2：大遷徙",
+        "m3u8_url": "https://vip.dytt-tvs.com/20260206/11045_85934679/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/aWWCcUC3GIASiBxBfFmgu7jbtrf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/gtKWn9l32PolrFwCuZQsujEAEoc.jpg",
+        "overview": "倖存的蓋瑞提一家必須離開安全的格陵蘭島避難所，踏上危險的旅程，穿越歐洲滿目瘡痍的冰凍荒原，尋找新的家園。",
+        "genre": "動作片",
+        "release_date": "2026-01-07",
+        "rating": 6.4,
         "quality": "BD",
         "country": "美國"
     },
@@ -16406,6 +16458,32 @@
         "country": "日本"
     },
     {
+        "id": 43504,
+        "title": "狸想世界",
+        "m3u8_url": "https://vip.dytt-network.com/20260326/21437_2b25d95b/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/k27kmEQvkMHvx9R4hIPXg2opOOi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+        "overview": "熱愛動物的梅寶逮到了一個機會，藉由新科技讓意識進入到栩栩如生的機器動物身上。有了能夠和動物溝通的新能力，她在自家後院揭開了一個連作夢也想不到的神祕世界。",
+        "genre": "動畫片",
+        "release_date": "2026-03-04",
+        "rating": 7.6,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 43557,
+        "title": "山羊巔峰",
+        "m3u8_url": "https://vip.dytt-network.com/20260324/21160_3eb81a0f/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1BkdscLOGFfKEAb3pbnCxe0ncXX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+        "overview": "威爾是一隻年輕小山羊，但是山羊雖小夢想俱全，他意外獲得一次千載難逢的機會，能加入「職吼聯盟」挑戰最高榮譽，這是一項節奏超快、各種動物混合的高強度球類運動，由全世界最迅捷、最兇猛的動物稱霸。雖然威爾的新隊友對於這隻小山羊的加入興趣缺缺，但他決心顛覆這項運動，用行動證明：「小個子也能打出大場面！」",
+        "genre": "動畫片",
+        "release_date": "2026-02-11",
+        "rating": 7.592,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 42432,
         "title": "海綿寶寶電影版：尋寶大冒險",
         "m3u8_url": "https://vip.dytt-tvs.com/20251231/8892_10a409f7/index.m3u8",
@@ -16939,6 +17017,19 @@
         "country": "中國"
     },
     {
+        "id": 43636,
+        "title": "米家大戰機器人",
+        "m3u8_url": "https://cdn.yzzyvip-32.com/20260331/27703_8c5b85b2/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/da9GtIjcefaJ8OeiUKlpxxLPBc5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+        "overview": "米契一家是一個功能失調但充滿愛心的家庭，他們的公路旅行被一場威脅人類的科技起義打斷了：在世界各地，人們喜愛的電子設備——從電話到自動駕駛汽車，再到時尚的新個人機器人系列 ——開啟人性。 在兩個出現故障的機器人和這個家庭令人愉快的超重哈巴狗的幫助下，米契一家將不得不克服他們的問題，共同努力拯救彼此和世界。",
+        "genre": "動畫片",
+        "release_date": "2021-04-22",
+        "rating": 7.845,
+        "quality": "HD",
+        "country": "美國"
+    },
+    {
         "id": 27250,
         "title": "新神榜：哪吒重生",
         "m3u8_url": "https://vip.dytt-film.com/20250120/827_fa3a3c40/index.m3u8",
@@ -17379,6 +17470,58 @@
         "rating": 8.446,
         "quality": "BD",
         "country": "日本"
+    },
+    {
+        "id": 43647,
+        "title": "心之高歌",
+        "m3u8_url": "https://vip.dytt-kan.com/20260404/13136_d79e8872/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/orKCPlIHG1PulYZfG79aEKMKK29.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
+        "overview": "身為聾人家庭唯一能聽見聲音的成員，含羞的少女發現自己擁有唱歌天賦，她必須在履行責任和尋找自己的道路之間做出抉擇。",
+        "genre": "喜劇片",
+        "release_date": "2026-04-03",
+        "rating": 6.071,
+        "quality": "BD",
+        "country": "義大利"
+    },
+    {
+        "id": 43567,
+        "title": "汪星人訓練營",
+        "m3u8_url": "https://vip.dytt-kan.com/20260403/13069_30cd1e36/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/76nYHKu2b69Jwy7W00v1Oyc4NRj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+        "overview": "五位狗主人帶著調皮的寵物犬來到山間，向一位傳奇訓犬師求助，不過需要訓練的其實並不是毛孩們。",
+        "genre": "喜劇片",
+        "release_date": "2026-04-01",
+        "rating": 5.81,
+        "quality": "BD",
+        "country": "德國"
+    },
+    {
+        "id": 43653,
+        "title": "53 個週日",
+        "m3u8_url": "https://vip.ffzy-video.com/20260330/40564_08a99fb7/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tdws0Z7vOyeMuIwXh2qG37bR3ok.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
+        "overview": "三位手足約好見面，原本打算討論年邁父親的將來，卻逐漸演變成爭吵、戲謔和算舊帳的戲碼。",
+        "genre": "喜劇片",
+        "release_date": "2026-03-26",
+        "rating": 6.107,
+        "quality": "HD",
+        "country": "西班牙"
+    },
+    {
+        "id": 43657,
+        "title": "我當你兄弟",
+        "m3u8_url": "https://vip.dytt-kan.com/20260327/12820_e4017fc1/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tGfRTox6Z8VDLeMSogqxvAsqE7C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+        "overview": "換帖的幫派兄弟意外愛上同一個女人，他們試圖在人生中最危險的一夜求生存。這樣似乎還不夠混亂，竟然還出現時光機？！",
+        "genre": "喜劇片",
+        "release_date": "2026-03-14",
+        "rating": 6.755,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 43217,
@@ -21242,6 +21385,19 @@
         "country": "美國"
     },
     {
+        "id": 43444,
+        "title": "他年她日",
+        "m3u8_url": "https://vip.dytt-kan.com/20260320/12512_74a8f422/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/7CSO29w9RYLY9R6TVLTkGy0oMIm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/n3mqsvKiqElRQ4KjDQ0NADQPVP5.jpg",
+        "overview": "大地震將世界一分為二，矗立於海中央的「重力牆」扭曲了兩邊的時間與重力，在「優日區」的一天，是「長年區」的一年。當來自優日區的安晴（袁澧林飾），遇見長年區的薯仔（許光漢飾），他們的愛能否打破不可抗的時間差宿命？",
+        "genre": "奇幻片",
+        "release_date": "2025-09-26",
+        "rating": 6,
+        "quality": "BD",
+        "country": "台灣"
+    },
+    {
         "id": 26953,
         "title": "Kpop 獵魔女團",
         "m3u8_url": "https://vip.dytt-kan.com/20250809/3378_2e2c080d/index.m3u8",
@@ -21957,6 +22113,19 @@
         "country": "美國"
     },
     {
+        "id": 32681,
+        "title": "超級瑪利歐兄弟電影版",
+        "m3u8_url": "https://vip.dytt-hot.com/20250129/23262_b39c6e3d/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/lZVumU6dplne9LpitkVDYxhKSDl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "overview": "任天堂暨照明娛樂共同出品一部改編自最受歡迎電玩遊戲《超級瑪利歐兄弟》的全新動畫片《超級瑪利歐兄弟電影版》。  《超級瑪利歐兄弟電影版》一片的導演是亞倫霍瓦斯和麥可傑勒尼克（卡通影集《少年悍將GO！》、《電影少年悍將GO！》），編劇是馬修福格（《樂高玩電影2》、《小小兵2：格魯的崛起》），配音演員包括克里斯普瑞特（瑪利歐）、安雅泰勒喬伊（碧姬公主）、查理戴（路易吉）、傑克布萊克（庫巴）、基根麥可奇（奇諾比奧）、塞斯羅根（咚奇剛）、佛萊德阿米森（庫朗奇剛）、凱文麥可理查森（卡美克）以及賽巴斯汀曼尼斯葛爾柯（布拉奇）。\r 這部動畫片的製片是照明娛樂創辦人和執行長克里斯梅勒丹德利以及任天堂的「瑪利歐之父」宮本茂。這部動畫片將由環球影業與任天堂共同出資製作，並由環球影業全球發行。",
+        "genre": "家庭片",
+        "release_date": "2023-04-05",
+        "rating": 7.605,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 24214,
         "title": "夢遊樂園",
         "m3u8_url": "https://svipsvip.ffzyread1.com/20230804/16326_2b5dfd4d/index.m3u8",
@@ -22310,7 +22479,7 @@
     {
         "id": 43196,
         "title": "驚聲尖叫7",
-        "m3u8_url": "https://vip.dytt-network.com/20260307/20559_8e4cb3c0/index.m3u8",
+        "m3u8_url": "https://vip.dytt-network.com/20260317/21079_cef55246/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/vhCUlEsfshjLcOzKpg6EbvyLJQT.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
         "overview": "當新的鬼臉殺手在席妮皮斯考克建立全新生活的寧靜小鎮出現時，她最深層的恐懼終於成真，這次她的女兒成為鬼臉殺手的下一個目標。為了保護家人，席妮被迫再度面對過去的恐怖夢魘，下定決心要徹底終結這場血腥的惡夢。",
@@ -22323,7 +22492,7 @@
     {
         "id": 42726,
         "title": "荒島囚救",
-        "m3u8_url": "https://vip.dytt-see.com/20260128/27788_e17f6cb9/index.m3u8",
+        "m3u8_url": "https://vip.dytt-kan.com/20260325/12702_f9e81765/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/wcm09e232izMfEPqhgS1hRILFqK.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/jo17HPxcJqT9jpSw3Xv92mQBY1h.jpg",
         "overview": "兩名同事在飛機失事後，成為唯一倖存者被困在荒島上。他們必須放下過往恩怨、共同求生，但最終演變成一場不安又充滿黑色幽默的意志與智慧對決……",
@@ -22336,7 +22505,7 @@
     {
         "id": 43229,
         "title": "全境屍控",
-        "m3u8_url": "https://vip.dytt-network.com/20260215/19936_0b807245/index.m3u8",
+        "m3u8_url": "https://vip.dytt-kan.com/20260401/12981_aaf662be/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/cEC9YUGKikH9kEUhZ9v8oK8cBcV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/jtUHnlGbcq70uHLJ36ZnkF5MJdc.jpg",
         "overview": "小茶與娜歐蜜任職於一間自助倉儲公司，他們某晚聽見牆壁後方不斷傳來詭異的電子聲。好奇心驅使下，他們打破牆壁，竟意外發現下方有一座廢棄的美軍基地？！一種被政府封存數十年的致命真菌正悄然甦醒，一旦感染就會失去意識並自爆。當倉儲內外相繼淪陷，小茶與娜歐蜜聯繫上當年曾與這種真菌交手過的退役生化特工羅伯特奎因少校。他們共同深入錯綜複雜的地下基地，想盡辦法撐過人生中最瘋狂的一晚，要阻止人類走向滅絕！",
@@ -22670,6 +22839,19 @@
         "rating": 7.1,
         "quality": "BD",
         "country": "台灣"
+    },
+    {
+        "id": 26521,
+        "title": "險鱷禁地",
+        "m3u8_url": "https://vip.dytt-cine.com/20251121/62455_3187cdf5/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/gcWFleGQ0ZTDkXFRX6Pho8CrkOX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3Vq8otoGevbhcZAKY2devVbPs6L.jpg",
+        "overview": "佛羅里達州的傑瑟普湖曾經是、現在仍然是美國鱷魚出沒最嚴重的水域。2003 年，這裡成為現實恐怖故事的背景，當時一條巨大的鱷魚從受歡迎的旅遊景點 Gator Galaxy 中逃脫，並開始在湖上殺人。隨著死亡人數的增加，我們越來越清楚地意識到，要阻止這個史前怪物，需要進行殘酷而激烈的狩獵。\r 前職業鱷魚牧馬人、前罪犯布巴科金斯最近出獄，如果他能找到、誘捕並殺死鱷魚，他就有機會洗清自己的記錄。布巴不顧一切地想要洗白自己的過去，與女兒和孫子開始新的生活，當他發現自己願意做任何事，甚至殺人，來完成一勞永逸地結束鱷魚恐怖統治的任務時，他的道德指南針立即受到挑戰…",
+        "genre": "恐怖片",
+        "release_date": "2024-05-01",
+        "rating": 5.8,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 27637,
@@ -27040,6 +27222,19 @@
         "country": "美國"
     },
     {
+        "id": 43580,
+        "title": "搜查瑠公圳",
+        "m3u8_url": "https://vip.dytt-kan.com/20260403/13065_fed02ce0/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/wzjEd0i625vVEedi4t5lfOVlNMD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/pyg46sZg60RrO5k8MwWfsQYmokU.jpg",
+        "overview": "1961年的台北，刑警趙子午（朱軒洋飾演）與記者張秀秀（吳卓源飾演）在新生南路附近的水圳發現一具遭肢解的女屍，兩人組成臨時搭擋，在全⺠熱議與媒體編造亂報下，試圖尋找線索！沒想到趙子午的父親趙志昇將軍（張世飾演）竟被捲入其中，被指控為分屍案嫌犯。誓言為趙志昇洗刷清白的兩人究竟該如何破解迷局，找出真相呢？",
+        "genre": "歷史片",
+        "release_date": "2025-05-22",
+        "rating": 6,
+        "quality": "BD",
+        "country": "台灣"
+    },
+    {
         "id": 26063,
         "title": "美聲歌后：瑪麗亞",
         "m3u8_url": "https://vip.ffzy-video.com/20241211/8265_fe2b421b/index.m3u8",
@@ -27064,6 +27259,19 @@
         "rating": 6.856,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 43430,
+        "title": "浴血黑幫：不朽傳奇",
+        "m3u8_url": "https://vip.dytt-kan.com/20260320/12538_71af5961/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/r1QSrP7xTqA4roGeAUt8a3Gwiy4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/filZFYKr17wIJ4j1Cz115DOdegh.jpg",
+        "overview": "在關係疏遠的兒子捲入納粹陰謀後，自我放逐的黑幫老大湯米雪爾比必須趕回伯明罕，不只守護家人，還要拯救國家。",
+        "genre": "犯罪片",
+        "release_date": "2026-03-05",
+        "rating": 8.3,
+        "quality": "BD",
+        "country": "英國"
     },
     {
         "id": 42983,
@@ -28665,6 +28873,19 @@
         "country": "香港"
     },
     {
+        "id": 43511,
+        "title": "極限返航",
+        "m3u8_url": "https://vip.dytt-see.com/20260401/31434_1f31606e/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/jrubxFgThfkIU3lRjYFLGobYa8z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+        "overview": "科學老師萊倫格雷斯在一艘距離地球好幾光年的太空船上醒來，卻對自己的身分和來到這裡的原因一無所知。隨著記憶逐漸恢復，他開始揭開任務的真相，解開一種神祕物質導致太陽衰亡的謎團。他必須運用自己的科學知識與創意想法，拯救地球的滅絕危機……但一位意料之外的訪客，讓他或許不用獨自奮鬥。",
+        "genre": "科幻片",
+        "release_date": "2026-03-15",
+        "rating": 8.175,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
         "id": 43209,
         "title": "科學新娘！",
         "m3u8_url": "https://vip.dytt-network.com/20260307/20558_4dbedc57/index.m3u8",
@@ -28693,7 +28914,7 @@
     {
         "id": 42385,
         "title": "阿凡達：火與燼",
-        "m3u8_url": "https://vip.dytt-cinema.com/20251225/44056_72f5b0b3/index.m3u8",
+        "m3u8_url": "https://vip.dytt-network.com/20260329/21481_ea023e25/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/5AX5lUSS9tNxvyUROKf8AROgPy2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
         "overview": "這次的故事敘述從人類歸化納美族並當上首領的傑克蘇里、妻子納美戰士奈蒂莉及蘇里的家人一同，在經歷奮戰與傷痛後，依然必須展開全新冒險，也將面臨新登場反派的威脅。",
@@ -30422,7 +30643,7 @@
     {
         "id": 26037,
         "title": "莎賓娜卡本特：無厘頭聖誕",
-        "m3u8_url": "https://svip.high21-playback.com/20241209/40467_065f252d/index.m3u8",
+        "m3u8_url": "https://cdn.yzzyvip-32.com/20260322/26206_412af43c/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
         "overview": "叮叮噹，叮叮噹！流行樂小天后莎賓娜卡本特首度推出音樂綜藝特輯，並在節目中帶來多首熱播聖誕金曲、驚喜合唱，還有爆笑不斷的客串。",
@@ -30613,6 +30834,19 @@
         "rating": 6.188,
         "quality": "BD",
         "country": "西班牙"
+    },
+    {
+        "id": 43559,
+        "title": "諜報暗線",
+        "m3u8_url": "https://vip.dytt-kan.com/20260401/13001_c0eab2dc/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/cNThncbZW5M0r18yusrcXmS92Ky.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+        "overview": "南韓情報員在俄羅斯調查販毒集團時，與北韓特務狹路相逢，兩人因此身陷險境，捲入錯綜複雜的祕密之中。",
+        "genre": "驚悚片",
+        "release_date": "2026-02-11",
+        "rating": 7.2,
+        "quality": "BD",
+        "country": "韓國"
     },
     {
         "id": 42655,
