@@ -1638,6 +1638,32 @@
         "country": "英國"
     },
     {
+        "id": 44099,
+        "title": "明亮燦爛的你",
+        "m3u8_url": "https://play.phimgood.com/20260509/26598_fad81a05/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1AijqDChzy7BnUFPMEX5khDaaRx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "overview": "這部動人的劇情片改編自暢銷小說，描述一名寡婦在小鎮水族館值夜班，和一隻聰明的章魚及一個迷茫的年輕人培養出獨特情誼。",
+        "genre": "劇情片",
+        "release_date": "2026-05-07",
+        "rating": 8.369,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 43991,
+        "title": "我親愛的小姐",
+        "m3u8_url": "https://vip.dytt-kan.com/20260502/14219_bc0573e9/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/3mmaRTs5rUM9mQfMVSaUlD5Gl0C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg",
+        "overview": "出身傳統家庭的年輕女子得知自己是雙性人，就此踏上自我探索和性別認同的旅程，並在意想不到的地方遇見愛。",
+        "genre": "劇情片",
+        "release_date": "2026-04-17",
+        "rating": 4.885,
+        "quality": "BD",
+        "country": "西班牙"
+    },
+    {
         "id": 43358,
         "title": "韓國製造的我",
         "m3u8_url": "https://vip.dytt-tvs.com/20260314/12947_16ad66b2/index.m3u8",
@@ -1766,6 +1792,19 @@
         "rating": 7.8,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 44005,
+        "title": "南方時光",
+        "m3u8_url": "https://vip.dytt-kan.com/20260501/14176_9dbffba2/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/jgalEKbHzCA6OGTusoBxnDkciDp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5zkGkMs8l7oTgP1g8JI8xqOi6Zs.jpg",
+        "overview": "小洲被老師分到「廢物」B段班，而他喜歡的小敏則在優秀的A段班。小洲厭倦蒼白青春，他將小幫派首領扣子視為心中憧憬的形象。1996年台海危機，父母投資受到影響，家裡低氣壓使弟弟小斌的練琴聲聽起來格外沮喪。而經歷扣子去當兵、被同儕誣陷、小敏移民的小洲，因為偷抽菸被老師逼著退學，他的未來會是什麼模樣？",
+        "genre": "劇情片",
+        "release_date": "2025-11-14",
+        "rating": 0,
+        "quality": "BD",
+        "country": "台灣"
     },
     {
         "id": 27197,
@@ -1909,6 +1948,19 @@
         "rating": 6,
         "quality": "BD",
         "country": "香港"
+    },
+    {
+        "id": 44118,
+        "title": "聖誕快樂",
+        "m3u8_url": "https://vvip.high26-playback.com/20260509/23360_0bdc3edd/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/kIK8TRMpDf1K1zjmq33O4iK1KXT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vkaeVqrygmFZ4mEo40d88q5UCTH.jpg",
+        "overview": "阿澤9歲生日，約好一起慶生的爸爸因為臨時有工作，把他交給歌仔戲班的奶奶照顧，但奶奶為了演出沒空理他，無聊的阿澤做甚麼都被阻止，以為中午可以跟爸爸慶生的願望也沒能如願。阿澤決定偷一個蛋糕替自己慶生…",
+        "genre": "劇情片",
+        "release_date": "2025-04-27",
+        "rating": 1,
+        "quality": "HD",
+        "country": "台灣"
     },
     {
         "id": 3619,
@@ -2390,6 +2442,19 @@
         "rating": 6.3,
         "quality": "HD",
         "country": "英國"
+    },
+    {
+        "id": 44191,
+        "title": "Rita",
+        "m3u8_url": "https://vip.dytt-kan.com/20250929/6949_f3be5eb7/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/grIFQLXXwQmjvYYfXVXCgGTMUWw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5AsIFZ2AJC7JcGpq40aRPuRuaRc.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "2024-03-22",
+        "rating": 6.1,
+        "quality": "BD",
+        "country": "菲律賓"
     },
     {
         "id": 24846,
@@ -3484,19 +3549,6 @@
         "country": "土耳其"
     },
     {
-        "id": 22181,
-        "title": "一家之主",
-        "m3u8_url": "https://vip.ffzy-play7.com/20230317/18625_81ca6a03/index.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/5JuzbfhxVEgnYb1zmrwUnnvHbcs.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cBCmAnyNBn6ealtjep7WFnj7xHv.jpg",
-        "overview": "《一家之主》為王希捷首部劇情長片。她把臂膀撐開就成屋簷，女人我最大，卻發現家那麼小。藉情感動人的母女談心旅程、現代家庭老夫老妻的幽默互動，送給家中每一位辛苦的女性和一家之主。",
-        "genre": "劇情片",
-        "release_date": "2022-05-06",
-        "rating": 8,
-        "quality": "HD",
-        "country": "台灣"
-    },
-    {
         "id": 4076,
         "title": "售命",
         "m3u8_url": "https://vip.dytt-kan.com/20250610/567_99c5e07b/index.m3u8",
@@ -3577,14 +3629,14 @@
     {
         "id": 22248,
         "title": "深水",
-        "m3u8_url": "https://vip.ffzy-play7.com/20230304/16998_bc60f9ea/index.m3u8",
+        "m3u8_url": "https://vip.dytt-see.com/20260504/35674_c9c8e812/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/lcITbesmy0IBO6TXTAgQHJE6Asx.jpg",
         "overview": "一對感情有問題的夫妻，雙方達成協議：妻子Melinda在外面任找多少情人都可以，只要她不拋棄家人。而隨後，丈夫Vic開始抑制不住自己的嫉妒，想要贏回妻子，為此最終捲入了犯罪。",
         "genre": "劇情片",
         "release_date": "2022-03-17",
         "rating": 5.8,
-        "quality": "HD",
+        "quality": "TC",
         "country": "美國"
     },
     {
@@ -5267,14 +5319,14 @@
     {
         "id": 40329,
         "title": "紅樓夢",
-        "m3u8_url": "https://vip.ffzy-play7.com/20221117/5030_0bf98de0/index.m3u8",
+        "m3u8_url": "https://vip.dytt-network.com/20260607/35721_a545d4c9/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/boLjnu1Rye7CkTINbPveR9VmhyV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/9kvONvT8XUCf4Qa9Fdgs8Gcv2Vj.jpg",
         "overview": "小林(林黛玉)在男友阿寶死後，隻身上來台北工作，本想藉由工作擺脫情傷，卻遇到剛從英國留學回台灣的JOSH(賈寶玉)。JOSH初來紅樓就對小林一見鍾情，而由於JOSH長得像小林死去的前男友，小林也對他印象深刻，只是礙於自己的病情沒有勇氣去愛。這時事業有成的SEAN（薛寶釵）頂下紅樓一間服飾店，作人大方慷慨立刻獲得好人緣，讓小林與JOSH兩人感情橫生變數…",
         "genre": "劇情片",
         "release_date": "2018-10-19",
         "rating": 4.583,
-        "quality": "HD",
+        "quality": "BD",
         "country": "台灣"
     },
     {
@@ -6877,6 +6929,19 @@
         "country": "美國"
     },
     {
+        "id": 9450,
+        "title": "穿著PRADA的惡魔",
+        "m3u8_url": "https://vip.dytt-see.com/20260505/36518_39a596c5/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/he6k1x5nlGGhahh1xSyApU4fGeR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/CpLAfXgSNeNRRbRzPrTuzKmIHO.jpg",
+        "overview": "＜RUNWAY＞雜誌是紐約時尚界聖經，總編米蘭達是難纏的大人物。只要稍有自尊的人，絕對無法在她手下工作，可是進入＜RUNWAY＞又是所有對時尚有熱情的年輕女孩最大的夢想。 剛畢業的社會新鮮人安德莉亞，憑著西北大學的漂亮履歷，進入＜RUNWAY＞位於曼哈頓總部辦公室。不服輸的她準備擔任米蘭達的助理。這名從頭到腳全是Prada的女士，將為她的人生帶來最殘酷的考驗。 漸漸地，安德莉亞讓自己融入米蘭達要求的氣質和形象，很短時間裡，她學會了這一行說話的模樣身段及行事方法。只是，當她越嫻熟米蘭達所在世界的遊戲規則，她也發現這其實是一個表面上精彩華麗但其實很孤獨的世界，值得嗎？安德莉亞靠自己找到她的答案。",
+        "genre": "劇情片",
+        "release_date": "2006-06-29",
+        "rating": 7.391,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 15189,
         "title": "伊莎貝拉",
         "m3u8_url": "https://vip.dytt-film.com/20250218/7663_19d47109/index.m3u8",
@@ -7408,6 +7473,19 @@
         "rating": 6.25,
         "quality": "BD",
         "country": "香港"
+    },
+    {
+        "id": 9245,
+        "title": "真愛伴我行",
+        "m3u8_url": "https://vip.dytt-live.com/20250325/1549_c88d8d0a/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/dzDomGKtXBSpsXbwfI5Ujn2rQvm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3mR0TCv9mqAcEBt1Nu9SXI3VDIo.jpg",
+        "overview": "影片背景是1940年的西西里島的寧靜小鎮，當時義大利剛剛宣布參戰。女主角瑪蓮娜的丈夫Nino Scordia參軍未歸，被認定為死亡。瑪蓮娜離開家鄉，來到了這個海邊小鎮，在這裡，她吸引了所有男人的目光，包括12歲的雷納托。儘管八卦不斷，瑪蓮娜一直忠於自己的丈夫。而雷納托悄悄地迷戀上這個女人，跟蹤、窺視她的生活，陷入了情慾幻想。",
+        "genre": "劇情片",
+        "release_date": "2000-03-16",
+        "rating": 7.4,
+        "quality": "BD",
+        "country": "義大利"
     },
     {
         "id": 39780,
@@ -8877,6 +8955,136 @@
         "rating": 8.098,
         "quality": "BD",
         "country": "德國"
+    },
+    {
+        "id": 44212,
+        "title": "太空超人",
+        "m3u8_url": "https://vip.dytt-network.com/20260604/35150_123c12d8/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1MbMFS1G8Od2BAhEiqgJLlhbBwC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "overview": "在與力量之劍失散長達15年後，亞當王子循著力量之劍的指引，重返伊坦尼亞，卻發現家園早已在邪惡的骷髏王殘暴統治下支離破碎。為了拯救家人與世界，亞當必須與最親密的盟友蒂拉以及鄧肯隊長（武器大師）攜手並肩，並接受自己的真正命運，化身為宇宙中最強大的男人：「太空超人」。",
+        "genre": "動作片",
+        "release_date": "2026-06-03",
+        "rating": 7.5,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 44280,
+        "title": "湯姆克蘭西之傑克萊恩：幽影暗戰",
+        "m3u8_url": "https://play.phimgood.com/20260520/27060_604580f8/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/fRpHyOHOtMiiUTSL7BMAbUopxpT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+        "overview": "在這部全新影集中，傑克萊恩被迫重返諜報世界，一場國際祕密任務揭開致命陰謀。時間緊迫之下，他與CIA盟友麥克諾文伯、詹姆斯格里爾，以及頭腦敏銳的MI6探員艾瑪馬洛聯手，對抗一支失控的黑色行動部隊，展開一場高風險且極為私密的戰鬥。",
+        "genre": "動作片",
+        "release_date": "2026-05-20",
+        "rating": 7.088,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 44210,
+        "title": "曼達洛人與古古",
+        "m3u8_url": "https://vip.dytt-network.com/20260602/33465_e72c36d5/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1ROEjeeLfFtUvBuF3a28Iffe0ht.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+        "overview": "邪惡的帝國已覆滅，但殘餘的帝國軍閥仍四散於銀河各地。初生的新共和國正努力守護反抗軍所爭取的一切，他們因此尋求傳奇賞金獵人－曼達洛人丁賈林以及他年幼的徒弟古古的協助……",
+        "genre": "動作片",
+        "release_date": "2026-05-20",
+        "rating": 6.8,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 44248,
+        "title": "金劫任務",
+        "m3u8_url": "https://vip.dytt-see.com/20260520/38905_5d7e1a56/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/rpWtiPEzeKWjMslwIf4f9ZOfNNL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+        "overview": "一支神祕的精英特務小隊在全球各地祕密行動，不僅擅長操作各方勢力，也擅長操作自動武器和高性能炸藥。當一位冷酷無情的暴君竊取了十億美元的巨額財富時，這支小隊奉命去偷回這筆錢。然而，隨著任務進行，局面卻變得越來越棘手，這場劫案逐漸演變成充滿策略、欺騙和求生的全面戰爭……",
+        "genre": "動作片",
+        "release_date": "2026-05-13",
+        "rating": 6.574,
+        "quality": "TC",
+        "country": "英國"
+    },
+    {
+        "id": 44083,
+        "title": "制裁者：最後一擊",
+        "m3u8_url": "https://play.phimgood.com/20260513/26738_423e44c6/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/mK1SLjLhS3kR94PjjervjDOMYxR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+        "overview": "法蘭克卡索想在復仇之外，追求更有意義的目標，但他卻意外地被拉回戰場。",
+        "genre": "動作片",
+        "release_date": "2026-05-12",
+        "rating": 8.7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 44094,
+        "title": "我的摯愛殺手",
+        "m3u8_url": "https://play.phimgood.com/20260509/26608_c5b14c33/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/8tq08OiArD6fF4Wh3e0Dq1Pln4m.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/d1TupF3vMdQ6BhnADkFiNf0ZBOo.jpg",
+        "overview": "越南女孩蘭擁有罕見血型，因而被寶藏獵人普魯盯上，普魯更冷血殺害了她的雙親。殺手組織「89 號房屋」的領袖老爹救了她，將她帶到泰國。蘭被當成組織的一員撫養，和老爹的親生兒子帕仁以及老爹收養的孤兒 M 一起長大。帕仁被教導要不惜一切代價保護蘭，隨著時間一天天過去，他們培養出深厚的感情。但好景不常，普魯又追查到蘭的行蹤，想方設法要把她的特殊血液拿到手。與此同時，蘭意外發現她被帶來 89 號房屋的真正原因，在又一次因為血液被當成目標之後，蘭將畢生仇恨傾注在殺害父母的兇手身上，和摯愛並肩作戰，決意爭取不用再逃跑躲藏的自由。",
+        "genre": "動作片",
+        "release_date": "2026-05-06",
+        "rating": 8.47,
+        "quality": "BD",
+        "country": "泰國"
+    },
+    {
+        "id": 44082,
+        "title": "真人快打II",
+        "m3u8_url": "https://vip.dytt-network.com/20260508/31122_bacd7873/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/n4gmLgQKu1ykcwKAsaG5N4P5FoQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+        "overview": "",
+        "genre": "動作片",
+        "release_date": "2026-05-06",
+        "rating": 7.01,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 44190,
+        "title": "Beast",
+        "m3u8_url": "https://vip.dytt-see.com/20260422/32035_f8ace07a/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hlZGaey4lR9hc4rGxZRAmIEsZOc.jpg",
+        "overview": "",
+        "genre": "動作片",
+        "release_date": "2026-04-10",
+        "rating": 6.763,
+        "quality": "BD",
+        "country": "澳洲"
+    },
+    {
+        "id": 43571,
+        "title": "他們要殺你",
+        "m3u8_url": "https://vip.dytt-kan.com/20260430/14120_0a343d08/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/4qTTIh9OXaye99qMeocIOoPzaOJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+        "overview": "一名年輕女子必須在惡魔邪教操控下的威吉大樓熬過一晚，逃過神祕扭曲的死亡陷阱巢穴，否則就會成為下一個祭品。一場史詩級銀幕大戰，交織著殺戮與邪惡的黑色幽默，以獨特另類的狂放姿態震撼登場。",
+        "genre": "動作片",
+        "release_date": "2026-03-25",
+        "rating": 6.639,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 43521,
+        "title": "黑境行者：復仇",
+        "m3u8_url": "https://vip.dytt-network.com/20260326/21414_d0881bf5/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+        "overview": "",
+        "genre": "動作片",
+        "release_date": "2026-03-18",
+        "rating": 7.946,
+        "quality": "TC",
+        "country": "印度"
     },
     {
         "id": 43515,
@@ -16510,6 +16718,19 @@
         "country": "日本"
     },
     {
+        "id": 44081,
+        "title": "奇幻變身大冒險",
+        "m3u8_url": "https://vip.dytt-kan.com/20260502/14220_9e6bc039/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/4vGvKIWUyOJkaoYcywAJEswv0ot.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+        "overview": "一隻林地小動物和一隻大鳥原本在山谷裡是水火不容的天敵，卻突然互換了身體，只好彼此合作，一邊適應著身上陌生的皮毛和羽毛，一邊想辦法平安度過此生最瘋狂的冒險。",
+        "genre": "動畫片",
+        "release_date": "2026-05-01",
+        "rating": 8.1,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 43504,
         "title": "狸想世界",
         "m3u8_url": "https://vip.dytt-network.com/20260326/21437_2b25d95b/index.m3u8",
@@ -16586,6 +16807,19 @@
         "rating": 6.435,
         "quality": "HD",
         "country": "英國"
+    },
+    {
+        "id": 44257,
+        "title": "兔子巷968號",
+        "m3u8_url": "https://player.yzzyvip-35.com/20260605/8582_022898bb/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/39UaNDi8W7QM4jy5v4roVOWE0RK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/d8vLKqEMiDSHJYhTKZrfCunb9ja.jpg",
+        "overview": "在平凡的一天裡，一場突如其來的拜訪打亂了全家人的步調，充滿期待與好奇心的小兔子在屋裡蹦蹦跳跳，連一秒都等不及了！然而，當這位神秘訪客到來時，鬧哄哄的屋子卻瞬間靜得鴉雀無聲。",
+        "genre": "動畫片",
+        "release_date": "2025-10-11",
+        "rating": 0,
+        "quality": "HD",
+        "country": "台灣"
     },
     {
         "id": 21283,
@@ -17524,6 +17758,45 @@
         "country": "日本"
     },
     {
+        "id": 44203,
+        "title": "媽呀真亂來",
+        "m3u8_url": "https://play.phimgood.com/20260606/27616_2b5102c2/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/wH4DpyhjO05wUIEO7naqHYBvKhp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3QEwa9vZFC8PyZgFOKYPZx55nv8.jpg",
+        "overview": "麻煩找上門來，這下她得跟關係疏遠的女兒們設法掩蓋罪狀。然而，在愛管閒事的鄰里間，紙恐怕包不住火。",
+        "genre": "喜劇片",
+        "release_date": "2026-06-04",
+        "rating": 0,
+        "quality": "BD",
+        "country": "印度"
+    },
+    {
+        "id": 43988,
+        "title": "穿著PRADA的惡魔2",
+        "m3u8_url": "https://vip.dytt-network.com/20260502/28117_6ca3f7ac/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+        "overview": "小安（安海瑟薇飾）在20年後已成為更成熟的主編，後來她再度對上米蘭達（梅莉史翠普飾），面對傳統媒體的勢微，米蘭達的《Runway》雜誌也面臨轉型與對手競爭，兩人被迫合作，並找上了當年那個受氣包艾蜜莉，而此時她已是手握時尚精品廣告預算的高級主管。三人在華麗卻又殘酷的時尚產業中，得再次經歷事業、金錢和人情世故的考驗。",
+        "genre": "喜劇片",
+        "release_date": "2026-04-29",
+        "rating": 6.81,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 43985,
+        "title": "我叫艾妮塔",
+        "m3u8_url": "https://vip.dytt-kan.com/20260501/14185_a0cce36d/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/15VGVcLcrljJHUYSYU3Wj1I38Gh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/A3XP3vGg4DGDhEH75GnyyjsDDm1.jpg",
+        "overview": "艾妮塔最近失業了，渴望重新出發。她接了一份在普羅旺斯的保母工作，沒想到卻獲得縱情享受的樂趣與意外的覺醒。",
+        "genre": "喜劇片",
+        "release_date": "2026-04-28",
+        "rating": 7.3,
+        "quality": "BD",
+        "country": "瑞典"
+    },
+    {
         "id": 43716,
         "title": "凸槌拍檔",
         "m3u8_url": "https://vip.dytt-kan.com/20260417/13636_8e887cf8/index.m3u8",
@@ -17638,6 +17911,19 @@
         "release_date": "2026-02-19",
         "rating": 6.8,
         "quality": "BD",
+        "country": "阿根廷"
+    },
+    {
+        "id": 43936,
+        "title": "勇者時刻",
+        "m3u8_url": "https://player.yzzyvip-35.com/20260425/5476_9ba82616/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/dl19vt92LSuIah9M1eQpvZwkVmp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+        "overview": "一名被罰社區服務的精神分析師，協助一位因為配偶外遇而心碎的警探。兩人並肩面對危險，同時發掘人生的第二次機會。",
+        "genre": "喜劇片",
+        "release_date": "2025-12-18",
+        "rating": 7.387,
+        "quality": "HD",
         "country": "阿根廷"
     },
     {
@@ -20724,14 +21010,14 @@
     {
         "id": 18346,
         "title": "驚聲尖笑",
-        "m3u8_url": "https://vip.dytt-film.com/20250206/5228_5a0b8489/index.m3u8",
+        "m3u8_url": "https://vip.dytt-network.com/20260604/35149_fc09bc72/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/zTPKzffEc0xivjetoSLu33VW5Vp.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/uHZRTGMFb1RLmgWcqlIOZsGbDCT.jpg",
         "overview": "從《驚聲尖叫》笑到《鐵達尼號》，再對《駭客任務》捧腹，一部不再是恐怖的恐怖電影，顛覆你的電影想像空間，試試你的電影觀念急轉彎。",
         "genre": "喜劇片",
         "release_date": "2000-07-07",
         "rating": 6.379,
-        "quality": "BD",
+        "quality": "TC",
         "country": "美國"
     },
     {
@@ -22581,9 +22867,48 @@
         "country": "美國"
     },
     {
+        "id": 44211,
+        "title": "後室",
+        "m3u8_url": "https://vip.dytt-network.com/20260604/34996_c7ced588/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+        "overview": "一個深夜，一間家具展示行內，電視忽然閃過詭異畫面。緊接著，地下室燈光開始閃爍，牆面無預警出現一扇詭異的門，門的背後，竟是一個從未存在過的空間。陰暗黃光壟罩、空氣潮濕封閉，錯綜複雜的格局不斷延伸。這裡沒有出口，也沒有盡頭，彷彿墜入一座無限擴張的異度迷宮…。",
+        "genre": "恐怖片",
+        "release_date": "2026-05-27",
+        "rating": 6.831,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 44279,
+        "title": "愛你致死不渝",
+        "m3u8_url": "https://vip.dytt-see.com/20260519/38903_dcf1a4dd/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/yKCIQVHcMKIKNiYxHeGuv2HkuLq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+        "overview": "普男貝爾渴望談戀愛，他暗戀同事妮琪，但進度只停在友達以上戀人未滿。心有不甘的他，意外發現能實現願望的神祕小物，衝動許願，沒想到竟然成真！妮琪愛他愛到無法擋，把貝爾當作世界的中心，你就是我的唯一。當愛意與佔有慾成正比，兩人世界扭曲變形，連貝爾都不禁開始害怕，但已經許下的願望，想退回去談何容易？",
+        "genre": "恐怖片",
+        "release_date": "2026-05-13",
+        "rating": 7.915,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
+        "id": 43998,
+        "title": "陰魂旅社",
+        "m3u8_url": "https://play.phimgood.com/20260603/27494_a2ad4a29/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/93xtN8BmdVNkLfHnVD2xhmypnl7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
+        "overview": "性格孤僻、不近人情的小說家歐姆鮑曼，帶著父母骨灰，來到偏遠陰鬱的愛爾蘭鄉間，重返父母曾經最幸福的地方。他入住父母當年度蜜月的古老旅館，卻被旅館員工告知，這間旅館流傳著一則禁忌傳說，有一位古老女巫長期徘徊在「蜜月套房」，而那間套房早就被封鎖列為禁區。歐姆起初不以為意，但旅館開始出現離奇失蹤事件……",
+        "genre": "恐怖片",
+        "release_date": "2026-04-29",
+        "rating": 7.3,
+        "quality": "TC",
+        "country": "美國"
+    },
+    {
         "id": 43911,
         "title": "李克寧 墓乃伊",
-        "m3u8_url": "https://vip.dytt-see.com/20260420/31511_96c33a05/index.m3u8",
+        "m3u8_url": "https://vip.dytt-see.com/20260518/38902_ab661b15/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ifAfTlxNblB1Hpye7PuOrv3NUWo.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
         "overview": "一位記者的年幼女兒在沙漠中神祕失蹤並音訊全無。八年後，當她突然出現在家人面前時，這個早已破碎的家庭震驚不已；原本應該是重逢的喜悅，卻逐漸演變成一場活生生的惡夢。",
@@ -22604,6 +22929,19 @@
         "release_date": "2026-04-10",
         "rating": 5.906,
         "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 43513,
+        "title": "弒婚遊戲：2度開局",
+        "m3u8_url": "https://vip.dytt-see.com/20260412/31499_34d9646a/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/6101Vi0RXKjzjzu92PiXQg8ZkkP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/waUDWpsm3oCrzU9P4XnsBAh2cso.jpg",
+        "overview": "在變態富豪拉多馬斯家族的殺人躲貓貓遊戲中倖存後，新娘葛蕾絲本以為一切都在遊戲結束後，殺戮就隨之終止，沒想到發現自己卻進入了這場噩夢遊戲的下一階段！而這次，她疏遠已久的妹妹費絲也被牽扯進來。葛蕾絲只有一次機會能存活、保護她的妹妹，並奪下掌控世界的議會「至高之座」。同時面對四個為了王座而追殺她的敵對家族，而最終勝出者將能掌控一切。",
+        "genre": "恐怖片",
+        "release_date": "2026-03-19",
+        "rating": 7.565,
+        "quality": "TC",
         "country": "美國"
     },
     {
@@ -22930,6 +23268,19 @@
         "rating": 7.3,
         "quality": "BD",
         "country": "挪威"
+    },
+    {
+        "id": 43981,
+        "title": "The Crucifix: Blood of the Exorcist",
+        "m3u8_url": "https://vip.dytt-cine.com/20251128/63064_27c15824/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/uLXxpWRfoIPfB2fwM8hsAMIjSWf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
+        "overview": "",
+        "genre": "恐怖片",
+        "release_date": "2025-01-09",
+        "rating": 6.036,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 25695,
@@ -24518,6 +24869,19 @@
         "country": "美國"
     },
     {
+        "id": 44205,
+        "title": "同事以上，戀人未滿",
+        "m3u8_url": "https://play.phimgood.com/20260606/27603_c657bb88/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/gtBS0bQNqTeOVN2UbqdwXxNFGKn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/erkh3hHfGh06qPQIuFpV0PoQeV8.jpg",
+        "overview": "這部火辣的浪漫喜劇片由珍妮佛洛佩茲和布雷特高斯坦主演，講述兩個工作狂展開一段辦公室祕戀，兩人在跟隨心意行動後隨即身陷混亂之中。",
+        "genre": "愛情片",
+        "release_date": "2026-06-04",
+        "rating": 6.564,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 43000,
         "title": "孔雀舞曲",
         "m3u8_url": "https://vip.dytt-tvs.com/20260221/12085_19aa6c6f/index.m3u8",
@@ -24555,6 +24919,19 @@
         "rating": 7.201,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 43990,
+        "title": "那張照片裡的我們",
+        "m3u8_url": "https://vip.dytt-kan.com/20260501/14178_d185c5ed/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/3QIRaf4yHONrvIwaLwWOOizEnst.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4OniDrQpsCFvZxE64J9HkygkqbX.jpg",
+        "overview": "1977年，台灣中壢市選舉陷入動盪，攝影師賢英在混亂中遇見韓國跆拳道教練金浩熙。金浩熙不懂中文，靠好友弘國翻譯，三人成為好友，經常外出拍攝。隨著感情加深，金浩熙鼓勵賢英參加香港攝影比賽，並邀她去合歡山拍雪景。然而，賢英因不曾見過雪且對兩人未來感到迷茫而猶豫。她最終決定冒險，但生日當天卻因迷路錯過與金浩熙的會面⋯⋯",
+        "genre": "愛情片",
+        "release_date": "2025-12-24",
+        "rating": 0,
+        "quality": "BD",
+        "country": "台灣"
     },
     {
         "id": 42415,
@@ -27146,14 +27523,14 @@
     {
         "id": 34478,
         "title": "雙瞳",
-        "m3u8_url": "https://vip.ffzy-play7.com/20230317/18563_a057f51f/index.m3u8",
+        "m3u8_url": "https://vip.dytt-network.com/20260425/25183_71bfbe45/index.m3u8",
         "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/zFL1LvqtSiNj9FNdmNtKZ3Ea7wh.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/c7bTGTFCAdWjZtBqsUjijuzzX4Z.jpg",
         "overview": "台灣發生三宗詭異命案，法醫在死者腦部發現一種神秘的黑黴菌。警員黃火土與美國聯邦探員凱文合作辦案，竟發現兇手是按照一種古老的道教圖示來殺人，藉由將惡人送入地獄，來達到長生不老的目的...",
         "genre": "懸疑片",
         "release_date": "2002-10-17",
         "rating": 6.6,
-        "quality": "HD",
+        "quality": "BD",
         "country": "台灣"
     },
     {
@@ -30264,6 +30641,19 @@
         "country": "美國"
     },
     {
+        "id": 44174,
+        "title": "愛你的梅根：歡度佳節",
+        "m3u8_url": "https://cdn.yzzy28-play.com/20260511/30091_37654b79/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/jHEgYm0zSlqAduZy86Bf9Qg7v7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/y0cXfdAAiYPP71oaZ4CGORvYDBn.jpg",
+        "overview": "",
+        "genre": "紀錄片",
+        "release_date": "2025-12-02",
+        "rating": 3.6,
+        "quality": "HD",
+        "country": "美國"
+    },
+    {
         "id": 27303,
         "title": "艾琳：連環殺手之後",
         "m3u8_url": "https://vip.ffzy-plays.com/20251031/47032_57cd21e7/index.m3u8",
@@ -30667,6 +31057,32 @@
         "country": "義大利"
     },
     {
+        "id": 43924,
+        "title": "阿爸請你嘛嘛吼",
+        "m3u8_url": "https://vip.dytt-kan.com/20260423/13858_751d8d46/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/hd7kpP9BMQ3IyHdKM6jFrOVw51W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dXGE3c3RUxj3SvHIUQP3NpUFxsx.jpg",
+        "overview": "一名對父親誤解深重的女兒（嚴正嵐飾），在父親性命垂危時決定「觀落陰」，試圖喚回父親靈魂，並意圖將千萬家產據為己有。",
+        "genre": "電視電影片",
+        "release_date": "2026-04-19",
+        "rating": 0,
+        "quality": "BD",
+        "country": "台灣"
+    },
+    {
+        "id": 44098,
+        "title": "我的陽過阿公",
+        "m3u8_url": "https://play.phimgood.com/20260509/26610_df320a98/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/8NQBpaSQB8jzpGwEViBMW3yJRdt.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/sJzgqldt0C5sM7ycQFBiNXZDsyg.jpg",
+        "overview": "集結柯一正、陳⽵昇、唐從聖、孔令元、葛丞、李宜儒等演員，飾演劇中的藍家人，因疫情被迫「三代同堂」，面對即將被法拍的祖厝，一家人從形同陌路到大膽計畫，潛入殯儀館只為證明阿公不是陽性過世，藉此賺取告別式禮金。",
+        "genre": "電視電影片",
+        "release_date": "2026-04-05",
+        "rating": 0,
+        "quality": "BD",
+        "country": "台灣"
+    },
+    {
         "id": 39199,
         "title": "可以不要再想念我了",
         "m3u8_url": "https://vip.ffzy-play6.com/20221206/10493_f46b2af6/index.m3u8",
@@ -30808,6 +31224,19 @@
         "rating": 0,
         "quality": "HD",
         "country": "台灣"
+    },
+    {
+        "id": 43923,
+        "title": "麥可傑克森",
+        "m3u8_url": "https://vip.dytt-see.com/20260427/32854_0acecb86/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/nFwEj2g9xpZl6aBiUJ34ILfwtai.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+        "overview": "這部電影講述麥可傑克森在音樂之外的人生旅程，從他以傑克森五人組主唱之姿被發掘出驚人天賦的那一刻起，直到他成為一位極具遠見的藝人，他以無窮無盡的創作能力激勵自己成為全世界最偉大的娛樂巨星。",
+        "genre": "音樂片",
+        "release_date": "2026-04-22",
+        "rating": 7.451,
+        "quality": "TC",
+        "country": "美國"
     },
     {
         "id": 26037,
@@ -30977,6 +31406,32 @@
         "rating": 0,
         "quality": "HD",
         "country": "台灣"
+    },
+    {
+        "id": 44216,
+        "title": "謎印女子",
+        "m3u8_url": "https://play.phimgood.com/20260606/27609_0dbcc22a/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ilajfwHgPdD8F0baN8XnEC94o2U.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/2fgcRuaseQ9RIiTAUDbLtymnj2z.jpg",
+        "overview": "一名女子在貨櫃中被救出，但卻完全不記得自己是誰。兩名警探全力追查，試圖釐清她的身分，還要找出到底是誰想致她於死。",
+        "genre": "驚悚片",
+        "release_date": "2026-06-05",
+        "rating": 4.717,
+        "quality": "BD",
+        "country": "西班牙"
+    },
+    {
+        "id": 43920,
+        "title": "巔峰獵殺",
+        "m3u8_url": "https://vip.dytt-kan.com/20260425/13954_7fb56a46/index.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/hjapd5p3WebQNdJFwg1sYA1JA95.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+        "overview": "悲傷的女子獨自前往澳洲荒野冒險，挑戰自我極限，卻被狡猾殺手當成獵物，身陷一場扭曲的追逐遊戲。",
+        "genre": "驚悚片",
+        "release_date": "2026-04-24",
+        "rating": 6.347,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 43836,
