@@ -793,6 +793,58 @@
         "country": "美國"
     },
     {
+        "id": 4186,
+        "title": "追惡",
+        "m3u8_url": "http://192.168.1.249:4000/ch43y09wf.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/gar7WVDgFo7EIlr0MZf4w7dckk1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/Yjxlvqb1QxyUGCOzm9SIkq53Wr.jpg",
+        "overview": "",
+        "genre": "犯罪片",
+        "release_date": "2026-04-10",
+        "rating": 0,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
+        "id": 4187,
+        "title": "狂鯊風暴",
+        "m3u8_url": "http://192.168.1.249:4000/ch43wrbps.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/nSo9ppiNfAOHFRlZPVQlx0W4fzD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/gGFh3upk94dtq0kYitcg0FZ24ef.jpg",
+        "overview": "在一場毀滅性的颶風中，一個沿海小鎮正奮力對抗大自然的憤怒以及鯊魚的襲擊。在傾盆大雨、飛散的殘骸和伸手不見五指的黑暗中，他們團結一心，勇敢面對致命的掠食者，努力在風暴中生存下來。",
+        "genre": "恐怖片",
+        "release_date": "2026-04-10",
+        "rating": 0,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4208,
+        "title": "併桌",
+        "m3u8_url": "http://192.168.1.249:4000/ch44302l7.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/9iJpbmb9WgVqrTSPQlpeGKllpDC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xn6XrlOWp76VQhhghyQMBDbd1pB.jpg",
+        "overview": "滯銷書編輯張嘉怡和失業程式設計師陸拾谷意外成為了「飯搭子」，隨著兩人生活變故的不斷發生，他們之間輕鬆單純的快餐式友誼也漸漸發生了變化。在成長的道路上，他們遵從自己的內心，勇敢的追求屬於自己的事業和愛。",
+        "genre": "劇情片",
+        "release_date": "2026-03-14",
+        "rating": 6,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
+        "id": 4239,
+        "title": "翠湖",
+        "m3u8_url": "http://192.168.1.249:4000/ch4587eai.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/mWSaqsjF7yyjGO5O2tlO0a1DdKw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/raaHAfgFU9g4d8W7YdwOv59ByC7.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "2026-01-24",
+        "rating": 7,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 41,
         "title": "三滴血",
         "m3u8_url": "http://192.168.1.249:4000/ch1wsq3h5.m3u8",
@@ -845,19 +897,6 @@
         "country": "美國"
     },
     {
-        "id": 51,
-        "title": "巨洪",
-        "m3u8_url": "http://192.168.1.249:4000/ch1v9sbv9.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/quJochJMJ4BExV9d9Y2hHoxsl6Z.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8vLt9TYFZdAwYtqImvggTM5yFnF.jpg",
-        "overview": "這一天也許就是地球末日，在洪水湧入的公寓裡，這人的生死掙扎眼看就是人類存亡的最後希望。",
-        "genre": "科幻片",
-        "release_date": "2025-09-18",
-        "rating": 0,
-        "quality": "BD",
-        "country": "韓國"
-    },
-    {
         "id": 52,
         "title": "731",
         "m3u8_url": "http://192.168.1.249:4000/ch1v8jdp2.m3u8",
@@ -895,6 +934,19 @@
         "rating": 6,
         "quality": "BD",
         "country": "中國"
+    },
+    {
+        "id": 4242,
+        "title": "情感的價值",
+        "m3u8_url": "http://192.168.1.249:4000/ch446qx3s.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ieRn5Qpin3YbB1yENuIrXplWruf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/vRoIogTQDO5yAmTmH5uGrlPfS0N.jpg",
+        "overview": "故事圍繞兩姐妹Nora和Agnes（由Renate Reinsve與Inga Ibsdotter Lilleaas飾演）、她們疏遠的父親Gustav（Stellan Skarsgård飾演）、已故的母親，以及整個家族的歷史。劇情以一座房子貫穿——一棟龐大、吱吱作響的紅色奧斯陸遺跡，地基已有龐大裂縫，內部隱藏著通道。他們世代相傳，長期居住於此。",
+        "genre": "劇情片",
+        "release_date": "2025-08-20",
+        "rating": 8,
+        "quality": "BD",
+        "country": "法國"
     },
     {
         "id": 76,
@@ -1079,19 +1131,6 @@
         "country": "中國"
     },
     {
-        "id": 1426,
-        "title": "密室逃生",
-        "m3u8_url": "http://192.168.1.249:4000/ch2phb4f2.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/qKmzpUg5kbN6izY4Crm9bQVJMJK.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/slJfbijZ6xi301cBMM3oumZpWZK.jpg",
-        "overview": "",
-        "genre": "驚悚片",
-        "release_date": "2024-12-26",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
         "id": 173,
         "title": "粗獷派建築師",
         "m3u8_url": "http://192.168.1.249:4000/ch1hflkwk.m3u8",
@@ -1168,19 +1207,6 @@
         "rating": 7,
         "quality": "BD",
         "country": "西班牙"
-    },
-    {
-        "id": 197,
-        "title": "浴火之路",
-        "m3u8_url": "http://192.168.1.249:4000/ch1cfsw0k.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/9hFTG1bkdhJjiDRA6pfiYUB0YNP.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hx02n1Xe6DQGvgKZaA5FbG4d31y.jpg",
-        "overview": "崔大路（肖央 飾）、李紅櫻（趙麗穎 飾）、趙子山（劉燁 飾），三位丟了孩子的父母因一樁交易而彼此牽連；他們眼裏沒魂兒，心中有恨，各懷目的，組局踏上尋子複仇之路，在蠻荒之地上演一場離奇又凶險的絕殺。",
-        "genre": "劇情片",
-        "release_date": "2024-10-01",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
     },
     {
         "id": 205,
@@ -1300,19 +1326,6 @@
         "country": "美國"
     },
     {
-        "id": 227,
-        "title": "逆行人生",
-        "m3u8_url": "http://192.168.1.249:4000/ch193xrf8.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/lEYQtKfNDyxr1ozwu2YYUTU8ZOD.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/fL1taHfNljQnbXTr6fbmrCnrCnt.jpg",
-        "overview": "曾經意氣風發的高志壘在生活的重壓下，中年「失速」偏離了原本的生活軌跡，一時意氣用事的決定，讓他瞬間從家人的「小驕傲」變成了社會的「邊角料」。然而，他未曾料到，這僅是他「逆行人生」道路上的起點。接連不斷的變故如疾風驟雨般襲來，迫使他不得不重新面對自我。當生活的重擔真正壓肩，他選擇成為一名外送員，從新的起點重新出發，穿梭於都市大街小巷的高志壘在路上結識了一眾志同道合的「騎士」夥伴，在共度的時光裡他深切的體會到了人間的冷暖真情，逐漸在這條充滿磨礪的「逆行道」中找回曾經丟失的勇氣與信念，重新定義人生新的方向。",
-        "genre": "劇情片",
-        "release_date": "2024-08-03",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
         "id": 163,
         "title": "倒倉",
         "m3u8_url": "http://192.168.1.249:4000/ch1iojr4g.m3u8",
@@ -1324,45 +1337,6 @@
         "rating": 0,
         "quality": "BD",
         "country": "中國"
-    },
-    {
-        "id": 239,
-        "title": "解密",
-        "m3u8_url": "http://192.168.1.249:4000/ch184z6kw.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/waR5Iq56Jjzarx8GrLHqNUKOLhZ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kZCwaQYYz35a57MIFrXRJIpnoUO.jpg",
-        "overview": "改編自茅盾文學獎獲獎者麥家的三部曲（《解密》《暗算》《風聲》）中的同名小說，講述了一個數學天才的傳奇的一生！\r 　　上世紀40年代，中美局勢風起雲湧，破譯敵方通訊密碼關系重大。容金珍（劉昊然 飾）自幼展現出驚人的數學天賦和「釋夢能力」，被時任大學校長的小黎黎（吳彥祖 飾）和太太葉筱凝（俞飛鴻 飾）撫養長大。大學入學之際，容金珍因解出數學系老師希伊斯（約翰·庫薩克 飾）的難題引人注目，701局局長鄭某（陳道明 飾）帶他走進了神秘組織開啓一段不為人知的故事……",
-        "genre": "劇情片",
-        "release_date": "2024-07-25",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
-        "id": 231,
-        "title": "抓娃娃",
-        "m3u8_url": "http://192.168.1.249:4000/ch18v747v.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/qR59udXuNIP6VeNeWxnK0Einale.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/9ir1UZYWBZBkgCoRUIV0ffk43Xe.jpg",
-        "overview": "困苦的爹，辛勞的媽，破爛的院子，破碎的他。西虹市做大做強的路上怎麼把老馬家落下了？！「湯裡沒油，口袋沒子」的馬成鋼（沈騰 飾）和春蘭（馬麗 飾），趕驢打工，家徒四壁，而兒子馬繼業（肖帛辰 飾）則是他們逆天改命的唯一希望。小馬很爭氣，年年好成績，一點不嬌氣，意志賊堅毅。但隨著小馬（史彭元 飾）一天天長大，他卻逐漸發現身邊的人們都越來越不對勁……",
-        "genre": "喜劇片",
-        "release_date": "2024-07-13",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
-        "id": 170,
-        "title": "破浪男女",
-        "m3u8_url": "http://192.168.1.249:4000/ch1hx2vbq.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/y1gHpYhX1GaUnLS7Lq0h4YHEJe7.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mVQp8GXAhIocs1Gu1S7wtbqIjWc.jpg",
-        "overview": "四個殘破不堪的靈魂遇上彼此，在親密接觸下嘗試給出自己的真心……。 會夢遺的女警小綠（劉主平飾）和閨密白Q（梁湘華飾）常分享約炮經驗，但這次遇到有才又會撩的『單親霸』（吳慷仁飾）讓小綠有點暈…。而白Q正進行一段說不出口的『付費約會』，對象是個穿膠衣蒙面的『外送屌Uberdick』（柯煒林飾）。四個藏在假面具下的人，每人都有各自最深的秘密。在痛快的無涯慾海裡，誰能順利上岸？",
-        "genre": "劇情片",
-        "release_date": "2024-06-28",
-        "rating": 0,
-        "quality": "BD",
-        "country": "台灣"
     },
     {
         "id": 220,
@@ -1478,19 +1452,6 @@
         "genre": "劇情片",
         "release_date": "2024-02-04",
         "rating": 6,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
-        "id": 295,
-        "title": "大雨",
-        "m3u8_url": "http://192.168.1.249:4000/ch10r0zrp.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qWRTIqDzxyOC6ndumxOngDMAHxl.jpg",
-        "overview": "",
-        "genre": "動畫片",
-        "release_date": "2024-01-12",
-        "rating": 0,
         "quality": "BD",
         "country": "中國"
     },
@@ -1729,19 +1690,6 @@
         "country": "中國"
     },
     {
-        "id": 402,
-        "title": "消失的她",
-        "m3u8_url": "http://192.168.1.249:4000/ch0qq6nti.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/v4nkWUusA5tBNDfavvXfnw0mOWS.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/T6MfrCWpEyDOpbNqILFT6MHxb3.jpg",
-        "overview": "《消失的她》是一部懸疑犯罪片，影片講述了何非（朱一龍飾）的妻子李木子（黃子琪飾）在結婚週年旅行中離奇消失，失蹤多天後，卻有一個陌生女人（文詠珊飾）突然闖入，並堅稱是何非妻子，從而牽扯出一個驚天大案的故事。《孤注一擲》的故事背景則與緬甸北部詐騙集團有關，該片講述了一個鬱鬱不得志的程序員，一個渴望嶄露頭角的模特，都因看似條件優渥的工作機會，決定出外闖蕩淘金，卻意外捲入了一場精心策劃的網絡騙局的故事",
-        "genre": "懸疑片",
-        "release_date": "2023-06-22",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
         "id": 478,
         "title": "我的過錯",
         "m3u8_url": "http://192.168.1.249:4000/ch0qmftax.m3u8",
@@ -1937,19 +1885,6 @@
         "country": "美國"
     },
     {
-        "id": 544,
-        "title": "人生大事",
-        "m3u8_url": "http://192.168.1.249:4000/ch0a6lvdf.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/bAuR2fjqtuI5uxpJiamUhP3KrzS.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/jDJ8iCLMBLhoznsXh9SEjpnQCdx.jpg",
-        "overview": "身負悲戚過往的禮儀師莫三妹在一場葬禮遇見一個孤女。這場意外相遇徹底改變了兩人的生活。",
-        "genre": "劇情片",
-        "release_date": "2022-06-24",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
         "id": 548,
         "title": "王者之路",
         "m3u8_url": "http://192.168.1.249:4000/ch1eoyl8z.m3u8",
@@ -2000,19 +1935,6 @@
         "rating": 7,
         "quality": "BD",
         "country": "中國"
-    },
-    {
-        "id": 543,
-        "title": "犯罪都市2",
-        "m3u8_url": "http://192.168.1.249:4000/ch0670phy.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/euH65NAl9VmN89O9UlpqXHsD31x.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eGyvNUw7Kess2QfgtqZjAHC7DqW.jpg",
-        "overview": "掃蕩加里峰洞任務後過了4年，衿川刑警隊前往越南引渡逃走的嫌犯。「怪物刑警」馬錫道（馬東石 飾）和全日萬組長（崔貴化 飾）發現在當地的嫌犯十分可疑，得知其背後有個凶惡殘暴的主使者姜海相（孫錫求 飾）。馬錫道和衿川刑警隊奔走於韓國和越南兩地，開始緝捕史上最壞的傢伙姜海相……",
-        "genre": "動作片",
-        "release_date": "2022-05-18",
-        "rating": 0,
-        "quality": "BD",
-        "country": "韓國"
     },
     {
         "id": 503,
@@ -2093,19 +2015,6 @@
         "country": "中國"
     },
     {
-        "id": 506,
-        "title": "狙擊手",
-        "m3u8_url": "http://192.168.1.249:4000/cgzojhjir.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/xXNFhL0dkDSf46dl22IN76AhwDw.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/zTRdaRpxjcib6lHYSfHg4FnsiCR.jpg",
-        "overview": "",
-        "genre": "劇情片",
-        "release_date": "2022-02-01",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
         "id": 798,
         "title": "慕尼黑交鋒",
         "m3u8_url": "http://192.168.1.249:4000/cgzilz7z2.m3u8",
@@ -2117,6 +2026,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "英國"
+    },
+    {
+        "id": 4246,
+        "title": "她房間裡的雲",
+        "m3u8_url": "http://192.168.1.249:4000/ch45fp3bo.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/lrORLi4BFj1EA6L8EFVcvEqJg7u.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/f0UgUygTEH21w4HidbSB3JTYp0v.jpg",
+        "overview": "女孩找不到家，但她其實想家。新銳導演鄭陸心源首部劇情長片，在線性的敘事上雜揉回憶及幻想，營造出時空的曖昧感；影像上的正負片、數位攝影甚至手機影片並用，捕捉後青春的即逝及躁動。",
+        "genre": "劇情片",
+        "release_date": "2021-12-22",
+        "rating": 6,
+        "quality": "BD",
+        "country": "中國"
     },
     {
         "id": 960,
@@ -2169,19 +2091,6 @@
         "rating": 7,
         "quality": "BD",
         "country": "美國"
-    },
-    {
-        "id": 771,
-        "title": "古董局中局",
-        "m3u8_url": "http://192.168.1.249:4000/ch42itct4.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/wBXz1FWDXqIZn9VbN2mvyrO9Ery.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/bYARwFLSAXwuLnRATeXfvLVFP9p.jpg",
-        "overview": "來自日本的木戶小姐即將向中國歸還一尊唐代武則天明堂佛頭，同時希望由中國文物界的權威組織「五脈」旗下白字門的許家後人出面接收。但五脈白字門早已沒落，許家後人也不知所蹤。情勢緊張，五脈掌門黃克武的孫女黃煙煙卻表示，自己有辦法找到許家後人的蹤跡。 而當初背負漢奸駡名，將佛頭送去日本的白字門家主許一城之孫——許願，有一身鑒古天賦的他，如今只是一個胸無大志的電器鋪小老闆，靠倒賣電器勉強維持生計。 許願幼年時因為一場火災失去了母親，而父親許和平在火災之後便對他保持著疏離的態度，不僅如此，他還要承受著外界對自己家族的駡名——時至今日，在黃煙煙的勸說下，他不情願的前往與五脈交涉，卻敏銳地察覺到佛頭是贗品的事實。常年以來渾渾噩噩的生活讓許願習慣性地選擇逃避——然而面對著黃煙煙的委託、父親許和平的離奇死亡、五脈天才藥不然的逼迫與神秘人老朝奉的追擊之下，許願已經身不由己。他必須要在各方勢力的糾纏之下，查明佛頭的真相……",
-        "genre": "冒險片",
-        "release_date": "2021-12-02",
-        "rating": 0,
-        "quality": "BD",
-        "country": "香港"
     },
     {
         "id": 885,
@@ -2299,19 +2208,6 @@
         "rating": 6,
         "quality": "BD",
         "country": "中國"
-    },
-    {
-        "id": 801,
-        "title": "沙丘",
-        "m3u8_url": "http://192.168.1.249:4000/ch3t5p252.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/qtSzr3bY8wP3lUDfTx2Qg5y5Qri.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/wYMbnrdRCREjNLwFlG5SLWzBjui.jpg",
-        "overview": "保羅亞崔迪是一個聰明又富有天賦的年輕人，肩負超越自己理解的偉大天命，且必須遠行至宇宙中最危險的行星，以確保他家人及族人未來的延續。敵對勢力為搶奪唯有此行星才出產的珍貴資源大打出手，而這也是人類最珍視的資源，一種能解鎖人類偉大潛能的物質，唯有能戰勝自己恐懼的人才能存活。",
-        "genre": "科幻片",
-        "release_date": "2021-09-15",
-        "rating": 0,
-        "quality": "BD",
-        "country": "美國"
     },
     {
         "id": 797,
@@ -2520,19 +2416,6 @@
         "rating": 7,
         "quality": "BD",
         "country": "香港"
-    },
-    {
-        "id": 772,
-        "title": "白蛇傳·情",
-        "m3u8_url": "http://192.168.1.249:4000/ch3swyexp.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/eEPePqbB1wRq76CJtBxPr4p329I.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/lqMcxZ0wmXqRZoxpxaSG0GmLFbb.jpg",
-        "overview": "",
-        "genre": "劇情片",
-        "release_date": "2021-05-20",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
     },
     {
         "id": 1720,
@@ -2754,19 +2637,6 @@
         "rating": 7,
         "quality": "BD",
         "country": "中國"
-    },
-    {
-        "id": 770,
-        "title": "哭悲",
-        "m3u8_url": "http://192.168.1.249:4000/cgzp8gizj.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/d8Ip6MmPxeMAtNJtusbPaGCEsvh.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1McO40rFBnUSz0EB2EwYQlUv9LV.jpg",
-        "overview": "新型病毒蔓延，全世界的人們對病毒逐漸麻木，沒人相信病毒的突變和濳藏危機即將到來。俊喆和他的女友凱婷討論疫情何時結束，但生活還是一如往常。某天早上，俊喆騎車送凱婷去上班分開後，兩人分別目睹不明暴徒的襲擊事件：包括早餐店老闆被阿婆撲倒狂咬、隔壁鄰居拿著武器大街狂奔、各地的暴動事件頻傳，恐慌、尖叫聲在全城蔓延。遭感染的異常人類遍布，被虐殺的血腥畫面滿街都是，大狂殺恐怖襲來，誰能活下來？俊喆要如何殺出活路，拯救不知去向的心愛女友？",
-        "genre": "恐怖片",
-        "release_date": "2021-01-22",
-        "rating": 0,
-        "quality": "BD",
-        "country": "台灣"
     },
     {
         "id": 1041,
@@ -3835,19 +3705,6 @@
         "country": "韓國"
     },
     {
-        "id": 1587,
-        "title": "蒙上你的眼",
-        "m3u8_url": "http://192.168.1.249:4000/ch3gj7j82.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/qBh4UkrS2kO04vVlAvff7CSVkhw.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
-        "overview": "《蒙上你的眼》講述在末世中當人類看到可怕異象，他們將自取滅亡紛紛自殺的驚悚災難，所以人們只能將自己關在暗無天日的房子中，外出時只能蒙上自己的眼睛，否則就會遭遇不測。因此當懷孕的珊卓布拉克與姊姊（莎拉帕森飾演）一踏出產檢醫院，姊姊因為親眼看見可怖怪物而造成了翻車意外，逃出生天的珊卓與一群人躲進一棟房子裡面，包括疑神疑鬼的約翰馬可維奇、看似溫厚待人的崔凡特羅德和賈姬威佛，這場災難將為他們帶來什麼樣的後果？",
-        "genre": "恐怖片",
-        "release_date": "2018-12-13",
-        "rating": 0,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 1679,
         "title": "光",
         "m3u8_url": "http://192.168.1.249:4000/ch39qhhcm.m3u8",
@@ -4171,19 +4028,6 @@
         "rating": 8,
         "quality": "BD",
         "country": "中國"
-    },
-    {
-        "id": 1645,
-        "title": "娼年",
-        "m3u8_url": "http://192.168.1.249:4000/ch2l2qkgt.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/b6pqmlZn14lzZS2wvwORfAcB2LM.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1p98ESRDKb3W1BS8GluxHvDDhRa.jpg",
-        "overview": "該片改編自同名小說，講述森中領是個平凡的20歲男大生，每天過著平凡無趣的生活。某天，他認識了經營會員制BOYS CLUB的老闆——御堂靜香，在她的誘惑下，森中領決定以「娼夫（男妓）」的身份在她的店裡工作。隨著和各式各樣的女性接觸，森中領溫柔地釋放了她們內心所蘊藏的慾望，療愈她們受傷的心，自己也漸漸有所成長。",
-        "genre": "劇情片",
-        "release_date": "2018-04-06",
-        "rating": 0,
-        "quality": "BD",
-        "country": "日本"
     },
     {
         "id": 1705,
@@ -4875,19 +4719,6 @@
         "country": "美國"
     },
     {
-        "id": 2104,
-        "title": "江南1970",
-        "m3u8_url": "http://192.168.1.249:4000/ch42bbnry.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/yRPuCjuxnOMLjtFRxV9XDqZRPzb.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4wYe5gZ6HsNRVEVWHaqLxJLMxOd.jpg",
-        "overview": "敘述20世紀70年代韓國漢城（今首爾）江南區房地產業急速發展的情況，令兩位情同兄弟的兩位男主角捲入政治權力和犯罪組織之間的爭鬥，其親情受到挑戰。",
-        "genre": "動作片",
-        "release_date": "2015-01-21",
-        "rating": 0,
-        "quality": "BD",
-        "country": "韓國"
-    },
-    {
         "id": 955,
         "title": "鈦",
         "m3u8_url": "http://192.168.1.249:4000/ch3w1buhf.m3u8",
@@ -4912,19 +4743,6 @@
         "rating": 7,
         "quality": "BD",
         "country": "韓國"
-    },
-    {
-        "id": 2152,
-        "title": "花宵道中",
-        "m3u8_url": "http://192.168.1.249:4000/ch0gfcqhr.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/s1QVQRK7hxfZ5p7HUNhroRMRpe6.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hxJuNK9gDwzqUUCaD4BDKdOruTF.jpg",
-        "overview": "無可逃避的命運浪濤之中，一生一次的戀愛絢爛綻放。  江戶末期，新吉原的山田樓裡有一群遊女，懷抱著無法成真的戀情，她們是最豔麗的花朵，香氣襲人，甜美芳醇，卻註定在開到荼靡之後自謝自落，無人聞問。「道中」是指第一次出道的青樓女子，從青樓走到恩客面前的這一小段路，穿上華麗的和服，猶如花魁一般的遊行，這是所有遊女們的夢想。  然而大妓樓被私奔的遊女放火給燒了，所以遊女朝霧（安達祐實 飾）沒能如願道中。朝霧是吉原當紅的頭牌，不相信愛情的她，偏偏愛上了和服師傅半次郎（淵上泰史 飾），在他身上她感受到有生以來初次的悸動，過往未曾體會的女人心境也逐漸甦醒。為了替朝霧道中，半次郎製作出絕世的和服，藍色的牡丹在月光下一朵朵地綻放…然而，吉原的遊女只要有了戀人，就是有罪…。吉原，是個牢籠，籠住的不只是現在，連未來也是。",
-        "genre": "劇情片",
-        "release_date": "2014-11-08",
-        "rating": 0,
-        "quality": "BD",
-        "country": "日本"
     },
     {
         "id": 2224,
@@ -5239,19 +5057,6 @@
         "country": "中國"
     },
     {
-        "id": 2346,
-        "title": "一路向西",
-        "m3u8_url": "http://192.168.1.249:4000/ch0ux9iql.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/mVuVohXeJvQdVzLBueALVcxUOac.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xu7d0EZo6nqKUb41CC96YdTg2Jw.jpg",
-        "overview": "Frankie (向西) 小在家教嚴厲的家庭中長大，生活都十分刻板乏味，向西青春期的「性啟蒙老師」就是王靜----向西中學時期的唯一朋友。向西在中學時期及在英國留學期間，在性方面處處撞壁，在英國留學期間，向西除了結交了好色學長James外，可以說一無得著。向西結識到一個不錯的女朋友Zeta，大家在各方面都十分投契，但在性方面存在著十分嚴重的問題。Zeta對性十分顧忌，而且諸多限制，令向西一直以來都無法得到滿足，而這亦間接導致了二人的分手。 向西其後接受王靜與James的邀請一同北上尋歡，初到歡場的向西對於這個世界一無所知，這裡的一事一物都充滿著新鮮與刺激，而當他遇見小思之後，他更是為之著迷。因為小思讓他體會到人生之中前所未有過的歡悅性愛，對向西來說，這絕對可以說是一次肉體上的「Perfect Sex」。向西終於知道為什麼男人會愛上尋歡，因為這是女朋友絕對滿足不到的。向西明白自己對小思之情是建基上情慾上，而對Zeta則是建基於心靈上，然而雖然他心理上愛著Zeta，但身理上卻渴望著小思。情與慾的掙扎、性與愛的矛盾，到底向西將會如何取捨呢？",
-        "genre": "喜劇片",
-        "release_date": "2012-09-20",
-        "rating": 0,
-        "quality": "BD",
-        "country": "香港"
-    },
-    {
         "id": 2329,
         "title": "雙面君王",
         "m3u8_url": "http://192.168.1.249:4000/ch2qk0jrz.m3u8",
@@ -5354,19 +5159,6 @@
         "rating": 6,
         "quality": "BD",
         "country": "中國"
-    },
-    {
-        "id": 2357,
-        "title": "天使的性",
-        "m3u8_url": "http://192.168.1.249:4000/ch2eyzi1p.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/fJ3RMm3mfv8TFNqJ7T3NQBQPX04.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/lBeROrAwwPUXEiALmg7mMapNAll.jpg",
-        "overview": "",
-        "genre": "愛情片",
-        "release_date": "2012-05-04",
-        "rating": 0,
-        "quality": "BD",
-        "country": "西班牙"
     },
     {
         "id": 2349,
@@ -5616,19 +5408,6 @@
         "country": "中國"
     },
     {
-        "id": 2481,
-        "title": "囡囡",
-        "m3u8_url": "http://192.168.1.249:4000/ch3jrbtat.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/lPZwNicaOUwKmpS5e2yzAruIMRE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dclMqd6mAXIVfIbfqruzoNr9c2w.jpg",
-        "overview": "Gucci是一位中學女生，她最愛名牌Gucci，為了滿足物慾，她上網兜售一夜情…；另一位年輕媽媽Icy，礙於經濟窘困，走險援交，豈料，不但被警察拍性愛影片，還被po上網…；至於富家女Ronnie假藉援交之名，到處玩男人；而Lin呢，是個花癡，援交竟是為了尋找真愛…",
-        "genre": "劇情片",
-        "release_date": "2010-09-02",
-        "rating": 0,
-        "quality": "BD",
-        "country": "香港"
-    },
-    {
         "id": 2456,
         "title": "奔騰人生",
         "m3u8_url": "http://192.168.1.249:4000/cgznzicr7.m3u8",
@@ -5850,19 +5629,6 @@
         "country": "香港"
     },
     {
-        "id": 2566,
-        "title": "霜花店：朕的男人",
-        "m3u8_url": "http://192.168.1.249:4000/ch2ifufbt.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/64KrycjvbepRwK1JWtNDSEAlN5o.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/9bvn5SWwAK6qB79UevNi0jqhfke.jpg",
-        "overview": "親衛隊長洪麟 和高麗王 從小一起長大，並誓死保護王，兩人時常同床共枕，感情比親兄弟還深厚，但這份感情，早已悄悄超出了友誼的界線。 洪麟總是接受王的任何要求，而且看得比性命還重要，只是沒想到這一次，王為了要一個能繼承皇位的子嗣，竟要求洪麟代替自己，與無法結合的王后 燕好。雖然天人交戰，但洪麟還是身不由己的與王后一夜纏綿，而暗中窺伺的高麗王妒火狂燒，那一夜起，命運從此扭轉，複雜難解的三角習題，眼看就要引爆，甚至波及國家...。 目睹最愛的人和自己的妻子共枕纏綿，讓王心中充滿了妒嫉與恐懼，因此不相信任何人，也不再相信愛情，選擇以陰冷殘酷的方式，趕盡殺絕所有可能揭露秘密的人。 於此同時，洪麟面對王后的溫柔愛意，以及王的極端狂暴，心中慾望與忠義之情不斷拉扯，曾經心中只有一個男人的洪麟，第一次感受到另一個女人所帶來的愛。在他和她之間，在私情與家國的衝折之下，洪麟究竟該如何抉擇？",
-        "genre": "劇情片",
-        "release_date": "2008-12-30",
-        "rating": 0,
-        "quality": "BD",
-        "country": "韓國"
-    },
-    {
         "id": 2572,
         "title": "班傑明的奇幻旅程",
         "m3u8_url": "http://192.168.1.249:4000/ch2zoe788.m3u8",
@@ -6045,19 +5811,6 @@
         "country": "香港"
     },
     {
-        "id": 2822,
-        "title": "羅曼史",
-        "m3u8_url": "http://192.168.1.249:4000/ch2sgora0.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/n68HvOkkY8BaqmugBxIglVi9S1d.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/o1XTBnEGK0e4Ja0tR8YoeRIygWK.jpg",
-        "overview": "胤嬉（金智秀 飾）嫁入豪門，有一個控制欲和獨占欲極強的丈夫，生活在富麗堂皇的別墅之中，胤嬉的內心卻像玻璃一樣冰冷。看不到逃離的希望，痛不欲生的胤嬉決定結束自己的生命，然而，就在此時，她遇見了名為亨俊（曹在顯 飾）的刑警。  　　亨俊有過一段不堪回首的婚姻，因此對於愛情和生命了無希望，直到他遇見了胤嬉，胤嬉絕望的樣子仿佛讓他看見了自己，從那一刻起，他就深深的愛上了這個傷痕累累的女人，無法自拔。胤嬉知道她和亨俊之間的感情不可能開花結果，兩人都選擇了迴避，然而，命運讓他們再度相遇，激情的火焰燃起一發不可收拾。當胤嬉的丈夫察覺到了妻子的不忠，憤怒的他向亨俊展開了瘋狂的報復。",
-        "genre": "劇情片",
-        "release_date": "2006-03-16",
-        "rating": 0,
-        "quality": "BD",
-        "country": "韓國"
-    },
-    {
         "id": 2679,
         "title": "與我同眠",
         "m3u8_url": "http://192.168.1.249:4000/ch21r9u6y.m3u8",
@@ -6199,19 +5952,6 @@
         "rating": 7,
         "quality": "BD",
         "country": "加拿大"
-    },
-    {
-        "id": 2717,
-        "title": "盲井",
-        "m3u8_url": "http://192.168.1.249:4000/ch22sqbdo.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/qteDTAkK77mnWIxHDlp7Dh29tFy.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/r1TwMdrbwqRanwaaiWQcmEfcESC.jpg",
-        "overview": "改篇自劉慶邦的寫實小說《神木》，《盲井》故事講兩個生活在礦區的人，靠將盲流民工騙到礦場賺錢，然後把他們害死在礦井之內。",
-        "genre": "劇情片",
-        "release_date": "2003-02-12",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
     },
     {
         "id": 2720,
@@ -6396,19 +6136,6 @@
         "country": "法國"
     },
     {
-        "id": 2921,
-        "title": "桃色交易",
-        "m3u8_url": "http://192.168.1.249:4000/cgzv9pp1t.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1njch912gE8fll6JjmZ6qQ7dnqD.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/yUt6DdewAuUqUv2QSOctfSLUttg.jpg",
-        "overview": "全光烈跟李美淑這對夫妻已經結婚十年，育有兩子兩女，全家人的生活雖然吵吵鬧鬧，但總算幸福，可是好景不長，全光烈突然被公司辭退，並因替朋友擔保負債上身，若不在30天內還清債務，房子將遭拍賣。李美淑為了籌錢，到處找朋友，終於找到學生時代愛慕她的老同學，多年來，他對他念念不忘，他是一名成功的企業家，她向他提出借錢的要求，但對方的條件是兩人共渡一夜。面對丈夫、家庭和金錢，她實在難以取捨...",
-        "genre": "劇情片",
-        "release_date": "2001-08-31",
-        "rating": 0,
-        "quality": "BD",
-        "country": "韓國"
-    },
-    {
         "id": 2781,
         "title": "A.I.人工智慧",
         "m3u8_url": "http://192.168.1.249:4000/ch0nzjo5x.m3u8",
@@ -6498,19 +6225,6 @@
         "rating": 8,
         "quality": "BD",
         "country": "義大利"
-    },
-    {
-        "id": 2138,
-        "title": "情事",
-        "m3u8_url": "http://192.168.1.249:4000/ch3kdswer.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/scWAXw7AvpvQ4uMpFgRTaBupD0V.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/wXe2VaKTZCRTse3D3DbETiZnDNB.jpg",
-        "overview": "",
-        "genre": "劇情片",
-        "release_date": "1998-10-03",
-        "rating": 0,
-        "quality": "BD",
-        "country": "韓國"
     },
     {
         "id": 2834,
@@ -6656,19 +6370,6 @@
         "country": "美國"
     },
     {
-        "id": 2869,
-        "title": "慈禧秘密生活",
-        "m3u8_url": "http://192.168.1.249:4000/ch2dra9zk.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/aBMD9XUaerpZxJDBnHEJ1Qev0tj.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/yshotagFpG4Eebnec8tF6EGHeLq.jpg",
-        "overview": "惠玉蘭（邱淑貞 飾）出身葉赫那拉氏名門，得蒙聖恩入宮選為秀女。奶媽為其求籤，卻被算命先生占卜出此女命中犯尅，將來對夫、對家、對國都是一大患。玉蘭在廟中尋貓時偶遇六王爺亦（梁家輝 飾），二人結下不解之緣，之後與奶媽被山賊搶劫亦得蒙六王爺相救。亦欲前去提親卻不料玉蘭已是自己兄長的女人，不得不長嘆作別。入宮當天，玉蘭由小安子安德海（陳國邦飾）陪同，卻不小心跌落轎出醜，巧遇咸豐皇帝（於榮光 飾），被其風采所迷，咸豐也對玉蘭另眼相看。也正在此時，玉蘭結下仇家麗貴人（翁虹 飾）、雲貴人（錢軍 飾）。皇后（周嘉玲 飾）心地善良，卻無子嗣，因而貴人們使盡渾身解數爭寵，只為爭得聖寵，產下阿哥，然而玉蘭不夠圓滑，處處受人排擠......",
-        "genre": "劇情片",
-        "release_date": "1995-03-17",
-        "rating": 0,
-        "quality": "BD",
-        "country": "香港"
-    },
-    {
         "id": 2883,
         "title": "愛在黎明破曉時",
         "m3u8_url": "http://192.168.1.249:4000/ch3opvk0m.m3u8",
@@ -6760,19 +6461,6 @@
         "country": "澳洲"
     },
     {
-        "id": 2921,
-        "title": "桃色交易",
-        "m3u8_url": "http://192.168.1.249:4000/cgzv9pp1t.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/a39WoiTJEG5kNLIrr3kOMwg3LFg.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8g8WtAAEGRramjw9G4ivYQV8OaR.jpg",
-        "overview": "大衛（Woody Harrelson 飾）和黛安娜（Demi Moore 飾）在高中時就是情侶，他們在婚後各自發展自己的事業，大衛是名建築師，黛安娜從事房地產的買賣。他們事業的成功使他們更加深愛對方，覺得沒有什麼事是不能克服的。當黛安娜發現了一塊理想位置的土地，可以讓大衛一展建築方面的才華時，他們懷著同樣的信心和對彼此的熱情來實現這個夢想。但是，他們遭遇了經濟不景氣的挑戰。 他們決定到拉斯維加斯去看看是否有辦法能夠增加僅有的五千元，到了拉斯維加斯，他們發覺所賭的不只是金錢而已，因為此時，富有的資本家約翰（Robert Redford 飾）願意給他們夫妻一百萬元，條件是黛安娜必須同意和他共渡一夜春宵。然而，只要答應約翰，他們的夢想就能夠馬上實現，在堅信無論發生什麼事他們都能擁有彼此的前題之下，他們做了一個決定……  本片探討80年代貪婪、金錢掛帥的美國。一對夫婦認為他們的愛情彌堅足以克服任何困難，甚至是為了一筆龐大的金錢而和一位億萬富翁共渡一夜春宵。然而，他們沒有想到的是阻擋在彼此之間極度的恐懼、自尊和不安全感。在全美復活節檔1672家戲院聯映下，創下二千五百萬美元驚人票房記錄。院線上映之時，曾引起熱烈的討論，為了錢，願不願意把一夜情賣了，當時大多數的婦女表示，假如對象是勞勃瑞福，不用一百萬，就算是一千美元，她們都願意。",
-        "genre": "愛情片",
-        "release_date": "1993-04-07",
-        "rating": 0,
-        "quality": "BD",
-        "country": "美國"
-    },
-    {
         "id": 2907,
         "title": "霸王別姬",
         "m3u8_url": "http://192.168.1.249:4000/ch2grwv15.m3u8",
@@ -6851,19 +6539,6 @@
         "country": "法國"
     },
     {
-        "id": 2138,
-        "title": "情事",
-        "m3u8_url": "http://192.168.1.249:4000/ch3kdswer.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tDYTgIPVrBWwCYWPYr1wKucuXn6.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xGhwfRxTsP9VhDSNsfHqBcRvWKY.jpg",
-        "overview": "法蘭西斯卡是個非常漂亮的女人，丈夫也很有錢生活過得很不錯，可是她的丈夫去意外身亡，弗蘭西斯卡在他丈夫死後才發現他的不忠，而且他的丈夫留下了大量的債務。她的律師朋友建議她賣掉所有的商品,如房子、珠寶、皮草、遊艇去還債。這樣她才能夠挨過一年。她去嘗試各種工作，但未來似乎還是沒有前景。最後她決定去搞樂透博彩，而這個博彩的獎品就是她自己…",
-        "genre": "劇情片",
-        "release_date": "1991-11-15",
-        "rating": 0,
-        "quality": "BD",
-        "country": "義大利"
-    },
-    {
         "id": 2965,
         "title": "雙面薇若妮卡",
         "m3u8_url": "http://192.168.1.249:4000/cgzla4b9t.m3u8",
@@ -6903,19 +6578,6 @@
         "country": "美國"
     },
     {
-        "id": 2976,
-        "title": "菊豆",
-        "m3u8_url": "http://192.168.1.249:4000/ch08170nl.m3u8",
-        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/zyUtX1OnEk3Gb2HQH8v8GbViZLj.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/i4ZYM5HkzRgEAuGi4NR4fQdGqHb.jpg",
-        "overview": "楊天青（李保田飾）的叔叔楊金山（李緯飾），是個有生理缺陷的染坊主，在折磨死兩房太太後，為續香火，他又花大價錢買了個年輕漂亮的女人菊豆（鞏俐飾），對其百般虐待。年近四十而尚未娶親的天青，對因叔叔每夜濫施淫威而痛苦哀叫的菊豆由憐生愛，兩人私通，生得一子。金山喜出望外，以為己出，取名天白。但不久金山中風，半身不遂，菊豆與天青更加肆無忌憚，得知真相的金山想要報復，後卻誤墜染池喪命。按家族的規矩，天青要搬出染房，被迫分離的菊豆與天青只能暗地來往。10多年後，天白長大，外人的閒言瑣語使他分外仇恨生父……",
-        "genre": "劇情片",
-        "release_date": "1990-04-21",
-        "rating": 0,
-        "quality": "BD",
-        "country": "中國"
-    },
-    {
         "id": 2987,
         "title": "春風化雨",
         "m3u8_url": "http://192.168.1.249:4000/ch0a93rpt.m3u8",
@@ -6953,6 +6615,19 @@
         "rating": 8,
         "quality": "BD",
         "country": "義大利"
+    },
+    {
+        "id": 4266,
+        "title": "金甲部隊",
+        "m3u8_url": "http://192.168.1.249:4000/ch44mz9cr.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/2Y6hZHEtsmbBRRoS0PNTx9LQ2GV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+        "overview": "史丹利庫柏力克的《金甲部隊》被視為影史上最重要的越戰電影之一，影片檢視了戰爭的虛幻與無情，冷眼旁觀戰爭的可笑，卻又充滿反戰的意味。\r 改編自越戰作家古斯塔哈斯福特的短篇小說〈The Short-Timers〉，在冷調而寂涼的鏡頭下，電影前半描述軍營如何以剝奪人性的管教，訓練出只知服從命令的殺人機器，後半則描述真實戰場中的血腥殘殺。全片冷冽、安靜地從旁側寫軍人被訓練成殺人機器的過程，再延伸至戰場上的無情殺戮。看似沒有任何主觀批判，卻盡在不言中，隱藏在完美的技巧下，依然可見大師深刻的人性觀。力道十足的程度，甚至讓這部戰爭經典在2002年成為美國電影協會影史百大「驚悚片」之一，更是戰爭電影的典範。",
+        "genre": "劇情片",
+        "release_date": "1987-06-26",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 3007,
@@ -7161,6 +6836,58 @@
         "rating": 8,
         "quality": "BD",
         "country": "義大利"
+    },
+    {
+        "id": 4219,
+        "title": "臥底神探",
+        "m3u8_url": "http://192.168.1.249:4000/ch48bbvo1.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/yJjVE6MBMfqy7PE6i9iBqdl4eP2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/7syufk5kARdMi5BUuHbDbC1oQzF.jpg",
+        "overview": "",
+        "genre": "動作片",
+        "release_date": "2026-06-06",
+        "rating": 8,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
+        "id": 4212,
+        "title": "金劫任務",
+        "m3u8_url": "http://192.168.1.249:4000/ch49bjeok.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/rpWtiPEzeKWjMslwIf4f9ZOfNNL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+        "overview": "一支神祕的精英特務小隊在全球各地祕密行動，不僅擅長操作各方勢力，也擅長操作自動武器和高性能炸藥。當一位冷酷無情的暴君竊取了十億美元的巨額財富時，這支小隊奉命去偷回這筆錢。然而，隨著任務進行，局面卻變得越來越棘手，這場劫案逐漸演變成充滿策略、欺騙和求生的全面戰爭……",
+        "genre": "動作片",
+        "release_date": "2026-05-13",
+        "rating": 7,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
+        "id": 4228,
+        "title": "制裁者：最後一擊",
+        "m3u8_url": "http://192.168.1.249:4000/ch45zoa38.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/mK1SLjLhS3kR94PjjervjDOMYxR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+        "overview": "法蘭克卡索想在復仇之外，追求更有意義的目標，但他卻意外地被拉回戰場。",
+        "genre": "動作片",
+        "release_date": "2026-05-12",
+        "rating": 9,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4215,
+        "title": "真人快打II",
+        "m3u8_url": "http://192.168.1.249:4000/ch48qb9qt.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/n4gmLgQKu1ykcwKAsaG5N4P5FoQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+        "overview": "",
+        "genre": "動作片",
+        "release_date": "2026-05-06",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 4,
@@ -9165,6 +8892,19 @@
         "country": "美國"
     },
     {
+        "id": 4248,
+        "title": "玩命再劫",
+        "m3u8_url": "http://192.168.1.249:4000/ch46awtnf.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/4tWq4r8z4PT9OSIzh30aS5u768e.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/oVD3ClJBoomSQHtnJPAlMfes8YD.jpg",
+        "overview": "講述一名犯罪集團的年輕車手（安索艾格特 飾）憑藉過人的天賦搭配獨一無二的飆車歌單，擅長在城市裡狂飆及甩開警察，躍身成業內的傳奇人物。有天他遇見了生命中的真命天女（莉莉詹姆斯 飾），為愛竟萌生要退出犯罪的生活、享受幸福生活的念頭，然而在犯罪集團首領（凱文史貝西 飾）的威脅下，他該如何面對生活、自由與愛情的抉擇呢？",
+        "genre": "動作片",
+        "release_date": "2017-06-28",
+        "rating": 7,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
         "id": 1869,
         "title": "神偷奶爸3",
         "m3u8_url": "http://192.168.1.249:4000/ch3bs5hjv.m3u8",
@@ -10244,6 +9984,19 @@
         "country": "美國"
     },
     {
+        "id": 4265,
+        "title": "梅爾吉勃遜之英雄本色",
+        "m3u8_url": "http://192.168.1.249:4000/ch45i6zo2.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tlqKnMWWdnKVDX55PYwVlfUEMfN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+        "overview": "本片是根據十三世紀末的真實歷史事蹟改編而成。威廉華勒士遠離家園多年後在重返蘇格蘭時‧蘇格蘭王艾德華一世駕崩，艾德華一世雖有一子，但卻不成材，艾德華在駕崩前曾囑咐公主伊莎貝拉找一位賢能之士繼任。此時，英格蘭卻趁蘇格蘭王位懸虛的時機，擬以強大的兵力奪取蘇格蘭的政權。  威廉華勒士本是因為青梅竹馬的愛人而歸國，他眼見摯愛的人即將受到生死的威脅，於是毅然組織訓練蘇格蘭群龍無首、怯懦無綱紀的武士們。在華勒士英明的領導下，這群武士們團結合作，終於一舉打敗大批英軍。這場驚天竻地的戰役，在歷史上留下了永垂不朽的一頁。\r ★78屆奧斯卡最佳影片、導演、攝影、化妝、音效剪輯",
+        "genre": "動作片",
+        "release_date": "1995-05-24",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2882,
         "title": "西遊記第壹佰零壹回之月光寶盒",
         "m3u8_url": "http://192.168.1.249:4000/ch22xq42g.m3u8",
@@ -10450,6 +10203,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "台灣"
+    },
+    {
+        "id": 4273,
+        "title": "切腹",
+        "m3u8_url": "http://192.168.1.249:4000/ch46r55we.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/3uRTEObwdN7Q3u5xswL2Vf8EsOn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/e3hG3uadtcP0pYdRa5ch4ysQW76.jpg",
+        "overview": "影片根據瀧口康彥的小說《異聞浪人記》改編，圍繞展現武士道精神的終極形式——切腹展開了一個別開生面的故事。影片根據瀧口康彥的小說《異聞浪人記》改編，圍繞展現武士道精神的終極形式——切腹展開了一個別開生面的故事。導演通過這個故事，對武士道精神做了一番討論，批判了所謂武士的體面這種虛假可憎的東西，謳歌了貧困武士堅守尊嚴的精神，同時對他們的不幸生活遭遇表示出深切的同情，揭露出封建社會的黑暗和不公。這是一部構思巧妙、製作精良、發人深省的傑作。本片在戛納電影界上獲得了讚譽，在日本國內贏得了每日電影評選的最佳影片獎，出演半四郎的仲代達矢憑藉此片獲得了數座最佳男主演獎獎盃。",
+        "genre": "動作片",
+        "release_date": "1962-09-15",
+        "rating": 8,
+        "quality": "BD",
+        "country": "日本"
     },
     {
         "id": 1,
@@ -11726,6 +11492,32 @@
         "country": "日本"
     },
     {
+        "id": 4261,
+        "title": "玩具總動員2",
+        "m3u8_url": "http://192.168.1.249:4000/ch47nludw.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/w1L545AGRtyQYi9kTcxmUqEHGba.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+        "overview": "安迪離家參加夏令營，胡迪警長卻在此刻被玩具收藏家艾爾偷走，才發現他原來是玩具收藏家眼裡的珍寶。眼看胡迪就要被送去東京的玩具博物館。巴斯光年率領彈簧狗、蛋頭先生等夥伴們展開緊急救援。在處處危機的都市叢林裡，玩具們如何化險為夷，即時救出胡迪呢？",
+        "genre": "動畫片",
+        "release_date": "1999-10-30",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4263,
+        "title": "藍色恐懼",
+        "m3u8_url": "http://192.168.1.249:4000/ch48st637.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/6A2jXiDptJExIxX6fNTg0K1GMzx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1YRtgjLb5xxUb2rsNRnr54Oc0B2.jpg",
+        "overview": "霧越未麻是女子偶像團體「CHAM」中的成員之一，但在公司的決策下，單飛告別舞台挑戰演員之路，但她卻感覺內心有聲音抗拒這個決定，視為她為背叛者的粉絲，則如影隨形恐嚇著她。而隨著星運多舛的全新開始，未麻卻覺得發現自己的腦袋漸趨混亂，彷彿有「另一個自己」正在悄然形成。與此同時，身邊眾人竟一個個死於非命。在面對社會壓力和懸案疑雲之際，一場風暴即將發生…",
+        "genre": "動畫片",
+        "release_date": "1998-02-28",
+        "rating": 8,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 2873,
         "title": "心之谷",
         "m3u8_url": "http://192.168.1.249:4000/ch23mp3is.m3u8",
@@ -11787,6 +11579,19 @@
         "genre": "喜劇片",
         "release_date": "2026-01-01",
         "rating": 8,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
+        "id": 4209,
+        "title": "馬騰你別走",
+        "m3u8_url": "http://192.168.1.249:4000/ch44490re.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/4JMf7bSHXxK4b3g5KW4BBLZMlOa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/Ac7bojwrMvDf0AOsG0CZri6LruR.jpg",
+        "overview": "",
+        "genre": "喜劇片",
+        "release_date": "2026-01-01",
+        "rating": 0,
         "quality": "BD",
         "country": "中國"
     },
@@ -13247,6 +13052,19 @@
         "country": "香港"
     },
     {
+        "id": 4255,
+        "title": "黑影家族",
+        "m3u8_url": "http://192.168.1.249:4000/ch48rk7x0.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/krwfLnyqr37l3vA9m1BkvJKXN4F.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cJYerfZVf2rNwfGMK3MQ8lTbMnY.jpg",
+        "overview": "西元1752年，柯林斯夫婦從英國遠渡重洋來到新大陸生活，並且拼出一番事業，他們的兒子波拿巴(強尼戴普飾)因此成為一個年輕英俊又有權勢的莊園主人。但波拿巴是個花花公子，他傷透許多癡情少女的心。而且最糟糕的是，他也傷了女巫安潔莉卡(伊娃葛林飾)的心。心狠手辣的安潔莉卡於是由愛生恨，在波拿巴身上施下恐怖詛咒，將他變成吸血鬼，並深埋地底，要他永不見天日。  波拿巴就這麼在地底掙扎了兩百年，好不容易才逃出棺木回到家園，未料1972年早已不是他熟悉的時代，原本富麗堂皇的莊園幾乎變成廢墟，裡面住的家族後代更是全都陰陽怪氣。高齡兩百歲的吸血鬼波拿巴決心改變他的徒子徒孫，振興家族事業。但不死的美艷女巫安潔莉卡再度現身，她仍對他懷恨在心，這下波拿巴又自身難保...",
+        "genre": "喜劇片",
+        "release_date": "2012-05-09",
+        "rating": 6,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2323,
         "title": "派對X計劃",
         "m3u8_url": "http://192.168.1.249:4000/ch25bvlzn.m3u8",
@@ -14400,6 +14218,19 @@
         "genre": "愛情片",
         "release_date": "1991-10-22",
         "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4229,
+        "title": "弒婚遊戲：2度開局",
+        "m3u8_url": "http://192.168.1.249:4000/ch45apamw.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/6101Vi0RXKjzjzu92PiXQg8ZkkP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/waUDWpsm3oCrzU9P4XnsBAh2cso.jpg",
+        "overview": "在變態富豪拉多馬斯家族的殺人躲貓貓遊戲中倖存後，新娘葛蕾絲本以為一切都在遊戲結束後，殺戮就隨之終止，沒想到發現自己卻進入了這場噩夢遊戲的下一階段！而這次，她疏遠已久的妹妹費絲也被牽扯進來。葛蕾絲只有一次機會能存活、保護她的妹妹，並奪下掌控世界的議會「至高之座」。同時面對四個為了王座而追殺她的敵對家族，而最終勝出者將能掌控一切。",
+        "genre": "恐怖片",
+        "release_date": "2026-03-19",
+        "rating": 8,
         "quality": "BD",
         "country": "美國"
     },
@@ -15782,6 +15613,19 @@
         "country": "美國"
     },
     {
+        "id": 4241,
+        "title": "像我這樣的愛情",
+        "m3u8_url": "http://192.168.1.249:4000/ch44lqb6k.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/fLiU0gSq24B8IqXw2fXEo6T3BT8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hZA81b0mSIZWQPIqYwvPHg11rTT.jpg",
+        "overview": "我們這樣，是愛嗎？阿妹天生患有腦性麻痹，性格卻異常跳脫樂觀，閑時會約朋友踩板吹水，畫畫作樂，二十多年來一直努力不被身體耽誤。可是過度保護的母親堅決安排她進行子宮切除手術，阿妹努力建立的生活再次失去平衡，她的身體永遠是不由自主的。在朋友推薦下，阿妹找到了一個專為殘疾人士提供性服務的自發組織，並認識了義工Ken。這無私的相遇仿佛撫慰了兩個受傷的靈魂，那日漸累積的情愫衝淡了道德與身體的羈絆，這樣的關系，是愛嗎？\r 　　譚惠貞繼《以青春的名義》（第14屆開幕電影）後第二部長片作品，將愛情元素和身障者性權益議題融合，成就一個道德探索與自我尋找的故事。",
+        "genre": "愛情片",
+        "release_date": "2025-11-27",
+        "rating": 8,
+        "quality": "BD",
+        "country": "香港"
+    },
+    {
         "id": 85,
         "title": "維修情緣",
         "m3u8_url": "http://192.168.1.249:4000/ch1qq7z88.m3u8",
@@ -16196,6 +16040,19 @@
         "rating": 6,
         "quality": "BD",
         "country": "中國"
+    },
+    {
+        "id": 4250,
+        "title": "溺水小刀",
+        "m3u8_url": "http://192.168.1.249:4000/ch46jngus.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/5BS8N9n5DuvxpHE0HrxBSLTIT6d.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/gZcEEHWMrkldqQbE2aPsp1xDUSe.jpg",
+        "overview": "小松菜奈、菅田將暉，夢幻卡司X極致唯美畫面，引爆社群網站熱烈討論，優美神秘的愛情故事媲美《戀空》＋《神隱少女》！暢銷160萬本的同名傳奇少女漫畫強登大銀幕，流竄不止的青春況味、神祇與命定的狂愛冒險。",
+        "genre": "愛情片",
+        "release_date": "2016-11-05",
+        "rating": 6,
+        "quality": "BD",
+        "country": "日本"
     },
     {
         "id": 2021,
@@ -16627,6 +16484,19 @@
         "country": "日本"
     },
     {
+        "id": 4192,
+        "title": "來了",
+        "m3u8_url": "http://192.168.1.249:4000/ch2liywpc.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/pLS5dULFROLMXUWHbeaegpmgrVq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/deffM8sy1fjLioe7pgpLq620RG9.jpg",
+        "overview": "秀樹身旁有著恐怖的東西棲息著，集結日本各地靈力強大的神職人員，決心一同對付這未知的力量後，在日本最強靈媒師琴子的一聲「……來了」為此恐怖之戰揭開序幕。",
+        "genre": "懸疑片",
+        "release_date": "2018-12-07",
+        "rating": 6,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 1688,
         "title": "累",
         "m3u8_url": "http://192.168.1.249:4000/ch2opu8lw.m3u8",
@@ -16703,6 +16573,19 @@
         "rating": 6,
         "quality": "BD",
         "country": "日本"
+    },
+    {
+        "id": 4251,
+        "title": "瘋謎-來看我吧",
+        "m3u8_url": "http://192.168.1.249:4000/ch45qxmvv.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/iK1wuoT5PyM1F8SRZAsCMztcQxh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/lCiYJCw88OFsbX8Zv20FyD0cVAj.jpg",
+        "overview": "不知道原因的被關進精神病院的姜秀雅（強藝元 飾），遭到了強制監禁和暴力對待，精神病院火災後她成為了最後倖存者及目擊證人，還莫名的成為殺人事件嫌疑犯。 一年後，一本神祕出現在電視台的日記手札，留下了大量的疑點，曾經因為做假新聞而落魄的羅南秀PD(李相侖 飾)，為了復職－追踨24小時，發現了這個神祕火災事件而進行調查，他來到姜秀雅的面前進行採訪，一步步揭開事件的前因後果和背後隱藏的真相…",
+        "genre": "懸疑片",
+        "release_date": "2016-04-07",
+        "rating": 7,
+        "quality": "BD",
+        "country": "韓國"
     },
     {
         "id": 2062,
@@ -16857,6 +16740,32 @@
         "genre": "懸疑片",
         "release_date": "2004-09-17",
         "rating": 6,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4259,
+        "title": "秘窗",
+        "m3u8_url": "http://192.168.1.249:4000/ch490av4t.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dBSYDUZpps3LWru7ofUZAYoFgUj.jpg",
+        "overview": "一位碰到了寫作上瓶頸的名作家，也正與妻子辦理離婚手續，愛情和事業兩失意的他，決定搬到一個湖畔旁的小木屋，專注的完成他的最新懸疑小說，卻碰到一位瘋狂書迷指控他抄襲自己的作品，並用各種詭異的方式跟蹤並騷擾他，後來他才慢慢的發現，原來這位瘋狂書迷其實對他的思想和作為瞭若指掌，根本就像他書中的反派角色一樣，他要如何脫離這次的險境？",
+        "genre": "懸疑片",
+        "release_date": "2004-03-12",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4267,
+        "title": "藍絲絨",
+        "m3u8_url": "http://192.168.1.249:4000/ch47xlfrw.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tzXuURjPzCqtA6eL0Cswq9wzFx0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/12UiL2rS5M80AhS9uiZ633iy4pB.jpg",
+        "overview": "大學生傑佛瑞返鄉探視病倒的父親，某日竟在郊外撿到一隻被割下的人耳。在好奇心驅使下，他與警長女兒聯手調查此案，意外結識了身陷麻煩的美豔歌女桃樂絲，以及殘忍操控她的黑幫男友法蘭克，自此墜入一場深淵般的夢魘。",
+        "genre": "懸疑片",
+        "release_date": "1986-09-19",
+        "rating": 8,
         "quality": "BD",
         "country": "美國"
     },
@@ -18044,6 +17953,19 @@
         "country": "韓國"
     },
     {
+        "id": 4196,
+        "title": "竊盜城",
+        "m3u8_url": "http://192.168.1.249:4000/ch43u9fde.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1WKtl5GPtJDaQKwSuKcN2XsaXlg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+        "overview": "美國東部，位於波士頓近郊的查理斯城，儼然一個被法制遺忘的失樂園。城中愛爾蘭裔的工薪階層佔有很大比例，區域貧困的生活條件和令人無法喘息的壓力讓人們鋌而走險，銀行搶劫案時有發生，一切都變得癲狂無望。某個早晨，美麗的銀行經理人克萊爾·吉塞 遭遇一夥頭戴骷髏面具的劫匪，而她更被劫持為人質。奇怪的是，克雷爾最終意外生還，似乎這個早晨的變故從未發生過一樣。一天，她邂逅了高大英俊的男子道格·麥克雷 ，奇妙的緣分就此展開，兩人的命運也由此改變……",
+        "genre": "犯罪片",
+        "release_date": "2010-09-15",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2484,
         "title": "驚爆萬惡城",
         "m3u8_url": "http://192.168.1.249:4000/ch2amwufu.m3u8",
@@ -18135,6 +18057,19 @@
         "country": "香港"
     },
     {
+        "id": 4262,
+        "title": "花火",
+        "m3u8_url": "http://192.168.1.249:4000/ch491jtb0.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/kODRulaJ71pSQF5TcfuCIFUKTn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mdQ6oH7GLM9VerAb8JhsEAyJnHs.jpg",
+        "overview": "西佳敬（北野武）是一名刑警，由於對一次失誤造成兩名同事一死一殘感到內疚而辭了職。他的幼女幾年前死於車禍，如今妻子（岸本加世子）又患白血病住院。因為生活所迫，他向黑社會借了高利貸。為了還債，搶劫了銀行。搶來的錢中一部分還了債，一部分給了同事的遺孀，一部份給了癱瘓的工作搭擋崛部。還剩下一點，西佳敬打算用它帶上妻子去做一次最後的旅行。",
+        "genre": "犯罪片",
+        "release_date": "1997-10-30",
+        "rating": 8,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 2843,
         "title": "鐵面特警隊",
         "m3u8_url": "http://192.168.1.249:4000/ch2yo6o7p.m3u8",
@@ -18182,6 +18117,19 @@
         "overview": "勞勃狄尼洛飾演一名幫黑道老大經營賭場的風雲人物，是人人敬畏的「王牌」。為了加強賭場的安全，幕後老大便聘請他的死黨尼克來協助，而他們也在這風花雪月的場所，各自展開他們另一片天空。直到女騙子金格的出現，於危險、權力、誘惑於一身的拉斯維加斯、掀起了一場前所未有的大風暴……",
         "genre": "犯罪片",
         "release_date": "1995-11-22",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4245,
+        "title": "火線追緝令",
+        "m3u8_url": "http://192.168.1.249:4000/ch48xsysf.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/vHKgwXWJnI3CnxdGwYWSS9BcNMh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/iwgl8zlrrfvfWp9k9Paj8lvFEvS.jpg",
+        "overview": "在一連串謀殺案發生後，警方剖析其中關鍵處發現，遺留在被害者身旁的字跡正是古書中所提到的「七誡」，分別是荒宴、貪婪、懶惰、慾望、驕傲、嫉妒以及憤怒。  要如何循線破案成為追查此案的兩位警探最傷腦筋的痛苦，其中一位是即將退休、對生活早已冷感的警探梭賽（摩根佛里曼飾）；另一位警界的新成員米爾（布萊德彼特飾），他有著一腔熱情，勤於追查。兩人一冷一熱的組合形成強烈對比，但這件懸疑奇案又迫使他們一起並肩合作。",
+        "genre": "犯罪片",
+        "release_date": "1995-09-22",
         "rating": 8,
         "quality": "BD",
         "country": "美國"
@@ -19053,6 +19001,19 @@
         "overview": "經典級的科幻片，導演雷利史考特（Ridley Scott）改變了一般人對未來世界的刻板印象。...... 2019年，在外太空殖民所增加人口，製造了為數不少的複製人，而這些複製人發生暴動，使得地球政府不得不提前讓他們「退休」。瑞克（Harrison Ford 飾）乃負責執行「銷毀」任務的「銀翼殺手」。而他卻在追殺的過程中，愛上了一位女複製人（《變男變女變變變》《華爾街》Sean Young 飾）……",
         "genre": "科幻片",
         "release_date": "1982-06-25",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4272,
+        "title": "發條橘子",
+        "m3u8_url": "http://192.168.1.249:4000/ch48lbh21.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/gCq3xBFcxD3lwhWJDroyYbsEofM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+        "overview": "禁片之王，影史上最重要的電影之一！  《2001太空漫遊》、《鬼店》傳奇名導史丹利庫伯力克超爭議名作。榮獲第33屆威尼斯影展最佳外語片，第37屆紐約影評人協會最佳電影、最佳導演獎，榮獲第44屆奧斯卡最佳影片、導演、改編劇本提名。  電影改編自安東尼伯吉斯所著小說，講述英國未來社會一名惡霸青年亞力克，帶領幾名混混四處作惡，在一次行搶中被同黨拋下，因而被當局逮捕，作惡多端的他被判社會制裁，剝奪自由意志。經過一連串的洗腦與改造，亞力克再也不同，只要興起一點作惡的念頭，他就會噁心嘔吐，成了一個溫馴的兔寶寶，以前一同作惡的同夥現在反而成為警察，遭到他暴力對待的人也前來報復，但他怎麼也還不了手。  作惡多端四人組的青年首腦，有兩大極端嗜好，一是姦淫擄掠，二是聽貝多芬。某日他與狐群狗黨四處作惡，闖入某作家宅邸，把作家打到殘廢，並強姦其妻後揚長而去。後來，他又因另一樁殺人案遭到逮捕，為減輕刑責自願參與一項「人格改造」實驗，成功變身為無力作惡的模範青年...。",
+        "genre": "科幻片",
+        "release_date": "1971-10-28",
         "rating": 8,
         "quality": "BD",
         "country": "美國"
