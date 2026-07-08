@@ -16,14 +16,14 @@ const ktvDB = [
     {
         "id": 4626,
         "artist": "周杰倫",
-        "title": "《青花瓷》  with",
+        "title": "《青花瓷》",
         "vid": "UZP5z3X5n-8",
         "surname": "周"
     },
     {
         "id": 4627,
         "artist": "周杰倫",
-        "title": "《軌跡》  with",
+        "title": "《軌跡》",
         "vid": "ItdHkncKxKI",
         "surname": "周"
     },
@@ -198,7 +198,7 @@ const ktvDB = [
     {
         "id": 4652,
         "artist": "周杰倫",
-        "title": "彩虹 cai hong -with",
+        "title": "彩虹 cai hong -",
         "vid": "ce5DySQ7T90",
         "surname": "周"
     },
@@ -317,35 +317,35 @@ const ktvDB = [
     {
         "id": 4669,
         "artist": "張學友",
-        "title": "張學友-咖啡-mv",
+        "title": "張學友-咖啡",
         "vid": "pRH3_NfSKyU",
         "surname": "張"
     },
     {
         "id": 4670,
         "artist": "張學友",
-        "title": "張學友-心碎了無痕-mv",
+        "title": "張學友-心碎了無痕",
         "vid": "VadmRnjYLvo",
         "surname": "張"
     },
     {
         "id": 4671,
         "artist": "張學友",
-        "title": "張學友-情書-mv",
+        "title": "張學友-情書",
         "vid": "mBz_M157HI0",
         "surname": "張"
     },
     {
         "id": 4672,
         "artist": "張學友",
-        "title": "張學友-秋意濃-mv",
+        "title": "張學友-秋意濃",
         "vid": "2Lfr6VSgVG8",
         "surname": "張"
     },
     {
         "id": 4673,
         "artist": "張學友",
-        "title": "張學友-藍雨-mv",
+        "title": "張學友-藍雨",
         "vid": "gKCSE9NHuzg",
         "surname": "張"
     },
@@ -373,21 +373,21 @@ const ktvDB = [
     {
         "id": 4677,
         "artist": "張學友",
-        "title": "張學友-回頭太難-mv",
+        "title": "張學友-回頭太難",
         "vid": "obpdtmDwV-A",
         "surname": "張"
     },
     {
         "id": 4678,
         "artist": "張學友",
-        "title": "張學友-心如刀割-mv",
+        "title": "張學友-心如刀割",
         "vid": "X7m1_padge0",
         "surname": "張"
     },
     {
         "id": 4679,
         "artist": "張學友",
-        "title": "[full  自製] 張學友-慢慢-mv",
+        "title": "[full  自製] 張學友-慢慢",
         "vid": "j4KWMjtJxW8",
         "surname": "張"
     },
@@ -401,7 +401,7 @@ const ktvDB = [
     {
         "id": 4681,
         "artist": "張學友",
-        "title": "張學友-情已逝-mv",
+        "title": "張學友-情已逝",
         "vid": "NOZzN2oXgzM",
         "surname": "張"
     },
@@ -415,49 +415,49 @@ const ktvDB = [
     {
         "id": 4683,
         "artist": "張學友",
-        "title": "舊情綿綿張學友〈卡拉〉",
+        "title": "舊情綿綿張學友",
         "vid": "gl5bRExup7M",
         "surname": "張"
     },
     {
         "id": 4684,
         "artist": "張學友",
-        "title": "分手總要在雨天張學友〈卡拉〉",
+        "title": "分手總要在雨天張學友",
         "vid": "D01ecebGcNo",
         "surname": "張"
     },
     {
         "id": 4685,
         "artist": "張學友",
-        "title": "等你等到我心痛張學友〈卡拉〉",
+        "title": "等你等到我心痛張學友",
         "vid": "DGOiug52Cj4",
         "surname": "張"
     },
     {
         "id": 4686,
         "artist": "張學友",
-        "title": "祝福張學友〈卡拉〉",
+        "title": "祝福張學友",
         "vid": "s3nFRR5nk8A",
         "surname": "張"
     },
     {
         "id": 4687,
         "artist": "張學友",
-        "title": "愛是永恆張學友〈卡拉〉",
+        "title": "愛是永恆張學友",
         "vid": "6O_6BrvXx8M",
         "surname": "張"
     },
     {
         "id": 4688,
         "artist": "張學友",
-        "title": "吻別張學友〈卡拉〉",
+        "title": "吻別張學友",
         "vid": "zc_b60uKKIo",
         "surname": "張"
     },
     {
         "id": 4689,
         "artist": "張學友",
-        "title": "藍雨張學友〈卡拉〉",
+        "title": "藍雨張學友",
         "vid": "1ZoBW-q0w6M",
         "surname": "張"
     },
@@ -471,14 +471,14 @@ const ktvDB = [
     {
         "id": 4691,
         "artist": "張學友",
-        "title": "每天愛你多一些張學友〈卡拉〉",
+        "title": "每天愛你多一些張學友",
         "vid": "dZB8pEclS6c",
         "surname": "張"
     },
     {
         "id": 4692,
         "artist": "張學友",
-        "title": "離開以後張學友〈卡拉〉",
+        "title": "離開以後張學友",
         "vid": "DHMn_sSjrAE",
         "surname": "張"
     },
@@ -492,28 +492,28 @@ const ktvDB = [
     {
         "id": 4694,
         "artist": "張學友",
-        "title": "暗戀你張學友〈卡拉〉",
+        "title": "暗戀你張學友",
         "vid": "32NkyCFF1HI",
         "surname": "張"
     },
     {
         "id": 4695,
         "artist": "張學友",
-        "title": "明日世界終結時張學友〈卡拉〉",
+        "title": "明日世界終結時張學友",
         "vid": "NDl4DRbuTT4",
         "surname": "張"
     },
     {
         "id": 4696,
         "artist": "張學友",
-        "title": "餓狼傳說張學友〈卡拉〉",
+        "title": "餓狼傳說張學友",
         "vid": "2rHvlL9Q--s",
         "surname": "張"
     },
     {
         "id": 4697,
         "artist": "張學友",
-        "title": "真情流露張學友〈卡拉〉",
+        "title": "真情流露張學友",
         "vid": "bfx_6Q_lb2I",
         "surname": "張"
     },
@@ -541,35 +541,35 @@ const ktvDB = [
     {
         "id": 4701,
         "artist": "林俊傑",
-        "title": "林俊傑 jj lin 《可惜沒如果》  with",
+        "title": "林俊傑 jj lin 《可惜沒如果》",
         "vid": "HgH9VY0zRbQ",
         "surname": "林"
     },
     {
         "id": 4702,
         "artist": "林俊傑",
-        "title": "林俊傑 jj lin 《背對背擁抱》  with",
+        "title": "林俊傑 jj lin 《背對背擁抱》",
         "vid": "qYkM0EOkAiY",
         "surname": "林"
     },
     {
         "id": 4703,
         "artist": "林俊傑",
-        "title": "林俊傑 jj lin 《輸了你贏了世界又如何》  with",
+        "title": "林俊傑 jj lin 《輸了你贏了世界又如何》",
         "vid": "zRNU0pTJC3A",
         "surname": "林"
     },
     {
         "id": 4704,
         "artist": "林俊傑",
-        "title": "林俊傑 jj lin 《愛要怎麼說出口》  with",
+        "title": "林俊傑 jj lin 《愛要怎麼說出口》",
         "vid": "b3I53YcLSBA",
         "surname": "林"
     },
     {
         "id": 4705,
         "artist": "林俊傑",
-        "title": "林俊傑 《瞬間的瞬間》  with",
+        "title": "林俊傑 《瞬間的瞬間》",
         "vid": "MSShuagywbk",
         "surname": "林"
     },
@@ -660,7 +660,7 @@ const ktvDB = [
     {
         "id": 4718,
         "artist": "林俊傑",
-        "title": "林俊傑 jj lin 《她說》 onlywith",
+        "title": "林俊傑 jj lin 《她說》 only",
         "vid": "2GcKgXLxvSs",
         "surname": "林"
     },
@@ -674,7 +674,7 @@ const ktvDB = [
     {
         "id": 4720,
         "artist": "林俊傑",
-        "title": "林俊傑 jj lin 《小酒窩》 onlywith",
+        "title": "林俊傑 jj lin 《小酒窩》 only",
         "vid": "H7ETuGjOSjo",
         "surname": "林"
     },
@@ -1108,7 +1108,7 @@ const ktvDB = [
     {
         "id": 4782,
         "artist": "周華健",
-        "title": "好聽到無法用語言形容！周華健 蔣一僑合唱《孤枕難眠》勾起多少人的青春回憶！ #我們的歌第一季 singing with legends s1 clip",
+        "title": "好聽到無法用語言形容！周華健 蔣一僑合唱《孤枕難眠》勾起多少人的青春回憶！ #我們的歌第一季 singing  legends s1 clip",
         "vid": "cQ1ccDF56cw",
         "surname": "周"
     },
@@ -1332,14 +1332,14 @@ const ktvDB = [
     {
         "id": 4814,
         "artist": "周華健",
-        "title": "999朵玫瑰邰正宵〈卡拉〉",
+        "title": "999朵玫瑰邰正宵",
         "vid": "NkNLJJJrr8A",
         "surname": "周"
     },
     {
         "id": 4815,
         "artist": "周華健",
-        "title": "月亮惹的禍張宇〈卡拉〉",
+        "title": "月亮惹的禍張宇",
         "vid": "mNKW_JjGnNQ",
         "surname": "周"
     },
@@ -1556,7 +1556,7 @@ const ktvDB = [
     {
         "id": 4846,
         "artist": "李宗盛",
-        "title": "當愛已成往事張國榮〈卡拉〉",
+        "title": "當愛已成往事張國榮",
         "vid": "9-2_vVhrScY",
         "surname": "李"
     },
@@ -2053,7 +2053,7 @@ const ktvDB = [
     {
         "id": 4917,
         "artist": "羅大佑",
-        "title": "皇后大道東羅大佑〈卡拉〉",
+        "title": "皇后大道東羅大佑",
         "vid": "8HAde1d1EdM",
         "surname": "羅"
     },
@@ -2067,7 +2067,7 @@ const ktvDB = [
     {
         "id": 4919,
         "artist": "李聖傑",
-        "title": "李聖傑 《痴心絕對》  with",
+        "title": "李聖傑 《痴心絕對》",
         "vid": "xkMIub6d4mY",
         "surname": "李"
     },
@@ -2312,7 +2312,7 @@ const ktvDB = [
     {
         "id": 4954,
         "artist": "趙傳",
-        "title": "趙傳 我是一隻小小鳥  with",
+        "title": "趙傳 我是一隻小小鳥",
         "vid": "qFVYTBptwsI",
         "surname": "趙"
     },
@@ -2452,7 +2452,7 @@ const ktvDB = [
     {
         "id": 4974,
         "artist": "伍佰",
-        "title": "伍佰 《再度重相逢》  with",
+        "title": "伍佰 《再度重相逢》",
         "vid": "cUJhlejTklg",
         "surname": "伍"
     },
@@ -2697,21 +2697,21 @@ const ktvDB = [
     {
         "id": 5009,
         "artist": "周興哲",
-        "title": "周興哲 《不喜歡沒有你的地方》  with",
+        "title": "周興哲 《不喜歡沒有你的地方》",
         "vid": "5IHG2cNeoNc",
         "surname": "周"
     },
     {
         "id": 5010,
         "artist": "周興哲",
-        "title": "周興哲 《我們沒開始》  with",
+        "title": "周興哲 《我們沒開始》",
         "vid": "y7oVg5ZJD0c",
         "surname": "周"
     },
     {
         "id": 5011,
         "artist": "周興哲",
-        "title": "周興哲 《如果能幸福》  with",
+        "title": "周興哲 《如果能幸福》",
         "vid": "0wjAltYVgaY",
         "surname": "周"
     },
@@ -3026,7 +3026,7 @@ const ktvDB = [
     {
         "id": 5056,
         "artist": "蕭煌奇",
-        "title": "[自製] 承桓-我會等-mv",
+        "title": "[自製] 承桓-我會等",
         "vid": "PtCkWs0q_SY",
         "surname": "蕭"
     },
@@ -3047,7 +3047,7 @@ const ktvDB = [
     {
         "id": 5059,
         "artist": "蕭煌奇",
-        "title": "張學友-我等到花兒也謝了-mv",
+        "title": "張學友-我等到花兒也謝了",
         "vid": "1N9LN6LLCJY",
         "surname": "蕭"
     },
@@ -3068,21 +3068,21 @@ const ktvDB = [
     {
         "id": 5062,
         "artist": "蕭煌奇",
-        "title": "鄭中基-無賴-mv",
+        "title": "鄭中基-無賴",
         "vid": "TCIGvSjuD0k",
         "surname": "蕭"
     },
     {
         "id": 5063,
         "artist": "蕭煌奇",
-        "title": "鄭中基-別愛我-mv",
+        "title": "鄭中基-別愛我",
         "vid": "n6Ilq2-1abI",
         "surname": "蕭"
     },
     {
         "id": 5064,
         "artist": "蕭煌奇",
-        "title": "鄭中基-戒情人-mv",
+        "title": "鄭中基-戒情人",
         "vid": "ZyU-KluzQzs",
         "surname": "蕭"
     },
@@ -3103,14 +3103,14 @@ const ktvDB = [
     {
         "id": 5067,
         "artist": "蕭煌奇",
-        "title": "劉德華-難免有錯-mv",
+        "title": "劉德華-難免有錯",
         "vid": "Mf-2RYbQi6Q",
         "surname": "蕭"
     },
     {
         "id": 5068,
         "artist": "蕭煌奇",
-        "title": "劉德華-纏綿-mv",
+        "title": "劉德華-纏綿",
         "vid": "xzHTORJW8XA",
         "surname": "蕭"
     },
@@ -3341,14 +3341,14 @@ const ktvDB = [
     {
         "id": 5101,
         "artist": "G.E.M.鄧紫棋",
-        "title": "鄧紫棋 《唯一》  with",
+        "title": "鄧紫棋 《唯一》",
         "vid": "YV60Q0MW09I",
         "surname": "G"
     },
     {
         "id": 5102,
         "artist": "G.E.M.鄧紫棋",
-        "title": "鄧紫棋 《畫》  with",
+        "title": "鄧紫棋 《畫》",
         "vid": "X9geJ4xmfKU",
         "surname": "G"
     },
@@ -3887,7 +3887,7 @@ const ktvDB = [
     {
         "id": 5179,
         "artist": "莫文蔚",
-        "title": "莫文蔚 《這世界那麼多人》  with",
+        "title": "莫文蔚 《這世界那麼多人》",
         "vid": "LleYe2ll0_I",
         "surname": "莫"
     },
@@ -4146,14 +4146,14 @@ const ktvDB = [
     {
         "id": 5216,
         "artist": "蔡依林",
-        "title": "蔡依林 《日不落》  with",
+        "title": "蔡依林 《日不落》",
         "vid": "fBU1XTq9l_M",
         "surname": "蔡"
     },
     {
         "id": 5217,
         "artist": "蔡依林",
-        "title": "蔡依林 《馬德里不思議》  with",
+        "title": "蔡依林 《馬德里不思議》",
         "vid": "olAwF6patO8",
         "surname": "蔡"
     },
@@ -4307,7 +4307,7 @@ const ktvDB = [
     {
         "id": 5239,
         "artist": "蔡依林",
-        "title": "蔡依林 《檸檬草的味道》 with",
+        "title": "蔡依林 《檸檬草的味道》",
         "vid": "v0POe0yZxpw",
         "surname": "蔡"
     },
@@ -4398,7 +4398,7 @@ const ktvDB = [
     {
         "id": 5252,
         "artist": "那英",
-        "title": "戴佩妮 《你要的愛》  with",
+        "title": "戴佩妮 《你要的愛》",
         "vid": "v4Ts-TgTEk8",
         "surname": "那"
     },
@@ -4650,28 +4650,28 @@ const ktvDB = [
     {
         "id": 5288,
         "artist": "梁靜茹",
-        "title": "梁靜茹 《情歌》  with",
+        "title": "梁靜茹 《情歌》",
         "vid": "iW97h4-ZHEo",
         "surname": "梁"
     },
     {
         "id": 5289,
         "artist": "梁靜茹",
-        "title": "梁靜茹 《愛你不是兩三天》  with",
+        "title": "梁靜茹 《愛你不是兩三天》",
         "vid": "xIECNtmgyQ4",
         "surname": "梁"
     },
     {
         "id": 5290,
         "artist": "梁靜茹",
-        "title": "梁靜茹 《無條件為你》  with",
+        "title": "梁靜茹 《無條件為你》",
         "vid": "GfA4ykopJzI",
         "surname": "梁"
     },
     {
         "id": 5291,
         "artist": "梁靜茹",
-        "title": "梁靜茹 《知足》  with",
+        "title": "梁靜茹 《知足》",
         "vid": "BtGfqTuC_4k",
         "surname": "梁"
     },
@@ -4909,14 +4909,14 @@ const ktvDB = [
     {
         "id": 5325,
         "artist": "張惠妹",
-        "title": "amei 張惠妹 《連名帶姓》  with",
+        "title": "amei 張惠妹 《連名帶姓》",
         "vid": "hrohMUIU0YI",
         "surname": "張"
     },
     {
         "id": 5326,
         "artist": "張惠妹",
-        "title": "amei 張惠妹 《我可以抱你嗎》  with",
+        "title": "amei 張惠妹 《我可以抱你嗎》",
         "vid": "VFfkdxln_s8",
         "surname": "張"
     },
@@ -5077,7 +5077,7 @@ const ktvDB = [
     {
         "id": 5349,
         "artist": "張惠妹",
-        "title": "張惠妹 《夏天的浪花》 with",
+        "title": "張惠妹 《夏天的浪花》",
         "vid": "X_-DXiC8mC8",
         "surname": "張"
     },
@@ -5385,7 +5385,7 @@ const ktvDB = [
     {
         "id": 5393,
         "artist": "A-Lin",
-        "title": "a lin 《愛》  with",
+        "title": "a lin 《愛》",
         "vid": "bUJ1JZBDKLw",
         "surname": "A"
     },
@@ -5826,7 +5826,7 @@ const ktvDB = [
     {
         "id": 5456,
         "artist": "辛曉琪",
-        "title": "濤聲依舊林必媜〈卡拉〉",
+        "title": "濤聲依舊林必媜",
         "vid": "zrf9i1EF63U",
         "surname": "辛"
     },
@@ -5924,7 +5924,7 @@ const ktvDB = [
     {
         "id": 5470,
         "artist": "蘇慧倫",
-        "title": "【我們的歌6】 超難高音驚呆全場！張清芳戴佩妮演繹全新編曲《大雨的夜裡》細膩聲線洗滌心靈！ #我們的歌第六季 singing with legends s6 clip",
+        "title": "【我們的歌6】 超難高音驚呆全場！張清芳戴佩妮演繹全新編曲《大雨的夜裡》細膩聲線洗滌心靈！ #我們的歌第六季 singing  legends s6 clip",
         "vid": "0e37og7cs3Y",
         "surname": "蘇"
     },
@@ -5938,7 +5938,7 @@ const ktvDB = [
     {
         "id": 5472,
         "artist": "蘇慧倫",
-        "title": "全場聽哭！蘇慧倫淚流不止唱《再見》與劉逸雲難捨難分！#我們的歌第五季 singing with legends s5 clip",
+        "title": "全場聽哭！蘇慧倫淚流不止唱《再見》與劉逸雲難捨難分！#我們的歌第五季 singing  legends s5 clip",
         "vid": "-hoiITeMWm8",
         "surname": "蘇"
     },
@@ -5952,7 +5952,7 @@ const ktvDB = [
     {
         "id": 5474,
         "artist": "蘇慧倫",
-        "title": "蘇慧倫任賢齊劉逸雲把《lemon tree》唱甜了！輕快旋律將無法說出口的少女心事娓娓道出！#我們的歌第五季 singing with legends s5 clip",
+        "title": "蘇慧倫任賢齊劉逸雲把《lemon tree》唱甜了！輕快旋律將無法說出口的少女心事娓娓道出！#我們的歌第五季 singing  legends s5 clip",
         "vid": "T4C7A0YHuR4",
         "surname": "蘇"
     },
@@ -6351,7 +6351,7 @@ const ktvDB = [
     {
         "id": 5531,
         "artist": "五月天",
-        "title": "五月天 《任性》  with",
+        "title": "五月天 《任性》",
         "vid": "X_RbUH6qJv4",
         "surname": "五"
     },
@@ -6967,14 +6967,14 @@ const ktvDB = [
     {
         "id": 5619,
         "artist": "動力火車",
-        "title": "海闊天空beyond〈卡拉〉",
+        "title": "海闊天空beyond",
         "vid": "FRrL8X3v_w0",
         "surname": "動"
     },
     {
         "id": 5620,
         "artist": "動力火車",
-        "title": "酒醉的探戈2001動力火車〈卡拉〉",
+        "title": "酒醉的探戈2001動力火車",
         "vid": "DzlprlQde8s",
         "surname": "動"
     },
@@ -7079,7 +7079,7 @@ const ktvDB = [
     {
         "id": 5635,
         "artist": "IU",
-        "title": "好聽到爆！任賢齊告五人合唱《對摺》犬青的聲線跟小齊哥太搭了！#我們的歌第五季 singing with legends s5 clip",
+        "title": "好聽到爆！任賢齊告五人合唱《對摺》犬青的聲線跟小齊哥太搭了！#我們的歌第五季 singing  legends s5 clip",
         "vid": "udrl-sRp_GE",
         "surname": "I"
     },
@@ -7205,7 +7205,7 @@ const ktvDB = [
     {
         "id": 5653,
         "artist": "BLACKPINK",
-        "title": "blackpink - playing with fire (불장난)  + easy",
+        "title": "blackpink - playing  fire (불장난)  + easy",
         "vid": "2E3RzqUcg5s",
         "surname": "B"
     },
@@ -7240,7 +7240,7 @@ const ktvDB = [
     {
         "id": 5658,
         "artist": "BLACKPINK",
-        "title": "blackpink (블랙핑크) - playing with fire",
+        "title": "blackpink (블랙핑크) - playing  fire",
         "vid": "kpzZykaH_5o",
         "surname": "B"
     },
@@ -7807,7 +7807,7 @@ const ktvDB = [
     {
         "id": 5739,
         "artist": "BTS(防彈少年團)",
-        "title": "孤單又燦爛的神 chanyeol  찬열 exo x punch 펀치 stay with me 鬼怪 도깨비 ost 中文繁體 韓文 320k♪  aina",
+        "title": "孤單又燦爛的神 chanyeol  찬열 exo x punch 펀치 stay  me 鬼怪 도깨비 ost 中文繁體 韓文 320k♪  aina",
         "vid": "zBT-rJkkZp0",
         "surname": "B"
     },
@@ -7828,7 +7828,7 @@ const ktvDB = [
     {
         "id": 5742,
         "artist": "BTS(防彈少年團)",
-        "title": "[eng] blackpink - playing with fire",
+        "title": "[eng] blackpink - playing  fire",
         "vid": "eF-xXyEckLI",
         "surname": "B"
     },
@@ -7856,7 +7856,7 @@ const ktvDB = [
     {
         "id": 5746,
         "artist": "BTS(防彈少年團)",
-        "title": "chanyeol x punch - stay with me ( ver.)",
+        "title": "chanyeol x punch - stay  me ( ver.)",
         "vid": "-5Duf_Xqwqc",
         "surname": "B"
     },
@@ -8150,14 +8150,14 @@ const ktvDB = [
     {
         "id": 5788,
         "artist": "aespa (에스파)",
-        "title": "aespa (에스파) - drama  with easy",
+        "title": "aespa (에스파) - dramaeasy",
         "vid": "IiMm3PmC-pE",
         "surname": "a"
     },
     {
         "id": 5789,
         "artist": "aespa (에스파)",
-        "title": "aespa (에스파) - armageddon  with easy",
+        "title": "aespa (에스파) - armageddoneasy",
         "vid": "EQrLB8PrQWw",
         "surname": "a"
     },
@@ -8213,14 +8213,14 @@ const ktvDB = [
     {
         "id": 5797,
         "artist": "aespa (에스파)",
-        "title": "aespa whiplash  with easy",
+        "title": "aespa whiplasheasy",
         "vid": "2fTndYiZ_pE",
         "surname": "a"
     },
     {
         "id": 5798,
         "artist": "aespa (에스파)",
-        "title": "aespa dirty work  with easy",
+        "title": "aespa dirty workeasy",
         "vid": "8sx5gT9zsGY",
         "surname": "a"
     },
@@ -8444,7 +8444,7 @@ const ktvDB = [
     {
         "id": 5830,
         "artist": "NewJeans (뉴진스)",
-        "title": "newjeans supernatural  with easy",
+        "title": "newjeans supernaturaleasy",
         "vid": "BSajhr1MTZ8",
         "surname": "N"
     },
@@ -8500,14 +8500,14 @@ const ktvDB = [
     {
         "id": 5838,
         "artist": "(G)I-DLE ((여자)아이들)",
-        "title": "(g)i-dle - klaxon  |  with easy",
+        "title": "(g)i-dle - klaxon  |easy",
         "vid": "LeM_GKRMZ0g",
         "surname": "("
     },
     {
         "id": 5839,
         "artist": "(G)I-DLE ((여자)아이들)",
-        "title": "i-dle - good thing  |  with easy",
+        "title": "i-dle - good thing  |easy",
         "vid": "bZPI1fBR0X0",
         "surname": "("
     },
@@ -8626,7 +8626,7 @@ const ktvDB = [
     {
         "id": 5856,
         "artist": "Taylor Swift",
-        "title": "back to december - taylor swift 【with guide melody】",
+        "title": "back to december - taylor swift 【 guide melody】",
         "vid": "MoYzy60Jye0",
         "surname": "T"
     },
@@ -8654,28 +8654,28 @@ const ktvDB = [
     {
         "id": 5860,
         "artist": "Taylor Swift",
-        "title": "style - taylor swift 【with guide melody】",
+        "title": "style - taylor swift 【 guide melody】",
         "vid": "2boMK6t5B50",
         "surname": "T"
     },
     {
         "id": 5861,
         "artist": "Taylor Swift",
-        "title": "shake it off - taylor swift  【with guide melody】",
+        "title": "shake it off - taylor swift  【 guide melody】",
         "vid": "KJQ8Gv1HXnw",
         "surname": "T"
     },
     {
         "id": 5862,
         "artist": "Taylor Swift",
-        "title": "you belong with me - taylor swift",
+        "title": "you belong  me - taylor swift",
         "vid": "I3_FaKKyKPg",
         "surname": "T"
     },
     {
         "id": 5863,
         "artist": "Taylor Swift",
-        "title": "we are never ever getting back together - taylor swift 【with guide melody】",
+        "title": "we are never ever getting back together - taylor swift 【 guide melody】",
         "vid": "gynbWqP8GRw",
         "surname": "T"
     },
@@ -8738,7 +8738,7 @@ const ktvDB = [
     {
         "id": 5872,
         "artist": "Taylor Swift",
-        "title": "enchanted by taylor swift (minus one with backup vocals by joshie)",
+        "title": "enchanted by taylor swift (minus one  backup vocals by joshie)",
         "vid": "BG0zYZs0P3U",
         "surname": "T"
     },
@@ -8857,7 +8857,7 @@ const ktvDB = [
     {
         "id": 5889,
         "artist": "Sabrina Carpenter",
-        "title": "alone - alan walker  【with guide melody】",
+        "title": "alone - alan walker  【 guide melody】",
         "vid": "N6PvLcTGBeI",
         "surname": "S"
     },
@@ -8885,7 +8885,7 @@ const ktvDB = [
     {
         "id": 5893,
         "artist": "Sabrina Carpenter",
-        "title": "white christmas - jazzy christmas carol piano cover with transcribed sheet",
+        "title": "white christmas - jazzy christmas carol piano cover  transcribed sheet",
         "vid": "JYGJWTYoZ60",
         "surname": "S"
     },
@@ -9781,21 +9781,21 @@ const ktvDB = [
     {
         "id": 6021,
         "artist": "劉德華",
-        "title": "暗裡著迷劉德華〈卡拉〉",
+        "title": "暗裡著迷劉德華",
         "vid": "cEEXQT8LU40",
         "surname": "劉"
     },
     {
         "id": 6022,
         "artist": "劉德華",
-        "title": "緣盡劉德華〈卡拉〉",
+        "title": "緣盡劉德華",
         "vid": "bS7s2xsQBgc",
         "surname": "劉"
     },
     {
         "id": 6023,
         "artist": "劉德華",
-        "title": "來生緣劉德華〈卡拉〉",
+        "title": "來生緣劉德華",
         "vid": "EjCj782YLOg",
         "surname": "劉"
     },
@@ -9830,7 +9830,7 @@ const ktvDB = [
     {
         "id": 6028,
         "artist": "李榮浩",
-        "title": "李榮浩 《年少有為》  with",
+        "title": "李榮浩 《年少有為》",
         "vid": "GnMESBiyib8",
         "surname": "李"
     },
@@ -9963,7 +9963,7 @@ const ktvDB = [
     {
         "id": 6047,
         "artist": "周傳雄",
-        "title": "周傳雄 《冬天的秘密》  with",
+        "title": "周傳雄 《冬天的秘密》",
         "vid": "eqxZ22lk46s",
         "surname": "周"
     },
@@ -10355,21 +10355,21 @@ const ktvDB = [
     {
         "id": 6103,
         "artist": "王力宏",
-        "title": "王力宏 《forever love》  with",
+        "title": "王力宏 《forever love》",
         "vid": "KVDESlQGoPM",
         "surname": "王"
     },
     {
         "id": 6104,
         "artist": "王力宏",
-        "title": "王力宏 《愛的就是你》  with",
+        "title": "王力宏 《愛的就是你》",
         "vid": "Ij_3Yrx8nlM",
         "surname": "王"
     },
     {
         "id": 6105,
         "artist": "王力宏",
-        "title": "王力宏 《唯一》  with",
+        "title": "王力宏 《唯一》",
         "vid": "jWBswsbPBsI",
         "surname": "王"
     },
@@ -10439,7 +10439,7 @@ const ktvDB = [
     {
         "id": 6115,
         "artist": "王力宏",
-        "title": "需要人陪 xu yao ren pei - 王力宏 wang leehom ( with  )",
+        "title": "需要人陪 xu yao ren pei - 王力宏 wang leehom",
         "vid": "GAQjoHtwmWg",
         "surname": "王"
     },
@@ -10537,56 +10537,56 @@ const ktvDB = [
     {
         "id": 6129,
         "artist": "王傑",
-        "title": "忘了你忘了我 – 王傑〈卡拉〉",
+        "title": "忘了你忘了我 – 王傑",
         "vid": "H5Zk1CUod94",
         "surname": "王"
     },
     {
         "id": 6130,
         "artist": "王傑",
-        "title": "幾分傷心幾分癡王傑〈卡拉〉",
+        "title": "幾分傷心幾分癡王傑",
         "vid": "DGbTlE1MNRU",
         "surname": "王"
     },
     {
         "id": 6131,
         "artist": "王傑",
-        "title": "一場游戲一場夢王傑〈卡拉〉",
+        "title": "一場游戲一場夢王傑",
         "vid": "wKMuhhbwUgs",
         "surname": "王"
     },
     {
         "id": 6132,
         "artist": "王傑",
-        "title": "心痛王傑〈卡拉〉",
+        "title": "心痛王傑",
         "vid": "-nFUDHvU5Qo",
         "surname": "王"
     },
     {
         "id": 6133,
         "artist": "王傑",
-        "title": "為了愛夢一生王傑〈卡拉〉",
+        "title": "為了愛夢一生王傑",
         "vid": "u4G0Q7RGqi8",
         "surname": "王"
     },
     {
         "id": 6134,
         "artist": "王傑",
-        "title": "今生無悔王傑〈卡拉〉",
+        "title": "今生無悔王傑",
         "vid": "-6siyO--xvw",
         "surname": "王"
     },
     {
         "id": 6135,
         "artist": "王傑",
-        "title": "說謊的愛人王傑〈卡拉〉",
+        "title": "說謊的愛人王傑",
         "vid": "-7KzscnyQOo",
         "surname": "王"
     },
     {
         "id": 6136,
         "artist": "王傑",
-        "title": "紅塵有你王傑〈卡拉〉",
+        "title": "紅塵有你王傑",
         "vid": "_CFat4jRnoE",
         "surname": "王"
     },
@@ -10600,7 +10600,7 @@ const ktvDB = [
     {
         "id": 6138,
         "artist": "汪蘇瀧",
-        "title": "汪蘇瀧 《像雨天像晴天》  with",
+        "title": "汪蘇瀧 《像雨天像晴天》",
         "vid": "4WFtktHYj08",
         "surname": "汪"
     },
@@ -10775,7 +10775,7 @@ const ktvDB = [
     {
         "id": 6163,
         "artist": "張宇",
-        "title": "張宇 囚鳥  -  -  -  with",
+        "title": "張宇 囚鳥  -  -  -",
         "vid": "pTRuyf85myM",
         "surname": "張"
     },
@@ -10817,28 +10817,28 @@ const ktvDB = [
     {
         "id": 6169,
         "artist": "張宇",
-        "title": "小小的太陽張宇〈卡拉〉",
+        "title": "小小的太陽張宇",
         "vid": "GbavIjg9jSQ",
         "surname": "張"
     },
     {
         "id": 6170,
         "artist": "張宇",
-        "title": "消息張宇〈卡拉〉",
+        "title": "消息張宇",
         "vid": "LMoKjerFp8Y",
         "surname": "張"
     },
     {
         "id": 6171,
         "artist": "張宇",
-        "title": "情有獨鍾張宇〈卡拉〉",
+        "title": "情有獨鍾張宇",
         "vid": "pfKGrHi3xiU",
         "surname": "張"
     },
     {
         "id": 6172,
         "artist": "張宇",
-        "title": "長頭髮〈台語〉張宇〈卡拉〉",
+        "title": "長頭髮〈台語〉張宇",
         "vid": "LUJkOuzhCNY",
         "surname": "張"
     },
@@ -10971,21 +10971,21 @@ const ktvDB = [
     {
         "id": 6191,
         "artist": "阿杜",
-        "title": "阿杜 《andy》  with",
+        "title": "阿杜 《andy》",
         "vid": "4Z2GDL4DPVg",
         "surname": "阿"
     },
     {
         "id": 6192,
         "artist": "阿杜",
-        "title": "阿杜 《他一定很愛你》  with",
+        "title": "阿杜 《他一定很愛你》",
         "vid": "W06hLt3tBeA",
         "surname": "阿"
     },
     {
         "id": 6193,
         "artist": "阿杜",
-        "title": "阿杜 《堅持到底》  with",
+        "title": "阿杜 《堅持到底》",
         "vid": "BQMTXjRsXUg",
         "surname": "阿"
     },
@@ -11265,7 +11265,7 @@ const ktvDB = [
     {
         "id": 6233,
         "artist": "齊秦",
-        "title": "愛情宣言齊秦〈卡拉〉",
+        "title": "愛情宣言齊秦",
         "vid": "W6xeVlZllzE",
         "surname": "齊"
     },
@@ -11293,7 +11293,7 @@ const ktvDB = [
     {
         "id": 6237,
         "artist": "胡彥斌",
-        "title": "胡彥斌 《男人》  with",
+        "title": "胡彥斌 《男人》",
         "vid": "_S3M3kRZofw",
         "surname": "胡"
     },
@@ -11475,7 +11475,7 @@ const ktvDB = [
     {
         "id": 6263,
         "artist": "邰正宵",
-        "title": "幾番風雨邰正宵〈卡拉〉",
+        "title": "幾番風雨邰正宵",
         "vid": "1wLubXf9w5Q",
         "surname": "邰"
     },
@@ -11496,14 +11496,14 @@ const ktvDB = [
     {
         "id": 6266,
         "artist": "陶喆",
-        "title": "陶喆 《普通朋友》with",
+        "title": "陶喆 《普通朋友》",
         "vid": "lkoDNN5duwM",
         "surname": "陶"
     },
     {
         "id": 6267,
         "artist": "陶喆",
-        "title": "陶喆 《愛我還是他》  with",
+        "title": "陶喆 《愛我還是他》",
         "vid": "P27X4jW9QUU",
         "surname": "陶"
     },
@@ -11853,7 +11853,7 @@ const ktvDB = [
     {
         "id": 6317,
         "artist": "鍾鎮濤",
-        "title": "讓一切隨風鍾鎮濤〈卡拉〉",
+        "title": "讓一切隨風鍾鎮濤",
         "vid": "cim-quR1Xg0",
         "surname": "鍾"
     },
@@ -11874,14 +11874,14 @@ const ktvDB = [
     {
         "id": 6320,
         "artist": "鄭中基",
-        "title": "鄭中基-絕口不提愛你-mv",
+        "title": "鄭中基-絕口不提愛你",
         "vid": "Q0xsEK7awFI",
         "surname": "鄭"
     },
     {
         "id": 6321,
         "artist": "鄭中基",
-        "title": "鄭中基-你的眼睛背叛你的心-mv",
+        "title": "鄭中基-你的眼睛背叛你的心",
         "vid": "f7vcY_qdnEc",
         "surname": "鄭"
     },
@@ -11895,7 +11895,7 @@ const ktvDB = [
     {
         "id": 6323,
         "artist": "鄭中基",
-        "title": "鄭中基 陳慧琳-製造浪漫-mv",
+        "title": "鄭中基 陳慧琳-製造浪漫",
         "vid": "dldygWkPwVY",
         "surname": "鄭"
     },
@@ -11909,14 +11909,14 @@ const ktvDB = [
     {
         "id": 6325,
         "artist": "鄭中基",
-        "title": "鄭中基-別讓我心疼-mv",
+        "title": "鄭中基-別讓我心疼",
         "vid": "njdIu6C2SGc",
         "surname": "鄭"
     },
     {
         "id": 6326,
         "artist": "鄭中基",
-        "title": "鄭中基-怪胎-mv",
+        "title": "鄭中基-怪胎",
         "vid": "gEPKmQ4cY0I",
         "surname": "鄭"
     },
@@ -11930,7 +11930,7 @@ const ktvDB = [
     {
         "id": 6328,
         "artist": "鄭中基",
-        "title": "鄭中基-相思無用-mv",
+        "title": "鄭中基-相思無用",
         "vid": "I0U5d3yv5q0",
         "surname": "鄭"
     },
@@ -11944,21 +11944,21 @@ const ktvDB = [
     {
         "id": 6330,
         "artist": "鄭中基",
-        "title": "鄭中基-太難-mv",
+        "title": "鄭中基-太難",
         "vid": "1BWoEzazfRQ",
         "surname": "鄭"
     },
     {
         "id": 6331,
         "artist": "鄭中基",
-        "title": "鄭中基-答應不愛你-mv",
+        "title": "鄭中基-答應不愛你",
         "vid": "HEwP8Kl2YFU",
         "surname": "鄭"
     },
     {
         "id": 6332,
         "artist": "鄭中基",
-        "title": "鄭中基-音符-mv",
+        "title": "鄭中基-音符",
         "vid": "w0Ff2Ip-1Mg",
         "surname": "鄭"
     },
@@ -11972,7 +11972,7 @@ const ktvDB = [
     {
         "id": 6334,
         "artist": "鄭中基",
-        "title": "鄭中基-最愛的人不是你-mv",
+        "title": "鄭中基-最愛的人不是你",
         "vid": "NCpme7UHgdY",
         "surname": "鄭"
     },
@@ -11986,7 +11986,7 @@ const ktvDB = [
     {
         "id": 6336,
         "artist": "鄭中基",
-        "title": "我代你哭鄭中基〈卡拉〉",
+        "title": "我代你哭鄭中基",
         "vid": "XzjCzffYNIg",
         "surname": "鄭"
     },
@@ -12000,7 +12000,7 @@ const ktvDB = [
     {
         "id": 6338,
         "artist": "庾澄慶",
-        "title": "庾澄慶&符龍飛《悟空》 兩人唱出曲中人「桀驁不馴」的孤獨感！ #我們的歌第五季 singing with legends s5 clip",
+        "title": "庾澄慶&符龍飛《悟空》 兩人唱出曲中人「桀驁不馴」的孤獨感！ #我們的歌第五季 singing  legends s5 clip",
         "vid": "igIUxJGrucA",
         "surname": "庾"
     },
@@ -12371,7 +12371,7 @@ const ktvDB = [
     {
         "id": 6391,
         "artist": "巫啟賢",
-        "title": "只因你傷心巫啟賢〈卡拉〉",
+        "title": "只因你傷心巫啟賢",
         "vid": "l8p7QurSflw",
         "surname": "巫"
     },
@@ -12385,7 +12385,7 @@ const ktvDB = [
     {
         "id": 6393,
         "artist": "巫啟賢",
-        "title": "夢與現實巫啟賢〈卡拉〉",
+        "title": "夢與現實巫啟賢",
         "vid": "yQhK_1PPq7k",
         "surname": "巫"
     },
@@ -12511,7 +12511,7 @@ const ktvDB = [
     {
         "id": 6411,
         "artist": "郭富城",
-        "title": "望鄉郭富城〈卡拉〉",
+        "title": "望鄉郭富城",
         "vid": "lHFsCUBpq9w",
         "surname": "郭"
     },
@@ -12623,7 +12623,7 @@ const ktvDB = [
     {
         "id": 6427,
         "artist": "蘇永康",
-        "title": "不想獨自快樂蘇永康〈卡拉〉",
+        "title": "不想獨自快樂蘇永康",
         "vid": "Ldb_NtRbNrs",
         "surname": "蘇"
     },
@@ -13141,14 +13141,14 @@ const ktvDB = [
     {
         "id": 6501,
         "artist": "光良",
-        "title": "光良搭檔陳卓璇催淚演繹代表作《童話》 絕美和聲唱出細膩情感！#我們的歌第五季 singing with legends s5 clip",
+        "title": "光良搭檔陳卓璇催淚演繹代表作《童話》 絕美和聲唱出細膩情感！#我們的歌第五季 singing  legends s5 clip",
         "vid": "UjLtOYXa3J4",
         "surname": "光"
     },
     {
         "id": 6502,
         "artist": "光良",
-        "title": "光良陳卓璇情歌續上了！男女對唱《勇氣》一開口就讓人淚流滿面！#我們的歌第五季 singing with legends s5 clip",
+        "title": "光良陳卓璇情歌續上了！男女對唱《勇氣》一開口就讓人淚流滿面！#我們的歌第五季 singing  legends s5 clip",
         "vid": "nJn0d05F19w",
         "surname": "光"
     },
@@ -14863,7 +14863,7 @@ const ktvDB = [
     {
         "id": 6747,
         "artist": "杜德偉",
-        "title": "全程高能！鄧紫棋李玟玩轉中國風,改編《刀馬旦》太帶感了！#我們的歌第二季 singing with legends s2 clip",
+        "title": "全程高能！鄧紫棋李玟玩轉中國風,改編《刀馬旦》太帶感了！#我們的歌第二季 singing  legends s2 clip",
         "vid": "_mEK1WaDyjw",
         "surname": "杜"
     },
@@ -15024,7 +15024,7 @@ const ktvDB = [
     {
         "id": 6770,
         "artist": "姜育恆",
-        "title": "最後的溫柔姜育恆〈卡拉〉",
+        "title": "最後的溫柔姜育恆",
         "vid": "J2G4Z7wCAP4",
         "surname": "姜"
     },
@@ -15199,7 +15199,7 @@ const ktvDB = [
     {
         "id": 6795,
         "artist": "李玖哲",
-        "title": "李玖哲 nicky lee 《想太多》  with",
+        "title": "李玖哲 nicky lee 《想太多》",
         "vid": "RIxy9RBDMKw",
         "surname": "李"
     },
@@ -15500,14 +15500,14 @@ const ktvDB = [
     {
         "id": 6838,
         "artist": "王菲",
-        "title": "容易受傷的女人王菲〈卡拉〉",
+        "title": "容易受傷的女人王菲",
         "vid": "wj6uKJYwYwQ",
         "surname": "王"
     },
     {
         "id": 6839,
         "artist": "王菲",
-        "title": "約定王菲〈卡拉〉",
+        "title": "約定王菲",
         "vid": "nOODWqcP-2A",
         "surname": "王"
     },
@@ -15521,7 +15521,7 @@ const ktvDB = [
     {
         "id": 6841,
         "artist": "王菲",
-        "title": "如風王菲〈卡拉〉",
+        "title": "如風王菲",
         "vid": "EI7MRBnqFDs",
         "surname": "王"
     },
@@ -15542,21 +15542,21 @@ const ktvDB = [
     {
         "id": 6844,
         "artist": "張韶涵",
-        "title": "張韶涵 《暮色迴響》  with",
+        "title": "張韶涵 《暮色迴響》",
         "vid": "cAK1uq_7ONM",
         "surname": "張"
     },
     {
         "id": 6845,
         "artist": "張韶涵",
-        "title": "張韶涵 《隱形的翅膀》  with",
+        "title": "張韶涵 《隱形的翅膀》",
         "vid": "MwHx5cDQe-Q",
         "surname": "張"
     },
     {
         "id": 6846,
         "artist": "張韶涵",
-        "title": "張韶涵 《親愛的那不是愛情》  with",
+        "title": "張韶涵 《親愛的那不是愛情》",
         "vid": "uvAxgWYe3JI",
         "surname": "張"
     },
@@ -15703,105 +15703,105 @@ const ktvDB = [
     {
         "id": 6867,
         "artist": "鄧麗君",
-        "title": "我只在乎你鄧麗君〈卡拉〉",
+        "title": "我只在乎你鄧麗君",
         "vid": "tgkqdEe_Em4",
         "surname": "鄧"
     },
     {
         "id": 6868,
         "artist": "鄧麗君",
-        "title": "月亮代表我的心鄧麗君〈卡拉〉",
+        "title": "月亮代表我的心鄧麗君",
         "vid": "KgYFImuU8wM",
         "surname": "鄧"
     },
     {
         "id": 6869,
         "artist": "鄧麗君",
-        "title": "恰似你的溫柔鄧麗君〈卡拉〉",
+        "title": "恰似你的溫柔鄧麗君",
         "vid": "tHnzC4wZYr4",
         "surname": "鄧"
     },
     {
         "id": 6870,
         "artist": "鄧麗君",
-        "title": "甜蜜蜜鄧麗君〈卡拉〉",
+        "title": "甜蜜蜜鄧麗君",
         "vid": "aiJ9wrtWPis",
         "surname": "鄧"
     },
     {
         "id": 6871,
         "artist": "鄧麗君",
-        "title": "難忘的初戀情人鄧麗君〈卡拉〉",
+        "title": "難忘的初戀情人鄧麗君",
         "vid": "7ZU2_rPAcok",
         "surname": "鄧"
     },
     {
         "id": 6872,
         "artist": "鄧麗君",
-        "title": "夜來香鄧麗君〈卡拉〉",
+        "title": "夜來香鄧麗君",
         "vid": "qLmMHvxPRKY",
         "surname": "鄧"
     },
     {
         "id": 6873,
         "artist": "鄧麗君",
-        "title": "又見炊煙鄧麗君〈卡拉〉",
+        "title": "又見炊煙鄧麗君",
         "vid": "aMshSrASqcs",
         "surname": "鄧"
     },
     {
         "id": 6874,
         "artist": "鄧麗君",
-        "title": "微風細雨鄧麗君〈卡拉〉",
+        "title": "微風細雨鄧麗君",
         "vid": "KufHD-f8dyg",
         "surname": "鄧"
     },
     {
         "id": 6875,
         "artist": "鄧麗君",
-        "title": "雲河鄧麗君〈卡拉〉",
+        "title": "雲河鄧麗君",
         "vid": "vz49wKp7-Hw",
         "surname": "鄧"
     },
     {
         "id": 6876,
         "artist": "鄧麗君",
-        "title": "漫步人生路鄧麗君〈卡拉〉",
+        "title": "漫步人生路鄧麗君",
         "vid": "EqHaUbaHRVQ",
         "surname": "鄧"
     },
     {
         "id": 6877,
         "artist": "鄧麗君",
-        "title": "一簾幽夢鄧麗君〈卡拉〉",
+        "title": "一簾幽夢鄧麗君",
         "vid": "CHU2LvyTfic",
         "surname": "鄧"
     },
     {
         "id": 6878,
         "artist": "鄧麗君",
-        "title": "償還鄧麗君〈卡拉〉",
+        "title": "償還鄧麗君",
         "vid": "7XiNaJKNFBY",
         "surname": "鄧"
     },
     {
         "id": 6879,
         "artist": "鄧麗君",
-        "title": "但願人長久《淡淡幽情》 專輯－鄧麗君〈卡拉〉",
+        "title": "但願人長久《淡淡幽情》 專輯－鄧麗君",
         "vid": "pz7Ne3qqzv4",
         "surname": "鄧"
     },
     {
         "id": 6880,
         "artist": "鄧麗君",
-        "title": "海韻鄧麗君〈卡拉〉",
+        "title": "海韻鄧麗君",
         "vid": "aG2mkfVhnvM",
         "surname": "鄧"
     },
     {
         "id": 6881,
         "artist": "劉若英",
-        "title": "劉若英 《我等你》  with",
+        "title": "劉若英 《我等你》",
         "vid": "Kc_qbvbl6xw",
         "surname": "劉"
     },
@@ -16039,7 +16039,7 @@ const ktvDB = [
     {
         "id": 6915,
         "artist": "王心凌",
-        "title": "王心凌 《第一次愛的人》  with",
+        "title": "王心凌 《第一次愛的人》",
         "vid": "AbZQoy97wWs",
         "surname": "王"
     },
@@ -16599,7 +16599,7 @@ const ktvDB = [
     {
         "id": 6995,
         "artist": "孟庭葦",
-        "title": "孟庭葦 誰的眼淚在飛  -  -  -  with",
+        "title": "孟庭葦 誰的眼淚在飛  -  -  -",
         "vid": "D4ccv0eFRJQ",
         "surname": "孟"
     },
@@ -16991,35 +16991,35 @@ const ktvDB = [
     {
         "id": 7051,
         "artist": "周慧敏",
-        "title": "最愛周慧敏〈卡拉〉",
+        "title": "最愛周慧敏",
         "vid": "ed4ZhOyF1tM",
         "surname": "周"
     },
     {
         "id": 7052,
         "artist": "周慧敏",
-        "title": "痴心換情深周慧敏〈卡拉〉",
+        "title": "痴心換情深周慧敏",
         "vid": "yRbW0BAT7GQ",
         "surname": "周"
     },
     {
         "id": 7053,
         "artist": "周慧敏",
-        "title": "孤單的心痛周慧敏〈卡拉〉",
+        "title": "孤單的心痛周慧敏",
         "vid": "Fs-qsCHCebU",
         "surname": "周"
     },
     {
         "id": 7054,
         "artist": "周慧敏",
-        "title": "自作多情周慧敏〈卡拉〉",
+        "title": "自作多情周慧敏",
         "vid": "wBawboo4D9U",
         "surname": "周"
     },
     {
         "id": 7055,
         "artist": "周慧敏",
-        "title": "天荒愛未老周慧敏〈卡拉〉",
+        "title": "天荒愛未老周慧敏",
         "vid": "mNJbu_0FtWs",
         "surname": "周"
     },
@@ -17033,7 +17033,7 @@ const ktvDB = [
     {
         "id": 7057,
         "artist": "楊丞琳",
-        "title": "楊丞琳 《年輪說》  with",
+        "title": "楊丞琳 《年輪說》",
         "vid": "MlA3590ja44",
         "surname": "楊"
     },
@@ -17404,7 +17404,7 @@ const ktvDB = [
     {
         "id": 7110,
         "artist": "許茹芸",
-        "title": "許茹芸 獨角戲  with",
+        "title": "許茹芸 獨角戲",
         "vid": "AgGW_Knd140",
         "surname": "許"
     },
@@ -17579,7 +17579,7 @@ const ktvDB = [
     {
         "id": 7135,
         "artist": "徐佳瑩",
-        "title": "徐佳瑩 《到此為止》  with",
+        "title": "徐佳瑩 《到此為止》",
         "vid": "-852Qbt8wXI",
         "surname": "徐"
     },
@@ -17691,7 +17691,7 @@ const ktvDB = [
     {
         "id": 7151,
         "artist": "梁詠琪",
-        "title": "梁詠琪 《短髮》  with",
+        "title": "梁詠琪 《短髮》",
         "vid": "fBOwRr3Adio",
         "surname": "梁"
     },
@@ -17775,7 +17775,7 @@ const ktvDB = [
     {
         "id": 7163,
         "artist": "梁詠琪",
-        "title": "一天一天梁詠琪〈卡拉〉",
+        "title": "一天一天梁詠琪",
         "vid": "FovoEUxWQpg",
         "surname": "梁"
     },
@@ -18272,7 +18272,7 @@ const ktvDB = [
     {
         "id": 7234,
         "artist": "許美靜",
-        "title": "許美靜 《陽光總在風雨後》  with",
+        "title": "許美靜 《陽光總在風雨後》",
         "vid": "HiapJFjRoEc",
         "surname": "許"
     },
@@ -18489,7 +18489,7 @@ const ktvDB = [
     {
         "id": 7265,
         "artist": "丁當",
-        "title": "叮噹 《我愛他》  with",
+        "title": "叮噹 《我愛他》",
         "vid": "lgbDpk7WzHI",
         "surname": "丁"
     },
@@ -18531,7 +18531,7 @@ const ktvDB = [
     {
         "id": 7271,
         "artist": "丁當",
-        "title": "叮噹 我是一隻小小鳥  with",
+        "title": "叮噹 我是一隻小小鳥",
         "vid": "-L1aRSNM_D4",
         "surname": "丁"
     },
@@ -19427,7 +19427,7 @@ const ktvDB = [
     {
         "id": 7399,
         "artist": "李麗芬",
-        "title": "容易受傷的女人鄺美雲〈卡拉〉",
+        "title": "容易受傷的女人鄺美雲",
         "vid": "LsqRBlrXdgQ",
         "surname": "李"
     },
@@ -19847,7 +19847,7 @@ const ktvDB = [
     {
         "id": 7459,
         "artist": "王若琳",
-        "title": "鄧麗君 我只在乎你  -  -  -  with",
+        "title": "鄧麗君 我只在乎你  -  -  -",
         "vid": "OSjz6SYHyR8",
         "surname": "王"
     },
@@ -20547,7 +20547,7 @@ const ktvDB = [
     {
         "id": 7559,
         "artist": "陳綺貞",
-        "title": "陳綺貞 《太陽》  with",
+        "title": "陳綺貞 《太陽》",
         "vid": "4dHGh7hIyGc",
         "surname": "陳"
     },
@@ -20729,7 +20729,7 @@ const ktvDB = [
     {
         "id": 7585,
         "artist": "艾怡良",
-        "title": "如煙 (女也herstory with mayday - 艾怡良) solo guitar cover",
+        "title": "如煙 (女也herstory  mayday - 艾怡良) solo guitar cover",
         "vid": "CPezX6SCF_8",
         "surname": "艾"
     },
@@ -20813,7 +20813,7 @@ const ktvDB = [
     {
         "id": 7597,
         "artist": "艾怡良",
-        "title": "【 forever young 】- ver.with original vocalist backing -艾怡良（eve ai)🎹arr. @janedonde",
+        "title": "【 forever young 】- ver. original vocalist backing -艾怡良（eve ai)🎹arr. @janedonde",
         "vid": "Nm0MIIsw82M",
         "surname": "艾"
     },
@@ -21989,7 +21989,7 @@ const ktvDB = [
     {
         "id": 7765,
         "artist": "Olivia Ong",
-        "title": "olivia ong 《如燕》  with",
+        "title": "olivia ong 《如燕》",
         "vid": "rsx1y44bFEc",
         "surname": "O"
     },
@@ -22941,7 +22941,7 @@ const ktvDB = [
     {
         "id": 7901,
         "artist": "單依純",
-        "title": "單依純 《想你時風起》  with",
+        "title": "單依純 《想你時風起》",
         "vid": "Uq3xg2R7ozI",
         "surname": "單"
     },
@@ -23375,7 +23375,7 @@ const ktvDB = [
     {
         "id": 7963,
         "artist": "琳誼Ring",
-        "title": "琳誼 ring  蕭煌奇 [ 帶你去逛街 wander with you ]  mv幕後花絮",
+        "title": "琳誼 ring  蕭煌奇 [ 帶你去逛街 wander  you ]  mv幕後花絮",
         "vid": "lPC4LqBOgN0",
         "surname": "琳"
     },
