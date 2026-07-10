@@ -5,7 +5,7 @@ const mvDB = [
         "title": "告白氣球",
         "vid": "bu7nU9Mhpyo",
         "surname": "周",
-        "kid": "OGqa56nhl0A"
+        "kid": "WLPWAec3Ze4"
     },
     {
         "id": 6827,
@@ -21,7 +21,7 @@ const mvDB = [
         "title": "算什麼男人",
         "vid": "v489sYYjtHI",
         "surname": "周",
-        "kid": ""
+        "kid": "d3YgaPpXtjc"
     },
     {
         "id": 6829,
@@ -29,7 +29,7 @@ const mvDB = [
         "title": "明明就",
         "vid": "UBySINroNkw",
         "surname": "周",
-        "kid": "yXM6btL7TKc"
+        "kid": "I4Ycr3YATkA"
     },
     {
         "id": 6830,
@@ -37,7 +37,7 @@ const mvDB = [
         "title": "聽見下雨的聲音",
         "vid": "zqKoXPHhmsM",
         "surname": "周",
-        "kid": ""
+        "kid": "BofQXqkpU3A"
     },
     {
         "id": 6831,
@@ -45,7 +45,7 @@ const mvDB = [
         "title": "說好不哭",
         "vid": "HK7SPnGSxLM",
         "surname": "周",
-        "kid": ""
+        "kid": "CI6_hboaGRw"
     },
     {
         "id": 6832,
@@ -69,7 +69,7 @@ const mvDB = [
         "title": "mojito",
         "vid": "-biOGdYiF-I",
         "surname": "周",
-        "kid": "3WoHdgAB-Fc"
+        "kid": "eULatNDtuko"
     },
     {
         "id": 6835,
@@ -85,7 +85,7 @@ const mvDB = [
         "title": "最偉大的作品",
         "vid": "1emA1EFsPMM",
         "surname": "周",
-        "kid": "3m7vfR8aC94"
+        "kid": "LkeeJ4g8smo"
     },
     {
         "id": 6837,
@@ -109,7 +109,7 @@ const mvDB = [
         "title": "一路向北",
         "vid": "L229QDxDakU",
         "surname": "周",
-        "kid": "sJimg-dmPRs"
+        "kid": "rgrSi4RHxfI"
     },
     {
         "id": 6840,
@@ -117,7 +117,7 @@ const mvDB = [
         "title": "夜曲",
         "vid": "6Q0Pd53mojY",
         "surname": "周",
-        "kid": "p0BAuYHNYqY"
+        "kid": "oV2lghiIhG0"
     },
     {
         "id": 6841,
@@ -125,7 +125,7 @@ const mvDB = [
         "title": "晴天",
         "vid": "DYptgVvkVLQ",
         "surname": "周",
-        "kid": "EJxRY6I5rk4"
+        "kid": "SW52_Smvr68"
     },
     {
         "id": 6842,
@@ -133,7 +133,7 @@ const mvDB = [
         "title": "給我一首歌的時間",
         "vid": "wt0RKW3aC84",
         "surname": "周",
-        "kid": ""
+        "kid": "QMZggZ3xJTc"
     },
     {
         "id": 6843,
@@ -149,7 +149,7 @@ const mvDB = [
         "title": "擱淺",
         "vid": "YJfHuATJYsQ",
         "surname": "周",
-        "kid": "Uh_jbm9p7H4"
+        "kid": "J9vWcngfanc"
     },
     {
         "id": 6845,
@@ -157,7 +157,7 @@ const mvDB = [
         "title": "七里香",
         "vid": "Bbp9ZaJD_eA",
         "surname": "周",
-        "kid": "PylMcLnFfeM"
+        "kid": "62BOyJSNIuw"
     },
     {
         "id": 6846,
@@ -165,7 +165,7 @@ const mvDB = [
         "title": "說好的幸福呢",
         "vid": "mLFhTFiX0uM",
         "surname": "周",
-        "kid": ""
+        "kid": "Ryj2lHtWNDE"
     },
     {
         "id": 6847,
@@ -173,7 +173,7 @@ const mvDB = [
         "title": "青花瓷",
         "vid": "Z8Mqw0b9ADs",
         "surname": "周",
-        "kid": "UZP5z3X5n-8"
+        "kid": "Z8Mqw0b9ADs"
     },
     {
         "id": 6848,
@@ -181,7 +181,7 @@ const mvDB = [
         "title": "稻香",
         "vid": "sHD_z90ZKV0",
         "surname": "周",
-        "kid": ""
+        "kid": "W3RY-E8oiYc"
     },
     {
         "id": 6849,
@@ -205,7 +205,7 @@ const mvDB = [
         "title": "珊瑚海",
         "vid": "kYhh1PpsOg4",
         "surname": "周",
-        "kid": "0mNtXku7GLw"
+        "kid": "kYhh1PpsOg4"
     },
     {
         "id": 6852,
@@ -221,7 +221,7 @@ const mvDB = [
         "title": "最長的電影",
         "vid": "2zxc27bvrO8",
         "surname": "周",
-        "kid": ""
+        "kid": "QA3kz_xb6Ps"
     },
     {
         "id": 6854,
@@ -229,7 +229,7 @@ const mvDB = [
         "title": "菊花台",
         "vid": "PdjbRvvJAzg",
         "surname": "周",
-        "kid": "957tq8GKxEE"
+        "kid": "_AY1ukIKiuU"
     },
     {
         "id": 6855,
@@ -253,7 +253,7 @@ const mvDB = [
         "title": "蒲公英的約定",
         "vid": "VitJnr3IySc",
         "surname": "周",
-        "kid": ""
+        "kid": "LlBaGST7xnY"
     },
     {
         "id": 6858,
@@ -261,7 +261,7 @@ const mvDB = [
         "title": "退後",
         "vid": "0-4mm0e2h44",
         "surname": "周",
-        "kid": ""
+        "kid": "Cz2C43J3YFE"
     },
     {
         "id": 6859,
@@ -269,7 +269,7 @@ const mvDB = [
         "title": "龍捲風",
         "vid": "RPWDeLqsN0g",
         "surname": "周",
-        "kid": ""
+        "kid": "G-l3vnJkdgk"
     },
     {
         "id": 6860,
@@ -301,7 +301,7 @@ const mvDB = [
         "title": "陽光宅男",
         "vid": "qQ7g1tfEGFc",
         "surname": "周",
-        "kid": ""
+        "kid": "Ai5QmPZEynQ"
     },
     {
         "id": 6864,
@@ -317,7 +317,7 @@ const mvDB = [
         "title": "等你下課",
         "vid": "kfXdP7nZIiE",
         "surname": "周",
-        "kid": ""
+        "kid": "YL8Z78av-Bs"
     },
     {
         "id": 6866,
@@ -325,7 +325,7 @@ const mvDB = [
         "title": "又十年",
         "vid": "XHCBKSI1ppM",
         "surname": "張",
-        "kid": ""
+        "kid": "M4k9QP56JcA"
     },
     {
         "id": 6867,
@@ -389,7 +389,7 @@ const mvDB = [
         "title": "偷心",
         "vid": "bKGI6HoLyPo",
         "surname": "張",
-        "kid": "XRzTpVCnUHQ"
+        "kid": "bKGI6HoLyPo"
     },
     {
         "id": 6875,
@@ -413,7 +413,7 @@ const mvDB = [
         "title": "你最珍貴",
         "vid": "_SODktUwNYo",
         "surname": "張",
-        "kid": ""
+        "kid": "_SODktUwNYo"
     },
     {
         "id": 6878,
@@ -421,7 +421,7 @@ const mvDB = [
         "title": "咖啡",
         "vid": "VuaurOQJRCs",
         "surname": "張",
-        "kid": "pRH3_NfSKyU"
+        "kid": "VuaurOQJRCs"
     },
     {
         "id": 6879,
@@ -429,7 +429,7 @@ const mvDB = [
         "title": "回頭太難",
         "vid": "6oScrw8ubPk",
         "surname": "張",
-        "kid": "obpdtmDwV-A"
+        "kid": "Iwu_z1k1c1U"
     },
     {
         "id": 6880,
@@ -437,7 +437,7 @@ const mvDB = [
         "title": "心如刀割",
         "vid": "CA5CwZ4Nmnk",
         "surname": "張",
-        "kid": "X7m1_padge0"
+        "kid": "7MxQgiWTJWU"
     },
     {
         "id": 6881,
@@ -445,7 +445,7 @@ const mvDB = [
         "title": "她來聽我的演唱會",
         "vid": "QJjSLe8Kt4I",
         "surname": "張",
-        "kid": "wJbV9oLTBZQ"
+        "kid": "bGD0ffl-pjg"
     },
     {
         "id": 6882,
@@ -461,7 +461,7 @@ const mvDB = [
         "title": "我真的受傷了",
         "vid": "1bDAC3gmO4A",
         "surname": "張",
-        "kid": ""
+        "kid": "L7iryrQaggU"
     },
     {
         "id": 6884,
@@ -469,7 +469,7 @@ const mvDB = [
         "title": "情網",
         "vid": "pGdPlye3y88",
         "surname": "張",
-        "kid": ""
+        "kid": "pNkATCJN2ro"
     },
     {
         "id": 6885,
@@ -541,7 +541,7 @@ const mvDB = [
         "title": "夕陽醉了",
         "vid": "3oSJBR6ENLM",
         "surname": "張",
-        "kid": ""
+        "kid": "_PlH0arBoXk"
     },
     {
         "id": 6894,
@@ -557,7 +557,7 @@ const mvDB = [
         "title": "一千個傷心的理由",
         "vid": "Yl9sIjmaZP8",
         "surname": "張",
-        "kid": ""
+        "kid": "kPhlJJYVn84"
     },
     {
         "id": 6896,
@@ -589,7 +589,7 @@ const mvDB = [
         "title": "聽海",
         "vid": "aH_x4i6UdNY",
         "surname": "張",
-        "kid": ""
+        "kid": "b4S_dT6Sl3A"
     },
     {
         "id": 6900,
@@ -597,7 +597,7 @@ const mvDB = [
         "title": "只想一生跟你走",
         "vid": "Ou3NHHS6f4c",
         "surname": "張",
-        "kid": ""
+        "kid": "S5JxyKLM20Y"
     },
     {
         "id": 6901,
@@ -634,7 +634,7 @@ const mvDB = [
     {
         "id": 6905,
         "artist": "張學友",
-        "title": "in love with you",
+        "title": "in love  you",
         "vid": "3KA1Lec9QiU",
         "surname": "張",
         "kid": ""
@@ -669,7 +669,7 @@ const mvDB = [
         "title": "孤獨娛樂",
         "vid": "GSQV3oXyjMQ",
         "surname": "林",
-        "kid": "AHOpnnkSdQY"
+        "kid": "GSQV3oXyjMQ"
     },
     {
         "id": 6910,
@@ -685,7 +685,7 @@ const mvDB = [
         "title": "不為誰而作的歌",
         "vid": "gd38-X3HpbM",
         "surname": "林",
-        "kid": "L9-xMp39wvE"
+        "kid": "wfaopZjo-_w"
     },
     {
         "id": 6912,
@@ -693,7 +693,7 @@ const mvDB = [
         "title": "修煉愛情",
         "vid": "LWV-f6dMN3Q",
         "surname": "林",
-        "kid": "r48w77_Xv-Y"
+        "kid": "GI7wzhpwwLM"
     },
     {
         "id": 6913,
@@ -701,7 +701,7 @@ const mvDB = [
         "title": "那些你很冒險的夢",
         "vid": "iE0l8Tx62DE",
         "surname": "林",
-        "kid": "bnybchlc4ZA"
+        "kid": "MGn6gtqlYj4"
     },
     {
         "id": 6914,
@@ -709,7 +709,7 @@ const mvDB = [
         "title": "手心的薔薇",
         "vid": "onYP5u0b3yw",
         "surname": "林",
-        "kid": ""
+        "kid": "onYP5u0b3yw"
     },
     {
         "id": 6915,
@@ -717,7 +717,7 @@ const mvDB = [
         "title": "關鍵詞",
         "vid": "YFr6p7vB9hc",
         "surname": "林",
-        "kid": ""
+        "kid": "XIX98tQHCTE"
     },
     {
         "id": 6916,
@@ -733,7 +733,7 @@ const mvDB = [
         "title": "黑夜問白天",
         "vid": "DrBQeUOdQ_Y",
         "surname": "林",
-        "kid": "8-PY_BRWHsk"
+        "kid": "J-tXGVTfq_s"
     },
     {
         "id": 6918,
@@ -741,7 +741,7 @@ const mvDB = [
         "title": "學不會",
         "vid": "27R6ZavdzzQ",
         "surname": "林",
-        "kid": "i1fk_BbJeHE"
+        "kid": "gSMHXVRNnqE"
     },
     {
         "id": 6919,
@@ -765,7 +765,7 @@ const mvDB = [
         "title": "偉大的渺小",
         "vid": "JwjBbWQs71k",
         "surname": "林",
-        "kid": ""
+        "kid": "DkuHZjr_m8I"
     },
     {
         "id": 6922,
@@ -773,7 +773,7 @@ const mvDB = [
         "title": "交換餘生",
         "vid": "mNQwhIx_0CM",
         "surname": "林",
-        "kid": "2nvCQG5dSVw"
+        "kid": "U8_0viwfWik"
     },
     {
         "id": 6923,
@@ -797,7 +797,7 @@ const mvDB = [
         "title": "裹著心的光",
         "vid": "ZsbaD7-4bgc",
         "surname": "林",
-        "kid": ""
+        "kid": "eWSYlJHf2g4"
     },
     {
         "id": 6926,
@@ -877,7 +877,7 @@ const mvDB = [
         "title": "江南",
         "vid": "G97_rOdHcnY",
         "surname": "林",
-        "kid": "VZYkt6jbkDw"
+        "kid": "hYGibkEM2jA"
     },
     {
         "id": 6936,
@@ -901,7 +901,7 @@ const mvDB = [
         "title": "醉赤壁",
         "vid": "z9drIRdLh88",
         "surname": "林",
-        "kid": ""
+        "kid": "kCEdvdtpCLY"
     },
     {
         "id": 6939,
@@ -989,7 +989,7 @@ const mvDB = [
         "title": "愛不留",
         "vid": "2f1CF07z7Cw",
         "surname": "張",
-        "kid": ""
+        "kid": "lOABrnbZ2Ag"
     },
     {
         "id": 6950,
@@ -997,7 +997,7 @@ const mvDB = [
         "title": "寬容",
         "vid": "fQItfi8WsK8",
         "surname": "張",
-        "kid": "fvDVBNZ58EE"
+        "kid": "sQaI0wtfLNI"
     },
     {
         "id": 6951,
@@ -1005,7 +1005,7 @@ const mvDB = [
         "title": "愛如潮水",
         "vid": "lt2ZK19_Utw",
         "surname": "張",
-        "kid": "Jsp5UFV65qM"
+        "kid": "s7WbuVIRNcc"
     },
     {
         "id": 6952,
@@ -1029,7 +1029,7 @@ const mvDB = [
         "title": "時間都去哪兒了",
         "vid": "6LDZ8WuLvnA",
         "surname": "張",
-        "kid": ""
+        "kid": "PaYHNsExteU"
     },
     {
         "id": 6955,
@@ -1085,7 +1085,7 @@ const mvDB = [
         "title": "遷徙",
         "vid": "ynQGEVACSpQ",
         "surname": "張",
-        "kid": ""
+        "kid": "rALHNumREKg"
     },
     {
         "id": 6962,
@@ -1141,7 +1141,7 @@ const mvDB = [
         "title": "過火",
         "vid": "SrD36rogSjc",
         "surname": "張",
-        "kid": "FgN_o7lOCCc"
+        "kid": "ETmc-RJenLU"
     },
     {
         "id": 6969,
@@ -1149,7 +1149,7 @@ const mvDB = [
         "title": "太想愛你",
         "vid": "hG4-xzaDv40",
         "surname": "張",
-        "kid": "XlMC45md14A"
+        "kid": "igBvGgV2yR4"
     },
     {
         "id": 6970,
@@ -1157,7 +1157,7 @@ const mvDB = [
         "title": "不要對他說",
         "vid": "3J7rfx0NofU",
         "surname": "張",
-        "kid": "q-GtpXT9MIM"
+        "kid": "3J7rfx0NofU"
     },
     {
         "id": 6971,
@@ -1165,7 +1165,7 @@ const mvDB = [
         "title": "用情",
         "vid": "M5MliGcbqNM",
         "surname": "張",
-        "kid": "Guqf-4-oX9w"
+        "kid": "JweMw7D_HrU"
     },
     {
         "id": 6972,
@@ -1173,7 +1173,7 @@ const mvDB = [
         "title": "難以抗拒妳容顏",
         "vid": "24XTfW4yrcE",
         "surname": "張",
-        "kid": ""
+        "kid": "24XTfW4yrcE"
     },
     {
         "id": 6973,
@@ -1205,7 +1205,7 @@ const mvDB = [
         "title": "一顆愛",
         "vid": "HVFwCgcYjKc",
         "surname": "張",
-        "kid": ""
+        "kid": "HVFwCgcYjKc"
     },
     {
         "id": 6977,
@@ -1213,7 +1213,7 @@ const mvDB = [
         "title": "別怕我傷心",
         "vid": "EGTlTEf_DxM",
         "surname": "張",
-        "kid": "344MtnnrO1M"
+        "kid": "XKJh5zBVmYs"
     },
     {
         "id": 6978,
@@ -1221,7 +1221,7 @@ const mvDB = [
         "title": "愛江山更愛美人",
         "vid": "f7BUZlTBalI",
         "surname": "周",
-        "kid": ""
+        "kid": "f7BUZlTBalI"
     },
     {
         "id": 6979,
@@ -1229,7 +1229,7 @@ const mvDB = [
         "title": "天下有情人",
         "vid": "-yWL6FKdtwM",
         "surname": "周",
-        "kid": "oA8d3rJuTV8"
+        "kid": "-yWL6FKdtwM"
     },
     {
         "id": 6980,
@@ -1245,7 +1245,7 @@ const mvDB = [
         "title": "花心",
         "vid": "IZ8-K3YPVN0",
         "surname": "周",
-        "kid": "gxuCzo3SS1M"
+        "kid": "IZ8-K3YPVN0"
     },
     {
         "id": 6982,
@@ -1253,7 +1253,7 @@ const mvDB = [
         "title": "朋友",
         "vid": "6lbPgfKK7m4",
         "surname": "周",
-        "kid": "ZBHjB8GnCP4"
+        "kid": "NDSSOtcAnnE"
     },
     {
         "id": 6983,
@@ -1261,7 +1261,7 @@ const mvDB = [
         "title": "讓我歡喜讓我憂",
         "vid": "vqTXMw9zdto",
         "surname": "周",
-        "kid": "1QNhRiXbcgY"
+        "kid": "0-Dgr3P8780"
     },
     {
         "id": 6984,
@@ -1269,7 +1269,7 @@ const mvDB = [
         "title": "有沒有一首歌會讓你想起我",
         "vid": "p9lNpWa4OXU",
         "surname": "周",
-        "kid": ""
+        "kid": "uabuBFUzRdo"
     },
     {
         "id": 6985,
@@ -1277,7 +1277,7 @@ const mvDB = [
         "title": "風雨無阻",
         "vid": "HUvDaKBcA44",
         "surname": "周",
-        "kid": "CgzwjQhfdbc"
+        "kid": "s6xYYwtL1KY"
     },
     {
         "id": 6986,
@@ -1293,7 +1293,7 @@ const mvDB = [
         "title": "愛相隨",
         "vid": "ymDTR22Zerw",
         "surname": "周",
-        "kid": "CT3cmXpomSo"
+        "kid": "ymDTR22Zerw"
     },
     {
         "id": 6988,
@@ -1301,7 +1301,7 @@ const mvDB = [
         "title": "刀劍如夢",
         "vid": "Ij0-jMzeZ2U",
         "surname": "周",
-        "kid": "uc46vzgyw6E"
+        "kid": "Ij0-jMzeZ2U"
     },
     {
         "id": 6989,
@@ -1309,7 +1309,7 @@ const mvDB = [
         "title": "孤枕難眠",
         "vid": "2IlOSCuLVtE",
         "surname": "周",
-        "kid": "cQ1ccDF56cw"
+        "kid": "Ej9-Km97uak"
     },
     {
         "id": 6990,
@@ -1325,7 +1325,7 @@ const mvDB = [
         "title": "江湖笑",
         "vid": "jNw394lYop0",
         "surname": "周",
-        "kid": ""
+        "kid": "S3wg0tUBCIU"
     },
     {
         "id": 6992,
@@ -1349,7 +1349,7 @@ const mvDB = [
         "title": "別傻了",
         "vid": "eRBGNGk4xEs",
         "surname": "周",
-        "kid": ""
+        "kid": "eRBGNGk4xEs"
     },
     {
         "id": 6995,
@@ -1397,7 +1397,7 @@ const mvDB = [
         "title": "心的方向",
         "vid": "RjyuyqfmPmg",
         "surname": "周",
-        "kid": ""
+        "kid": "3V-SB7lbCho"
     },
     {
         "id": 7001,
@@ -1509,7 +1509,7 @@ const mvDB = [
         "title": "誰叫我",
         "vid": "5ysU1xqCcD0",
         "surname": "周",
-        "kid": ""
+        "kid": "jc1x-oowIns"
     },
     {
         "id": 7015,
@@ -1533,7 +1533,7 @@ const mvDB = [
         "title": "鬼迷心竅",
         "vid": "wF0kCGbuVT4",
         "surname": "李",
-        "kid": "d-sGigyq0jg"
+        "kid": "q_ixJeCxcMA"
     },
     {
         "id": 7018,
@@ -1541,7 +1541,7 @@ const mvDB = [
         "title": "山丘",
         "vid": "rVEMTxg_LrU",
         "surname": "李",
-        "kid": "LJqUX1TjX58"
+        "kid": "rVEMTxg_LrU"
     },
     {
         "id": 7019,
@@ -1557,7 +1557,7 @@ const mvDB = [
         "title": "給自己的歌",
         "vid": "WMVtriQkPxg",
         "surname": "李",
-        "kid": "_ljEMbZOEYs"
+        "kid": "WMVtriQkPxg"
     },
     {
         "id": 7021,
@@ -1565,7 +1565,7 @@ const mvDB = [
         "title": "新寫的舊歌",
         "vid": "CdqbMdYZlsU",
         "surname": "李",
-        "kid": ""
+        "kid": "CdqbMdYZlsU"
     },
     {
         "id": 7022,
@@ -1573,7 +1573,7 @@ const mvDB = [
         "title": "愛的代價",
         "vid": "sre44fHAujc",
         "surname": "李",
-        "kid": ""
+        "kid": "Ut15P5Nevq4"
     },
     {
         "id": 7023,
@@ -1581,7 +1581,7 @@ const mvDB = [
         "title": "漂洋過海來看你",
         "vid": "mps1sx1haWI",
         "surname": "李",
-        "kid": ""
+        "kid": "mps1sx1haWI"
     },
     {
         "id": 7024,
@@ -1589,7 +1589,7 @@ const mvDB = [
         "title": "你走你的路",
         "vid": "GvacNWcEXBo",
         "surname": "李",
-        "kid": ""
+        "kid": "GvacNWcEXBo"
     },
     {
         "id": 7025,
@@ -1677,7 +1677,7 @@ const mvDB = [
         "title": "愛情少尉",
         "vid": "eKLgHeKwm70",
         "surname": "李",
-        "kid": "sMG_Kz4EseA"
+        "kid": "eKLgHeKwm70"
     },
     {
         "id": 7036,
@@ -1725,7 +1725,7 @@ const mvDB = [
         "title": "當愛已成往事",
         "vid": "IKA47rEDVSs",
         "surname": "李",
-        "kid": "nVSNunWps3M"
+        "kid": "K7QCoz2rTSQ"
     },
     {
         "id": 7042,
@@ -1770,15 +1770,15 @@ const mvDB = [
     {
         "id": 7047,
         "artist": "李宗盛",
-        "title": "中越",
+        "title": "不必在乎我是誰",
         "vid": "p5V-1AZSua0",
         "surname": "李",
-        "kid": ""
+        "kid": "p5V-1AZSua0"
     },
     {
         "id": 7048,
         "artist": "李宗盛",
-        "title": "然後好幾年都聞不得",
+        "title": "給自己的歌『』",
         "vid": "UztZwsuRGG0",
         "surname": "李",
         "kid": ""
@@ -1813,7 +1813,7 @@ const mvDB = [
         "title": "讓我為你唱情歌",
         "vid": "atGbcYTjZCY",
         "surname": "蕭",
-        "kid": ""
+        "kid": "B_mIklxUSLU"
     },
     {
         "id": 7053,
@@ -1821,7 +1821,7 @@ const mvDB = [
         "title": "marry me",
         "vid": "HFnugU9kKlg",
         "surname": "蕭",
-        "kid": ""
+        "kid": "R5ZaI-BBzqM"
     },
     {
         "id": 7054,
@@ -1837,7 +1837,7 @@ const mvDB = [
         "title": "皮囊",
         "vid": "WNdB7rBpGhk",
         "surname": "蕭",
-        "kid": ""
+        "kid": "QnfA_N8PnBE"
     },
     {
         "id": 7056,
@@ -1845,7 +1845,7 @@ const mvDB = [
         "title": "會痛的石頭",
         "vid": "4RVl7b0X88Y",
         "surname": "蕭",
-        "kid": ""
+        "kid": "4RVl7b0X88Y"
     },
     {
         "id": 7057,
@@ -1853,7 +1853,7 @@ const mvDB = [
         "title": "阿飛的小蝴蝶",
         "vid": "vNR3MlBBDZo",
         "surname": "蕭",
-        "kid": ""
+        "kid": "vNR3MlBBDZo"
     },
     {
         "id": 7058,
@@ -1885,7 +1885,7 @@ const mvDB = [
         "title": "全是愛",
         "vid": "UlUy1f66lII",
         "surname": "蕭",
-        "kid": ""
+        "kid": "EHa1rsVKX2A"
     },
     {
         "id": 7062,
@@ -1893,7 +1893,7 @@ const mvDB = [
         "title": "你",
         "vid": "iK4k2-SGwBc",
         "surname": "蕭",
-        "kid": "Y-HZOFgDy00"
+        "kid": "OjcYphaTWjQ"
     },
     {
         "id": 7063,
@@ -1901,7 +1901,7 @@ const mvDB = [
         "title": "我不會愛",
         "vid": "v5q_W4W_Sz4",
         "surname": "蕭",
-        "kid": ""
+        "kid": "nu0EPKAcXvM"
     },
     {
         "id": 7064,
@@ -1925,7 +1925,7 @@ const mvDB = [
         "title": "王妃",
         "vid": "bpE6pP8dsOA",
         "surname": "蕭",
-        "kid": ""
+        "kid": "QywRAU__Fjc"
     },
     {
         "id": 7067,
@@ -1941,7 +1941,7 @@ const mvDB = [
         "title": "無言花",
         "vid": "ZEWUdqHLA_0",
         "surname": "蕭",
-        "kid": ""
+        "kid": "ZEWUdqHLA_0"
     },
     {
         "id": 7069,
@@ -2013,7 +2013,7 @@ const mvDB = [
         "title": "只能想念你",
         "vid": "VEYVQmgWsIg",
         "surname": "蕭",
-        "kid": ""
+        "kid": "9nZ2Ds8Nofg"
     },
     {
         "id": 7078,
@@ -2021,7 +2021,7 @@ const mvDB = [
         "title": "新不了情",
         "vid": "LVgZ80p1fdA",
         "surname": "蕭",
-        "kid": ""
+        "kid": "s1KSDUj0XSI"
     },
     {
         "id": 7079,
@@ -2045,7 +2045,7 @@ const mvDB = [
         "title": "好想對你說",
         "vid": "OjcYphaTWjQ",
         "surname": "蕭",
-        "kid": ""
+        "kid": "OjcYphaTWjQ"
     },
     {
         "id": 7082,
@@ -2053,7 +2053,7 @@ const mvDB = [
         "title": "疼愛",
         "vid": "UtzEEbF33Qk",
         "surname": "蕭",
-        "kid": ""
+        "kid": "_LOInq6qrN0"
     },
     {
         "id": 7083,
@@ -2077,7 +2077,7 @@ const mvDB = [
         "title": "怎麼說我不愛你",
         "vid": "Nfo7ayzhg2Q",
         "surname": "蕭",
-        "kid": ""
+        "kid": "ntJgm7Sy014"
     },
     {
         "id": 7086,
@@ -2085,7 +2085,7 @@ const mvDB = [
         "title": "原諒我",
         "vid": "yaDuOKA-NOg",
         "surname": "蕭",
-        "kid": ""
+        "kid": "8HgF0CDDV0Y"
     },
     {
         "id": 7087,
@@ -2109,7 +2109,7 @@ const mvDB = [
         "title": "你的樣子",
         "vid": "YAZSNlgnm7Y",
         "surname": "羅",
-        "kid": "dBF1QxkN1zU"
+        "kid": "YAZSNlgnm7Y"
     },
     {
         "id": 7090,
@@ -2133,7 +2133,7 @@ const mvDB = [
         "title": "東方之珠",
         "vid": "ylDCrnXNVMI",
         "surname": "羅",
-        "kid": "5scY7WOTrAo"
+        "kid": "DmnZYycHCaE"
     },
     {
         "id": 7093,
@@ -2157,7 +2157,7 @@ const mvDB = [
         "title": "戀曲1990",
         "vid": "GeNIpOsmEwA",
         "surname": "羅",
-        "kid": "ME2yisIxuKs"
+        "kid": "Pf5AccrPfpA"
     },
     {
         "id": 7096,
@@ -2165,7 +2165,7 @@ const mvDB = [
         "title": "鹿港小鎮",
         "vid": "Xgjny7YFMD4",
         "surname": "羅",
-        "kid": "FUp7b-V3MEA"
+        "kid": "4eKr7n0HyRc"
     },
     {
         "id": 7097,
@@ -2173,7 +2173,7 @@ const mvDB = [
         "title": "戀曲1980",
         "vid": "2nry60MCU8U",
         "surname": "羅",
-        "kid": "ZjQBjq3fGBs"
+        "kid": "5B0PGkLjv-8"
     },
     {
         "id": 7098,
@@ -2181,7 +2181,7 @@ const mvDB = [
         "title": "火車",
         "vid": "P2vtoQ7jPys",
         "surname": "羅",
-        "kid": "i1k_IUyJaYI"
+        "kid": "tLRBYVacnL8"
     },
     {
         "id": 7099,
@@ -2189,7 +2189,7 @@ const mvDB = [
         "title": "告別的年代",
         "vid": "hmnH33QR-hY",
         "surname": "羅",
-        "kid": "6FHNN83RNd8"
+        "kid": "1gNJ0kthD8s"
     },
     {
         "id": 7100,
@@ -2213,7 +2213,7 @@ const mvDB = [
         "title": "家",
         "vid": "L1oKHMKlc58",
         "surname": "羅",
-        "kid": ""
+        "kid": "r_Ue3Xwp6vM"
     },
     {
         "id": 7103,
@@ -2226,7 +2226,7 @@ const mvDB = [
     {
         "id": 7104,
         "artist": "羅大佑",
-        "title": "羅大佑",
+        "title": "首都",
         "vid": "Dvl7IEqtcz4",
         "surname": "羅",
         "kid": "dBF1QxkN1zU"
@@ -2237,7 +2237,7 @@ const mvDB = [
         "title": "皇后大道東",
         "vid": "m9v6VIj500I",
         "surname": "羅",
-        "kid": "eSBVo9XKmbY"
+        "kid": "zCLXGhK_5mY"
     },
     {
         "id": 7106,
@@ -2245,7 +2245,7 @@ const mvDB = [
         "title": "童年",
         "vid": "mRKTOZmX2cE",
         "surname": "羅",
-        "kid": "oKuCbkesdzU"
+        "kid": "M_JdcxKs3g8"
     },
     {
         "id": 7107,
@@ -2266,7 +2266,7 @@ const mvDB = [
     {
         "id": 7109,
         "artist": "羅大佑",
-        "title": "大家免著驚少年吔安啦",
+        "title": "大家免著驚#少年吔安啦",
         "vid": "gcJebFAvkgo",
         "surname": "羅",
         "kid": ""
@@ -2277,12 +2277,12 @@ const mvDB = [
         "title": "皇后大道東",
         "vid": "Sx2l5fgPm20",
         "surname": "羅",
-        "kid": "eSBVo9XKmbY"
+        "kid": "zCLXGhK_5mY"
     },
     {
         "id": 7111,
         "artist": "羅大佑",
-        "title": "2008新版",
+        "title": "片頭曲",
         "vid": "g_ZbXKP4Xxw",
         "surname": "羅",
         "kid": ""
@@ -2298,10 +2298,10 @@ const mvDB = [
     {
         "id": 7113,
         "artist": "羅大佑",
-        "title": "原唱",
+        "title": "戀曲1990",
         "vid": "We8jpThAHEU",
         "surname": "羅",
-        "kid": ""
+        "kid": "Pf5AccrPfpA"
     },
     {
         "id": 7114,
@@ -2357,7 +2357,7 @@ const mvDB = [
         "title": "最美的遺憾",
         "vid": "5BPH6FoiYuQ",
         "surname": "李",
-        "kid": "qD1Y6JCzhOQ"
+        "kid": "MV5nynsriEk"
     },
     {
         "id": 7121,
@@ -2389,7 +2389,7 @@ const mvDB = [
         "title": "很想說",
         "vid": "u4enXVaOAJ4",
         "surname": "李",
-        "kid": "8X4s1Bttr2U"
+        "kid": "J3gHe_AVoHw"
     },
     {
         "id": 7125,
@@ -2445,7 +2445,7 @@ const mvDB = [
         "title": "最近",
         "vid": "azOIvILpIW8",
         "surname": "李",
-        "kid": "x7UaDwIoUEY"
+        "kid": "7tVn0Xnz7Xs"
     },
     {
         "id": 7132,
@@ -2453,7 +2453,7 @@ const mvDB = [
         "title": "手放開",
         "vid": "g7xmoYFFduk",
         "surname": "李",
-        "kid": "uM8olO-lchM"
+        "kid": "n5EsPQu040U"
     },
     {
         "id": 7133,
@@ -2461,7 +2461,7 @@ const mvDB = [
         "title": "眼底星空",
         "vid": "VLp9Nb2dXW8",
         "surname": "李",
-        "kid": "Pc8vvMU--h4"
+        "kid": "0tgAgMHK1tQ"
     },
     {
         "id": 7134,
@@ -2485,7 +2485,7 @@ const mvDB = [
         "title": "關於妳的歌",
         "vid": "q-kU3Um3_wc",
         "surname": "李",
-        "kid": "s_bp4b3nTCs"
+        "kid": "e3zQTSRXI2I"
     },
     {
         "id": 7137,
@@ -2501,7 +2501,7 @@ const mvDB = [
         "title": "不顧一切的愛",
         "vid": "aWU-jXskOOE",
         "surname": "李",
-        "kid": ""
+        "kid": "ebuSWXuKJpI"
     },
     {
         "id": 7139,
@@ -2557,7 +2557,7 @@ const mvDB = [
         "title": "切歌",
         "vid": "gJzSJ8C-PTk",
         "surname": "李",
-        "kid": ""
+        "kid": "gJzSJ8C-PTk"
     },
     {
         "id": 7146,
@@ -2565,7 +2565,7 @@ const mvDB = [
         "title": "靠近",
         "vid": "WUhZz2RNsRg",
         "surname": "李",
-        "kid": "lPByvHLUBJU"
+        "kid": "KsKM8Wd-PMQ"
     },
     {
         "id": 7147,
@@ -2613,7 +2613,7 @@ const mvDB = [
         "title": "我是一隻小小鳥",
         "vid": "9eN9I6E-8xI",
         "surname": "趙",
-        "kid": "JYUDfIFIeAo"
+        "kid": "CjPgu5g-FgU"
     },
     {
         "id": 7153,
@@ -2677,7 +2677,7 @@ const mvDB = [
         "title": "我終於失去了妳",
         "vid": "67p_MAZUnvE",
         "surname": "趙",
-        "kid": "DDJ4eP2-2uM"
+        "kid": "63pCHlf1oYs"
     },
     {
         "id": 7161,
@@ -2685,7 +2685,7 @@ const mvDB = [
         "title": "勇敢一點",
         "vid": "bfPCrzao5bU",
         "surname": "趙",
-        "kid": "vtgAb-lE_hQ"
+        "kid": "dkwTEeaIuUw"
     },
     {
         "id": 7162,
@@ -2693,7 +2693,7 @@ const mvDB = [
         "title": "我很醜，可是我很溫柔",
         "vid": "EdsWaWQhZ08",
         "surname": "趙",
-        "kid": ""
+        "kid": "EdsWaWQhZ08"
     },
     {
         "id": 7163,
@@ -2701,7 +2701,7 @@ const mvDB = [
         "title": "努力活著",
         "vid": "gSpaoNrlReA",
         "surname": "趙",
-        "kid": ""
+        "kid": "gSpaoNrlReA"
     },
     {
         "id": 7164,
@@ -2717,7 +2717,7 @@ const mvDB = [
         "title": "成全",
         "vid": "-H-1qpow-Ec",
         "surname": "趙",
-        "kid": ""
+        "kid": "ynHPFSmzqlM"
     },
     {
         "id": 7166,
@@ -2749,7 +2749,7 @@ const mvDB = [
         "title": "心動的感覺",
         "vid": "zQ3sgR77RCc",
         "surname": "趙",
-        "kid": ""
+        "kid": "37iqnSxZ6kk"
     },
     {
         "id": 7170,
@@ -2781,7 +2781,7 @@ const mvDB = [
         "title": "給所有知道我名字的人",
         "vid": "RyEuElp6D9M",
         "surname": "趙",
-        "kid": "6_YOv34_MAA"
+        "kid": "jrEId2mvhbM"
     },
     {
         "id": 7174,
@@ -2789,7 +2789,7 @@ const mvDB = [
         "title": "how could i tell you that i love you",
         "vid": "tcMKrWwvgX0",
         "surname": "趙",
-        "kid": ""
+        "kid": "tcMKrWwvgX0"
     },
     {
         "id": 7175,
@@ -2805,7 +2805,7 @@ const mvDB = [
         "title": "愛要怎麼說出口",
         "vid": "PQhgAhRbekM",
         "surname": "趙",
-        "kid": "ZhKxHG12LYw"
+        "kid": "ZGhy2bWYPf4"
     },
     {
         "id": 7177,
@@ -2813,7 +2813,7 @@ const mvDB = [
         "title": "愛要怎麼說出口",
         "vid": "__2BendIVjs",
         "surname": "趙",
-        "kid": "ZhKxHG12LYw"
+        "kid": "ZGhy2bWYPf4"
     },
     {
         "id": 7178,
@@ -2826,18 +2826,18 @@ const mvDB = [
     {
         "id": 7179,
         "artist": "趙傳",
-        "title": "produc英勇勳章（歌曲）氛圍版",
+        "title": "produc英勇勳章（歌曲）氛圍",
         "vid": "43RWkMwUB_M",
         "surname": "趙",
-        "kid": ""
+        "kid": "43RWkMwUB_M"
     },
     {
         "id": 7180,
         "artist": "趙傳",
-        "title": "原唱",
+        "title": "我是一隻小小鳥",
         "vid": "z_f6iLG4sCE",
         "surname": "趙",
-        "kid": "ZhKxHG12LYw"
+        "kid": "CjPgu5g-FgU"
     },
     {
         "id": 7181,
@@ -2853,7 +2853,7 @@ const mvDB = [
         "title": "我的心好亂",
         "vid": "6isd5Ox6bag",
         "surname": "趙",
-        "kid": "fedPpeLB7nw"
+        "kid": "DhZs7SmeeTQ"
     },
     {
         "id": 7183,
@@ -2861,7 +2861,7 @@ const mvDB = [
         "title": "白鴿",
         "vid": "lNuXbIfwXP4",
         "surname": "伍",
-        "kid": "TK7LAkR7Njw"
+        "kid": "lNuXbIfwXP4"
     },
     {
         "id": 7184,
@@ -2877,7 +2877,7 @@ const mvDB = [
         "title": "挪威的森林",
         "vid": "gPpZJlE0Ca8",
         "surname": "伍",
-        "kid": "neMi1dIo8ls"
+        "kid": "wQlAffX-3cM"
     },
     {
         "id": 7186,
@@ -2885,7 +2885,7 @@ const mvDB = [
         "title": "浪人情歌",
         "vid": "OPkqtboFFYI",
         "surname": "伍",
-        "kid": "WFbvNb1hDkM"
+        "kid": "OPkqtboFFYI"
     },
     {
         "id": 7187,
@@ -2893,7 +2893,7 @@ const mvDB = [
         "title": "last dance",
         "vid": "7jYDYon4sGQ",
         "surname": "伍",
-        "kid": "Txv0-fctu1Q"
+        "kid": "7jYDYon4sGQ"
     },
     {
         "id": 7188,
@@ -2901,7 +2901,7 @@ const mvDB = [
         "title": "愛你一萬年",
         "vid": "CgAJAmP14kQ",
         "surname": "伍",
-        "kid": "1AFpUUR6rP4"
+        "kid": "e2riFnJ73Vo"
     },
     {
         "id": 7189,
@@ -2909,7 +2909,7 @@ const mvDB = [
         "title": "心愛的再會啦",
         "vid": "kEXCoQNY6Mc",
         "surname": "伍",
-        "kid": "TiDSkrAYuko"
+        "kid": "kEXCoQNY6Mc"
     },
     {
         "id": 7190,
@@ -2917,7 +2917,7 @@ const mvDB = [
         "title": "愛情限時批",
         "vid": "JJhlRIN90YY",
         "surname": "伍",
-        "kid": "ELEuM641NBE"
+        "kid": "zuPYriMlnMI"
     },
     {
         "id": 7191,
@@ -2933,7 +2933,7 @@ const mvDB = [
         "title": "牽掛",
         "vid": "WsAwDBG6Kk8",
         "surname": "伍",
-        "kid": "HSi0N5Hn5M8"
+        "kid": "WsAwDBG6Kk8"
     },
     {
         "id": 7193,
@@ -2941,7 +2941,7 @@ const mvDB = [
         "title": "世界第一等",
         "vid": "jPu3u8kfxCw",
         "surname": "伍",
-        "kid": "K5WssXAJolw"
+        "kid": "jPu3u8kfxCw"
     },
     {
         "id": 7194,
@@ -2949,7 +2949,7 @@ const mvDB = [
         "title": "被動",
         "vid": "yGoHsTV6QrE",
         "surname": "伍",
-        "kid": "SpRjq6uOHyk"
+        "kid": "yGoHsTV6QrE"
     },
     {
         "id": 7195,
@@ -2957,7 +2957,7 @@ const mvDB = [
         "title": "飛在風中的小雨",
         "vid": "YRMg3smsZTo",
         "surname": "伍",
-        "kid": ""
+        "kid": "tY5zu0NeM5g"
     },
     {
         "id": 7196,
@@ -2981,7 +2981,7 @@ const mvDB = [
         "title": "墓仔埔也敢去",
         "vid": "IE06OrYg_qk",
         "surname": "伍",
-        "kid": ""
+        "kid": "IE06OrYg_qk"
     },
     {
         "id": 7199,
@@ -2989,7 +2989,7 @@ const mvDB = [
         "title": "夢醒時分",
         "vid": "zC_jePO5sCA",
         "surname": "伍",
-        "kid": ""
+        "kid": "MLFx2gj18B0"
     },
     {
         "id": 7200,
@@ -2997,7 +2997,7 @@ const mvDB = [
         "title": "一生最愛的人",
         "vid": "zxoL-eYz-dk",
         "surname": "伍",
-        "kid": "IF5u1ndiT0I"
+        "kid": "zxoL-eYz-dk"
     },
     {
         "id": 7201,
@@ -3005,7 +3005,7 @@ const mvDB = [
         "title": "素蘭小姐要出嫁",
         "vid": "FAI7PgIQMo8",
         "surname": "伍",
-        "kid": ""
+        "kid": "I3j9oyD5rxI"
     },
     {
         "id": 7202,
@@ -3021,7 +3021,7 @@ const mvDB = [
         "title": "楓葉",
         "vid": "AkBKzjlCNX0",
         "surname": "伍",
-        "kid": ""
+        "kid": "AkBKzjlCNX0"
     },
     {
         "id": 7204,
@@ -3045,7 +3045,7 @@ const mvDB = [
         "title": "秋風夜雨",
         "vid": "a__QJ39ba1o",
         "surname": "伍",
-        "kid": ""
+        "kid": "a__QJ39ba1o"
     },
     {
         "id": 7207,
@@ -3061,7 +3061,7 @@ const mvDB = [
         "title": "衝衝衝",
         "vid": "lGF2QrDLXCM",
         "surname": "伍",
-        "kid": "Q7dmdkRZh2M"
+        "kid": "mBDkWH_YdyI"
     },
     {
         "id": 7209,
@@ -3157,7 +3157,7 @@ const mvDB = [
         "title": "淚橋",
         "vid": "x-pCAngjeOw",
         "surname": "伍",
-        "kid": "pv9IIaXHsvA"
+        "kid": "znFPwLDlYzg"
     },
     {
         "id": 7221,
@@ -3173,7 +3173,7 @@ const mvDB = [
         "title": "最後一堂課",
         "vid": "eZh1mC1vPgw",
         "surname": "周",
-        "kid": "CBqRp3kRhhA"
+        "kid": "kaTx9Vf7a5U"
     },
     {
         "id": 7223,
@@ -3189,7 +3189,7 @@ const mvDB = [
         "title": "不喜歡沒有你的地方",
         "vid": "UihvcESfV3Y",
         "surname": "周",
-        "kid": "5IHG2cNeoNc"
+        "kid": "U28hsRi7GGA"
     },
     {
         "id": 7225,
@@ -3245,7 +3245,7 @@ const mvDB = [
         "title": "以後別做朋友",
         "vid": "Ew4VvF0DPMc",
         "surname": "周",
-        "kid": "I5fdwR7k3TI"
+        "kid": "75oWqWxQiWI"
     },
     {
         "id": 7232,
@@ -3253,7 +3253,7 @@ const mvDB = [
         "title": "你有念大學嗎？",
         "vid": "Y2ge3KrdeWs",
         "surname": "周",
-        "kid": "RWzhXt8zWaw"
+        "kid": "wpc89JqlHLM"
     },
     {
         "id": 7233,
@@ -3261,7 +3261,7 @@ const mvDB = [
         "title": "永不失聯的愛",
         "vid": "WJK8486VjfU",
         "surname": "周",
-        "kid": "3mb6wBKtVUs"
+        "kid": "T4meeyYLW08"
     },
     {
         "id": 7234,
@@ -3269,7 +3269,7 @@ const mvDB = [
         "title": "你不屬於我",
         "vid": "6O_Zx9St9ik",
         "surname": "周",
-        "kid": "p0HuxiuYEwg"
+        "kid": "ManDqheuMGQ"
     },
     {
         "id": 7235,
@@ -3277,7 +3277,7 @@ const mvDB = [
         "title": "終於了解自由",
         "vid": "BVK_Q6KZSUI",
         "surname": "周",
-        "kid": ""
+        "kid": "6jAQS1YoHaQ"
     },
     {
         "id": 7236,
@@ -3285,7 +3285,7 @@ const mvDB = [
         "title": "我很快樂",
         "vid": "Ezd_DLawfHI",
         "surname": "周",
-        "kid": "DahdR5tpUHA"
+        "kid": "V4LxwIv2EZg"
     },
     {
         "id": 7237,
@@ -3301,7 +3301,7 @@ const mvDB = [
         "title": "愛情教會我們的事",
         "vid": "k8A3aQhOfqc",
         "surname": "周",
-        "kid": "GYMRiCoNSro"
+        "kid": "_whUYK4-usw"
     },
     {
         "id": 7239,
@@ -3317,7 +3317,7 @@ const mvDB = [
         "title": "離開你以後",
         "vid": "37uw4W2MwgU",
         "surname": "周",
-        "kid": ""
+        "kid": "dEClf-pMjhQ"
     },
     {
         "id": 7241,
@@ -3434,7 +3434,7 @@ const mvDB = [
     {
         "id": 7255,
         "artist": "周興哲",
-        "title": "without her",
+        "title": "out her",
         "vid": "_NvtTYT7nws",
         "surname": "周",
         "kid": ""
@@ -3453,7 +3453,7 @@ const mvDB = [
         "title": "想知道你在想什麼",
         "vid": "kiSYRbMn67I",
         "surname": "周",
-        "kid": "D5T4f_qD4dE"
+        "kid": "lPD7u_kksyM"
     },
     {
         "id": 7258,
@@ -3466,10 +3466,10 @@ const mvDB = [
     {
         "id": 7259,
         "artist": "周興哲",
-        "title": "摯友 - a-lin",
+        "title": "摯友",
         "vid": "Kec43PcGg7I",
         "surname": "周",
-        "kid": ""
+        "kid": "-feTvCNeo0Y"
     },
     {
         "id": 7260,
@@ -3477,7 +3477,7 @@ const mvDB = [
         "title": "摯友",
         "vid": "Mps2ns2rRuE",
         "surname": "周",
-        "kid": ""
+        "kid": "-feTvCNeo0Y"
     },
     {
         "id": 7261,
@@ -3485,7 +3485,7 @@ const mvDB = [
         "title": "沒事的",
         "vid": "2t6hJEQ3Ubs",
         "surname": "蕭",
-        "kid": ""
+        "kid": "2t6hJEQ3Ubs"
     },
     {
         "id": 7262,
@@ -3509,7 +3509,7 @@ const mvDB = [
         "title": "你攏無咧看",
         "vid": "qCaQMPAa8fs",
         "surname": "蕭",
-        "kid": ""
+        "kid": "qCaQMPAa8fs"
     },
     {
         "id": 7265,
@@ -3517,7 +3517,7 @@ const mvDB = [
         "title": "寂寞而已",
         "vid": "CwVnQrOAvI4",
         "surname": "蕭",
-        "kid": ""
+        "kid": "CwVnQrOAvI4"
     },
     {
         "id": 7266,
@@ -3525,7 +3525,7 @@ const mvDB = [
         "title": "思念會驚",
         "vid": "EtRr4LwcvcI",
         "surname": "蕭",
-        "kid": ""
+        "kid": "EaKk83vTyAM"
     },
     {
         "id": 7267,
@@ -3533,7 +3533,7 @@ const mvDB = [
         "title": "做一個惜情軟心的人",
         "vid": "WJ_7K6LBets",
         "surname": "蕭",
-        "kid": "tPEk31hPLOU"
+        "kid": "WJ_7K6LBets"
     },
     {
         "id": 7268,
@@ -3541,7 +3541,7 @@ const mvDB = [
         "title": "上水的花",
         "vid": "W4dOifzE6R4",
         "surname": "蕭",
-        "kid": "uIzHfAtLDQA"
+        "kid": "W4dOifzE6R4"
     },
     {
         "id": 7269,
@@ -3549,7 +3549,7 @@ const mvDB = [
         "title": "命運點歌",
         "vid": "DP3TSMhKZnk",
         "surname": "蕭",
-        "kid": "4leBcwEK8xU"
+        "kid": "HirHMCLphWw"
     },
     {
         "id": 7270,
@@ -3557,7 +3557,7 @@ const mvDB = [
         "title": "銀角仔",
         "vid": "fh_gSLX9QI4",
         "surname": "蕭",
-        "kid": "VSRA_DGIZWI"
+        "kid": "fh_gSLX9QI4"
     },
     {
         "id": 7271,
@@ -3573,7 +3573,7 @@ const mvDB = [
         "title": "寫一條歌，寫你我爾爾",
         "vid": "I9ubijMNO3U",
         "surname": "蕭",
-        "kid": "VKYDLq4AWJw"
+        "kid": "I9ubijMNO3U"
     },
     {
         "id": 7273,
@@ -3589,7 +3589,7 @@ const mvDB = [
         "title": "送予你的歌",
         "vid": "uwBpXyWGDh4",
         "surname": "蕭",
-        "kid": ""
+        "kid": "dIQlaFNW9e4"
     },
     {
         "id": 7275,
@@ -3597,7 +3597,7 @@ const mvDB = [
         "title": "慢冷",
         "vid": "MpsJEL5Wd_k",
         "surname": "蕭",
-        "kid": ""
+        "kid": "MpsJEL5Wd_k"
     },
     {
         "id": 7276,
@@ -3613,7 +3613,7 @@ const mvDB = [
         "title": "思念會驚",
         "vid": "wRwG_z1SzAk",
         "surname": "蕭",
-        "kid": ""
+        "kid": "EaKk83vTyAM"
     },
     {
         "id": 7278,
@@ -3621,7 +3621,7 @@ const mvDB = [
         "title": "內傷",
         "vid": "-Zp5YtwBfFA",
         "surname": "蕭",
-        "kid": ""
+        "kid": "Yu2KJMxT1xw"
     },
     {
         "id": 7279,
@@ -3637,7 +3637,7 @@ const mvDB = [
         "title": "情路無尾巷",
         "vid": "-B28iXJFA04",
         "surname": "蕭",
-        "kid": ""
+        "kid": "I2QkQkYQRFE"
     },
     {
         "id": 7281,
@@ -3661,7 +3661,7 @@ const mvDB = [
         "title": "你是我的眼",
         "vid": "38PfFtrLNi4",
         "surname": "蕭",
-        "kid": "MNK4j5_SLZQ"
+        "kid": "ecO-1n868u4"
     },
     {
         "id": 7284,
@@ -3701,7 +3701,7 @@ const mvDB = [
         "title": "讓",
         "vid": "RJalrxa0Gyc",
         "surname": "蕭",
-        "kid": ""
+        "kid": "RJalrxa0Gyc"
     },
     {
         "id": 7289,
@@ -3741,7 +3741,7 @@ const mvDB = [
         "title": "你置佗",
         "vid": "C5DN8bBsI5M",
         "surname": "蕭",
-        "kid": ""
+        "kid": "C5DN8bBsI5M"
     },
     {
         "id": 7294,
@@ -3765,7 +3765,7 @@ const mvDB = [
         "title": "查某囡仔",
         "vid": "N_nVqAlCRgc",
         "surname": "蕭",
-        "kid": ""
+        "kid": "N_nVqAlCRgc"
     },
     {
         "id": 7297,
@@ -3773,7 +3773,7 @@ const mvDB = [
         "title": "只能勇敢",
         "vid": "eSFFvoObdEc",
         "surname": "蕭",
-        "kid": ""
+        "kid": "eSFFvoObdEc"
     },
     {
         "id": 7298,
@@ -3781,7 +3781,7 @@ const mvDB = [
         "title": "末班車",
         "vid": "bDZ2pcn_V4c",
         "surname": "蕭",
-        "kid": "mZbXRV3JX2E"
+        "kid": "bDZ2pcn_V4c"
     },
     {
         "id": 7299,
@@ -3794,7 +3794,7 @@ const mvDB = [
     {
         "id": 7300,
         "artist": "蕭煌奇",
-        "title": "導唱",
+        "title": "阿嬤的話",
         "vid": "xqI3wiWKCgk",
         "surname": "蕭",
         "kid": "6hWPdkPBcWc"
@@ -3805,7 +3805,7 @@ const mvDB = [
         "title": "天空沒有極限",
         "vid": "BG6p-7zBkvY",
         "surname": "G",
-        "kid": "Bd17xW5UAKA"
+        "kid": "ZMGaG2K6_7o"
     },
     {
         "id": 7302,
@@ -3821,7 +3821,7 @@ const mvDB = [
         "title": "你不是第一個離開的人",
         "vid": "F4vGFscB_fg",
         "surname": "G",
-        "kid": ""
+        "kid": "RSL5WcPxZso"
     },
     {
         "id": 7304,
@@ -3829,7 +3829,7 @@ const mvDB = [
         "title": "hell",
         "vid": "JflOKxCx97o",
         "surname": "G",
-        "kid": ""
+        "kid": "zQPpo570VMI"
     },
     {
         "id": 7305,
@@ -3837,7 +3837,7 @@ const mvDB = [
         "title": "find you",
         "vid": "1YWmCiWCxlE",
         "surname": "G",
-        "kid": ""
+        "kid": "KijLPHP7Yz8"
     },
     {
         "id": 7306,
@@ -3845,7 +3845,7 @@ const mvDB = [
         "title": "冰河時代",
         "vid": "hwENuZHFTj0",
         "surname": "G",
-        "kid": ""
+        "kid": "u4qyox7GipQ"
     },
     {
         "id": 7307,
@@ -3853,7 +3853,7 @@ const mvDB = [
         "title": "倒數",
         "vid": "ma7r2HGqwXs",
         "surname": "G",
-        "kid": ""
+        "kid": "z1Dq05oFd68"
     },
     {
         "id": 7308,
@@ -3861,7 +3861,7 @@ const mvDB = [
         "title": "來自天堂的魔鬼",
         "vid": "FWtbGkpdoP4",
         "surname": "G",
-        "kid": ""
+        "kid": "vawwX-aJCDQ"
     },
     {
         "id": 7309,
@@ -3869,7 +3869,7 @@ const mvDB = [
         "title": "喜歡你",
         "vid": "4OqXWzekVw4",
         "surname": "G",
-        "kid": "WYaBAJokqaw"
+        "kid": "4oR8aIveorQ"
     },
     {
         "id": 7310,
@@ -3893,7 +3893,7 @@ const mvDB = [
         "title": "差不多姑娘",
         "vid": "s4pxJ-1QLQg",
         "surname": "G",
-        "kid": "QSb7mTU9KL0"
+        "kid": "s4pxJ-1QLQg"
     },
     {
         "id": 7313,
@@ -3901,7 +3901,7 @@ const mvDB = [
         "title": "岩石裡的花",
         "vid": "I1Kx8Ii4eYk",
         "surname": "G",
-        "kid": ""
+        "kid": "D_NQ7DgeZnw"
     },
     {
         "id": 7314,
@@ -3917,7 +3917,7 @@ const mvDB = [
         "title": "你不是真正的快樂",
         "vid": "6dwbkrAKpvY",
         "surname": "G",
-        "kid": ""
+        "kid": "IRClOQWzd6U"
     },
     {
         "id": 7316,
@@ -3925,7 +3925,7 @@ const mvDB = [
         "title": "摩天動物園",
         "vid": "A6gIat5xLWI",
         "surname": "G",
-        "kid": ""
+        "kid": "A6gIat5xLWI"
     },
     {
         "id": 7317,
@@ -3957,7 +3957,7 @@ const mvDB = [
         "title": "孤獨",
         "vid": "CvgNQmXqX9M",
         "surname": "G",
-        "kid": ""
+        "kid": "rKI7HgcR9LU"
     },
     {
         "id": 7321,
@@ -4005,7 +4005,7 @@ const mvDB = [
         "title": "透明",
         "vid": "-CwoylxqVPA",
         "surname": "G",
-        "kid": ""
+        "kid": "-CwoylxqVPA"
     },
     {
         "id": 7327,
@@ -4013,7 +4013,7 @@ const mvDB = [
         "title": "光年之外",
         "vid": "T4SimnaiktU",
         "surname": "G",
-        "kid": "UbWc360WINA"
+        "kid": "Kf2anWBKJeQ"
     },
     {
         "id": 7328,
@@ -4074,10 +4074,10 @@ const mvDB = [
     {
         "id": 7335,
         "artist": "G.E.M.鄧紫棋",
-        "title": "愛你",
+        "title": "鄧紫棋",
         "vid": "-gaB9ov-Om0",
         "surname": "G",
-        "kid": "OFmPcMg5jFE"
+        "kid": "4sPO2hHPOSY"
     },
     {
         "id": 7336,
@@ -4085,7 +4085,7 @@ const mvDB = [
         "title": "不夠善良的我們",
         "vid": "YTGfurwqHgY",
         "surname": "蔡",
-        "kid": "ecD9vz6flsE"
+        "kid": "YTGfurwqHgY"
     },
     {
         "id": 7337,
@@ -4117,7 +4117,7 @@ const mvDB = [
         "title": "讓浪漫作主",
         "vid": "paecvB1-uPE",
         "surname": "蔡",
-        "kid": ""
+        "kid": "FyyUrKFW6I0"
     },
     {
         "id": 7341,
@@ -4141,7 +4141,7 @@ const mvDB = [
         "title": "別找我麻煩",
         "vid": "Ua9DKclFKLA",
         "surname": "蔡",
-        "kid": "NWEKaZ6GGA8"
+        "kid": "OP2LjxWvj1g"
     },
     {
         "id": 7344,
@@ -4149,7 +4149,7 @@ const mvDB = [
         "title": "墜落",
         "vid": "hPShCoap2Cw",
         "surname": "蔡",
-        "kid": "bv3_mEyi5sQ"
+        "kid": "EJMs704ffr8"
     },
     {
         "id": 7345,
@@ -4189,7 +4189,7 @@ const mvDB = [
         "title": "說到愛",
         "vid": "uCAawcMfyvc",
         "surname": "蔡",
-        "kid": ""
+        "kid": "RbctVq2SZ_A"
     },
     {
         "id": 7350,
@@ -4197,7 +4197,7 @@ const mvDB = [
         "title": "beautiful love",
         "vid": "-QOFyrYTk4w",
         "surname": "蔡",
-        "kid": "_V5oYtUlpAw"
+        "kid": "wOH7cHvcYEM"
     },
     {
         "id": 7351,
@@ -4269,7 +4269,7 @@ const mvDB = [
         "title": "誰",
         "vid": "0ROch80boOs",
         "surname": "蔡",
-        "kid": ""
+        "kid": "_tS-v9KTnOc"
     },
     {
         "id": 7360,
@@ -4306,7 +4306,7 @@ const mvDB = [
     {
         "id": 7364,
         "artist": "蔡健雅",
-        "title": "完整放映",
+        "title": "mv完整放映",
         "vid": "116OjLa1DwY",
         "surname": "蔡",
         "kid": "vQ8yrHdobJI"
@@ -4317,7 +4317,7 @@ const mvDB = [
         "title": "拋物線",
         "vid": "yrAwLIcgPlY",
         "surname": "蔡",
-        "kid": "DTYrkJMb3U4"
+        "kid": "yrAwLIcgPlY"
     },
     {
         "id": 7366,
@@ -4325,7 +4325,7 @@ const mvDB = [
         "title": "空白格",
         "vid": "K27Y_f6BXVs",
         "surname": "蔡",
-        "kid": "m0qdImm60_4"
+        "kid": "G8uBQvgrO7I"
     },
     {
         "id": 7367,
@@ -4341,7 +4341,7 @@ const mvDB = [
         "title": "原點",
         "vid": "rrmkDqO5-XI",
         "surname": "蔡",
-        "kid": "ndMz43bSDRw"
+        "kid": "illHdSTK_fo"
     },
     {
         "id": 7369,
@@ -4349,7 +4349,7 @@ const mvDB = [
         "title": "達爾文",
         "vid": "Fkc4mgo1p6A",
         "surname": "蔡",
-        "kid": "ZSMvsaNTmbw"
+        "kid": "ejYv2iKwYpY"
     },
     {
         "id": 7370,
@@ -4370,7 +4370,7 @@ const mvDB = [
     {
         "id": 7372,
         "artist": "蔡健雅",
-        "title": "你像窩在被子裡的舒服",
+        "title": "紅色高跟鞋『』",
         "vid": "IIFtASwv5PI",
         "surname": "蔡",
         "kid": ""
@@ -4378,10 +4378,10 @@ const mvDB = [
     {
         "id": 7373,
         "artist": "蔡健雅",
-        "title": "在",
+        "title": "越來越不懂",
         "vid": "e6QeBNnTNWE",
         "surname": "蔡",
-        "kid": ""
+        "kid": "_yeA0EDzL20"
     },
     {
         "id": 7374,
@@ -4405,7 +4405,7 @@ const mvDB = [
         "title": "呼吸有害",
         "vid": "rWNgAbfpWYs",
         "surname": "莫",
-        "kid": "yp_fHDq0lJM"
+        "kid": "0jB7Hio-oT8"
     },
     {
         "id": 7377,
@@ -4413,7 +4413,7 @@ const mvDB = [
         "title": "愛情",
         "vid": "Ygr1OOh8hvI",
         "surname": "莫",
-        "kid": "k6bt_-ozlKs"
+        "kid": "61MtjleXRAo"
     },
     {
         "id": 7378,
@@ -4421,7 +4421,7 @@ const mvDB = [
         "title": "慢慢喜歡你",
         "vid": "kqqraGvoqVs",
         "surname": "莫",
-        "kid": "Hbhpml4OLZU"
+        "kid": "lr5yWLKL0Ss"
     },
     {
         "id": 7379,
@@ -4429,7 +4429,7 @@ const mvDB = [
         "title": "寂寞的戀人啊",
         "vid": "Z_AKZR9hWeo",
         "surname": "莫",
-        "kid": ""
+        "kid": "f2NgLv7L7h8"
     },
     {
         "id": 7380,
@@ -4533,7 +4533,7 @@ const mvDB = [
         "title": "當你老了",
         "vid": "AlHQ6wlOouk",
         "surname": "莫",
-        "kid": "dyyQNRLO0aI"
+        "kid": "2PJa2il10qc"
     },
     {
         "id": 7393,
@@ -4541,7 +4541,7 @@ const mvDB = [
         "title": "他不愛我",
         "vid": "nuWIJIn7wkw",
         "surname": "莫",
-        "kid": "P16Rk55umB8"
+        "kid": "nuWIJIn7wkw"
     },
     {
         "id": 7394,
@@ -4557,7 +4557,7 @@ const mvDB = [
         "title": "陰天",
         "vid": "tYWufUugeUc",
         "surname": "莫",
-        "kid": "022ws-g_A3I"
+        "kid": "tYWufUugeUc"
     },
     {
         "id": 7396,
@@ -4565,7 +4565,7 @@ const mvDB = [
         "title": "電台情歌",
         "vid": "YCJOsXAYlrY",
         "surname": "莫",
-        "kid": "u0sgmDN1lSY"
+        "kid": "YCJOsXAYlrY"
     },
     {
         "id": 7397,
@@ -4581,7 +4581,7 @@ const mvDB = [
         "title": "真的嗎",
         "vid": "Txz-q0NlNZ8",
         "surname": "莫",
-        "kid": ""
+        "kid": "IPjRO3YwwRI"
     },
     {
         "id": 7399,
@@ -4613,7 +4613,7 @@ const mvDB = [
         "title": "沒時間",
         "vid": "GjSnE6j-jOM",
         "surname": "莫",
-        "kid": ""
+        "kid": "LCrN2TmKsko"
     },
     {
         "id": 7403,
@@ -4645,7 +4645,7 @@ const mvDB = [
         "title": "十二樓",
         "vid": "wK5yJBtHwI4",
         "surname": "莫",
-        "kid": ""
+        "kid": "M7qFTIzSkeQ"
     },
     {
         "id": 7407,
@@ -4717,7 +4717,7 @@ const mvDB = [
         "title": "夢一場",
         "vid": "oQpktYKlKXU",
         "surname": "那",
-        "kid": "lZuldjJMtXk"
+        "kid": "s7uFEqosUG0"
     },
     {
         "id": 7416,
@@ -4725,7 +4725,7 @@ const mvDB = [
         "title": "愛上你等於愛上寂寞",
         "vid": "3Jr0jtL1Vwk",
         "surname": "那",
-        "kid": "iK49Tv3fRFU"
+        "kid": "3Jr0jtL1Vwk"
     },
     {
         "id": 7417,
@@ -4733,7 +4733,7 @@ const mvDB = [
         "title": "征服",
         "vid": "jrLil3-x_9Y",
         "surname": "那",
-        "kid": "UtrE9HVnWgU"
+        "kid": "Wx7zDTEefiU"
     },
     {
         "id": 7418,
@@ -4765,7 +4765,7 @@ const mvDB = [
         "title": "白天不懂夜的黑",
         "vid": "KheDK8lO0Qc",
         "surname": "那",
-        "kid": "pubTm4zu3fA"
+        "kid": "7uO7U-ZrCcM"
     },
     {
         "id": 7422,
@@ -4781,7 +4781,7 @@ const mvDB = [
         "title": "夢醒了",
         "vid": "1AujaLdHm74",
         "surname": "那",
-        "kid": ""
+        "kid": "1AujaLdHm74"
     },
     {
         "id": 7424,
@@ -4821,7 +4821,7 @@ const mvDB = [
         "title": "偏心",
         "vid": "ZitoMbQuxKY",
         "surname": "那",
-        "kid": ""
+        "kid": "nW6Ofl7wHpM"
     },
     {
         "id": 7429,
@@ -4829,7 +4829,7 @@ const mvDB = [
         "title": "相見不如懷念",
         "vid": "nF_s4lxspKM",
         "surname": "那",
-        "kid": ""
+        "kid": "nF_s4lxspKM"
     },
     {
         "id": 7430,
@@ -4877,7 +4877,7 @@ const mvDB = [
         "title": "乾脆",
         "vid": "z8P7Pd4YFm0",
         "surname": "那",
-        "kid": ""
+        "kid": "OZUc0uymcFw"
     },
     {
         "id": 7436,
@@ -4890,10 +4890,10 @@ const mvDB = [
     {
         "id": 7437,
         "artist": "那英",
-        "title": "超高無損音質",
+        "title": "默",
         "vid": "heUq2v88Z9Q",
         "surname": "那",
-        "kid": ""
+        "kid": "BwL7sS6D7WQ"
     },
     {
         "id": 7438,
@@ -4922,10 +4922,10 @@ const mvDB = [
     {
         "id": 7441,
         "artist": "那英",
-        "title": "歌詞板",
+        "title": "白天不懂夜的黑",
         "vid": "2eoA4tlpF04",
         "surname": "那",
-        "kid": ""
+        "kid": "7uO7U-ZrCcM"
     },
     {
         "id": 7442,
@@ -4957,7 +4957,7 @@ const mvDB = [
         "title": "可惜不是你",
         "vid": "k_l7FVsqUyM",
         "surname": "梁",
-        "kid": "ClFBkSp66GM"
+        "kid": "gN7KE40YKDs"
     },
     {
         "id": 7446,
@@ -4965,7 +4965,7 @@ const mvDB = [
         "title": "愛久見人心",
         "vid": "RkQy3NlG1eo",
         "surname": "梁",
-        "kid": "9QbO_OdA9as"
+        "kid": "RkQy3NlG1eo"
     },
     {
         "id": 7447,
@@ -4986,10 +4986,10 @@ const mvDB = [
     {
         "id": 7449,
         "artist": "梁靜茹",
-        "title": "to",
+        "title": "慢冷",
         "vid": "TpF0wNlopp8",
         "surname": "梁",
-        "kid": ""
+        "kid": "jGwOQTn2tE8"
     },
     {
         "id": 7450,
@@ -4997,7 +4997,7 @@ const mvDB = [
         "title": "寧夏",
         "vid": "MmtVl9CssYE",
         "surname": "梁",
-        "kid": "492tDhwInL0"
+        "kid": "cL_HTV8YYqQ"
     },
     {
         "id": 7451,
@@ -5005,7 +5005,7 @@ const mvDB = [
         "title": "我好嗎",
         "vid": "NzbIolOSWto",
         "surname": "梁",
-        "kid": ""
+        "kid": "nAjZPLYDcyg"
     },
     {
         "id": 7452,
@@ -5013,7 +5013,7 @@ const mvDB = [
         "title": "如果有一天",
         "vid": "K3o6SfwZq_w",
         "surname": "梁",
-        "kid": "8vPZ2qECW0E"
+        "kid": "oMyK9WrKjjo"
     },
     {
         "id": 7453,
@@ -5029,7 +5029,7 @@ const mvDB = [
         "title": "接受",
         "vid": "rnj6bm1mrGM",
         "surname": "梁",
-        "kid": "EspQHZ1UbrI"
+        "kid": "Rgh2fQgfqOI"
     },
     {
         "id": 7455,
@@ -5037,7 +5037,7 @@ const mvDB = [
         "title": "勇氣",
         "vid": "nDchQNPuA0k",
         "surname": "梁",
-        "kid": "KfwJhh0MLLU"
+        "kid": "UKIFeVXzGD0"
     },
     {
         "id": 7456,
@@ -5053,7 +5053,7 @@ const mvDB = [
         "title": "絲路",
         "vid": "LwaZVMERWdQ",
         "surname": "梁",
-        "kid": "8gUm78H5eV8"
+        "kid": "RHsUSJfw19M"
     },
     {
         "id": 7458,
@@ -5069,7 +5069,7 @@ const mvDB = [
         "title": "燕尾蝶",
         "vid": "KAn2ejVJlE0",
         "surname": "梁",
-        "kid": ""
+        "kid": "aF9GU75HWzU"
     },
     {
         "id": 7460,
@@ -5077,7 +5077,7 @@ const mvDB = [
         "title": "可以的話",
         "vid": "-dps6-Hv19A",
         "surname": "梁",
-        "kid": ""
+        "kid": "c7Pv2DSgvsg"
     },
     {
         "id": 7461,
@@ -5085,7 +5085,7 @@ const mvDB = [
         "title": "聽不到",
         "vid": "tRjxa1LuPx0",
         "surname": "梁",
-        "kid": "ZNdXY9AyXrg"
+        "kid": "tRjxa1LuPx0"
     },
     {
         "id": 7462,
@@ -5133,7 +5133,7 @@ const mvDB = [
         "title": "大人",
         "vid": "Lh_pbcAxhhU",
         "surname": "梁",
-        "kid": ""
+        "kid": "gEFz4LEPxzg"
     },
     {
         "id": 7468,
@@ -5181,7 +5181,7 @@ const mvDB = [
         "title": "瘦瘦的",
         "vid": "z6i4y8Z42es",
         "surname": "梁",
-        "kid": "sISgLqQUtww"
+        "kid": "6WcK2t5iNZE"
     },
     {
         "id": 7474,
@@ -5229,7 +5229,7 @@ const mvDB = [
         "title": "路",
         "vid": "Ip_tMsyvRck",
         "surname": "梁",
-        "kid": "8gUm78H5eV8"
+        "kid": "RHsUSJfw19M"
     },
     {
         "id": 7480,
@@ -5242,7 +5242,7 @@ const mvDB = [
     {
         "id": 7481,
         "artist": "梁靜茹",
-        "title": "清晰版",
+        "title": "情歌",
         "vid": "7FiQV1-z06Q",
         "surname": "梁",
         "kid": "iW97h4-ZHEo"
@@ -5253,7 +5253,7 @@ const mvDB = [
         "title": "崇拜",
         "vid": "KKRqKsjqySI",
         "surname": "梁",
-        "kid": "6I0TMm7-Dwg"
+        "kid": "8mA6-OgKolc"
     },
     {
         "id": 7483,
@@ -5285,7 +5285,7 @@ const mvDB = [
         "title": "連名帶姓",
         "vid": "qf09H2xFq2s",
         "surname": "張",
-        "kid": "hrohMUIU0YI"
+        "kid": "_BHBQaqKiBY"
     },
     {
         "id": 7487,
@@ -5293,7 +5293,7 @@ const mvDB = [
         "title": "聽海",
         "vid": "mLk61pfiHQ0",
         "surname": "張",
-        "kid": "W7YJWeIrA7I"
+        "kid": "t171b1URj4Q"
     },
     {
         "id": 7488,
@@ -5301,7 +5301,7 @@ const mvDB = [
         "title": "哭不出來",
         "vid": "TN4zgS5gEzw",
         "surname": "張",
-        "kid": "MQaBidqK8CI"
+        "kid": "os2s2TYbzoA"
     },
     {
         "id": 7489,
@@ -5325,7 +5325,7 @@ const mvDB = [
         "title": "三天三夜",
         "vid": "NFHb0OwmE-0",
         "surname": "張",
-        "kid": ""
+        "kid": "uHx_lmVwjyo"
     },
     {
         "id": 7492,
@@ -5357,7 +5357,7 @@ const mvDB = [
         "title": "如果你也聽說",
         "vid": "xrUyk79DLbg",
         "surname": "張",
-        "kid": "U9646JhvXEM"
+        "kid": "T7G7l7zPGbc"
     },
     {
         "id": 7496,
@@ -5365,7 +5365,7 @@ const mvDB = [
         "title": "我可以抱你嗎",
         "vid": "oj3NFUBO1U8",
         "surname": "張",
-        "kid": "VFfkdxln_s8"
+        "kid": "MxDxHhpjVR8"
     },
     {
         "id": 7497,
@@ -5397,7 +5397,7 @@ const mvDB = [
         "title": "站在高崗上",
         "vid": "i-bu47QpWWc",
         "surname": "張",
-        "kid": ""
+        "kid": "lnjF9e4wXbg"
     },
     {
         "id": 7501,
@@ -5437,7 +5437,7 @@ const mvDB = [
         "title": "解脫",
         "vid": "jUMdoUV7VL4",
         "surname": "張",
-        "kid": "Gx9SboQhkFE"
+        "kid": "FY6Lg065Uqc"
     },
     {
         "id": 7506,
@@ -5453,7 +5453,7 @@ const mvDB = [
         "title": "bad boy",
         "vid": "FCNVAWwh9CQ",
         "surname": "張",
-        "kid": ""
+        "kid": "Zo_QJphS38s"
     },
     {
         "id": 7508,
@@ -5597,7 +5597,7 @@ const mvDB = [
         "title": "最暖的憂傷",
         "vid": "3aypp_YlBzI",
         "surname": "田",
-        "kid": ""
+        "kid": "un8DsuINUho"
     },
     {
         "id": 7526,
@@ -5605,7 +5605,7 @@ const mvDB = [
         "title": "你就不要想起我",
         "vid": "GsKbnsUN2RE",
         "surname": "田",
-        "kid": "wEpKl3yBW50"
+        "kid": "F1lNvSPi4Fc"
     },
     {
         "id": 7527,
@@ -5613,7 +5613,7 @@ const mvDB = [
         "title": "愛著愛著就永遠",
         "vid": "fJWN7wtvaJ0",
         "surname": "田",
-        "kid": ""
+        "kid": "iKXhdpnUP0Q"
     },
     {
         "id": 7528,
@@ -5621,7 +5621,7 @@ const mvDB = [
         "title": "不醉不會",
         "vid": "7gQxgKaiPzk",
         "surname": "田",
-        "kid": "1ArbpObOTyI"
+        "kid": "T7sHhEjEPeQ"
     },
     {
         "id": 7529,
@@ -5645,7 +5645,7 @@ const mvDB = [
         "title": "演員",
         "vid": "jQu4cJ00UEo",
         "surname": "田",
-        "kid": "xT1xwCHwrmI"
+        "kid": "WYbN906UCpU"
     },
     {
         "id": 7532,
@@ -5693,7 +5693,7 @@ const mvDB = [
         "title": "小幸運",
         "vid": "CFTZSSJyy7A",
         "surname": "田",
-        "kid": "209ostvAED8"
+        "kid": "htOpOJ3jv-4"
     },
     {
         "id": 7538,
@@ -5733,7 +5733,7 @@ const mvDB = [
         "title": "諷刺的情書",
         "vid": "o2zUZmUmwUg",
         "surname": "田",
-        "kid": "E3ATCex2yp0"
+        "kid": "iEKuMSqcc44"
     },
     {
         "id": 7543,
@@ -5749,7 +5749,7 @@ const mvDB = [
         "title": "皆可",
         "vid": "fT9BZh4LeO0",
         "surname": "田",
-        "kid": ""
+        "kid": "R1VigxjQh9U"
     },
     {
         "id": 7545,
@@ -5901,7 +5901,7 @@ const mvDB = [
         "title": "有一種悲傷",
         "vid": "BRcudpJzy1I",
         "surname": "A",
-        "kid": "1HBmqlwi2_A"
+        "kid": "BRcudpJzy1I"
     },
     {
         "id": 7564,
@@ -5909,7 +5909,7 @@ const mvDB = [
         "title": "摯友",
         "vid": "vGqpGFH3vh8",
         "surname": "A",
-        "kid": "FE2A76deWlE"
+        "kid": "vGqpGFH3vh8"
     },
     {
         "id": 7565,
@@ -5925,12 +5925,12 @@ const mvDB = [
         "title": "幸福了",
         "vid": "m9eoYjo5W8c",
         "surname": "A",
-        "kid": "k24ISNWYJ-E"
+        "kid": "b6Sb2IpxZAY"
     },
     {
         "id": 7567,
         "artist": "A-Lin",
-        "title": "feat.小宇",
+        "title": "小宇",
         "vid": "CpsZwB63zmA",
         "surname": "A",
         "kid": ""
@@ -5941,7 +5941,7 @@ const mvDB = [
         "title": "忘記擁抱",
         "vid": "m6kiNlnJ2Uk",
         "surname": "A",
-        "kid": "tiKiMK3-D6Y"
+        "kid": "-bCrf4MaZ_E"
     },
     {
         "id": 7569,
@@ -5957,7 +5957,7 @@ const mvDB = [
         "title": "幸福太短",
         "vid": "2UArpayTTGA",
         "surname": "A",
-        "kid": ""
+        "kid": "_q41SiPSoXA"
     },
     {
         "id": 7571,
@@ -5965,7 +5965,7 @@ const mvDB = [
         "title": "以前，以後",
         "vid": "FA34EqfX1nw",
         "surname": "A",
-        "kid": "dGMI7oZZz9M"
+        "kid": "Yqg6p6Z_CkU"
     },
     {
         "id": 7572,
@@ -5997,7 +5997,7 @@ const mvDB = [
         "title": "我愛你",
         "vid": "MEVY19A70F0",
         "surname": "A",
-        "kid": "cqDzywj8u1I"
+        "kid": "irNBLGkUM9Y"
     },
     {
         "id": 7576,
@@ -6181,7 +6181,7 @@ const mvDB = [
         "title": "領悟",
         "vid": "8Zzq0dDH_3M",
         "surname": "辛",
-        "kid": "0WwYHH_bHMA"
+        "kid": "RhfUGpEp9to"
     },
     {
         "id": 7599,
@@ -6205,7 +6205,7 @@ const mvDB = [
         "title": "味道",
         "vid": "9BByAxgUCJw",
         "surname": "辛",
-        "kid": "E7stpY4rE5k"
+        "kid": "9BByAxgUCJw"
     },
     {
         "id": 7602,
@@ -6213,7 +6213,7 @@ const mvDB = [
         "title": "倆倆相忘",
         "vid": "CR_JvOHcN5E",
         "surname": "辛",
-        "kid": "dyI3ThwM0ik"
+        "kid": "CR_JvOHcN5E"
     },
     {
         "id": 7603,
@@ -6221,7 +6221,7 @@ const mvDB = [
         "title": "承認",
         "vid": "UOaPBQM1lf0",
         "surname": "辛",
-        "kid": "ykZmIftTYQY"
+        "kid": "UOaPBQM1lf0"
     },
     {
         "id": 7604,
@@ -6237,7 +6237,7 @@ const mvDB = [
         "title": "女人何苦為難女人",
         "vid": "PqFiNT1OA18",
         "surname": "辛",
-        "kid": ""
+        "kid": "r8ZvPFxl8HQ"
     },
     {
         "id": 7606,
@@ -6245,7 +6245,7 @@ const mvDB = [
         "title": "走過",
         "vid": "z9eIco0juTY",
         "surname": "辛",
-        "kid": "0f7gdpAN1gY"
+        "kid": "uwsKolDn89I"
     },
     {
         "id": 7607,
@@ -6405,7 +6405,7 @@ const mvDB = [
         "title": "位子",
         "vid": "Fi_nUa-f6Jc",
         "surname": "辛",
-        "kid": ""
+        "kid": "Fi_nUa-f6Jc"
     },
     {
         "id": 7627,
@@ -6509,7 +6509,7 @@ const mvDB = [
         "title": "就說給我聽",
         "vid": "p_6BZ2Esj3I",
         "surname": "蘇",
-        "kid": ""
+        "kid": "p_6BZ2Esj3I"
     },
     {
         "id": 7640,
@@ -6517,7 +6517,7 @@ const mvDB = [
         "title": "被動",
         "vid": "8JAvWmsX0Lc",
         "surname": "蘇",
-        "kid": "3nPn4f9oNgU"
+        "kid": "8JAvWmsX0Lc"
     },
     {
         "id": 7641,
@@ -6525,7 +6525,7 @@ const mvDB = [
         "title": "lemon tree",
         "vid": "HfdEk5RbzrA",
         "surname": "蘇",
-        "kid": "etXhTLcMoOY"
+        "kid": "vtTUTs5ZeUE"
     },
     {
         "id": 7642,
@@ -6533,7 +6533,7 @@ const mvDB = [
         "title": "鴨子",
         "vid": "d2T_Vy29fF0",
         "surname": "蘇",
-        "kid": "AQhmaovliyQ"
+        "kid": "d2T_Vy29fF0"
     },
     {
         "id": 7643,
@@ -6541,7 +6541,7 @@ const mvDB = [
         "title": "在我生命中的每一天",
         "vid": "ZmOg0yTawfY",
         "surname": "蘇",
-        "kid": "-PZU3cu-NUg"
+        "kid": "ZmOg0yTawfY"
     },
     {
         "id": 7644,
@@ -6549,7 +6549,7 @@ const mvDB = [
         "title": "我一個人住",
         "vid": "VkkrsRJ-RrE",
         "surname": "蘇",
-        "kid": "DSxyo4qGQv4"
+        "kid": "VkkrsRJ-RrE"
     },
     {
         "id": 7645,
@@ -6557,7 +6557,7 @@ const mvDB = [
         "title": "黃色月亮",
         "vid": "9LyLjifazEs",
         "surname": "蘇",
-        "kid": "Sumg280pYUY"
+        "kid": "9LyLjifazEs"
     },
     {
         "id": 7646,
@@ -6573,7 +6573,7 @@ const mvDB = [
         "title": "還剩下什麼",
         "vid": "1JMFo_vPaKE",
         "surname": "蘇",
-        "kid": ""
+        "kid": "6kmUKcAtgkU"
     },
     {
         "id": 7648,
@@ -6589,7 +6589,7 @@ const mvDB = [
         "title": "傻瓜",
         "vid": "51A82GOhHM0",
         "surname": "蘇",
-        "kid": ""
+        "kid": "0U-uGdD5Ex4"
     },
     {
         "id": 7650,
@@ -6637,7 +6637,7 @@ const mvDB = [
         "title": "戀戀真言",
         "vid": "ob-Ys4w8ESs",
         "surname": "蘇",
-        "kid": ""
+        "kid": "qm6yooh90_Q"
     },
     {
         "id": 7656,
@@ -6733,7 +6733,7 @@ const mvDB = [
         "title": "秋天的海",
         "vid": "gTmSFuR9WkE",
         "surname": "蘇",
-        "kid": ""
+        "kid": "V4TFPpq0i9o"
     },
     {
         "id": 7668,
@@ -6749,7 +6749,7 @@ const mvDB = [
         "title": "花雨夜",
         "vid": "yeefEPRKFwA",
         "surname": "張",
-        "kid": "_hRKjqxOkd8"
+        "kid": "mvzCEHbKrlk"
     },
     {
         "id": 7670,
@@ -6757,7 +6757,7 @@ const mvDB = [
         "title": "簾後",
         "vid": "Yx--odgxwmE",
         "surname": "張",
-        "kid": "Q5wbXoby6K8"
+        "kid": "Yx--odgxwmE"
     },
     {
         "id": 7671,
@@ -6773,7 +6773,7 @@ const mvDB = [
         "title": "無人熟識",
         "vid": "ASVTqnN_Nu8",
         "surname": "張",
-        "kid": "Dvioyuwzjac"
+        "kid": "0L8V0_iakXw"
     },
     {
         "id": 7673,
@@ -6781,7 +6781,7 @@ const mvDB = [
         "title": "mens talk",
         "vid": "QDQ5k7CANjM",
         "surname": "張",
-        "kid": "n5zEohaOmpI"
+        "kid": "QDQ5k7CANjM"
     },
     {
         "id": 7674,
@@ -6789,7 +6789,7 @@ const mvDB = [
         "title": "出嫁",
         "vid": "y2hz93m0xN0",
         "surname": "張",
-        "kid": "DyHBaivdZ3A"
+        "kid": "y2hz93m0xN0"
     },
     {
         "id": 7675,
@@ -6821,7 +6821,7 @@ const mvDB = [
         "title": "偶然",
         "vid": "Bk9AC1Tvq9s",
         "surname": "張",
-        "kid": ""
+        "kid": "Bk9AC1Tvq9s"
     },
     {
         "id": 7679,
@@ -6837,7 +6837,7 @@ const mvDB = [
         "title": "舉棋不定",
         "vid": "uzChsrNhoAA",
         "surname": "張",
-        "kid": ""
+        "kid": "nZGT_WTwIMQ"
     },
     {
         "id": 7681,
@@ -6885,7 +6885,7 @@ const mvDB = [
         "title": "純粹",
         "vid": "FMyvDwpcjdU",
         "surname": "張",
-        "kid": ""
+        "kid": "DqdpYDmVvxw"
     },
     {
         "id": 7687,
@@ -6893,7 +6893,7 @@ const mvDB = [
         "title": "認真的眼睛",
         "vid": "r0of9ZFd0Jc",
         "surname": "張",
-        "kid": ""
+        "kid": "1_4ORetkJe8"
     },
     {
         "id": 7688,
@@ -6901,7 +6901,7 @@ const mvDB = [
         "title": "不想你也難",
         "vid": "4HiRBoWkPkU",
         "surname": "張",
-        "kid": "gz1UkAM55no"
+        "kid": "GjOxJLf3UsE"
     },
     {
         "id": 7689,
@@ -6941,7 +6941,7 @@ const mvDB = [
         "title": "愛情是問也是不問",
         "vid": "jWjcY-XMRq0",
         "surname": "張",
-        "kid": ""
+        "kid": "cFVu-zct8r0"
     },
     {
         "id": 7694,
@@ -6949,7 +6949,7 @@ const mvDB = [
         "title": "你喜歡我的歌嗎",
         "vid": "2ylqNRcEitM",
         "surname": "張",
-        "kid": ""
+        "kid": "2ylqNRcEitM"
     },
     {
         "id": 7695,
@@ -7061,7 +7061,7 @@ const mvDB = [
         "title": "笑忘歌",
         "vid": "WIBFnmY2YrA",
         "surname": "五",
-        "kid": "rmITquoRr6g"
+        "kid": "buRfHrIMbxc"
     },
     {
         "id": 7709,
@@ -7077,7 +7077,7 @@ const mvDB = [
         "title": "後來的我們",
         "vid": "pd3eV-SG23E",
         "surname": "五",
-        "kid": ""
+        "kid": "O7UBPNJyvwQ"
     },
     {
         "id": 7711,
@@ -7085,7 +7085,7 @@ const mvDB = [
         "title": "我不願讓你一個人",
         "vid": "38lcQsEMGrk",
         "surname": "五",
-        "kid": ""
+        "kid": "t3YDmtiMyUw"
     },
     {
         "id": 7712,
@@ -7093,7 +7093,7 @@ const mvDB = [
         "title": "派對動物",
         "vid": "Fn7NLWHJw4s",
         "surname": "五",
-        "kid": ""
+        "kid": "Iwk3gZEtW5I"
     },
     {
         "id": 7713,
@@ -7101,7 +7101,7 @@ const mvDB = [
         "title": "乾杯",
         "vid": "qX2GsMj7154",
         "surname": "五",
-        "kid": "N7OrS0LUYOc"
+        "kid": "FkCoCbs84GY"
     },
     {
         "id": 7714,
@@ -7125,7 +7125,7 @@ const mvDB = [
         "title": "如果我們不曾相遇",
         "vid": "eZMH6Mo0f9A",
         "surname": "五",
-        "kid": ""
+        "kid": "u7JxqLWFzvM"
     },
     {
         "id": 7717,
@@ -7141,7 +7141,7 @@ const mvDB = [
         "title": "洋蔥",
         "vid": "jGqpz3stgzY",
         "surname": "五",
-        "kid": "zIE-GpY2eAE"
+        "kid": "u7b8QSO8Nng"
     },
     {
         "id": 7719,
@@ -7149,7 +7149,7 @@ const mvDB = [
         "title": "知足",
         "vid": "_o0oeyCtoFA",
         "surname": "五",
-        "kid": "U1dG3hl8FyU"
+        "kid": "_o0oeyCtoFA"
     },
     {
         "id": 7720,
@@ -7157,7 +7157,7 @@ const mvDB = [
         "title": "倔強",
         "vid": "R2s-H_crYkc",
         "surname": "五",
-        "kid": "FpYPmkfynIo"
+        "kid": "w_OfGctVLdE"
     },
     {
         "id": 7721,
@@ -7173,7 +7173,7 @@ const mvDB = [
         "title": "轉眼",
         "vid": "GuqY5OViunk",
         "surname": "五",
-        "kid": ""
+        "kid": "GuqY5OViunk"
     },
     {
         "id": 7723,
@@ -7189,7 +7189,7 @@ const mvDB = [
         "title": "你不是真正的快樂",
         "vid": "hr8jWDyb1jg",
         "surname": "五",
-        "kid": ""
+        "kid": "-1ihBpI7B_E"
     },
     {
         "id": 7725,
@@ -7205,7 +7205,7 @@ const mvDB = [
         "title": "洗衣機",
         "vid": "BfwbO0f1R8o",
         "surname": "五",
-        "kid": ""
+        "kid": "tSHXlmbUB8o"
     },
     {
         "id": 7727,
@@ -7221,7 +7221,7 @@ const mvDB = [
         "title": "憨人",
         "vid": "1j_mpwKmlJg",
         "surname": "五",
-        "kid": ""
+        "kid": "olGod8i1j1o"
     },
     {
         "id": 7729,
@@ -7245,7 +7245,7 @@ const mvDB = [
         "title": "溫柔",
         "vid": "7h9uEUvQjcs",
         "surname": "五",
-        "kid": ""
+        "kid": "EN0O6wJSSFc"
     },
     {
         "id": 7732,
@@ -7253,7 +7253,7 @@ const mvDB = [
         "title": "什麼歌",
         "vid": "3njEHMo_5t0",
         "surname": "五",
-        "kid": ""
+        "kid": "R0RrcTT4kis"
     },
     {
         "id": 7733,
@@ -7293,7 +7293,7 @@ const mvDB = [
         "title": "孫悟空",
         "vid": "MBpDwpUj9-M",
         "surname": "五",
-        "kid": ""
+        "kid": "MBpDwpUj9-M"
     },
     {
         "id": 7738,
@@ -7317,7 +7317,7 @@ const mvDB = [
         "title": "mayday",
         "vid": "SstOzs4y6Eg",
         "surname": "五",
-        "kid": "VmkanOtF6Vg"
+        "kid": "6Htmg9VX92Y"
     },
     {
         "id": 7741,
@@ -7333,7 +7333,7 @@ const mvDB = [
         "title": "中國話",
         "vid": "tCKGoND0pS0",
         "surname": "S",
-        "kid": ""
+        "kid": "KH7WjWOqu6M"
     },
     {
         "id": 7743,
@@ -7397,7 +7397,7 @@ const mvDB = [
         "title": "半糖主義",
         "vid": "HIJL_vz_NfM",
         "surname": "S",
-        "kid": "Kk5hGU8ZgMc"
+        "kid": "HIJL_vz_NfM"
     },
     {
         "id": 7751,
@@ -7421,7 +7421,7 @@ const mvDB = [
         "title": "候鳥",
         "vid": "ZWcxk0c1Du0",
         "surname": "S",
-        "kid": ""
+        "kid": "rqAM8j_GXwk"
     },
     {
         "id": 7754,
@@ -7437,7 +7437,7 @@ const mvDB = [
         "title": "月桂女神",
         "vid": "DkTmr1ZhnfQ",
         "surname": "S",
-        "kid": ""
+        "kid": "phLBlpZnBjU"
     },
     {
         "id": 7756,
@@ -7493,7 +7493,7 @@ const mvDB = [
         "title": "愛上你",
         "vid": "kPUc7w3G-WM",
         "surname": "S",
-        "kid": ""
+        "kid": "Jl6QR7Js4wk"
     },
     {
         "id": 7763,
@@ -7501,7 +7501,7 @@ const mvDB = [
         "title": "熱帶雨林",
         "vid": "M5Y9dandexU",
         "surname": "S",
-        "kid": "Tqf-u8OfLI0"
+        "kid": "OBwnuBgLq8M"
     },
     {
         "id": 7764,
@@ -7541,7 +7541,7 @@ const mvDB = [
         "title": "美麗新世界",
         "vid": "QDiSck_imgw",
         "surname": "S",
-        "kid": "ZKwoaVep-q8"
+        "kid": "QDiSck_imgw"
     },
     {
         "id": 7769,
@@ -7573,7 +7573,7 @@ const mvDB = [
         "title": "天使在唱歌",
         "vid": "UN4a1Y_pV58",
         "surname": "S",
-        "kid": ""
+        "kid": "-ZpFYUt1VqY"
     },
     {
         "id": 7773,
@@ -7589,7 +7589,7 @@ const mvDB = [
         "title": "無可取代",
         "vid": "2S5gGeMUlAI",
         "surname": "S",
-        "kid": ""
+        "kid": "2Qwo43bGYrM"
     },
     {
         "id": 7775,
@@ -7637,7 +7637,7 @@ const mvDB = [
         "title": "我不該哭",
         "vid": "u67qCBLAIB4",
         "surname": "動",
-        "kid": "ZjWzdk99FPo"
+        "kid": "u67qCBLAIB4"
     },
     {
         "id": 7781,
@@ -7653,7 +7653,7 @@ const mvDB = [
         "title": "趁少年",
         "vid": "Sj8vtJYlHOg",
         "surname": "動",
-        "kid": "kvTIeoGKrvk"
+        "kid": "Sj8vtJYlHOg"
     },
     {
         "id": 7783,
@@ -7661,7 +7661,7 @@ const mvDB = [
         "title": "我很好騙",
         "vid": "3HsIaWuNeX0",
         "surname": "動",
-        "kid": "i4UeBCcY-Gs"
+        "kid": "3HsIaWuNeX0"
     },
     {
         "id": 7784,
@@ -7693,7 +7693,7 @@ const mvDB = [
         "title": "跳上車子離開傷心的台北",
         "vid": "wcYstYvQGbU",
         "surname": "動",
-        "kid": ""
+        "kid": "fVHTOVeQaa8"
     },
     {
         "id": 7788,
@@ -7709,7 +7709,7 @@ const mvDB = [
         "title": "那就這樣吧",
         "vid": "vWPw5lJ80uE",
         "surname": "動",
-        "kid": ""
+        "kid": "lx_NeMT9gXI"
     },
     {
         "id": 7790,
@@ -7717,7 +7717,7 @@ const mvDB = [
         "title": "明天的明天的明天",
         "vid": "Z_GwKSC1kF8",
         "surname": "動",
-        "kid": "17yd9t5u7Kg"
+        "kid": "w52xo2pC_64"
     },
     {
         "id": 7791,
@@ -7725,7 +7725,7 @@ const mvDB = [
         "title": "跟自己合唱",
         "vid": "iRMiHHC_kjI",
         "surname": "動",
-        "kid": ""
+        "kid": "iRMiHHC_kjI"
     },
     {
         "id": 7792,
@@ -7733,7 +7733,7 @@ const mvDB = [
         "title": "第二次分手",
         "vid": "ZiusE0lYY_w",
         "surname": "動",
-        "kid": ""
+        "kid": "dqR0rV3Q_T0"
     },
     {
         "id": 7793,
@@ -7749,7 +7749,7 @@ const mvDB = [
         "title": "鎮守愛情",
         "vid": "888aqfkWjrA",
         "surname": "動",
-        "kid": ""
+        "kid": "_IDr84tiCiA"
     },
     {
         "id": 7795,
@@ -7773,7 +7773,7 @@ const mvDB = [
         "title": "路人甲",
         "vid": "QyECO8ti-b8",
         "surname": "動",
-        "kid": ""
+        "kid": "QyECO8ti-b8"
     },
     {
         "id": 7798,
@@ -7797,7 +7797,7 @@ const mvDB = [
         "title": "忠孝東路走九遍",
         "vid": "hFJAzTqYFHc",
         "surname": "動",
-        "kid": "V16R6NgJcFo"
+        "kid": "ATPdr-yu7KI"
     },
     {
         "id": 7801,
@@ -7813,7 +7813,7 @@ const mvDB = [
         "title": "當",
         "vid": "q4aPDcZXjGg",
         "surname": "動",
-        "kid": "INCEodnVwo8"
+        "kid": "q4aPDcZXjGg"
     },
     {
         "id": 7803,
@@ -7821,7 +7821,7 @@ const mvDB = [
         "title": "第一滴淚",
         "vid": "3zVmy2PreJs",
         "surname": "動",
-        "kid": "wxCI9M6c1-Q"
+        "kid": "0eBSfY8_CCk"
     },
     {
         "id": 7804,
@@ -7829,7 +7829,7 @@ const mvDB = [
         "title": "無情的情書",
         "vid": "pPr8vkMAe9w",
         "surname": "動",
-        "kid": ""
+        "kid": "CGooxwVWmgc"
     },
     {
         "id": 7805,
@@ -7845,7 +7845,7 @@ const mvDB = [
         "title": "背叛情歌",
         "vid": "2t0P9zKj4OQ",
         "surname": "動",
-        "kid": "74WHIl4KqMY"
+        "kid": "Om6Zcx4iRVY"
     },
     {
         "id": 7807,
@@ -7853,7 +7853,7 @@ const mvDB = [
         "title": "不甘心不放手",
         "vid": "N-y8c994jsk",
         "surname": "動",
-        "kid": ""
+        "kid": "DUF_ZSe5Ec4"
     },
     {
         "id": 7808,
@@ -7877,7 +7877,7 @@ const mvDB = [
         "title": "我不知道",
         "vid": "mYHYo-zdIqQ",
         "surname": "動",
-        "kid": "BGR2wRmQ1bM"
+        "kid": "yKX8LNfKpXo"
     },
     {
         "id": 7811,
@@ -7930,10 +7930,10 @@ const mvDB = [
     {
         "id": 7817,
         "artist": "動力火車",
-        "title": "超高無損音質",
+        "title": "那就這樣吧",
         "vid": "4M6RhrMV6os",
         "surname": "動",
-        "kid": ""
+        "kid": "lx_NeMT9gXI"
     },
     {
         "id": 7818,
@@ -7949,7 +7949,7 @@ const mvDB = [
         "title": "permission to dance",
         "vid": "CuklIb9d3fI",
         "surname": "B",
-        "kid": "B-caU5nVQys"
+        "kid": "613P9iZVg7A"
     },
     {
         "id": 7953,
@@ -7989,12 +7989,12 @@ const mvDB = [
         "title": "dynamite",
         "vid": "gdZLi9oWNZg",
         "surname": "B",
-        "kid": "B-caU5nVQys"
+        "kid": "V9aFf48jLPQ"
     },
     {
         "id": 7958,
         "artist": "BTS(防彈少年團)",
-        "title": "boy with luv",
+        "title": "boy  luv",
         "vid": "XsX3ATc3FbA",
         "surname": "B",
         "kid": "B-caU5nVQys"
@@ -8002,7 +8002,7 @@ const mvDB = [
     {
         "id": 7959,
         "artist": "BTS(防彈少年團)",
-        "title": "steve aoki remix",
+        "title": "steve aoki",
         "vid": "kTlv5_Bs8aw",
         "surname": "B",
         "kid": "B-caU5nVQys"
@@ -8037,7 +8037,7 @@ const mvDB = [
         "title": "not today",
         "vid": "9DwzBICPhdM",
         "surname": "B",
-        "kid": "B-caU5nVQys"
+        "kid": "ea77FjuQVvg"
     },
     {
         "id": 7964,
@@ -8061,7 +8061,7 @@ const mvDB = [
         "title": "on",
         "vid": "mPVDGOVjRQ0",
         "surname": "B",
-        "kid": "8PMEbLzNF64"
+        "kid": "613P9iZVg7A"
     },
     {
         "id": 7967,
@@ -8085,12 +8085,12 @@ const mvDB = [
         "title": "permission to dance",
         "vid": "9SmQOZWNyWE",
         "surname": "B",
-        "kid": ""
+        "kid": "613P9iZVg7A"
     },
     {
         "id": 7970,
         "artist": "BTS(防彈少年團)",
-        "title": "bts world ost",
+        "title": "『』",
         "vid": "aKSxbt-O6TA",
         "surname": "B",
         "kid": "B-caU5nVQys"
@@ -8101,7 +8101,7 @@ const mvDB = [
         "title": "방탄소년단",
         "vid": "NMdTd9e-LEI",
         "surname": "B",
-        "kid": "B-caU5nVQys"
+        "kid": "ZkNf0YMvdqQ"
     },
     {
         "id": 7972,
@@ -8117,7 +8117,7 @@ const mvDB = [
         "title": "防彈少年團",
         "vid": "QjGHfObVKzs",
         "surname": "B",
-        "kid": "xWUXN190Fyw"
+        "kid": "rBuUIOKdYq8"
     },
     {
         "id": 7974,
@@ -8133,7 +8133,7 @@ const mvDB = [
         "title": "北京一夜",
         "vid": "IwL3l6rcUJ0",
         "surname": "陳",
-        "kid": ""
+        "kid": "2JcjmpVI7jw"
     },
     {
         "id": 8067,
@@ -8149,7 +8149,7 @@ const mvDB = [
         "title": "把悲傷留給自己",
         "vid": "kJwEttC0vnA",
         "surname": "陳",
-        "kid": "Ff1qFMGygeE"
+        "kid": "oUgX6Zkks7A"
     },
     {
         "id": 8069,
@@ -8365,7 +8365,7 @@ const mvDB = [
         "title": "路口",
         "vid": "1D9AN0TB3ho",
         "surname": "陳",
-        "kid": ""
+        "kid": "1D9AN0TB3ho"
     },
     {
         "id": 8096,
@@ -8389,7 +8389,7 @@ const mvDB = [
         "title": "冰點",
         "vid": "9_8QAlHr-0w",
         "surname": "陳",
-        "kid": ""
+        "kid": "w3LrYBWvzvA"
     },
     {
         "id": 8099,
@@ -8397,7 +8397,7 @@ const mvDB = [
         "title": "別讓我哭",
         "vid": "4J-aUpvVxpo",
         "surname": "陳",
-        "kid": "JbIgNJxJ3lw"
+        "kid": "4J-aUpvVxpo"
     },
     {
         "id": 8100,
@@ -8445,7 +8445,7 @@ const mvDB = [
         "title": "i go",
         "vid": "WtADEYei7fI",
         "surname": "周",
-        "kid": ""
+        "kid": "eO1kAbRbZ3I"
     },
     {
         "id": 8106,
@@ -8469,7 +8469,7 @@ const mvDB = [
         "title": "get real",
         "vid": "w3rOAlK26ts",
         "surname": "周",
-        "kid": ""
+        "kid": "u95al3QPTvo"
     },
     {
         "id": 8109,
@@ -8501,7 +8501,7 @@ const mvDB = [
         "title": "i am the man",
         "vid": "t1PNGVDQ1Mo",
         "surname": "周",
-        "kid": ""
+        "kid": "zhz45PgOahs"
     },
     {
         "id": 8113,
@@ -8509,7 +8509,7 @@ const mvDB = [
         "title": "帥到分手",
         "vid": "29tEEaTN_Sc",
         "surname": "周",
-        "kid": "WICQLcMlfgk"
+        "kid": "wexYoypGzFw"
     },
     {
         "id": 8114,
@@ -8525,12 +8525,12 @@ const mvDB = [
         "title": "my boo",
         "vid": "gfp-e7jm938",
         "surname": "周",
-        "kid": ""
+        "kid": "IG_bA7uXKQw"
     },
     {
         "id": 8116,
         "artist": "周湯豪",
-        "title": "版",
+        "title": "這是你的歌",
         "vid": "zEbDMqBoVrU",
         "surname": "周",
         "kid": ""
@@ -8557,7 +8557,7 @@ const mvDB = [
         "title": "兩秒終",
         "vid": "xFNl0-eyGDU",
         "surname": "周",
-        "kid": ""
+        "kid": "HmKvsQhxlOg"
     },
     {
         "id": 8120,
@@ -8565,7 +8565,7 @@ const mvDB = [
         "title": "罵醒我",
         "vid": "T949MMUquFY",
         "surname": "周",
-        "kid": "QhkbrLdx9pY"
+        "kid": "T949MMUquFY"
     },
     {
         "id": 8121,
@@ -8613,7 +8613,7 @@ const mvDB = [
         "title": "國王與乞丐",
         "vid": "XiyEwRlyKl4",
         "surname": "華",
-        "kid": "-bhSSjfcbVw"
+        "kid": "NuzmbmFgLlc"
     },
     {
         "id": 8127,
@@ -8629,7 +8629,7 @@ const mvDB = [
         "title": "我管你",
         "vid": "HhBKaTSpp5A",
         "surname": "華",
-        "kid": "vIiW686yUwY"
+        "kid": "qidLWrVz0ys"
     },
     {
         "id": 8129,
@@ -8653,7 +8653,7 @@ const mvDB = [
         "title": "平凡之路",
         "vid": "RLLOqUGfTCA",
         "surname": "華",
-        "kid": "VAjkSnWCnak"
+        "kid": "9hyhGH2t2fY"
     },
     {
         "id": 8132,
@@ -8677,7 +8677,7 @@ const mvDB = [
         "title": "孩子",
         "vid": "WyZ4Wl14Guc",
         "surname": "華",
-        "kid": "juVqD8xGDXU"
+        "kid": "c9aVDZilB74"
     },
     {
         "id": 8135,
@@ -8730,10 +8730,10 @@ const mvDB = [
     {
         "id": 8141,
         "artist": "陳奕迅",
-        "title": "day version",
+        "title": "k歌之王",
         "vid": "9elvYViwP4g",
         "surname": "陳",
-        "kid": ""
+        "kid": "KpnTkgRQtGY"
     },
     {
         "id": 8142,
@@ -8741,7 +8741,7 @@ const mvDB = [
         "title": "愛情轉移",
         "vid": "CWEWPj3-G-Q",
         "surname": "陳",
-        "kid": ""
+        "kid": "VP6y0MvHE8A"
     },
     {
         "id": 8143,
@@ -8749,7 +8749,7 @@ const mvDB = [
         "title": "孤勇者",
         "vid": "Hlp8XD0R5qo",
         "surname": "陳",
-        "kid": "xsWaWtkNMtQ"
+        "kid": "O33CM-b-j74"
     },
     {
         "id": 8144,
@@ -8757,7 +8757,7 @@ const mvDB = [
         "title": "我們",
         "vid": "dhjomo8W6Lc",
         "surname": "陳",
-        "kid": ""
+        "kid": "1OfTW9jtNCI"
     },
     {
         "id": 8145,
@@ -8853,12 +8853,12 @@ const mvDB = [
         "title": "富士山下",
         "vid": "ghnT1uOwfrY",
         "surname": "陳",
-        "kid": "q3qhzJj98fM"
+        "kid": "z9oXg-In_Pg"
     },
     {
         "id": 8157,
         "artist": "陳奕迅",
-        "title": "full version",
+        "title": "重口味",
         "vid": "eqtGDY0llkI",
         "surname": "陳",
         "kid": ""
@@ -8877,7 +8877,7 @@ const mvDB = [
         "title": "傷心太平洋",
         "vid": "b1SRjGmgA54",
         "surname": "任",
-        "kid": "gavoneLwHwI"
+        "kid": "nsHfeiGrFqo"
     },
     {
         "id": 8160,
@@ -8885,7 +8885,7 @@ const mvDB = [
         "title": "再出發",
         "vid": "iRuWMQZB7wA",
         "surname": "任",
-        "kid": "CxuqWiVbmoI"
+        "kid": "iRuWMQZB7wA"
     },
     {
         "id": 8161,
@@ -8901,7 +8901,7 @@ const mvDB = [
         "title": "我是一隻魚",
         "vid": "hQMRGsteyRc",
         "surname": "任",
-        "kid": "L7yn8PG6ICQ"
+        "kid": "hQMRGsteyRc"
     },
     {
         "id": 8163,
@@ -8917,7 +8917,7 @@ const mvDB = [
         "title": "天涯",
         "vid": "FDeRzYjRGvY",
         "surname": "任",
-        "kid": "dYnnAS4rwB8"
+        "kid": "HCEtQuwNQB4"
     },
     {
         "id": 8165,
@@ -8925,7 +8925,7 @@ const mvDB = [
         "title": "任逍遙",
         "vid": "FbEjRgAoj3I",
         "surname": "任",
-        "kid": "wf8ZrNfqsu8"
+        "kid": "i0I10z-hCPg"
     },
     {
         "id": 8166,
@@ -9021,7 +9021,7 @@ const mvDB = [
         "title": "對摺",
         "vid": "VZik4B5LhrM",
         "surname": "任",
-        "kid": "4Mu9dH37szo"
+        "kid": "1WU3CG6FcjE"
     },
     {
         "id": 8178,
@@ -9117,12 +9117,12 @@ const mvDB = [
         "title": "難免有錯",
         "vid": "2Lo_YAnGBh4",
         "surname": "劉",
-        "kid": ""
+        "kid": "Mf-2RYbQi6Q"
     },
     {
         "id": 8190,
         "artist": "劉德華",
-        "title": "台語老歌",
+        "title": "老歌",
         "vid": "1A0A97x8F0E",
         "surname": "劉",
         "kid": ""
@@ -9133,7 +9133,7 @@ const mvDB = [
         "title": "冰雨",
         "vid": "90zAJ4tFSy8",
         "surname": "劉",
-        "kid": ""
+        "kid": "WUwsDIVURXY"
     },
     {
         "id": 8192,
@@ -9173,7 +9173,7 @@ const mvDB = [
         "title": "年少有為",
         "vid": "Dnj5Tcpev0Q",
         "surname": "李",
-        "kid": "GnMESBiyib8"
+        "kid": "6pmcoxcafm4"
     },
     {
         "id": 8197,
@@ -9181,7 +9181,7 @@ const mvDB = [
         "title": "喜劇之王",
         "vid": "ijLLmE_sFkY",
         "surname": "李",
-        "kid": "KKHYVMmaJ_0"
+        "kid": "IaT_sECtzZQ"
     },
     {
         "id": 8198,
@@ -9197,7 +9197,7 @@ const mvDB = [
         "title": "烏梅子醬",
         "vid": "IKMaaO9QtKw",
         "surname": "李",
-        "kid": "IUk4sUDk6bE"
+        "kid": "IKMaaO9QtKw"
     },
     {
         "id": 8200,
@@ -9213,7 +9213,7 @@ const mvDB = [
         "title": "麻雀",
         "vid": "2l4x_TvBKiw",
         "surname": "李",
-        "kid": ""
+        "kid": "dci2VkiMFGM"
     },
     {
         "id": 8202,
@@ -9245,7 +9245,7 @@ const mvDB = [
         "title": "耳朵",
         "vid": "wFqUAw_NYvs",
         "surname": "李",
-        "kid": ""
+        "kid": "Li0TOglIKEA"
     },
     {
         "id": 8206,
@@ -9269,7 +9269,7 @@ const mvDB = [
         "title": "等著等著就老了",
         "vid": "S0twBO8l3pI",
         "surname": "李",
-        "kid": ""
+        "kid": "hwFWYUUtQGA"
     },
     {
         "id": 8209,
@@ -9325,7 +9325,7 @@ const mvDB = [
         "title": "老友記",
         "vid": "MEE9H32rCXM",
         "surname": "李",
-        "kid": ""
+        "kid": "nOwxn-Mzy0M"
     },
     {
         "id": 8216,
@@ -9381,7 +9381,7 @@ const mvDB = [
         "title": "黃昏",
         "vid": "_y88PDkP-vQ",
         "surname": "周",
-        "kid": "mCg55m-OFco"
+        "kid": "Mc6GQSt62vQ"
     },
     {
         "id": 8223,
@@ -9389,7 +9389,7 @@ const mvDB = [
         "title": "記事本",
         "vid": "RmYpOYlAStI",
         "surname": "周",
-        "kid": "mCg55m-OFco"
+        "kid": "RmYpOYlAStI"
     },
     {
         "id": 8224,
@@ -9413,7 +9413,7 @@ const mvDB = [
         "title": "寂寞沙洲冷",
         "vid": "a57dX74X5gM",
         "surname": "周",
-        "kid": "Pmdjz9R3BqA"
+        "kid": "-xGSGRQJMMM"
     },
     {
         "id": 8227,
@@ -9429,7 +9429,7 @@ const mvDB = [
         "title": "青花",
         "vid": "rgq5ui9905Q",
         "surname": "周",
-        "kid": "mCg55m-OFco"
+        "kid": "Go_iiHKIMfs"
     },
     {
         "id": 8229,
@@ -9453,7 +9453,7 @@ const mvDB = [
         "title": "出賣",
         "vid": "QCmU6ZsW9Ao",
         "surname": "周",
-        "kid": "pl6tNVRUYQI"
+        "kid": "QCmU6ZsW9Ao"
     },
     {
         "id": 8232,
@@ -9466,7 +9466,7 @@ const mvDB = [
     {
         "id": 8233,
         "artist": "張杰",
-        "title": "一生有愛何懼風飛沙",
+        "title": "天下『』",
         "vid": "Q1PW_smg8tU",
         "surname": "張",
         "kid": ""
@@ -9533,7 +9533,7 @@ const mvDB = [
         "title": "你就不要想起我",
         "vid": "_vSLoA3JnKM",
         "surname": "張",
-        "kid": ""
+        "kid": "e2QskfAT2kQ"
     },
     {
         "id": 8242,
@@ -9549,7 +9549,7 @@ const mvDB = [
         "title": "天下",
         "vid": "2Eba3bd1AYk",
         "surname": "張",
-        "kid": "VK_pgywltCA"
+        "kid": "Fa2iqyB0jEc"
     },
     {
         "id": 8244,
@@ -9557,7 +9557,7 @@ const mvDB = [
         "title": "三生三世",
         "vid": "TVLo2L2FmAk",
         "surname": "張",
-        "kid": "KbCC510lgXE"
+        "kid": "eLtsJJ8WiY4"
     },
     {
         "id": 8245,
@@ -9578,7 +9578,7 @@ const mvDB = [
     {
         "id": 8247,
         "artist": "張杰",
-        "title": "給我翅膀，讓我可以翺翔，給我力量，是妳讓我變堅強",
+        "title": "張傑『』",
         "vid": "G6MPCunfBeM",
         "surname": "張",
         "kid": ""
@@ -9586,7 +9586,7 @@ const mvDB = [
     {
         "id": 8248,
         "artist": "張杰",
-        "title": "逆戰",
+        "title": "逆戰mv",
         "vid": "gY5Wiri9q8U",
         "surname": "張",
         "kid": ""
@@ -9637,7 +9637,7 @@ const mvDB = [
         "title": "像我這樣的人",
         "vid": "nBcYrqsv5tc",
         "surname": "毛",
-        "kid": "5V5g6kUqfXY"
+        "kid": "JRthxhf504U"
     },
     {
         "id": 8255,
@@ -9693,7 +9693,7 @@ const mvDB = [
         "title": "一葷一素",
         "vid": "8DQYzIb2cX4",
         "surname": "毛",
-        "kid": "-BnOoC6K5FI"
+        "kid": "9vf_BEyZjKg"
     },
     {
         "id": 8262,
@@ -9733,7 +9733,7 @@ const mvDB = [
         "title": "無問",
         "vid": "ZDYZD_hlhK8",
         "surname": "毛",
-        "kid": ""
+        "kid": "l5uLfa6MnjE"
     },
     {
         "id": 8267,
@@ -9746,7 +9746,7 @@ const mvDB = [
     {
         "id": 8268,
         "artist": "毛不易",
-        "title": "月兒明",
+        "title": "一葷一素『』",
         "vid": "f_Xpg6hHZzY",
         "surname": "毛",
         "kid": ""
@@ -9813,7 +9813,7 @@ const mvDB = [
         "title": "花田錯",
         "vid": "UvXQn9oIRAM",
         "surname": "王",
-        "kid": ""
+        "kid": "RkoAXQFitcY"
     },
     {
         "id": 8277,
@@ -9877,7 +9877,7 @@ const mvDB = [
         "title": "我們的歌",
         "vid": "FpPDwP0NWnw",
         "surname": "王",
-        "kid": "WmMYz3acBp4"
+        "kid": "5yXE11NPZ6Y"
     },
     {
         "id": 8285,
@@ -9933,7 +9933,7 @@ const mvDB = [
         "title": "她的背影",
         "vid": "wcb21ldLdNg",
         "surname": "王",
-        "kid": "uDw-wWKAnzA"
+        "kid": "qYDn9W6CuGU"
     },
     {
         "id": 8292,
@@ -9981,7 +9981,7 @@ const mvDB = [
         "title": "是否我真的一無所有",
         "vid": "bDgWkgQ1oXA",
         "surname": "王",
-        "kid": "5htwOThHcuo"
+        "kid": "W_449NACsDA"
     },
     {
         "id": 8298,
@@ -9989,7 +9989,7 @@ const mvDB = [
         "title": "心痛",
         "vid": "7tYy2NE_c3s",
         "surname": "王",
-        "kid": "-nFUDHvU5Qo"
+        "kid": "kOdjAIuOxFo"
     },
     {
         "id": 8299,
@@ -10069,12 +10069,12 @@ const mvDB = [
         "title": "像晴天像雨天",
         "vid": "bAbVPymqI8c",
         "surname": "汪",
-        "kid": "XeFJltjVgUo"
+        "kid": "QUcmEQJT-q4"
     },
     {
         "id": 8309,
         "artist": "汪蘇瀧",
-        "title": "你",
+        "title": "小星星『』",
         "vid": "9eSOjeGqYWg",
         "surname": "汪",
         "kid": "a0WPze2DQUw"
@@ -10085,7 +10085,7 @@ const mvDB = [
         "title": "有點甜",
         "vid": "OtEJ6LGCW-U",
         "surname": "汪",
-        "kid": "ocBCiaxiZSg"
+        "kid": "01lFBDui2Eg"
     },
     {
         "id": 8311,
@@ -10109,7 +10109,7 @@ const mvDB = [
         "title": "萬有引力",
         "vid": "bW-ShHAgb68",
         "surname": "汪",
-        "kid": ""
+        "kid": "A69MGGN4lZ8"
     },
     {
         "id": 8314,
@@ -10181,7 +10181,7 @@ const mvDB = [
         "title": "像晴天像雨天",
         "vid": "sT-wpjhYy-0",
         "surname": "汪",
-        "kid": "XeFJltjVgUo"
+        "kid": "QUcmEQJT-q4"
     },
     {
         "id": 8323,
@@ -10189,7 +10189,7 @@ const mvDB = [
         "title": "萬有引力",
         "vid": "QiwSwnLet48",
         "surname": "汪",
-        "kid": ""
+        "kid": "A69MGGN4lZ8"
     },
     {
         "id": 8324,
@@ -10205,7 +10205,7 @@ const mvDB = [
         "title": "月亮惹的禍",
         "vid": "QZ62fxkuDJE",
         "surname": "張",
-        "kid": "0tJhv_W2jZk"
+        "kid": "nFRKDZnVVs8"
     },
     {
         "id": 8326,
@@ -10253,7 +10253,7 @@ const mvDB = [
         "title": "給你們",
         "vid": "0OSXMi9_WBQ",
         "surname": "張",
-        "kid": ""
+        "kid": "5whTgRXdXVI"
     },
     {
         "id": 8332,
@@ -10269,7 +10269,7 @@ const mvDB = [
         "title": "一言難盡",
         "vid": "xkDC4n-ZEWY",
         "surname": "張",
-        "kid": "CrN-_YEnUbQ"
+        "kid": "7XraBTasIxA"
     },
     {
         "id": 8334,
@@ -10333,7 +10333,7 @@ const mvDB = [
         "title": "洋蔥",
         "vid": "78NED_I0lU0",
         "surname": "楊",
-        "kid": "MvQMhmtDqq0"
+        "kid": "zIE-GpY2eAE"
     },
     {
         "id": 8342,
@@ -10349,7 +10349,7 @@ const mvDB = [
         "title": "空白格",
         "vid": "XGvWCpu6cBs",
         "surname": "楊",
-        "kid": ""
+        "kid": "7cVXQoFxMrg"
     },
     {
         "id": 8344,
@@ -10429,7 +10429,7 @@ const mvDB = [
         "title": "涼涼",
         "vid": "M7GkL--nb5M",
         "surname": "楊",
-        "kid": "wRa2xMDO0vo"
+        "kid": "EoHtX1Vzf2w"
     },
     {
         "id": 8354,
@@ -10437,23 +10437,23 @@ const mvDB = [
         "title": "那個男人",
         "vid": "dfV78HLb_HU",
         "surname": "楊",
-        "kid": "6vTVSNd1CQQ"
+        "kid": "ip2mRVwlx50"
     },
     {
         "id": 8355,
         "artist": "楊宗緯",
-        "title": "超高無損音質",
+        "title": "一次就好",
         "vid": "tuohHebvuJI",
         "surname": "楊",
-        "kid": ""
+        "kid": "ZXrjQvwCGeE"
     },
     {
         "id": 8356,
         "artist": "楊宗緯",
-        "title": "版",
+        "title": "一次就好",
         "vid": "xQJ4IcQkRqs",
         "surname": "楊",
-        "kid": "E1lTB8W9IgE"
+        "kid": "ZXrjQvwCGeE"
     },
     {
         "id": 8357,
@@ -10469,7 +10469,7 @@ const mvDB = [
         "title": "我變了",
         "vid": "oMPhuzLaJvM",
         "surname": "楊",
-        "kid": ""
+        "kid": "nHFTSezxhvs"
     },
     {
         "id": 8359,
@@ -10501,7 +10501,7 @@ const mvDB = [
         "title": "andy",
         "vid": "6Sa-wSwCkY8",
         "surname": "阿",
-        "kid": "4Z2GDL4DPVg"
+        "kid": "LrqwMBN5GHg"
     },
     {
         "id": 8363,
@@ -10533,7 +10533,7 @@ const mvDB = [
         "title": "夢中的情話",
         "vid": "Zg3SEaYLq5Y",
         "surname": "阿",
-        "kid": "XMB4Bn9WhX4"
+        "kid": "Zg3SEaYLq5Y"
     },
     {
         "id": 8367,
@@ -10541,7 +10541,7 @@ const mvDB = [
         "title": "撕夜",
         "vid": "bo8ec3Vvt6E",
         "surname": "阿",
-        "kid": "ax3aQDJWAvk"
+        "kid": "IZcomU03wiY"
     },
     {
         "id": 8368,
@@ -10605,7 +10605,7 @@ const mvDB = [
         "title": "雨衣",
         "vid": "KLfIJ7ySw5M",
         "surname": "阿",
-        "kid": ""
+        "kid": "_Hbyrf64MZM"
     },
     {
         "id": 8376,
@@ -10626,7 +10626,7 @@ const mvDB = [
     {
         "id": 8378,
         "artist": "阿杜",
-        "title": "版",
+        "title": "valentines day",
         "vid": "noX8cd4u5HA",
         "surname": "阿",
         "kid": ""
@@ -10658,7 +10658,7 @@ const mvDB = [
     {
         "id": 8382,
         "artist": "林志炫",
-        "title": "歌手音樂頻道",
+        "title": "making love out of nothing at all",
         "vid": "k9E_oBUYfSU",
         "surname": "林",
         "kid": ""
@@ -10669,7 +10669,7 @@ const mvDB = [
         "title": "散了吧",
         "vid": "ffrh3pBcfsM",
         "surname": "林",
-        "kid": ""
+        "kid": "ffrh3pBcfsM"
     },
     {
         "id": 8384,
@@ -10677,7 +10677,7 @@ const mvDB = [
         "title": "現在我這麼想",
         "vid": "1_PyIKB0sTs",
         "surname": "林",
-        "kid": ""
+        "kid": "eos-RVgSWPs"
     },
     {
         "id": 8385,
@@ -10685,7 +10685,7 @@ const mvDB = [
         "title": "沒離開過",
         "vid": "TTfeMfHxZzc",
         "surname": "林",
-        "kid": "-3ycPP39-Q8"
+        "kid": "RN8-Ehvinyk"
     },
     {
         "id": 8386,
@@ -10693,7 +10693,7 @@ const mvDB = [
         "title": "浮誇",
         "vid": "isIUZ4HMV80",
         "surname": "林",
-        "kid": ""
+        "kid": "24a4w8PxGkc"
     },
     {
         "id": 8387,
@@ -10781,7 +10781,7 @@ const mvDB = [
         "title": "愛情宣言",
         "vid": "6a1WFYbiZ6U",
         "surname": "齊",
-        "kid": "W6xeVlZllzE"
+        "kid": "YsP3Exy9DjI"
     },
     {
         "id": 8398,
@@ -10821,7 +10821,7 @@ const mvDB = [
         "title": "懸崖",
         "vid": "3ItvhZ22F1A",
         "surname": "齊",
-        "kid": "SQ3Zorq__0E"
+        "kid": "Qjqq2Fsemjw"
     },
     {
         "id": 8403,
@@ -10853,7 +10853,7 @@ const mvDB = [
         "title": "不讓我的眼淚陪我過夜",
         "vid": "7sgToX7PN10",
         "surname": "齊",
-        "kid": "45dXP2XClME"
+        "kid": "zbDasyDV3F8"
     },
     {
         "id": 8407,
@@ -10861,7 +10861,7 @@ const mvDB = [
         "title": "無情的雨無情的你",
         "vid": "Cw6ttb6edm0",
         "surname": "齊",
-        "kid": "Kwrt2gtLrRk"
+        "kid": "xWRht_IpbsM"
     },
     {
         "id": 8408,
@@ -10901,7 +10901,7 @@ const mvDB = [
         "title": "大約在冬季",
         "vid": "ZYkxIi8H13w",
         "surname": "齊",
-        "kid": "BqQZ--X2Tdg"
+        "kid": "Brb2MttlOMM"
     },
     {
         "id": 8413,
@@ -10925,7 +10925,7 @@ const mvDB = [
         "title": "你要的全拿走",
         "vid": "9HDHnU-Vl0g",
         "surname": "胡",
-        "kid": "lX0wikgP2FE"
+        "kid": "6YRDgNTP98k"
     },
     {
         "id": 8416,
@@ -10933,7 +10933,7 @@ const mvDB = [
         "title": "我知道你很難過",
         "vid": "wIlDWBRzSOE",
         "surname": "胡",
-        "kid": ""
+        "kid": "3jQWxtSlyms"
     },
     {
         "id": 8417,
@@ -10941,7 +10941,7 @@ const mvDB = [
         "title": "慢慢",
         "vid": "q44ZPtrexR8",
         "surname": "胡",
-        "kid": "AvputOMggBY"
+        "kid": "vj_KqIWrERM"
     },
     {
         "id": 8418,
@@ -11002,7 +11002,7 @@ const mvDB = [
     {
         "id": 8425,
         "artist": "胡彥斌",
-        "title": "進行式",
+        "title": "蕭亞軒",
         "vid": "lkgZGbGj9HU",
         "surname": "胡",
         "kid": ""
@@ -11013,7 +11013,7 @@ const mvDB = [
         "title": "男人歌",
         "vid": "vyq8izxLwBM",
         "surname": "胡",
-        "kid": "nTrFU7tIQtc"
+        "kid": "vyq8izxLwBM"
     },
     {
         "id": 8427,
@@ -11026,7 +11026,7 @@ const mvDB = [
     {
         "id": 8428,
         "artist": "胡彥斌",
-        "title": "無損",
+        "title": "自我保護的多心",
         "vid": "tKKlkPmJgp4",
         "surname": "胡",
         "kid": ""
@@ -11101,7 +11101,7 @@ const mvDB = [
         "title": "千紙鶴",
         "vid": "YxTE3FxQHTw",
         "surname": "邰",
-        "kid": "RFlRn3FEJOU"
+        "kid": "4Yl-lOOcsQU"
     },
     {
         "id": 8438,
@@ -11141,7 +11141,7 @@ const mvDB = [
         "title": "九百九十九朵玫瑰",
         "vid": "HhxlPwBfmho",
         "surname": "邰",
-        "kid": "37G5mCG7E68"
+        "kid": "1WKQsTfI6gY"
     },
     {
         "id": 8443,
@@ -11149,7 +11149,7 @@ const mvDB = [
         "title": "找一個字代替",
         "vid": "GRQlp4rrrz8",
         "surname": "邰",
-        "kid": "2bRdBwkuO4Y"
+        "kid": "eGEv6wBMhpQ"
     },
     {
         "id": 8444,
@@ -11157,7 +11157,7 @@ const mvDB = [
         "title": "心要讓你聽見",
         "vid": "8ru1tNuuFzo",
         "surname": "邰",
-        "kid": "hmPzeeS86sM"
+        "kid": "UjfQ8oXFgx8"
     },
     {
         "id": 8445,
@@ -11285,7 +11285,7 @@ const mvDB = [
         "title": "找自己",
         "vid": "1xZede32V6c",
         "surname": "陶",
-        "kid": ""
+        "kid": "dRfOG4GZnmE"
     },
     {
         "id": 8461,
@@ -11341,7 +11341,7 @@ const mvDB = [
         "title": "陪你到天亮",
         "vid": "JGwvbGiIl5Y",
         "surname": "童",
-        "kid": "0-IeZj1f0Dg"
+        "kid": "HO-uL6t6Pjc"
     },
     {
         "id": 8468,
@@ -11349,7 +11349,7 @@ const mvDB = [
         "title": "忘不了",
         "vid": "NMkR9bt8unk",
         "surname": "童",
-        "kid": "itTJNaZxN0M"
+        "kid": "UZvaD1aEj9Y"
     },
     {
         "id": 8469,
@@ -11365,7 +11365,7 @@ const mvDB = [
         "title": "花瓣雨",
         "vid": "07TG-cttD60",
         "surname": "童",
-        "kid": "On5ncS9JXCs"
+        "kid": "6d7JZnqKC2w"
     },
     {
         "id": 8471,
@@ -11413,7 +11413,7 @@ const mvDB = [
         "title": "聽海的歌",
         "vid": "kzoU42FA_HU",
         "surname": "童",
-        "kid": ""
+        "kid": "PAwfWK1KESs"
     },
     {
         "id": 8477,
@@ -11437,7 +11437,7 @@ const mvDB = [
         "title": "明天你是否依然愛我",
         "vid": "hLhqIVtoV5c",
         "surname": "童",
-        "kid": "4Mug_ZMOoUg"
+        "kid": "hLhqIVtoV5c"
     },
     {
         "id": 8480,
@@ -11453,7 +11453,7 @@ const mvDB = [
         "title": "其實你不懂我的心",
         "vid": "ttiuVmonjTw",
         "surname": "童",
-        "kid": "m3r9LswcF1c"
+        "kid": "3hYmQZW1nmQ"
     },
     {
         "id": 8482,
@@ -11469,7 +11469,7 @@ const mvDB = [
         "title": "忘不了",
         "vid": "LSwdArn3iBo",
         "surname": "童",
-        "kid": "itTJNaZxN0M"
+        "kid": "UZvaD1aEj9Y"
     },
     {
         "id": 8484,
@@ -11501,7 +11501,7 @@ const mvDB = [
         "title": "無賴",
         "vid": "oUQ41c4gjsg",
         "surname": "鄭",
-        "kid": ""
+        "kid": "TCIGvSjuD0k"
     },
     {
         "id": 8488,
@@ -11517,7 +11517,7 @@ const mvDB = [
         "title": "別愛我",
         "vid": "v91VASET9Lo",
         "surname": "鄭",
-        "kid": ""
+        "kid": "n6Ilq2-1abI"
     },
     {
         "id": 8490,
@@ -11525,7 +11525,7 @@ const mvDB = [
         "title": "戒情人",
         "vid": "NuzR0fIx5I8",
         "surname": "鄭",
-        "kid": ""
+        "kid": "ZyU-KluzQzs"
     },
     {
         "id": 8491,
@@ -11610,7 +11610,7 @@ const mvDB = [
     {
         "id": 8501,
         "artist": "鄭中基",
-        "title": "半個我 -- 鄭中基",
+        "title": "半個我",
         "vid": "hpx7Uzeef1s",
         "surname": "鄭",
         "kid": ""
@@ -11645,7 +11645,7 @@ const mvDB = [
         "title": "缺口",
         "vid": "hjXrL7CuAvc",
         "surname": "庾",
-        "kid": "k7Og_6clol4"
+        "kid": "hxwTYR960xI"
     },
     {
         "id": 8506,
@@ -11733,7 +11733,7 @@ const mvDB = [
         "title": "春泥",
         "vid": "Z4E_brMSJ68",
         "surname": "庾",
-        "kid": "chjJZoIwupI"
+        "kid": "Z4E_brMSJ68"
     },
     {
         "id": 8517,
@@ -11741,7 +11741,7 @@ const mvDB = [
         "title": "改變所有的錯",
         "vid": "YmyoKG85fJU",
         "surname": "庾",
-        "kid": "et1js-FkfYM"
+        "kid": "XXzy0drnUcw"
     },
     {
         "id": 8518,
@@ -11765,7 +11765,7 @@ const mvDB = [
         "title": "命中注定",
         "vid": "EsT5m1mjChY",
         "surname": "庾",
-        "kid": ""
+        "kid": "sBK4CGJC8NU"
     },
     {
         "id": 8521,
@@ -11810,10 +11810,10 @@ const mvDB = [
     {
         "id": 8526,
         "artist": "楊坤",
-        "title": "楊坤",
+        "title": "無所謂",
         "vid": "c9LiB3ba_V4",
         "surname": "楊",
-        "kid": "rVjzsiKF4Q0"
+        "kid": "dzGreOERrw8"
     },
     {
         "id": 8527,
@@ -11821,15 +11821,15 @@ const mvDB = [
         "title": "月亮可以代表我的心",
         "vid": "ezIhKN0poBg",
         "surname": "楊",
-        "kid": "rxClntsyiaE"
+        "kid": "rbV3OkgVuFs"
     },
     {
         "id": 8528,
         "artist": "楊坤",
-        "title": "愛就像",
+        "title": "答案",
         "vid": "zCj8g4EjJo4",
         "surname": "楊",
-        "kid": ""
+        "kid": "oviy6Da8QvU"
     },
     {
         "id": 8529,
@@ -11853,7 +11853,7 @@ const mvDB = [
         "title": "答案",
         "vid": "eHvNB3_pxQw",
         "surname": "楊",
-        "kid": ""
+        "kid": "oviy6Da8QvU"
     },
     {
         "id": 8532,
@@ -11906,10 +11906,10 @@ const mvDB = [
     {
         "id": 8538,
         "artist": "楊坤",
-        "title": "導唱",
+        "title": "ktv",
         "vid": "gbtBqVthTfA",
         "surname": "楊",
-        "kid": "jYdK8ZA8FBw"
+        "kid": "jrpaK87IjG8"
     },
     {
         "id": 8539,
@@ -11949,7 +11949,7 @@ const mvDB = [
         "title": "人生如夢",
         "vid": "lqnDYKvXQIk",
         "surname": "巫",
-        "kid": ""
+        "kid": "9yWq-4RGS-s"
     },
     {
         "id": 8544,
@@ -11981,7 +11981,7 @@ const mvDB = [
         "title": "叫阮的名",
         "vid": "BMmbIU8NqIU",
         "surname": "巫",
-        "kid": "Zk1QSE4OJZk"
+        "kid": "4J8W6k5EkKU"
     },
     {
         "id": 8548,
@@ -12093,7 +12093,7 @@ const mvDB = [
         "title": "唱這歌",
         "vid": "pTj52-2AtnE",
         "surname": "郭",
-        "kid": ""
+        "kid": "XYUoClM-0Ps"
     },
     {
         "id": 8562,
@@ -12101,7 +12101,7 @@ const mvDB = [
         "title": "para para sakura",
         "vid": "-0aB7EDZ6TU",
         "surname": "郭",
-        "kid": ""
+        "kid": "3vbvdlNCohM"
     },
     {
         "id": 8563,
@@ -12125,7 +12125,7 @@ const mvDB = [
         "title": "分享愛",
         "vid": "A6W1GEhL9Vk",
         "surname": "郭",
-        "kid": ""
+        "kid": "2OsD52YgGoE"
     },
     {
         "id": 8566,
@@ -12213,7 +12213,7 @@ const mvDB = [
         "title": "狂野之城",
         "vid": "hhUKRr8Tfwg",
         "surname": "郭",
-        "kid": "TdjX5j1l6hY"
+        "kid": "hcq-EqL4gWM"
     },
     {
         "id": 8577,
@@ -12237,7 +12237,7 @@ const mvDB = [
         "title": "愛的呼喚",
         "vid": "D4DSNG6IRRI",
         "surname": "郭",
-        "kid": "-2D_mKBA1JU"
+        "kid": "Tdu7XOEcEp0"
     },
     {
         "id": 8580,
@@ -12445,7 +12445,7 @@ const mvDB = [
         "title": "我的驕傲",
         "vid": "QcRrgU13HBY",
         "surname": "楊",
-        "kid": "Mp2Yyyu26xM"
+        "kid": "CGOItm0fi8c"
     },
     {
         "id": 8606,
@@ -12474,7 +12474,7 @@ const mvDB = [
     {
         "id": 8609,
         "artist": "楊培安",
-        "title": "豐華唱片",
+        "title": "你記得嗎",
         "vid": "8Ih-HXj7Ews",
         "surname": "楊",
         "kid": ""
@@ -12493,7 +12493,7 @@ const mvDB = [
         "title": "我相信",
         "vid": "V5b-kzEbwA8",
         "surname": "楊",
-        "kid": "_m8kt01Qtqs"
+        "kid": "wUou9vafe6E"
     },
     {
         "id": 8612,
@@ -12501,7 +12501,7 @@ const mvDB = [
         "title": "我的驕傲",
         "vid": "D_fgx6cCamM",
         "surname": "楊",
-        "kid": "Mp2Yyyu26xM"
+        "kid": "CGOItm0fi8c"
     },
     {
         "id": 8613,
@@ -12541,7 +12541,7 @@ const mvDB = [
         "title": "特別的人",
         "vid": "IscPlLsh6iU",
         "surname": "方",
-        "kid": "sb57s80gTNs"
+        "kid": "N1yddsN4kPA"
     },
     {
         "id": 8618,
@@ -12549,7 +12549,7 @@ const mvDB = [
         "title": "紅豆",
         "vid": "3nG--h_EJyc",
         "surname": "方",
-        "kid": "-e4A5whZjuc"
+        "kid": "bA5gNQ7_KSk"
     },
     {
         "id": 8619,
@@ -12578,7 +12578,7 @@ const mvDB = [
     {
         "id": 8622,
         "artist": "方大同",
-        "title": "run from your love  ft.  fifi rong",
+        "title": "run from your love fifi rong",
         "vid": "Gw6QT_JBu9E",
         "surname": "方",
         "kid": ""
@@ -12621,7 +12621,7 @@ const mvDB = [
         "title": "love song",
         "vid": "Shxik4JT_hE",
         "surname": "方",
-        "kid": "9sSFD-RmmpM"
+        "kid": "AFqYb2K4vu4"
     },
     {
         "id": 8628,
@@ -12629,7 +12629,7 @@ const mvDB = [
         "title": "nothings gonna change my love for you",
         "vid": "91MS_rt4osY",
         "surname": "方",
-        "kid": "xVfjSLlmVWE"
+        "kid": "91MS_rt4osY"
     },
     {
         "id": 8629,
@@ -12661,7 +12661,7 @@ const mvDB = [
         "title": "愛愛愛",
         "vid": "812omgU1tHs",
         "surname": "方",
-        "kid": "JHMGiwKeQ1k"
+        "kid": "doAaR2gVoqk"
     },
     {
         "id": 8633,
@@ -12685,7 +12685,7 @@ const mvDB = [
         "title": "小薇",
         "vid": "B4M27eV2dkw",
         "surname": "黃",
-        "kid": "qdvHZYQowxE"
+        "kid": "0mJVGdaGz6c"
     },
     {
         "id": 8636,
@@ -12693,7 +12693,7 @@ const mvDB = [
         "title": "情人",
         "vid": "dM8cqe5Nxes",
         "surname": "黃",
-        "kid": ""
+        "kid": "_asIfyFOPC8"
     },
     {
         "id": 8637,
@@ -12733,7 +12733,7 @@ const mvDB = [
         "title": "白鷺鷥",
         "vid": "y6XdSb_Q2fE",
         "surname": "黃",
-        "kid": "qJRmG3Vf6YE"
+        "kid": "ctbKPREhjW4"
     },
     {
         "id": 8642,
@@ -12765,7 +12765,7 @@ const mvDB = [
         "title": "狠不下心",
         "vid": "BYLxEudW7ls",
         "surname": "黃",
-        "kid": ""
+        "kid": "CPG3yGneyMc"
     },
     {
         "id": 8646,
@@ -12861,7 +12861,7 @@ const mvDB = [
         "title": "愛已到底",
         "vid": "nv5yDlRGF0M",
         "surname": "游",
-        "kid": ""
+        "kid": "-_R2d7yc2NU"
     },
     {
         "id": 8658,
@@ -12877,7 +12877,7 @@ const mvDB = [
         "title": "孟婆湯",
         "vid": "r8NRknWlzKg",
         "surname": "游",
-        "kid": "y65H1kdSr00"
+        "kid": "-kPlx234QMg"
     },
     {
         "id": 8660,
@@ -12981,7 +12981,7 @@ const mvDB = [
         "title": "童話",
         "vid": "bO_yuRt8pf0",
         "surname": "光",
-        "kid": "AHfkDPJsNhg"
+        "kid": "bBcp_ljCBGU"
     },
     {
         "id": 8673,
@@ -12997,7 +12997,7 @@ const mvDB = [
         "title": "第一次",
         "vid": "rFsn1tzhcHk",
         "surname": "光",
-        "kid": "sFTYy2DvxqE"
+        "kid": "rFsn1tzhcHk"
     },
     {
         "id": 8675,
@@ -13114,7 +13114,7 @@ const mvDB = [
     {
         "id": 8689,
         "artist": "伍思凱",
-        "title": "秋雨彼一暝",
+        "title": "江蕙",
         "vid": "MkLnGNrGYIs",
         "surname": "伍",
         "kid": "8DB5SyOVT8o"
@@ -13125,7 +13125,7 @@ const mvDB = [
         "title": "分享",
         "vid": "UYAaixntPGE",
         "surname": "伍",
-        "kid": "Cia2TFJeUxw"
+        "kid": "5Y6MXG4Prhc"
     },
     {
         "id": 8691,
@@ -13133,7 +13133,7 @@ const mvDB = [
         "title": "這邊那邊",
         "vid": "LK6XSKsJMbY",
         "surname": "伍",
-        "kid": "nqI2p6yiud0"
+        "kid": "LK6XSKsJMbY"
     },
     {
         "id": 8692,
@@ -13157,7 +13157,7 @@ const mvDB = [
         "title": "愛的鋼琴手",
         "vid": "pLj46GESVNA",
         "surname": "伍",
-        "kid": ""
+        "kid": "pLj46GESVNA"
     },
     {
         "id": 8695,
@@ -13229,7 +13229,7 @@ const mvDB = [
         "title": "特別的愛給特別的你",
         "vid": "hm0xK0dp134",
         "surname": "伍",
-        "kid": "W87WIcGcqy8"
+        "kid": "0L59BZg4Kpg"
     },
     {
         "id": 8704,
@@ -13242,7 +13242,7 @@ const mvDB = [
     {
         "id": 8705,
         "artist": "吳青峰",
-        "title": "（......醉鬼阿q）",
+        "title": "孫燕姿）",
         "vid": "0HwxT8--sA8",
         "surname": "吳",
         "kid": ""
@@ -13277,7 +13277,7 @@ const mvDB = [
         "title": "太空人",
         "vid": "kRxk9v0bsC0",
         "surname": "吳",
-        "kid": ""
+        "kid": "eYvQ18Rfzhw"
     },
     {
         "id": 8710,
@@ -13293,7 +13293,7 @@ const mvDB = [
         "title": "太空",
         "vid": "LV7eT2_VwMw",
         "surname": "吳",
-        "kid": ""
+        "kid": "oefKc5Vwzig"
     },
     {
         "id": 8712,
@@ -13301,7 +13301,7 @@ const mvDB = [
         "title": "年輪說",
         "vid": "7M8GD3pHLek",
         "surname": "吳",
-        "kid": ""
+        "kid": "vlRzVk6Tswk"
     },
     {
         "id": 8713,
@@ -13309,7 +13309,7 @@ const mvDB = [
         "title": "歌頌者",
         "vid": "Hk11G2oECSY",
         "surname": "吳",
-        "kid": "2J2Pmy0kNTw"
+        "kid": "S-95VTBrhAo"
     },
     {
         "id": 8714,
@@ -13317,7 +13317,7 @@ const mvDB = [
         "title": "巴別塔慶典",
         "vid": "iOs7Ykmhew4",
         "surname": "吳",
-        "kid": ""
+        "kid": "p12li6oyNCM"
     },
     {
         "id": 8715,
@@ -13338,7 +13338,7 @@ const mvDB = [
     {
         "id": 8717,
         "artist": "吳青峰",
-        "title": "everybody woohoo feat. 9m88",
+        "title": "everybody woohoo  9m88",
         "vid": "ateMdTtm3rY",
         "surname": "吳",
         "kid": ""
@@ -13437,7 +13437,7 @@ const mvDB = [
         "title": "如果可以",
         "vid": "LbiWaeLdqeA",
         "surname": "韋",
-        "kid": "EQ1m6yu4-wk"
+        "kid": "FJ6UeySFpm4"
     },
     {
         "id": 8730,
@@ -13445,7 +13445,7 @@ const mvDB = [
         "title": "心醉心碎",
         "vid": "4YCAxOIQl6w",
         "surname": "韋",
-        "kid": ""
+        "kid": "tzfWxT7rQ0g"
     },
     {
         "id": 8731,
@@ -13461,7 +13461,7 @@ const mvDB = [
         "title": "不用告訴我",
         "vid": "dcmxurhL35w",
         "surname": "韋",
-        "kid": "l_Ry98Ps-J4"
+        "kid": "tEo90q27pmU"
     },
     {
         "id": 8733,
@@ -13701,7 +13701,7 @@ const mvDB = [
         "title": "近距離愛上你",
         "vid": "zOqjc7ZSVHg",
         "surname": "陳",
-        "kid": ""
+        "kid": "aQMzWW5ov_k"
     },
     {
         "id": 8763,
@@ -13717,7 +13717,7 @@ const mvDB = [
         "title": "再痛也沒關係",
         "vid": "i-Lf0sQeQi0",
         "surname": "陳",
-        "kid": ""
+        "kid": "VzbX1RtSjss"
     },
     {
         "id": 8765,
@@ -13733,7 +13733,7 @@ const mvDB = [
         "title": "走心的歌",
         "vid": "_jeGm6ePMRM",
         "surname": "陳",
-        "kid": "xfJM3zV6UzM"
+        "kid": "YqiV_MWiBcY"
     },
     {
         "id": 8767,
@@ -13813,7 +13813,7 @@ const mvDB = [
         "title": "天后",
         "vid": "15d2w0EKuWM",
         "surname": "陳",
-        "kid": "QXvY02SkA4U"
+        "kid": "qUVQ3Px4Nhg"
     },
     {
         "id": 8777,
@@ -13821,7 +13821,7 @@ const mvDB = [
         "title": "stardom",
         "vid": "cRVDT_MdLpY",
         "surname": "陳",
-        "kid": ""
+        "kid": "cRVDT_MdLpY"
     },
     {
         "id": 8778,
@@ -13829,7 +13829,7 @@ const mvDB = [
         "title": "天后",
         "vid": "ByjGY4XgZdM",
         "surname": "陳",
-        "kid": "QXvY02SkA4U"
+        "kid": "qUVQ3Px4Nhg"
     },
     {
         "id": 8779,
@@ -13845,7 +13845,7 @@ const mvDB = [
         "title": "海角七號",
         "vid": "U4H3tIOQhYo",
         "surname": "范",
-        "kid": ""
+        "kid": "oyQZg2X_cd0"
     },
     {
         "id": 8781,
@@ -13861,7 +13861,7 @@ const mvDB = [
         "title": "放生",
         "vid": "0ivNMQauscc",
         "surname": "范",
-        "kid": "zHUs_Pt_D7A"
+        "kid": "0ivNMQauscc"
     },
     {
         "id": 8783,
@@ -13877,7 +13877,7 @@ const mvDB = [
         "title": "love story",
         "vid": "n1hkM-tCWJM",
         "surname": "范",
-        "kid": ""
+        "kid": "n1hkM-tCWJM"
     },
     {
         "id": 8785,
@@ -13885,7 +13885,7 @@ const mvDB = [
         "title": "piano鋼琴別戀",
         "vid": "uDzMEyNc20g",
         "surname": "范",
-        "kid": ""
+        "kid": "uDzMEyNc20g"
     },
     {
         "id": 8786,
@@ -13909,7 +13909,7 @@ const mvDB = [
         "title": "忘了愛",
         "vid": "RQM6GC7J5hg",
         "surname": "范",
-        "kid": ""
+        "kid": "7xh_GYh5Mrw"
     },
     {
         "id": 8789,
@@ -13981,7 +13981,7 @@ const mvDB = [
         "title": "讓每個人都心碎",
         "vid": "Hmd3kx4ozwo",
         "surname": "黃",
-        "kid": "0o_WBb5xfQw"
+        "kid": "Hmd3kx4ozwo"
     },
     {
         "id": 8798,
@@ -14005,7 +14005,7 @@ const mvDB = [
         "title": "同進同出",
         "vid": "6Kg95TUM66g",
         "surname": "黃",
-        "kid": ""
+        "kid": "6Kg95TUM66g"
     },
     {
         "id": 8801,
@@ -14021,7 +14021,7 @@ const mvDB = [
         "title": "你把我灌醉",
         "vid": "gHi_ur2CwuQ",
         "surname": "黃",
-        "kid": "TT-y1rYLl_o"
+        "kid": "MvpVQ-sJHt0"
     },
     {
         "id": 8803,
@@ -14029,7 +14029,7 @@ const mvDB = [
         "title": "離愛不遠",
         "vid": "6IiZltDK8qw",
         "surname": "黃",
-        "kid": "_JAUw35S-zw"
+        "kid": "QQvWYRQaP4U"
     },
     {
         "id": 8804,
@@ -14037,7 +14037,7 @@ const mvDB = [
         "title": "秋天1944",
         "vid": "qZJh9rp9it0",
         "surname": "黃",
-        "kid": ""
+        "kid": "JzKz6VjOiTY"
     },
     {
         "id": 8805,
@@ -14069,7 +14069,7 @@ const mvDB = [
         "title": "背影",
         "vid": "gAteSj4Ot0k",
         "surname": "黃",
-        "kid": ""
+        "kid": "IYevr_yAd-w"
     },
     {
         "id": 8809,
@@ -14093,7 +14093,7 @@ const mvDB = [
         "title": "cocktail party",
         "vid": "p9UdRFW52Nc",
         "surname": "黃",
-        "kid": ""
+        "kid": "M9ZpBVqRkfA"
     },
     {
         "id": 8812,
@@ -14109,15 +14109,15 @@ const mvDB = [
         "title": "愛情多惱河",
         "vid": "vGEIbnUnFlA",
         "surname": "熊",
-        "kid": "JIwxk-gposc"
+        "kid": "vGEIbnUnFlA"
     },
     {
         "id": 8814,
         "artist": "熊天平",
-        "title": "【 官方整首版 】熊天平：雪候鳥 mv - 480p",
+        "title": "雪候鳥",
         "vid": "qeQOpAKAQPo",
         "surname": "熊",
-        "kid": ""
+        "kid": "qeQOpAKAQPo"
     },
     {
         "id": 8815,
@@ -14125,7 +14125,7 @@ const mvDB = [
         "title": "愛情電影",
         "vid": "1NeF-EE5TPA",
         "surname": "熊",
-        "kid": "VXj9FmFh4vM"
+        "kid": "49fJMlJry8Q"
     },
     {
         "id": 8816,
@@ -14133,7 +14133,7 @@ const mvDB = [
         "title": "愛情電影",
         "vid": "XMcJ_iTHf_o",
         "surname": "熊",
-        "kid": "VXj9FmFh4vM"
+        "kid": "49fJMlJry8Q"
     },
     {
         "id": 8817,
@@ -14181,7 +14181,7 @@ const mvDB = [
         "title": "火柴天堂",
         "vid": "WXtUkmsxzec",
         "surname": "熊",
-        "kid": "27vueoMxlWA"
+        "kid": "HgxzU2_dJsM"
     },
     {
         "id": 8823,
@@ -14197,7 +14197,7 @@ const mvDB = [
         "title": "愚人碼頭",
         "vid": "1Tc5RfVdUQM",
         "surname": "熊",
-        "kid": ""
+        "kid": "JxtfgTNgy-I"
     },
     {
         "id": 8825,
@@ -14237,7 +14237,7 @@ const mvDB = [
         "title": "廣島之戀",
         "vid": "iuz6QvKxGPw",
         "surname": "張",
-        "kid": "6uU4dnl_W1o"
+        "kid": "lECl2rECZRU"
     },
     {
         "id": 8830,
@@ -14245,7 +14245,7 @@ const mvDB = [
         "title": "妳知道我在等妳嗎",
         "vid": "jVvTtuagceY",
         "surname": "張",
-        "kid": "DKDXLCtT2c8"
+        "kid": "Od2m-NqGV2A"
     },
     {
         "id": 8831,
@@ -14253,7 +14253,7 @@ const mvDB = [
         "title": "美麗的花蝴蝶",
         "vid": "kCz9bNwa1O8",
         "surname": "張",
-        "kid": ""
+        "kid": "645jVXXtiXU"
     },
     {
         "id": 8832,
@@ -14389,7 +14389,7 @@ const mvDB = [
         "title": "太陽與地球",
         "vid": "i5YRIjxyJP8",
         "surname": "盧",
-        "kid": "SjOp1nvuXjM"
+        "kid": "PVRlKi1QjKY"
     },
     {
         "id": 8849,
@@ -14421,7 +14421,7 @@ const mvDB = [
         "title": "幾分之幾",
         "vid": "HQ_mU73VhEQ",
         "surname": "盧",
-        "kid": "pN9Sq43dNI0"
+        "kid": "HQ_mU73VhEQ"
     },
     {
         "id": 8853,
@@ -14429,7 +14429,7 @@ const mvDB = [
         "title": "愛情怎麼了嗎",
         "vid": "rD-T5pzH9b0",
         "surname": "盧",
-        "kid": ""
+        "kid": "cgyB4bnRwKA"
     },
     {
         "id": 8854,
@@ -14437,7 +14437,7 @@ const mvDB = [
         "title": "慢靈魂",
         "vid": "2n7EP62ocHM",
         "surname": "盧",
-        "kid": ""
+        "kid": "PcwClcBIMKE"
     },
     {
         "id": 8855,
@@ -14445,7 +14445,7 @@ const mvDB = [
         "title": "一夜一夜一夜",
         "vid": "do25hszrh9U",
         "surname": "盧",
-        "kid": "0gUtd7UQ3HI"
+        "kid": "gUZFlVAVdI4"
     },
     {
         "id": 8856,
@@ -14549,7 +14549,7 @@ const mvDB = [
         "title": "背叛",
         "vid": "xHsSWiLsIRY",
         "surname": "曹",
-        "kid": "2zfzbMokwxM"
+        "kid": "xHsSWiLsIRY"
     },
     {
         "id": 8869,
@@ -14557,7 +14557,7 @@ const mvDB = [
         "title": "世界唯一的妳",
         "vid": "r_1FKAbbO7A",
         "surname": "曹",
-        "kid": ""
+        "kid": "r_1FKAbbO7A"
     },
     {
         "id": 8870,
@@ -14565,7 +14565,7 @@ const mvDB = [
         "title": "superwoman",
         "vid": "e-zw2EV2_Oc",
         "surname": "曹",
-        "kid": "p2aOhDs3kbw"
+        "kid": "e-zw2EV2_Oc"
     },
     {
         "id": 8871,
@@ -14589,7 +14589,7 @@ const mvDB = [
         "title": "掌紋",
         "vid": "W8MNmOnK60w",
         "surname": "曹",
-        "kid": ""
+        "kid": "SFHuMYTwuv0"
     },
     {
         "id": 8874,
@@ -14597,7 +14597,7 @@ const mvDB = [
         "title": "寂寞寂寞不好",
         "vid": "1X96Sr210PE",
         "surname": "曹",
-        "kid": "kW3-p1DUjfY"
+        "kid": "1X96Sr210PE"
     },
     {
         "id": 8875,
@@ -14605,7 +14605,7 @@ const mvDB = [
         "title": "寂寞先生",
         "vid": "-OiBFMi4CTk",
         "surname": "曹",
-        "kid": "pANr6YCFk5o"
+        "kid": "-OiBFMi4CTk"
     },
     {
         "id": 8876,
@@ -14618,7 +14618,7 @@ const mvDB = [
     {
         "id": 8877,
         "artist": "曹格",
-        "title": "supermarket超級市場",
+        "title": "supermarket",
         "vid": "UhjJRVnssrM",
         "surname": "曹",
         "kid": ""
@@ -14685,7 +14685,7 @@ const mvDB = [
         "title": "我也很想相信",
         "vid": "hCPT9twPTB8",
         "surname": "林",
-        "kid": "EC47mIfZppU"
+        "kid": "S41KPaE94Ac"
     },
     {
         "id": 8886,
@@ -14701,7 +14701,7 @@ const mvDB = [
         "title": "流言",
         "vid": "7nuiNcs840Q",
         "surname": "林",
-        "kid": "F0m_MnVAdWA"
+        "kid": "SuPDM_S6mOk"
     },
     {
         "id": 8888,
@@ -14741,7 +14741,7 @@ const mvDB = [
         "title": "白天不懂夜的黑",
         "vid": "aR3QrppGNNI",
         "surname": "林",
-        "kid": ""
+        "kid": "5grfoVLpbiU"
     },
     {
         "id": 8893,
@@ -14797,7 +14797,7 @@ const mvDB = [
         "title": "白天不懂夜的黑",
         "vid": "XE71mvGQQhI",
         "surname": "林",
-        "kid": ""
+        "kid": "5grfoVLpbiU"
     },
     {
         "id": 8900,
@@ -14818,7 +14818,7 @@ const mvDB = [
     {
         "id": 8902,
         "artist": "小蟲",
-        "title": "小",
+        "title": "方大同",
         "vid": "VIG9gy050Nc",
         "surname": "小",
         "kid": "rFrQMUx_OJs"
@@ -14845,7 +14845,7 @@ const mvDB = [
         "title": "燒燒a心臟",
         "vid": "Khu_jHPiGTY",
         "surname": "小",
-        "kid": ""
+        "kid": "Khu_jHPiGTY"
     },
     {
         "id": 8906,
@@ -14877,7 +14877,7 @@ const mvDB = [
         "title": "任賢齊",
         "vid": "FIkgv1KS3r8",
         "surname": "小",
-        "kid": "1NlmHbizS1w"
+        "kid": "FIkgv1KS3r8"
     },
     {
         "id": 8910,
@@ -14885,7 +14885,7 @@ const mvDB = [
         "title": "small insects",
         "vid": "2_YVNJFz5A8",
         "surname": "小",
-        "kid": ""
+        "kid": "2_YVNJFz5A8"
     },
     {
         "id": 8911,
@@ -14949,7 +14949,7 @@ const mvDB = [
         "title": "男兒的心聲",
         "vid": "l_ThVCi6rhA",
         "surname": "沈",
-        "kid": "cBh4py4tQE8"
+        "kid": "k2Xibzn1D8s"
     },
     {
         "id": 8919,
@@ -14965,7 +14965,7 @@ const mvDB = [
         "title": "流星我問你",
         "vid": "5bT-NkvPNPQ",
         "surname": "沈",
-        "kid": ""
+        "kid": "T0O-XVzDZ70"
     },
     {
         "id": 8921,
@@ -14986,7 +14986,7 @@ const mvDB = [
     {
         "id": 8923,
         "artist": "沈文程",
-        "title": "往事",
+        "title": "●往事",
         "vid": "0YltaNeSJjQ",
         "surname": "沈",
         "kid": ""
@@ -15029,7 +15029,7 @@ const mvDB = [
         "title": "漂泊",
         "vid": "J6Z_UO1z7DA",
         "surname": "沈",
-        "kid": "41RraOf3Gg4"
+        "kid": "3mIyZvsFby4"
     },
     {
         "id": 8929,
@@ -15053,7 +15053,7 @@ const mvDB = [
         "title": "來去台東",
         "vid": "-tWTotTdVI8",
         "surname": "沈",
-        "kid": "N5KNXKLw7o8"
+        "kid": "sTSejcbAElk"
     },
     {
         "id": 8932,
@@ -15077,7 +15077,7 @@ const mvDB = [
         "title": "妳讓我孤孤單單",
         "vid": "Hhbz_gxm7ew",
         "surname": "殷",
-        "kid": ""
+        "kid": "Hhbz_gxm7ew"
     },
     {
         "id": 8935,
@@ -15085,7 +15085,7 @@ const mvDB = [
         "title": "玫瑰人生",
         "vid": "YKbDm70_fas",
         "surname": "殷",
-        "kid": ""
+        "kid": "YKbDm70_fas"
     },
     {
         "id": 8936,
@@ -15093,7 +15093,7 @@ const mvDB = [
         "title": "塵緣",
         "vid": "tmsViSv8K7A",
         "surname": "殷",
-        "kid": "oWyLVcxu7So"
+        "kid": "tmsViSv8K7A"
     },
     {
         "id": 8937,
@@ -15109,7 +15109,7 @@ const mvDB = [
         "title": "情深緣淺",
         "vid": "3H2OK23N50g",
         "surname": "殷",
-        "kid": ""
+        "kid": "awI5pr0-8Vw"
     },
     {
         "id": 8939,
@@ -15141,7 +15141,7 @@ const mvDB = [
         "title": "天空藍藍的",
         "vid": "tU6M1ORGhmA",
         "surname": "殷",
-        "kid": ""
+        "kid": "JYrOCmma5fA"
     },
     {
         "id": 8943,
@@ -15149,7 +15149,7 @@ const mvDB = [
         "title": "再想你一回",
         "vid": "pcw8a5ZE1_Q",
         "surname": "殷",
-        "kid": ""
+        "kid": "2fC_SKveG1g"
     },
     {
         "id": 8944,
@@ -15189,7 +15189,7 @@ const mvDB = [
         "title": "無盡的港口",
         "vid": "YjhBMr1ugio",
         "surname": "殷",
-        "kid": ""
+        "kid": "aSUGiqF_1dc"
     },
     {
         "id": 8949,
@@ -15213,7 +15213,7 @@ const mvDB = [
         "title": "暫時的男朋友",
         "vid": "88m2XdyGXRY",
         "surname": "嚴",
-        "kid": ""
+        "kid": "88m2XdyGXRY"
     },
     {
         "id": 8952,
@@ -15221,7 +15221,7 @@ const mvDB = [
         "title": "吾在場證明",
         "vid": "BkTqW9ohMTM",
         "surname": "嚴",
-        "kid": ""
+        "kid": "BkTqW9ohMTM"
     },
     {
         "id": 8953,
@@ -15229,7 +15229,7 @@ const mvDB = [
         "title": "好的情人",
         "vid": "qIAFyPYlq_U",
         "surname": "嚴",
-        "kid": ""
+        "kid": "qIAFyPYlq_U"
     },
     {
         "id": 8954,
@@ -15237,7 +15237,7 @@ const mvDB = [
         "title": "輕輕",
         "vid": "7TmcbZ4FxSw",
         "surname": "嚴",
-        "kid": ""
+        "kid": "7TmcbZ4FxSw"
     },
     {
         "id": 8955,
@@ -15250,10 +15250,10 @@ const mvDB = [
     {
         "id": 8956,
         "artist": "嚴爵",
-        "title": "過敏慢版",
+        "title": "打噴嚏",
         "vid": "FYgcqk-e0Us",
         "surname": "嚴",
-        "kid": ""
+        "kid": "FYgcqk-e0Us"
     },
     {
         "id": 8957,
@@ -15266,7 +15266,7 @@ const mvDB = [
     {
         "id": 8958,
         "artist": "嚴爵",
-        "title": "潔癖",
+        "title": "潔癖（五月天）",
         "vid": "EyUVN9Hu7t8",
         "surname": "嚴",
         "kid": ""
@@ -15290,7 +15290,7 @@ const mvDB = [
     {
         "id": 8961,
         "artist": "嚴爵",
-        "title": "偷偷的愛",
+        "title": "真心請按兩次鈴",
         "vid": "J4RxtwBX36U",
         "surname": "嚴",
         "kid": ""
@@ -15333,7 +15333,7 @@ const mvDB = [
         "title": "沒有你怎麼辦",
         "vid": "J4vVzLGM2z0",
         "surname": "嚴",
-        "kid": ""
+        "kid": "-LvIRh8uHOQ"
     },
     {
         "id": 8967,
@@ -15381,7 +15381,7 @@ const mvDB = [
         "title": "可能枕邊有微笑",
         "vid": "qsKGEbTROF0",
         "surname": "程",
-        "kid": ""
+        "kid": "qsKGEbTROF0"
     },
     {
         "id": 8973,
@@ -15394,10 +15394,10 @@ const mvDB = [
     {
         "id": 8974,
         "artist": "程響",
-        "title": "動態歌詞pinyin",
+        "title": "可能",
         "vid": "aFMBAQi55DU",
         "surname": "程",
-        "kid": ""
+        "kid": "nb3BjFK12jU"
     },
     {
         "id": 8975,
@@ -15410,7 +15410,7 @@ const mvDB = [
     {
         "id": 8976,
         "artist": "程響",
-        "title": "我就在這裡",
+        "title": "等你歸來『』",
         "vid": "twZe_8tozuY",
         "surname": "程",
         "kid": "twZe_8tozuY"
@@ -15418,7 +15418,7 @@ const mvDB = [
     {
         "id": 8977,
         "artist": "程響",
-        "title": "超高無損音質",
+        "title": "新娘不是我",
         "vid": "EvXE3bzI1QM",
         "surname": "程",
         "kid": ""
@@ -15445,7 +15445,7 @@ const mvDB = [
         "title": "可能",
         "vid": "BNB9mkO0sOw",
         "surname": "程",
-        "kid": "JnngXODMvnY"
+        "kid": "nb3BjFK12jU"
     },
     {
         "id": 8981,
@@ -15461,7 +15461,7 @@ const mvDB = [
         "title": "不再聯繫",
         "vid": "vkOsQ3Zzk5I",
         "surname": "程",
-        "kid": "UVkVgMq4UBI"
+        "kid": "ixNQjjrioxE"
     },
     {
         "id": 8983,
@@ -15474,10 +15474,10 @@ const mvDB = [
     {
         "id": 8984,
         "artist": "程響",
-        "title": "有些愛與妒",
+        "title": "時光洪流",
         "vid": "UjCkjIwGnUI",
         "surname": "程",
-        "kid": ""
+        "kid": "4hKr87Au_c0"
     },
     {
         "id": 8985,
@@ -15485,7 +15485,7 @@ const mvDB = [
         "title": "左伴右唱",
         "vid": "GF-EMk0TAas",
         "surname": "程",
-        "kid": ""
+        "kid": "DgG85T_wblQ"
     },
     {
         "id": 8986,
@@ -15493,7 +15493,7 @@ const mvDB = [
         "title": "怎麼會不難過",
         "vid": "QkFkrTblrh4",
         "surname": "程",
-        "kid": ""
+        "kid": "Z8XUP_44a_4"
     },
     {
         "id": 8987,
@@ -15541,7 +15541,7 @@ const mvDB = [
         "title": "流年",
         "vid": "mjuS9shGYhE",
         "surname": "王",
-        "kid": ""
+        "kid": "LmNbQ7zDYuw"
     },
     {
         "id": 8993,
@@ -15637,7 +15637,7 @@ const mvDB = [
         "title": "百年孤寂",
         "vid": "upkaTcir1m8",
         "surname": "王",
-        "kid": ""
+        "kid": "SR28FYFq5bY"
     },
     {
         "id": 9005,
@@ -15645,7 +15645,7 @@ const mvDB = [
         "title": "臉",
         "vid": "Z7FP7zT6klU",
         "surname": "王",
-        "kid": ""
+        "kid": "WwcrL789Bo4"
     },
     {
         "id": 9006,
@@ -15661,7 +15661,7 @@ const mvDB = [
         "title": "淋雨一直走",
         "vid": "WTcodZDH-Oc",
         "surname": "張",
-        "kid": ""
+        "kid": "c4VPP1aVLb8"
     },
     {
         "id": 9008,
@@ -15693,7 +15693,7 @@ const mvDB = [
         "title": "頭號甜心",
         "vid": "8bUW7Pl3PjM",
         "surname": "張",
-        "kid": "nmbZ_1xJy9k"
+        "kid": "FBGvaNxpoms"
     },
     {
         "id": 9012,
@@ -15733,7 +15733,7 @@ const mvDB = [
         "title": "隱形的翅膀",
         "vid": "be2wvNFTLMc",
         "surname": "張",
-        "kid": "MwHx5cDQe-Q"
+        "kid": "9y_uGPEKYcA"
     },
     {
         "id": 9017,
@@ -15829,7 +15829,7 @@ const mvDB = [
         "title": "梅花",
         "vid": "jjl7L6F-hac",
         "surname": "鄧",
-        "kid": ""
+        "kid": "9S5XjpkBs1s"
     },
     {
         "id": 9029,
@@ -15965,7 +15965,7 @@ const mvDB = [
         "title": "親愛的路人",
         "vid": "5UzWEtOkpCc",
         "surname": "劉",
-        "kid": ""
+        "kid": "CKEr8YH1JFA"
     },
     {
         "id": 9046,
@@ -15989,7 +15989,7 @@ const mvDB = [
         "title": "後來",
         "vid": "G9evMJYtRVg",
         "surname": "劉",
-        "kid": "hawDk2CCp30"
+        "kid": "kaOAM03kd6s"
     },
     {
         "id": 9049,
@@ -16037,7 +16037,7 @@ const mvDB = [
         "title": "當愛在靠近",
         "vid": "fIjDpHiT6kY",
         "surname": "劉",
-        "kid": "74Ypuwb6t6k"
+        "kid": "fIjDpHiT6kY"
     },
     {
         "id": 9055,
@@ -16085,7 +16085,7 @@ const mvDB = [
         "title": "走著走著就散了",
         "vid": "oSJ_9otxDo8",
         "surname": "莊",
-        "kid": ""
+        "kid": "8w0BC9dgOP8"
     },
     {
         "id": 9061,
@@ -16109,7 +16109,7 @@ const mvDB = [
         "title": "放過自己",
         "vid": "8WA47rXHuVQ",
         "surname": "莊",
-        "kid": ""
+        "kid": "XEGz-kbQw3A"
     },
     {
         "id": 9064,
@@ -16117,7 +16117,7 @@ const mvDB = [
         "title": "一直想著他",
         "vid": "WpHXyHVh85Q",
         "surname": "莊",
-        "kid": "WpHXyHVh85Q"
+        "kid": "RU5F60LPus8"
     },
     {
         "id": 9065,
@@ -16125,7 +16125,7 @@ const mvDB = [
         "title": "好可惜",
         "vid": "0IezNuAgkUU",
         "surname": "莊",
-        "kid": "eTOw5TJ6dIU"
+        "kid": "OcWe4ACa1RI"
     },
     {
         "id": 9066,
@@ -16149,7 +16149,7 @@ const mvDB = [
         "title": "有愛就不怕",
         "vid": "eAsB3JqCDb0",
         "surname": "莊",
-        "kid": ""
+        "kid": "cpjz1pk-y_0"
     },
     {
         "id": 9069,
@@ -16157,7 +16157,7 @@ const mvDB = [
         "title": "一萬個捨不得",
         "vid": "yA4ffCfeFP0",
         "surname": "莊",
-        "kid": "YQxz_MIAyM8"
+        "kid": "d0mdg10wivE"
     },
     {
         "id": 9070,
@@ -16165,7 +16165,7 @@ const mvDB = [
         "title": "再見只是陌生人",
         "vid": "T9wkYFwimHY",
         "surname": "莊",
-        "kid": "Jm9coUf2PqA"
+        "kid": "QmBBWrxjbqw"
     },
     {
         "id": 9071,
@@ -16173,7 +16173,7 @@ const mvDB = [
         "title": "好可惜",
         "vid": "vzTxRUCtdXE",
         "surname": "莊",
-        "kid": "eTOw5TJ6dIU"
+        "kid": "OcWe4ACa1RI"
     },
     {
         "id": 9072,
@@ -16181,7 +16181,7 @@ const mvDB = [
         "title": "再見只是陌生人",
         "vid": "j37tBsPy6WI",
         "surname": "莊",
-        "kid": "Jm9coUf2PqA"
+        "kid": "QmBBWrxjbqw"
     },
     {
         "id": 9073,
@@ -16189,7 +16189,7 @@ const mvDB = [
         "title": "放過自己",
         "vid": "ifjdm5rHeW0",
         "surname": "莊",
-        "kid": ""
+        "kid": "XEGz-kbQw3A"
     },
     {
         "id": 9074,
@@ -16197,7 +16197,7 @@ const mvDB = [
         "title": "一直想著他",
         "vid": "3Hj-fIFXHBw",
         "surname": "莊",
-        "kid": "WpHXyHVh85Q"
+        "kid": "RU5F60LPus8"
     },
     {
         "id": 9075,
@@ -16205,7 +16205,7 @@ const mvDB = [
         "title": "走著走著就散了",
         "vid": "mgkkobzQSlU",
         "surname": "莊",
-        "kid": ""
+        "kid": "8w0BC9dgOP8"
     },
     {
         "id": 9076,
@@ -16213,12 +16213,12 @@ const mvDB = [
         "title": "再見只是陌生人",
         "vid": "poNh4dokFPo",
         "surname": "莊",
-        "kid": "Jm9coUf2PqA"
+        "kid": "QmBBWrxjbqw"
     },
     {
         "id": 9077,
         "artist": "莊心妍",
-        "title": "超高無損音質",
+        "title": "以後的以後",
         "vid": "ajHo-XWR080",
         "surname": "莊",
         "kid": "ajHo-XWR080"
@@ -16226,7 +16226,7 @@ const mvDB = [
     {
         "id": 9078,
         "artist": "莊心妍",
-        "title": "兩個人的回憶一個人過",
+        "title": "兩個人的回憶一個人過ktv",
         "vid": "XKztuCMGnmo",
         "surname": "莊",
         "kid": "whWhN4cyFMo"
@@ -16261,7 +16261,7 @@ const mvDB = [
         "title": "愛你",
         "vid": "NAODcPQcy9U",
         "surname": "王",
-        "kid": "rfq1Vx18tx8"
+        "kid": "ES2Aukfe2_U"
     },
     {
         "id": 9083,
@@ -16397,7 +16397,7 @@ const mvDB = [
         "title": "飛鳥和蟬",
         "vid": "Sdh16YlinNE",
         "surname": "任",
-        "kid": "WEN3V7Pw-fg"
+        "kid": "Sdh16YlinNE"
     },
     {
         "id": 9100,
@@ -16413,7 +16413,7 @@ const mvDB = [
         "title": "無人之島",
         "vid": "DVE3pu7pY2c",
         "surname": "任",
-        "kid": "SKiNQg24kNc"
+        "kid": "WaBD0LJpRoI"
     },
     {
         "id": 9102,
@@ -16429,12 +16429,12 @@ const mvDB = [
         "title": "那年",
         "vid": "XFLDRhoCHrg",
         "surname": "任",
-        "kid": ""
+        "kid": "GGZJwqCCqiI"
     },
     {
         "id": 9104,
         "artist": "任然",
-        "title": "讓你愛上我",
+        "title": "疑心病『』",
         "vid": "YkLyTXJYwgI",
         "surname": "任",
         "kid": ""
@@ -16445,7 +16445,7 @@ const mvDB = [
         "title": "飛鳥和蟬",
         "vid": "V0XUd8f2pz8",
         "surname": "任",
-        "kid": "WEN3V7Pw-fg"
+        "kid": "Sdh16YlinNE"
     },
     {
         "id": 9106,
@@ -16501,7 +16501,7 @@ const mvDB = [
         "title": "飛鳥和蟬",
         "vid": "nBv_c2xcdvU",
         "surname": "任",
-        "kid": "WEN3V7Pw-fg"
+        "kid": "Sdh16YlinNE"
     },
     {
         "id": 9113,
@@ -16533,7 +16533,7 @@ const mvDB = [
         "title": "疑心病",
         "vid": "bZsB4MmOc-o",
         "surname": "任",
-        "kid": "R8oO1MKlxnI"
+        "kid": "SLBOunI83xM"
     },
     {
         "id": 9117,
@@ -16565,7 +16565,7 @@ const mvDB = [
         "title": "七情六慾",
         "vid": "8x-xdQMnwSc",
         "surname": "李",
-        "kid": "-nbEaRW99WM"
+        "kid": "kVna0-5_wkA"
     },
     {
         "id": 9121,
@@ -16685,7 +16685,7 @@ const mvDB = [
         "title": "七情六慾",
         "vid": "LDgO0TG30lQ",
         "surname": "李",
-        "kid": "-nbEaRW99WM"
+        "kid": "kVna0-5_wkA"
     },
     {
         "id": 9136,
@@ -16709,7 +16709,7 @@ const mvDB = [
         "title": "去有風的地方",
         "vid": "Jy5g8i90SjU",
         "surname": "郁",
-        "kid": "8AXZsJTVlE0"
+        "kid": "5ElMRw4ht4k"
     },
     {
         "id": 9139,
@@ -16853,12 +16853,12 @@ const mvDB = [
         "title": "遇見",
         "vid": "WObbdwgB41c",
         "surname": "孫",
-        "kid": ""
+        "kid": "5uDUn5zW8Co"
     },
     {
         "id": 9157,
         "artist": "孫燕姿",
-        "title": "我懷念的",
+        "title": "孫燕姿 yanzi sun - 我懷念的 what i miss 4k mv (official 4k ultrahd video",
         "vid": "GSx8Olkop50",
         "surname": "孫",
         "kid": "4n8KJ8nRSEk"
@@ -16933,7 +16933,7 @@ const mvDB = [
         "title": "開始懂了",
         "vid": "h5eRbbOnPRc",
         "surname": "孫",
-        "kid": "_ToomReok-o"
+        "kid": "vD-TMqh8CZU"
     },
     {
         "id": 9167,
@@ -16981,7 +16981,7 @@ const mvDB = [
         "title": "往事",
         "vid": "IGZdshq042g",
         "surname": "孟",
-        "kid": "LYggKLC9Ijc"
+        "kid": "vbWIAT-cSTw"
     },
     {
         "id": 9173,
@@ -17026,7 +17026,7 @@ const mvDB = [
     {
         "id": 9178,
         "artist": "孟庭葦",
-        "title": "孟庭葦",
+        "title": "改變",
         "vid": "njBrft_fKW4",
         "surname": "孟",
         "kid": "ItotN0ySX5A"
@@ -17053,12 +17053,12 @@ const mvDB = [
         "title": "誰的眼淚在飛",
         "vid": "lj_4e-YC2lg",
         "surname": "孟",
-        "kid": "D4ccv0eFRJQ"
+        "kid": "JiuWAJKLEKM"
     },
     {
         "id": 9182,
         "artist": "孟庭葦",
-        "title": "屠穎剪輯版",
+        "title": "祈禱",
         "vid": "H488AHoWE4s",
         "surname": "孟",
         "kid": ""
@@ -17085,7 +17085,7 @@ const mvDB = [
         "title": "至少還有你",
         "vid": "3qsbWeMqa9Y",
         "surname": "林",
-        "kid": "vYOfb3lScas"
+        "kid": "0Sv46YDSKzI"
     },
     {
         "id": 9186,
@@ -17109,7 +17109,7 @@ const mvDB = [
         "title": "為何他會離開你",
         "vid": "zqc7LBFNr-k",
         "surname": "林",
-        "kid": ""
+        "kid": "0KuAnGKbX3o"
     },
     {
         "id": 9189,
@@ -17125,7 +17125,7 @@ const mvDB = [
         "title": "聽說愛情回來過",
         "vid": "qSnSCOMVSYQ",
         "surname": "林",
-        "kid": "Ubciw1o4pJc"
+        "kid": "bSWuZGOcmRk"
     },
     {
         "id": 9191,
@@ -17141,7 +17141,7 @@ const mvDB = [
         "title": "鏗鏘玫瑰",
         "vid": "_aC-5cMtKSo",
         "surname": "林",
-        "kid": ""
+        "kid": "nAuuAiMgFf4"
     },
     {
         "id": 9193,
@@ -17253,7 +17253,7 @@ const mvDB = [
         "title": "大風吹",
         "vid": "nqDTWlZKGug",
         "surname": "劉",
-        "kid": "nqDTWlZKGug"
+        "kid": "R53s3lMUl2Y"
     },
     {
         "id": 9207,
@@ -17269,7 +17269,7 @@ const mvDB = [
         "title": "後來我們會怎樣",
         "vid": "iQgy9ZBLFSw",
         "surname": "劉",
-        "kid": ""
+        "kid": "5lTF_FDRYQk"
     },
     {
         "id": 9209,
@@ -17277,7 +17277,7 @@ const mvDB = [
         "title": "聊表心意",
         "vid": "mWrRsdnkKEc",
         "surname": "劉",
-        "kid": ""
+        "kid": "mWrRsdnkKEc"
     },
     {
         "id": 9210,
@@ -17317,7 +17317,7 @@ const mvDB = [
         "title": "來",
         "vid": "eqaU_36Gksk",
         "surname": "劉",
-        "kid": "m-MyJouVCKQ"
+        "kid": "5lTF_FDRYQk"
     },
     {
         "id": 9215,
@@ -17437,7 +17437,7 @@ const mvDB = [
         "title": "心事重重",
         "vid": "59BSUqnUDzw",
         "surname": "周",
-        "kid": "h2NSAuw6AsM"
+        "kid": "YCfx4_uNmJM"
     },
     {
         "id": 9230,
@@ -17501,7 +17501,7 @@ const mvDB = [
         "title": "最愛",
         "vid": "gSapYefBgbM",
         "surname": "周",
-        "kid": "3cZKZStMEgg"
+        "kid": "Jhu5oBLkhdU"
     },
     {
         "id": 9238,
@@ -17509,7 +17509,7 @@ const mvDB = [
         "title": "自作多情",
         "vid": "MmNzHUfB5MY",
         "surname": "周",
-        "kid": "4Cck9Woiyrw"
+        "kid": "e7wZdqIITtY"
     },
     {
         "id": 9239,
@@ -17517,7 +17517,7 @@ const mvDB = [
         "title": "痴心換情深",
         "vid": "vj3GObiEsvw",
         "surname": "周",
-        "kid": "I2IqIYMsV7M"
+        "kid": "WgY72WUrkyY"
     },
     {
         "id": 9240,
@@ -17525,7 +17525,7 @@ const mvDB = [
         "title": "流言",
         "vid": "aPLEMvfK-qw",
         "surname": "周",
-        "kid": ""
+        "kid": "aPLEMvfK-qw"
     },
     {
         "id": 9241,
@@ -17549,7 +17549,7 @@ const mvDB = [
         "title": "像是一顆星星",
         "vid": "70RTxbhqj5s",
         "surname": "楊",
-        "kid": ""
+        "kid": "0J6HU6pB1sE"
     },
     {
         "id": 9244,
@@ -17597,7 +17597,7 @@ const mvDB = [
         "title": "青春住了誰",
         "vid": "x4s-th4N2og",
         "surname": "楊",
-        "kid": ""
+        "kid": "gNbYtNa9RtQ"
     },
     {
         "id": 9250,
@@ -17605,7 +17605,7 @@ const mvDB = [
         "title": "年輪說",
         "vid": "anurOHpo0aY",
         "surname": "楊",
-        "kid": "MlA3590ja44"
+        "kid": "UvdQVOwRxH4"
     },
     {
         "id": 9251,
@@ -17645,7 +17645,7 @@ const mvDB = [
         "title": "仰望",
         "vid": "had4aS-ludw",
         "surname": "楊",
-        "kid": ""
+        "kid": "oHutmPHiqAc"
     },
     {
         "id": 9256,
@@ -17653,7 +17653,7 @@ const mvDB = [
         "title": "相愛的方法",
         "vid": "HHEAlNaT_-E",
         "surname": "楊",
-        "kid": ""
+        "kid": "smu3dI3-Nuk"
     },
     {
         "id": 9257,
@@ -17693,7 +17693,7 @@ const mvDB = [
         "title": "雨愛",
         "vid": "oec9R5ypf-o",
         "surname": "楊",
-        "kid": "6UdUFhyrUs8"
+        "kid": "lPjeADMbuIg"
     },
     {
         "id": 9262,
@@ -17861,7 +17861,7 @@ const mvDB = [
         "title": "浪漫來襲",
         "vid": "jTcLJYVzFo8",
         "surname": "蕭",
-        "kid": ""
+        "kid": "k0ts3p94_fI"
     },
     {
         "id": 9283,
@@ -17877,7 +17877,7 @@ const mvDB = [
         "title": "cappuccino",
         "vid": "M9EHlbeY8UA",
         "surname": "蕭",
-        "kid": ""
+        "kid": "e4saS3-E9sA"
     },
     {
         "id": 9285,
@@ -17901,7 +17901,7 @@ const mvDB = [
         "title": "最熟悉的陌生人",
         "vid": "C5mI0TqrJ-4",
         "surname": "蕭",
-        "kid": "YVVRS2IBJs8"
+        "kid": "Sd0VBLnxeRQ"
     },
     {
         "id": 9288,
@@ -17909,7 +17909,7 @@ const mvDB = [
         "title": "突然想起你",
         "vid": "KUf5MMj1wKw",
         "surname": "蕭",
-        "kid": "qlFKE_pxsRk"
+        "kid": "38o4uP8ccB8"
     },
     {
         "id": 9289,
@@ -17946,7 +17946,7 @@ const mvDB = [
     {
         "id": 9293,
         "artist": "蕭亞軒",
-        "title": "u make me wanna feat. blue",
+        "title": "u make me wanna  blue",
         "vid": "hNqFD-cGkeo",
         "surname": "蕭",
         "kid": ""
@@ -18061,7 +18061,7 @@ const mvDB = [
         "title": "如果雲知道",
         "vid": "DOcb1-SD4Eo",
         "surname": "許",
-        "kid": "jHJa4PPxwoE"
+        "kid": "DOcb1-SD4Eo"
     },
     {
         "id": 9308,
@@ -18085,7 +18085,7 @@ const mvDB = [
         "title": "一直是晴天",
         "vid": "Qfhwi30Nc0Q",
         "surname": "許",
-        "kid": ""
+        "kid": "ImF9hQqQY5Y"
     },
     {
         "id": 9311,
@@ -18117,7 +18117,7 @@ const mvDB = [
         "title": "獨角戲",
         "vid": "iFCkm_Egn1g",
         "surname": "許",
-        "kid": "Qnns8hI0UMg"
+        "kid": "hjQDnUl7Mo4"
     },
     {
         "id": 9315,
@@ -18146,7 +18146,7 @@ const mvDB = [
     {
         "id": 9318,
         "artist": "許茹芸",
-        "title": "清晰版",
+        "title": "沙漏",
         "vid": "8eAK5E3YXoU",
         "surname": "許",
         "kid": ""
@@ -18157,7 +18157,7 @@ const mvDB = [
         "title": "一直很安靜",
         "vid": "OC6k-fm09CQ",
         "surname": "阿",
-        "kid": "9apxVjMDtS8"
+        "kid": "R-X242Z9rFc"
     },
     {
         "id": 9320,
@@ -18165,7 +18165,7 @@ const mvDB = [
         "title": "寂寞在唱歌",
         "vid": "rb-vNJcW7MY",
         "surname": "阿",
-        "kid": ""
+        "kid": "yrHSl1unsBQ"
     },
     {
         "id": 9321,
@@ -18181,7 +18181,7 @@ const mvDB = [
         "title": "葉子",
         "vid": "uaEDHeIaqnA",
         "surname": "阿",
-        "kid": "pIonSS-Ewv8"
+        "kid": "9YXxCciHRcU"
     },
     {
         "id": 9323,
@@ -18245,7 +18245,7 @@ const mvDB = [
         "title": "一直很安靜",
         "vid": "nlg1y6hLsRs",
         "surname": "阿",
-        "kid": "9apxVjMDtS8"
+        "kid": "R-X242Z9rFc"
     },
     {
         "id": 9331,
@@ -18285,7 +18285,7 @@ const mvDB = [
         "title": "突然好想你",
         "vid": "IBT0_3QUy98",
         "surname": "徐",
-        "kid": "OQ2hZIfMHj4"
+        "kid": "qe1l4vGQbL8"
     },
     {
         "id": 9336,
@@ -18301,7 +18301,7 @@ const mvDB = [
         "title": "言不由衷",
         "vid": "k8jAqe9QZ7I",
         "surname": "徐",
-        "kid": "DxNIaBWcGz4"
+        "kid": "kqBvvFv1ERs"
     },
     {
         "id": 9338,
@@ -18421,7 +18421,7 @@ const mvDB = [
         "title": "一樣的月光",
         "vid": "TxXIfcRt1WQ",
         "surname": "徐",
-        "kid": "suLtRFLNtLU"
+        "kid": "QyhBdxWqDjo"
     },
     {
         "id": 9353,
@@ -18429,7 +18429,7 @@ const mvDB = [
         "title": "膽小鬼",
         "vid": "u7z6ppwGxlw",
         "surname": "梁",
-        "kid": "PIk67T6GW3I"
+        "kid": "tk2emjMCAwo"
     },
     {
         "id": 9354,
@@ -18466,7 +18466,7 @@ const mvDB = [
     {
         "id": 9358,
         "artist": "梁詠琪",
-        "title": "2k版",
+        "title": "原來愛情這麼傷",
         "vid": "gY5OZbCfcXE",
         "surname": "梁",
         "kid": "K_bFrYDW0LU"
@@ -18485,7 +18485,7 @@ const mvDB = [
         "title": "灰姑娘",
         "vid": "-nP6glwZHOE",
         "surname": "梁",
-        "kid": "p_kiHa5f7wo"
+        "kid": "RkOHkIpJxOk"
     },
     {
         "id": 9361,
@@ -18538,7 +18538,7 @@ const mvDB = [
     {
         "id": 9367,
         "artist": "梁詠琪",
-        "title": "錯過",
+        "title": "梁詠琪《錯過》致敬經典【高清mv歌詞字幕 / 完整版高清無損音質】♫",
         "vid": "wIqvUai1lh0",
         "surname": "梁",
         "kid": ""
@@ -18546,7 +18546,7 @@ const mvDB = [
     {
         "id": 9368,
         "artist": "梁詠琪",
-        "title": "好時辰",
+        "title": "梁詠琪 - 好時辰 ( mv )",
         "vid": "KGt7rurvpiQ",
         "surname": "梁",
         "kid": ""
@@ -18605,7 +18605,7 @@ const mvDB = [
         "title": "最重要的決定",
         "vid": "RmrVpCVoVJU",
         "surname": "范",
-        "kid": "E9yi19u0Y6o"
+        "kid": "BTYwF53CJM8"
     },
     {
         "id": 9376,
@@ -18621,7 +18621,7 @@ const mvDB = [
         "title": "最初的夢想",
         "vid": "wGAmgmZg-48",
         "surname": "范",
-        "kid": "xrxbiUFfCAo"
+        "kid": "8DtPmzuRrGI"
     },
     {
         "id": 9378,
@@ -18629,7 +18629,7 @@ const mvDB = [
         "title": "是非題",
         "vid": "UYjNLDuIoWc",
         "surname": "范",
-        "kid": "eCQ_OiKqyak"
+        "kid": "UYjNLDuIoWc"
     },
     {
         "id": 9379,
@@ -18645,7 +18645,7 @@ const mvDB = [
         "title": "一個像夏天",
         "vid": "2-sqX7JiIjA",
         "surname": "范",
-        "kid": ""
+        "kid": "a3JfevgvJ70"
     },
     {
         "id": 9381,
@@ -18677,7 +18677,7 @@ const mvDB = [
         "title": "不能跟情人說的話",
         "vid": "faHyARobAfw",
         "surname": "范",
-        "kid": ""
+        "kid": "yupVfjOxPtY"
     },
     {
         "id": 9385,
@@ -18717,7 +18717,7 @@ const mvDB = [
         "title": "最後一夜",
         "vid": "YwA0Tsgo_js",
         "surname": "蔡",
-        "kid": "DNJoMeVowSg"
+        "kid": "plYv4Tc32Jc"
     },
     {
         "id": 9390,
@@ -18725,7 +18725,7 @@ const mvDB = [
         "title": "恰似你的溫柔",
         "vid": "Yvg3L7RbFHY",
         "surname": "蔡",
-        "kid": "GyFUv50K3X4"
+        "kid": "f78gMluQS5w"
     },
     {
         "id": 9391,
@@ -18765,7 +18765,7 @@ const mvDB = [
         "title": "再愛我一次",
         "vid": "lN-eerh9zhE",
         "surname": "蔡",
-        "kid": ""
+        "kid": "kzBE_Z2iXCQ"
     },
     {
         "id": 9396,
@@ -18805,7 +18805,7 @@ const mvDB = [
         "title": "飄浪之女",
         "vid": "YgJ8ZKdQg4o",
         "surname": "蔡",
-        "kid": "8u-e6T3VUEo"
+        "kid": "sc0VYXwCYOc"
     },
     {
         "id": 9401,
@@ -18813,7 +18813,7 @@ const mvDB = [
         "title": "你的眼神",
         "vid": "F_ram9i7uxA",
         "surname": "蔡",
-        "kid": ""
+        "kid": "HwVogyjjMME"
     },
     {
         "id": 9402,
@@ -18845,7 +18845,7 @@ const mvDB = [
         "title": "飄浪之女",
         "vid": "u161FNzXuis",
         "surname": "蔡",
-        "kid": "8u-e6T3VUEo"
+        "kid": "sc0VYXwCYOc"
     },
     {
         "id": 9406,
@@ -18957,7 +18957,7 @@ const mvDB = [
         "title": "舊夢",
         "vid": "yoCzcWbD5Vw",
         "surname": "彭",
-        "kid": "O1Egp1TMkFc"
+        "kid": "gceI1_mELuw"
     },
     {
         "id": 9420,
@@ -18965,7 +18965,7 @@ const mvDB = [
         "title": "相見恨晚",
         "vid": "0JdwO57dmaA",
         "surname": "彭",
-        "kid": "65AL-Q5jvL0"
+        "kid": "0JdwO57dmaA"
     },
     {
         "id": 9421,
@@ -18997,7 +18997,7 @@ const mvDB = [
         "title": "牽手",
         "vid": "5yhN-yr1Yt4",
         "surname": "蘇",
-        "kid": "IvPrQnh4QDE"
+        "kid": "hMJU2yJc4Ww"
     },
     {
         "id": 9425,
@@ -19013,7 +19013,7 @@ const mvDB = [
         "title": "奉獻",
         "vid": "gEm1D0psy20",
         "surname": "蘇",
-        "kid": ""
+        "kid": "KxvoSTSMkEI"
     },
     {
         "id": 9427,
@@ -19021,7 +19021,7 @@ const mvDB = [
         "title": "心痛的感覺",
         "vid": "3Tv9mIOMLEo",
         "surname": "蘇",
-        "kid": ""
+        "kid": "_vuD2RWlwBc"
     },
     {
         "id": 9428,
@@ -19069,7 +19069,7 @@ const mvDB = [
         "title": "花若離枝",
         "vid": "X_F-fU4y5Cg",
         "surname": "蘇",
-        "kid": "4FKRlpQLxxw"
+        "kid": "QrdX27OSeBk"
     },
     {
         "id": 9434,
@@ -19133,7 +19133,7 @@ const mvDB = [
         "title": "遺憾",
         "vid": "IegK6qtIJOg",
         "surname": "許",
-        "kid": "kdmr_33Qvq4"
+        "kid": "IegK6qtIJOg"
     },
     {
         "id": 9442,
@@ -19141,7 +19141,7 @@ const mvDB = [
         "title": "鐵窗",
         "vid": "OhTxAsNKWFU",
         "surname": "許",
-        "kid": "ce6s53EHnBw"
+        "kid": "zmZj9syxZEM"
     },
     {
         "id": 9443,
@@ -19149,7 +19149,7 @@ const mvDB = [
         "title": "城裡的月光",
         "vid": "yYwn8k502qY",
         "surname": "許",
-        "kid": "Jj91g7ErS3k"
+        "kid": "Ikjo91QACDI"
     },
     {
         "id": 9444,
@@ -19157,7 +19157,7 @@ const mvDB = [
         "title": "傾城",
         "vid": "lD3IuyrEK6U",
         "surname": "許",
-        "kid": "k7lyg2RB4E0"
+        "kid": "CoERJmNXPZs"
     },
     {
         "id": 9445,
@@ -19165,7 +19165,7 @@ const mvDB = [
         "title": "遺憾",
         "vid": "IVQxm6161-A",
         "surname": "許",
-        "kid": "kdmr_33Qvq4"
+        "kid": "IegK6qtIJOg"
     },
     {
         "id": 9446,
@@ -19197,7 +19197,7 @@ const mvDB = [
         "title": "明知故犯",
         "vid": "zh-OMIDbFdc",
         "surname": "許",
-        "kid": "-11dnGlHXKk"
+        "kid": "F7HITHu5apc"
     },
     {
         "id": 9450,
@@ -19210,7 +19210,7 @@ const mvDB = [
     {
         "id": 9451,
         "artist": "許美靜",
-        "title": "許美靜",
+        "title": "迫在眉梢",
         "vid": "gvuhZ-JF9ts",
         "surname": "許",
         "kid": "HiapJFjRoEc"
@@ -19229,7 +19229,7 @@ const mvDB = [
         "title": "你抽的煙",
         "vid": "zePX5FhsKwE",
         "surname": "許",
-        "kid": ""
+        "kid": "QJMjHhIxCYM"
     },
     {
         "id": 9454,
@@ -19285,7 +19285,7 @@ const mvDB = [
         "title": "被風吹過的夏天",
         "vid": "JbFrE_UbVyI",
         "surname": "金",
-        "kid": "IQ5xhtNbThE"
+        "kid": "J2_WSU6QDG4"
     },
     {
         "id": 9461,
@@ -19293,7 +19293,7 @@ const mvDB = [
         "title": "不可思議",
         "vid": "biVC5erhL-0",
         "surname": "金",
-        "kid": ""
+        "kid": "NLW_SsllEf0"
     },
     {
         "id": 9462,
@@ -19309,7 +19309,7 @@ const mvDB = [
         "title": "愛的魔法",
         "vid": "olHs3ykdE1c",
         "surname": "金",
-        "kid": "cyMxz1Q7wtM"
+        "kid": "n86Ca0q_flk"
     },
     {
         "id": 9464,
@@ -19357,7 +19357,7 @@ const mvDB = [
         "title": "平行線",
         "vid": "-13s0WYsrgI",
         "surname": "金",
-        "kid": ""
+        "kid": "HZZzamtA5O4"
     },
     {
         "id": 9470,
@@ -19381,7 +19381,7 @@ const mvDB = [
         "title": "手掌心",
         "vid": "7wvNwOPprBE",
         "surname": "丁",
-        "kid": "SW50-tgGfR8"
+        "kid": "Nr-yTqMVPOQ"
     },
     {
         "id": 9473,
@@ -19389,7 +19389,7 @@ const mvDB = [
         "title": "我愛他",
         "vid": "QKb30DgwZ7Y",
         "surname": "丁",
-        "kid": "lgbDpk7WzHI"
+        "kid": "Z3JKW60Mu18"
     },
     {
         "id": 9474,
@@ -19445,7 +19445,7 @@ const mvDB = [
         "title": "猜不透",
         "vid": "n7A0KaEMmqc",
         "surname": "丁",
-        "kid": "dSNeSeBevu8"
+        "kid": "e92u5ofBqMA"
     },
     {
         "id": 9481,
@@ -19501,7 +19501,7 @@ const mvDB = [
         "title": "你為什麼說謊",
         "vid": "aYSvA_SR90g",
         "surname": "丁",
-        "kid": "1H1Lbd6aDIw"
+        "kid": "h77UFFI8L0g"
     },
     {
         "id": 9488,
@@ -19557,7 +19557,7 @@ const mvDB = [
         "title": "在樹上唱歌",
         "vid": "yCq3RLCn2i0",
         "surname": "郭",
-        "kid": "rYSkrzlzZjE"
+        "kid": "RfTpO_x8lKw"
     },
     {
         "id": 9495,
@@ -19613,7 +19613,7 @@ const mvDB = [
         "title": "我們都能幸福著",
         "vid": "nn18FrDexFE",
         "surname": "郭",
-        "kid": ""
+        "kid": "qfW5vDNzkLU"
     },
     {
         "id": 9502,
@@ -19629,7 +19629,7 @@ const mvDB = [
         "title": "下一個天亮",
         "vid": "AEUmLttrY5s",
         "surname": "郭",
-        "kid": "RTRxmYxdKc4"
+        "kid": "LxMIx-zaZ_o"
     },
     {
         "id": 9504,
@@ -19645,7 +19645,7 @@ const mvDB = [
         "title": "知道",
         "vid": "ROKxPtX-vt8",
         "surname": "郭",
-        "kid": "ILgW6RULTCY"
+        "kid": "ZpMeA392OmE"
     },
     {
         "id": 9506,
@@ -19725,7 +19725,7 @@ const mvDB = [
         "title": "賊",
         "vid": "VrPvEWcyUCc",
         "surname": "戴",
-        "kid": ""
+        "kid": "FNrVxyasGXw"
     },
     {
         "id": 9516,
@@ -19733,7 +19733,7 @@ const mvDB = [
         "title": "你要的愛",
         "vid": "JuBJMTe4ZJc",
         "surname": "戴",
-        "kid": "ONYvQc-C1xs"
+        "kid": "v4Ts-TgTEk8"
     },
     {
         "id": 9517,
@@ -19757,7 +19757,7 @@ const mvDB = [
         "title": "你要的愛",
         "vid": "oV5wT-ps9DI",
         "surname": "戴",
-        "kid": "ONYvQc-C1xs"
+        "kid": "v4Ts-TgTEk8"
     },
     {
         "id": 9520,
@@ -19789,7 +19789,7 @@ const mvDB = [
         "title": "時間快轉",
         "vid": "ZYoN4AhyDl0",
         "surname": "戴",
-        "kid": ""
+        "kid": "1FbxiOQ6ob0"
     },
     {
         "id": 9524,
@@ -19829,7 +19829,7 @@ const mvDB = [
         "title": "囚鳥",
         "vid": "nhzhnYRN2kg",
         "surname": "彭",
-        "kid": "rjpLdQoDzUc"
+        "kid": "mziPE_vcwOY"
     },
     {
         "id": 9529,
@@ -19893,7 +19893,7 @@ const mvDB = [
         "title": "夜風鈴",
         "vid": "-9eI14krpGY",
         "surname": "彭",
-        "kid": ""
+        "kid": "6sRg_IuCIgY"
     },
     {
         "id": 9537,
@@ -19909,7 +19909,7 @@ const mvDB = [
         "title": "讓我跟你走",
         "vid": "W9tqV3RIguo",
         "surname": "彭",
-        "kid": "Oy16IyvUCvM"
+        "kid": "aiRrHSm0V3s"
     },
     {
         "id": 9539,
@@ -19917,7 +19917,7 @@ const mvDB = [
         "title": "如夢初醒",
         "vid": "AFNI4IO05jU",
         "surname": "彭",
-        "kid": ""
+        "kid": "itcP7boJRJs"
     },
     {
         "id": 9540,
@@ -19949,7 +19949,7 @@ const mvDB = [
         "title": "夜風鈴",
         "vid": "-nuxf5MeRTs",
         "surname": "彭",
-        "kid": ""
+        "kid": "6sRg_IuCIgY"
     },
     {
         "id": 9544,
@@ -19965,7 +19965,7 @@ const mvDB = [
         "title": "我有我天地",
         "vid": "Kkr6cVXWGqQ",
         "surname": "彭",
-        "kid": "CPRWgIfQG1s"
+        "kid": "3KfhOXTmYwY"
     },
     {
         "id": 9546,
@@ -19973,7 +19973,7 @@ const mvDB = [
         "title": "話題",
         "vid": "XtX4aawnWI4",
         "surname": "周",
-        "kid": ""
+        "kid": "pnraQgGCOFo"
     },
     {
         "id": 9547,
@@ -20029,7 +20029,7 @@ const mvDB = [
         "title": "約定",
         "vid": "Vd-mTkhiThI",
         "surname": "周",
-        "kid": "WaXrgQF0VBg"
+        "kid": "7tHGICvzlGM"
     },
     {
         "id": 9554,
@@ -20037,7 +20037,7 @@ const mvDB = [
         "title": "好想好好愛你",
         "vid": "TUqKBTQizwA",
         "surname": "周",
-        "kid": "vx3tnbSWZGQ"
+        "kid": "UaqU_yXekfQ"
     },
     {
         "id": 9555,
@@ -20045,7 +20045,7 @@ const mvDB = [
         "title": "不想讓你知道",
         "vid": "kXFMYK9jgFg",
         "surname": "周",
-        "kid": "gtGvUo7yahw"
+        "kid": "_SF48MnbTWA"
     },
     {
         "id": 9556,
@@ -20053,7 +20053,7 @@ const mvDB = [
         "title": "替身",
         "vid": "WUKnbOlicps",
         "surname": "周",
-        "kid": "m_1_2OBHcOA"
+        "kid": "6Ryxf0TSr1E"
     },
     {
         "id": 9557,
@@ -20114,7 +20114,7 @@ const mvDB = [
     {
         "id": 9564,
         "artist": "黃小琥",
-        "title": "版",
+        "title": "對愛期待",
         "vid": "bFSBTcXkYMI",
         "surname": "黃",
         "kid": ""
@@ -20197,7 +20197,7 @@ const mvDB = [
         "title": "沒那麼簡單",
         "vid": "rmPHuvQoh0g",
         "surname": "黃",
-        "kid": ""
+        "kid": "ATt_-ZstF9g"
     },
     {
         "id": 9575,
@@ -20205,7 +20205,7 @@ const mvDB = [
         "title": "不只是朋友",
         "vid": "33uIkHuuZr0",
         "surname": "黃",
-        "kid": ""
+        "kid": "_huhodGGdxo"
     },
     {
         "id": 9576,
@@ -20237,7 +20237,7 @@ const mvDB = [
         "title": "問情",
         "vid": "EcSqLObWFw8",
         "surname": "蔡",
-        "kid": "n-ceFCQBkFk"
+        "kid": "IrbYSKolyxI"
     },
     {
         "id": 9580,
@@ -20245,7 +20245,7 @@ const mvDB = [
         "title": "相愛容易相處難",
         "vid": "N37ge--Oa3I",
         "surname": "蔡",
-        "kid": "k9Tnq-gq1G0"
+        "kid": "X0QJyLrygKs"
     },
     {
         "id": 9581,
@@ -20253,7 +20253,7 @@ const mvDB = [
         "title": "你惦我心內尚深的所在",
         "vid": "pUc3TfT9wCw",
         "surname": "蔡",
-        "kid": "o7pd7R3Kwmo"
+        "kid": "JTFcm6R_a00"
     },
     {
         "id": 9582,
@@ -20389,7 +20389,7 @@ const mvDB = [
         "title": "喜歡你",
         "vid": "7iIbaSDyocI",
         "surname": "陳",
-        "kid": "QrDkhXHblIY"
+        "kid": "7iIbaSDyocI"
     },
     {
         "id": 9599,
@@ -20397,7 +20397,7 @@ const mvDB = [
         "title": "心動",
         "vid": "J8ftiX69Q1g",
         "surname": "陳",
-        "kid": "eUuac4xDpLE"
+        "kid": "J8ftiX69Q1g"
     },
     {
         "id": 9600,
@@ -20469,15 +20469,15 @@ const mvDB = [
         "title": "享受寂寞",
         "vid": "ksIsLcV0DxE",
         "surname": "陳",
-        "kid": ""
+        "kid": "ksIsLcV0DxE"
     },
     {
         "id": 9609,
         "artist": "陳潔儀",
-        "title": "歌手音樂頻道",
+        "title": "心動",
         "vid": "YkLrZASoJmc",
         "surname": "陳",
-        "kid": ""
+        "kid": "J8ftiX69Q1g"
     },
     {
         "id": 9610,
@@ -20490,10 +20490,10 @@ const mvDB = [
     {
         "id": 9611,
         "artist": "陳潔儀",
-        "title": "喜歡你版",
+        "title": "喜歡你",
         "vid": "iTJC_ocKiQI",
         "surname": "陳",
-        "kid": ""
+        "kid": "7iIbaSDyocI"
     },
     {
         "id": 9612,
@@ -20538,7 +20538,7 @@ const mvDB = [
     {
         "id": 9617,
         "artist": "范曉萱",
-        "title": "獨上c樓",
+        "title": "yellow",
         "vid": "EAAR2hnfZOc",
         "surname": "范",
         "kid": ""
@@ -20573,7 +20573,7 @@ const mvDB = [
         "title": "稍息立正站好",
         "vid": "E5_d31nO860",
         "surname": "范",
-        "kid": ""
+        "kid": "SUsQ0YASvUo"
     },
     {
         "id": 9622,
@@ -20581,7 +20581,7 @@ const mvDB = [
         "title": "我愛洗澡",
         "vid": "AjFdJZF2kVg",
         "surname": "范",
-        "kid": "4UtOzFpxQe8"
+        "kid": "7neqqgxjsPM"
     },
     {
         "id": 9623,
@@ -20597,7 +20597,7 @@ const mvDB = [
         "title": "我要我們在一起",
         "vid": "e5aSWm6dXHQ",
         "surname": "范",
-        "kid": "c8yD9xNtg0U"
+        "kid": "tbIf2kYtVno"
     },
     {
         "id": 9625,
@@ -20613,7 +20613,7 @@ const mvDB = [
         "title": "眼淚",
         "vid": "figbp9tfyl4",
         "surname": "范",
-        "kid": ""
+        "kid": "_Qzw-aagIhA"
     },
     {
         "id": 9627,
@@ -20621,7 +20621,7 @@ const mvDB = [
         "title": "自言自語",
         "vid": "6TOT9TrWTls",
         "surname": "范",
-        "kid": ""
+        "kid": "q0DkQzwrwR8"
     },
     {
         "id": 9628,
@@ -20685,7 +20685,7 @@ const mvDB = [
         "title": "管他什麼音樂",
         "vid": "jNV_u129cj4",
         "surname": "范",
-        "kid": ""
+        "kid": "DpNrJ-4e1B8"
     },
     {
         "id": 9636,
@@ -20701,7 +20701,7 @@ const mvDB = [
         "title": "愛江山更愛美人",
         "vid": "9oJoVtKoCzA",
         "surname": "李",
-        "kid": "oXIhb9LahwE"
+        "kid": "9oJoVtKoCzA"
     },
     {
         "id": 9638,
@@ -20725,7 +20725,7 @@ const mvDB = [
         "title": "愛江山更愛美人",
         "vid": "a3OrwpuJdbY",
         "surname": "李",
-        "kid": "oXIhb9LahwE"
+        "kid": "9oJoVtKoCzA"
     },
     {
         "id": 9641,
@@ -20733,7 +20733,7 @@ const mvDB = [
         "title": "愛江山更愛美人",
         "vid": "ix-pVMLOa9k",
         "surname": "李",
-        "kid": "oXIhb9LahwE"
+        "kid": "9oJoVtKoCzA"
     },
     {
         "id": 9642,
@@ -20741,7 +20741,7 @@ const mvDB = [
         "title": "愛江山更愛美人",
         "vid": "-DwvDoXAxvU",
         "surname": "李",
-        "kid": "oXIhb9LahwE"
+        "kid": "9oJoVtKoCzA"
     },
     {
         "id": 9643,
@@ -20749,7 +20749,7 @@ const mvDB = [
         "title": "愛不釋手",
         "vid": "i712VSkGdBo",
         "surname": "李",
-        "kid": ""
+        "kid": "-I-UCQExJ34"
     },
     {
         "id": 9644,
@@ -20765,7 +20765,7 @@ const mvDB = [
         "title": "一往情深",
         "vid": "HQMp9RBDmuw",
         "surname": "李",
-        "kid": ""
+        "kid": "Xs6rmex-9t8"
     },
     {
         "id": 9646,
@@ -20789,7 +20789,7 @@ const mvDB = [
         "title": "我敢",
         "vid": "EBDRjUpG-8Y",
         "surname": "陳",
-        "kid": ""
+        "kid": "_r07XZS_GLQ"
     },
     {
         "id": 9649,
@@ -20893,7 +20893,7 @@ const mvDB = [
         "title": "年",
         "vid": "LuElyYIytzA",
         "surname": "陳",
-        "kid": "JGHDLyP5Uvo"
+        "kid": "Ea3hUr7ODtY"
     },
     {
         "id": 9662,
@@ -20901,12 +20901,12 @@ const mvDB = [
         "title": "分飛",
         "vid": "LJ1_NNl700s",
         "surname": "徐",
-        "kid": "mWEPl9NzuuU"
+        "kid": "LJ1_NNl700s"
     },
     {
         "id": 9663,
         "artist": "徐懷鈺",
-        "title": "來都來",
+        "title": "t lie",
         "vid": "7xSLoQx2KKA",
         "surname": "徐",
         "kid": ""
@@ -20933,7 +20933,7 @@ const mvDB = [
         "title": "飛起來",
         "vid": "mV5YweJzb48",
         "surname": "徐",
-        "kid": ""
+        "kid": "cgpZu8DboGg"
     },
     {
         "id": 9667,
@@ -20941,7 +20941,7 @@ const mvDB = [
         "title": "溫習",
         "vid": "TbRoM9onRwE",
         "surname": "徐",
-        "kid": "dO74MyTEOOw"
+        "kid": "J_oO2cBxk-w"
     },
     {
         "id": 9668,
@@ -20973,7 +20973,7 @@ const mvDB = [
         "title": "妙妙妙",
         "vid": "34hd2867q8s",
         "surname": "徐",
-        "kid": ""
+        "kid": "WZ0aDgDnOa4"
     },
     {
         "id": 9672,
@@ -20989,7 +20989,7 @@ const mvDB = [
         "title": "向前衝",
         "vid": "ZpaUArE7mMA",
         "surname": "徐",
-        "kid": ""
+        "kid": "ByJvuvfdL5g"
     },
     {
         "id": 9674,
@@ -21085,7 +21085,7 @@ const mvDB = [
         "title": "同手同腳",
         "vid": "wCUO9Fk0QcQ",
         "surname": "温",
-        "kid": "7Tech__YugA"
+        "kid": "IaK80SEJwiQ"
     },
     {
         "id": 9686,
@@ -21133,7 +21133,7 @@ const mvDB = [
         "title": "聽我唱歌",
         "vid": "MAhjisGWZSo",
         "surname": "温",
-        "kid": ""
+        "kid": "MAhjisGWZSo"
     },
     {
         "id": 9692,
@@ -21205,7 +21205,7 @@ const mvDB = [
         "title": "溫嵐",
         "vid": "0ZfQhcgkltQ",
         "surname": "温",
-        "kid": "a9tgQaOyigI"
+        "kid": "d-FA1PUTrN4"
     },
     {
         "id": 9701,
@@ -21242,7 +21242,7 @@ const mvDB = [
     {
         "id": 9705,
         "artist": "王若琳",
-        "title": "「愛的迷戀」日文版",
+        "title": "魅せられて",
         "vid": "HBKEt6EhCN8",
         "surname": "王",
         "kid": ""
@@ -21282,7 +21282,7 @@ const mvDB = [
     {
         "id": 9710,
         "artist": "王若琳",
-        "title": "clean version",
+        "title": "lets start from here",
         "vid": "XEyESh3pblo",
         "surname": "王",
         "kid": ""
@@ -21293,7 +21293,7 @@ const mvDB = [
         "title": "有你的快樂",
         "vid": "qZiNigAO-zQ",
         "surname": "王",
-        "kid": "9iyDIpbTGyk"
+        "kid": "vHJ6ZG6tjLg"
     },
     {
         "id": 9712,
@@ -21301,7 +21301,7 @@ const mvDB = [
         "title": "親愛的人",
         "vid": "30P45wqEMMc",
         "surname": "王",
-        "kid": ""
+        "kid": "30P45wqEMMc"
     },
     {
         "id": 9713,
@@ -21341,7 +21341,7 @@ const mvDB = [
         "title": "因為你愛我",
         "vid": "XwXXIUZZd28",
         "surname": "王",
-        "kid": ""
+        "kid": "KJREeGL0GkU"
     },
     {
         "id": 9718,
@@ -21349,7 +21349,7 @@ const mvDB = [
         "title": "迷宮",
         "vid": "asytyFGVl_U",
         "surname": "王",
-        "kid": "JCXJlLjZBFU"
+        "kid": "VPNZmwrc8nw"
     },
     {
         "id": 9719,
@@ -21357,7 +21357,7 @@ const mvDB = [
         "title": "cant take my eyes off you",
         "vid": "9sfkX3OBMD8",
         "surname": "王",
-        "kid": ""
+        "kid": "Y2M7EZLM3i8"
     },
     {
         "id": 9720,
@@ -21373,7 +21373,7 @@ const mvDB = [
         "title": "彼個所在",
         "vid": "86wypSCXK9M",
         "surname": "魏",
-        "kid": ""
+        "kid": "86wypSCXK9M"
     },
     {
         "id": 9722,
@@ -21389,7 +21389,7 @@ const mvDB = [
         "title": "星期三或禮拜三",
         "vid": "Aqdh6s75_6k",
         "surname": "魏",
-        "kid": ""
+        "kid": "ldWlGnFSuQ0"
     },
     {
         "id": 9724,
@@ -21533,7 +21533,7 @@ const mvDB = [
         "title": "better me",
         "vid": "tJS9IgWd0nk",
         "surname": "薛",
-        "kid": "8kWhBnFfHHQ"
+        "kid": "V8AkjT8PMaY"
     },
     {
         "id": 9742,
@@ -21557,7 +21557,7 @@ const mvDB = [
         "title": "蘇州河",
         "vid": "U7WF8ouAiYw",
         "surname": "薛",
-        "kid": "9YqCRxuVVOk"
+        "kid": "U7WF8ouAiYw"
     },
     {
         "id": 9745,
@@ -21653,7 +21653,7 @@ const mvDB = [
         "title": "離開以後",
         "vid": "Vf9uJLNb9-I",
         "surname": "薛",
-        "kid": "Ci1UwR8fK64"
+        "kid": "s7gYZVvxkj4"
     },
     {
         "id": 9757,
@@ -21810,7 +21810,7 @@ const mvDB = [
     {
         "id": 9776,
         "artist": "家家",
-        "title": "酒",
+        "title": "家家 - 家家酒【歌詞】",
         "vid": "PHUkXpRdhnE",
         "surname": "家",
         "kid": "5jqcWE_VvXw"
@@ -21829,7 +21829,7 @@ const mvDB = [
         "title": "離開我",
         "vid": "Un0N9D4ZZew",
         "surname": "陶",
-        "kid": ""
+        "kid": "Un0N9D4ZZew"
     },
     {
         "id": 9779,
@@ -21869,7 +21869,7 @@ const mvDB = [
         "title": "太委屈",
         "vid": "gKu8G6av7Ac",
         "surname": "陶",
-        "kid": "ZOJgTeoNukI"
+        "kid": "Ojd1jTLIu0M"
     },
     {
         "id": 9784,
@@ -21877,7 +21877,7 @@ const mvDB = [
         "title": "姊姊妹妹站起來",
         "vid": "_e2PdJOgs1g",
         "surname": "陶",
-        "kid": ""
+        "kid": "_e2PdJOgs1g"
     },
     {
         "id": 9785,
@@ -21893,7 +21893,7 @@ const mvDB = [
         "title": "那些日子",
         "vid": "sKhm7DSqQPs",
         "surname": "陶",
-        "kid": "OMvjnEbRGXo"
+        "kid": "sKhm7DSqQPs"
     },
     {
         "id": 9787,
@@ -22029,7 +22029,7 @@ const mvDB = [
         "title": "一見鍾情",
         "vid": "HjWAu_HIJSA",
         "surname": "藍",
-        "kid": "hD-2QqNNqoQ"
+        "kid": "-G9J5605PZc"
     },
     {
         "id": 9804,
@@ -22037,7 +22037,7 @@ const mvDB = [
         "title": "一見鍾情",
         "vid": "0cBjuHUHNB8",
         "surname": "藍",
-        "kid": "hD-2QqNNqoQ"
+        "kid": "-G9J5605PZc"
     },
     {
         "id": 9805,
@@ -22053,7 +22053,7 @@ const mvDB = [
         "title": "不怕付出",
         "vid": "85WkY7hh85A",
         "surname": "藍",
-        "kid": ""
+        "kid": "85WkY7hh85A"
     },
     {
         "id": 9807,
@@ -22061,7 +22061,7 @@ const mvDB = [
         "title": "狂奔",
         "vid": "7NtU9RHCF4Y",
         "surname": "藍",
-        "kid": ""
+        "kid": "3wyUsTgIDbE"
     },
     {
         "id": 9808,
@@ -22077,7 +22077,7 @@ const mvDB = [
         "title": "熱帶魚",
         "vid": "KUFfNGO_ZhY",
         "surname": "藍",
-        "kid": "lyqvC87VshQ"
+        "kid": "P28NzwoHs_o"
     },
     {
         "id": 9810,
@@ -22085,7 +22085,7 @@ const mvDB = [
         "title": "糖果",
         "vid": "dE6y67tM5ls",
         "surname": "藍",
-        "kid": ""
+        "kid": "L6XKatjsiyg"
     },
     {
         "id": 9811,
@@ -22101,7 +22101,7 @@ const mvDB = [
         "title": "鯨魚",
         "vid": "ja0iTQW_E1w",
         "surname": "藍",
-        "kid": ""
+        "kid": "VhLxjJaz6Uk"
     },
     {
         "id": 9813,
@@ -22205,7 +22205,7 @@ const mvDB = [
         "title": "心狠手辣",
         "vid": "7P4Bj1t9s_U",
         "surname": "江",
-        "kid": "h8v9BVDo3l8"
+        "kid": "kc-hSJGqbzI"
     },
     {
         "id": 9826,
@@ -22245,7 +22245,7 @@ const mvDB = [
         "title": "落雨聲",
         "vid": "a53LYWWuAWU",
         "surname": "江",
-        "kid": "Mfh50n3vt10"
+        "kid": "3F3yXE0nDzc"
     },
     {
         "id": 9831,
@@ -22253,7 +22253,7 @@ const mvDB = [
         "title": "斷腸詩",
         "vid": "uBg1Vq_AqAc",
         "surname": "江",
-        "kid": ""
+        "kid": "Cbdyni2GaKE"
     },
     {
         "id": 9832,
@@ -22261,7 +22261,7 @@ const mvDB = [
         "title": "該忘了",
         "vid": "xzDj50x6-vc",
         "surname": "郭",
-        "kid": ""
+        "kid": "uEaOq4qvErs"
     },
     {
         "id": 9833,
@@ -22269,7 +22269,7 @@ const mvDB = [
         "title": "還愛著你",
         "vid": "ZEhP8K8GReA",
         "surname": "郭",
-        "kid": ""
+        "kid": "xutIpGkhj78"
     },
     {
         "id": 9834,
@@ -22277,7 +22277,7 @@ const mvDB = [
         "title": "給他",
         "vid": "xfR8JNIpfMU",
         "surname": "郭",
-        "kid": ""
+        "kid": "5Zk-YZhLg-k"
     },
     {
         "id": 9835,
@@ -22301,7 +22301,7 @@ const mvDB = [
         "title": "i need you",
         "vid": "sSo1yYfSZ6c",
         "surname": "郭",
-        "kid": ""
+        "kid": "3UGtxasoYkg"
     },
     {
         "id": 9838,
@@ -22333,7 +22333,7 @@ const mvDB = [
         "title": "你在不在",
         "vid": "PYItMFDBHqI",
         "surname": "郭",
-        "kid": "LYFNUYXljY4"
+        "kid": "tjyOcAW4FZ4"
     },
     {
         "id": 9842,
@@ -22341,7 +22341,7 @@ const mvDB = [
         "title": "誠實地想你",
         "vid": "ASMmljnWK2E",
         "surname": "郭",
-        "kid": ""
+        "kid": "qZ-sbjGgozY"
     },
     {
         "id": 9843,
@@ -22357,7 +22357,7 @@ const mvDB = [
         "title": "不過問",
         "vid": "UYq-IqRn2tY",
         "surname": "郭",
-        "kid": ""
+        "kid": "xyxKO7sa1_w"
     },
     {
         "id": 9845,
@@ -22413,7 +22413,7 @@ const mvDB = [
         "title": "卡通人生",
         "vid": "BUqHTsoLkW4",
         "surname": "郭",
-        "kid": ""
+        "kid": "eiVsSW8geTU"
     },
     {
         "id": 9852,
@@ -22429,7 +22429,7 @@ const mvDB = [
         "title": "台北某個地方",
         "vid": "OZXy0t2i21A",
         "surname": "陳",
-        "kid": "h9upyiCQVcY"
+        "kid": "WsjASrkgxOo"
     },
     {
         "id": 9854,
@@ -22445,7 +22445,7 @@ const mvDB = [
         "title": "殘缺的彩虹",
         "vid": "hzAeZa7dJj4",
         "surname": "陳",
-        "kid": ""
+        "kid": "8NTFocbDH9w"
     },
     {
         "id": 9856,
@@ -22509,7 +22509,7 @@ const mvDB = [
         "title": "華麗的冒險",
         "vid": "fE-RUy7bYxk",
         "surname": "陳",
-        "kid": ""
+        "kid": "N_n_e1g7A64"
     },
     {
         "id": 9864,
@@ -22533,7 +22533,7 @@ const mvDB = [
         "title": "距離",
         "vid": "vGIgU9Xaawg",
         "surname": "陳",
-        "kid": "EwxxUA8D9AM"
+        "kid": "sRlDYiqVESg"
     },
     {
         "id": 9867,
@@ -22557,7 +22557,7 @@ const mvDB = [
         "title": "太聰明",
         "vid": "33rdx577PxY",
         "surname": "陳",
-        "kid": "EwxxUA8D9AM"
+        "kid": "wvwXzvKFcAw"
     },
     {
         "id": 9870,
@@ -22629,7 +22629,7 @@ const mvDB = [
         "title": "親愛的你怎麼不在身邊",
         "vid": "H6E6XaVSYgY",
         "surname": "江",
-        "kid": "oB57fMWHEDs"
+        "kid": "_-Q2gc4TmN0"
     },
     {
         "id": 9879,
@@ -22645,7 +22645,7 @@ const mvDB = [
         "title": "想起",
         "vid": "xRAfJvqKqpw",
         "surname": "江",
-        "kid": ""
+        "kid": "SxHIriuKpww"
     },
     {
         "id": 9881,
@@ -22653,7 +22653,7 @@ const mvDB = [
         "title": "那年的情書",
         "vid": "kipCne0kYkc",
         "surname": "江",
-        "kid": "kOEjXY_S-Ss"
+        "kid": "YMxTJf-sOFg"
     },
     {
         "id": 9882,
@@ -22741,7 +22741,7 @@ const mvDB = [
         "title": "waterfall",
         "vid": "AFhlDqtzSmM",
         "surname": "艾",
-        "kid": ""
+        "kid": "vPCK5CnrnSs"
     },
     {
         "id": 9893,
@@ -22757,7 +22757,7 @@ const mvDB = [
         "title": "我不知道愛是什麼",
         "vid": "PXmGrkEtxrc",
         "surname": "艾",
-        "kid": "-YvRTjogl_Y"
+        "kid": "NY7vFM8MtrM"
     },
     {
         "id": 9895,
@@ -22765,7 +22765,7 @@ const mvDB = [
         "title": "forever young",
         "vid": "rFj6azCUYrU",
         "surname": "艾",
-        "kid": "V7jAwBRQuNQ"
+        "kid": "iJumfrx4TYk"
     },
     {
         "id": 9896,
@@ -22781,7 +22781,7 @@ const mvDB = [
         "title": "我們的總和",
         "vid": "c7ghjMOiZKs",
         "surname": "艾",
-        "kid": "evDFqs85n5A"
+        "kid": "wXuYcVU7FPU"
     },
     {
         "id": 9898,
@@ -22797,7 +22797,7 @@ const mvDB = [
         "title": "never be the same",
         "vid": "YGf5yON4E7A",
         "surname": "艾",
-        "kid": ""
+        "kid": "jR5fRjPlXiA"
     },
     {
         "id": 9900,
@@ -22805,7 +22805,7 @@ const mvDB = [
         "title": "別說出",
         "vid": "9C0F58QenSA",
         "surname": "艾",
-        "kid": ""
+        "kid": "xFT040d-zF8"
     },
     {
         "id": 9901,
@@ -22853,7 +22853,7 @@ const mvDB = [
         "title": "逃生計畫",
         "vid": "7yWyUgpL7KY",
         "surname": "艾",
-        "kid": ""
+        "kid": "Sq3Vs83NPZ0"
     },
     {
         "id": 9907,
@@ -22861,7 +22861,7 @@ const mvDB = [
         "title": "上流玩法",
         "vid": "6JIkEnqPYxs",
         "surname": "艾",
-        "kid": ""
+        "kid": "r_YguY8FlA4"
     },
     {
         "id": 9908,
@@ -22917,7 +22917,7 @@ const mvDB = [
         "title": "可惜你不在",
         "vid": "7JFw2miLYao",
         "surname": "戴",
-        "kid": "dJAukvgEK5A"
+        "kid": "uhJzaNv1FIQ"
     },
     {
         "id": 9915,
@@ -22925,7 +22925,7 @@ const mvDB = [
         "title": "空港",
         "vid": "eTBqP_C5UQI",
         "surname": "戴",
-        "kid": "3cktycOsTaE"
+        "kid": "eTBqP_C5UQI"
     },
     {
         "id": 9916,
@@ -22933,7 +22933,7 @@ const mvDB = [
         "title": "了不起寂寞",
         "vid": "9ELvwUjhVLc",
         "surname": "戴",
-        "kid": ""
+        "kid": "x2eoESWYsTA"
     },
     {
         "id": 9917,
@@ -23029,7 +23029,7 @@ const mvDB = [
         "title": "相見太晚",
         "vid": "rLzcwDhTKtU",
         "surname": "趙",
-        "kid": "qM4aN33ESaE"
+        "kid": "rLzcwDhTKtU"
     },
     {
         "id": 9929,
@@ -23037,7 +23037,7 @@ const mvDB = [
         "title": "求婚",
         "vid": "Pwmc2ja3bEA",
         "surname": "趙",
-        "kid": "fStBG5GsG7o"
+        "kid": "H51hv1JEoQI"
     },
     {
         "id": 9930,
@@ -23069,7 +23069,7 @@ const mvDB = [
         "title": "在沙漠的第七天",
         "vid": "6BiF3_kNuX8",
         "surname": "趙",
-        "kid": ""
+        "kid": "6BiF3_kNuX8"
     },
     {
         "id": 9934,
@@ -23085,7 +23085,7 @@ const mvDB = [
         "title": "散心",
         "vid": "3gDfakTQ5Mc",
         "surname": "趙",
-        "kid": "UbljIkiob4Y"
+        "kid": "3gDfakTQ5Mc"
     },
     {
         "id": 9936,
@@ -23093,7 +23093,7 @@ const mvDB = [
         "title": "請你放心",
         "vid": "MgWAIO4nN_s",
         "surname": "趙",
-        "kid": ""
+        "kid": "MgWAIO4nN_s"
     },
     {
         "id": 9937,
@@ -23101,7 +23101,7 @@ const mvDB = [
         "title": "灰色雨滴",
         "vid": "c7HFqMLeSBI",
         "surname": "趙",
-        "kid": ""
+        "kid": "20nAOFM56qk"
     },
     {
         "id": 9938,
@@ -23117,7 +23117,7 @@ const mvDB = [
         "title": "最浪漫的事",
         "vid": "VmeM46a3IDc",
         "surname": "趙",
-        "kid": "QO9dnyYlqOc"
+        "kid": "9stXQeJdCu4"
     },
     {
         "id": 9940,
@@ -23181,7 +23181,7 @@ const mvDB = [
         "title": "曖昧",
         "vid": "tDN_9TQ-tzo",
         "surname": "侯",
-        "kid": "Ah34uFo94d4"
+        "kid": "tDN_9TQ-tzo"
     },
     {
         "id": 9948,
@@ -23189,7 +23189,7 @@ const mvDB = [
         "title": "為你流的淚",
         "vid": "Hv_Udmn7tD0",
         "surname": "侯",
-        "kid": "AFGez2tQ2Eo"
+        "kid": "xYvpeTRV6aY"
     },
     {
         "id": 9949,
@@ -23205,7 +23205,7 @@ const mvDB = [
         "title": "我是如此愛你",
         "vid": "irnGfReshEs",
         "surname": "侯",
-        "kid": ""
+        "kid": "fa2GNa1Lfi8"
     },
     {
         "id": 9951,
@@ -23213,7 +23213,7 @@ const mvDB = [
         "title": "兩個冬天",
         "vid": "KxrUn8JhSaY",
         "surname": "侯",
-        "kid": ""
+        "kid": "qLNL9COnkL4"
     },
     {
         "id": 9952,
@@ -23221,7 +23221,7 @@ const mvDB = [
         "title": "我是一隻魚",
         "vid": "Pea5UfJodJY",
         "surname": "侯",
-        "kid": "lC92T_924bM"
+        "kid": "503w2fWnUTk"
     },
     {
         "id": 9953,
@@ -23269,7 +23269,7 @@ const mvDB = [
         "title": "都是真的",
         "vid": "4bpnLE0dDUg",
         "surname": "侯",
-        "kid": ""
+        "kid": "BzAvwrf62qA"
     },
     {
         "id": 9959,
@@ -23301,7 +23301,7 @@ const mvDB = [
         "title": "姚謙作曲",
         "vid": "4zOYLrdnY8Y",
         "surname": "侯",
-        "kid": ""
+        "kid": "4zOYLrdnY8Y"
     },
     {
         "id": 9963,
@@ -23309,7 +23309,7 @@ const mvDB = [
         "title": "the tears i shed for you",
         "vid": "C4A62I1pruM",
         "surname": "侯",
-        "kid": ""
+        "kid": "C4A62I1pruM"
     },
     {
         "id": 9964,
@@ -23325,7 +23325,7 @@ const mvDB = [
         "title": "也許我不同",
         "vid": "_NqXRDYaVfM",
         "surname": "楊",
-        "kid": ""
+        "kid": "_NqXRDYaVfM"
     },
     {
         "id": 9966,
@@ -23349,7 +23349,7 @@ const mvDB = [
         "title": "玫瑰情話",
         "vid": "P7XPrp4q0Xk",
         "surname": "楊",
-        "kid": "0Usd6uImGFI"
+        "kid": "JUGDBGZu0Wg"
     },
     {
         "id": 9969,
@@ -23373,7 +23373,7 @@ const mvDB = [
         "title": "玫瑰情話",
         "vid": "uKC1fBkcz8o",
         "surname": "楊",
-        "kid": ""
+        "kid": "JUGDBGZu0Wg"
     },
     {
         "id": 9972,
@@ -23418,7 +23418,7 @@ const mvDB = [
     {
         "id": 9977,
         "artist": "楊林",
-        "title": "何如惠",
+        "title": "ktv",
         "vid": "JrEwnZr12Ds",
         "surname": "楊",
         "kid": ""
@@ -23485,7 +23485,7 @@ const mvDB = [
         "title": "新不了情",
         "vid": "Dw-R85AcN_w",
         "surname": "萬",
-        "kid": "5FizfUOPT9Q"
+        "kid": "LESzfnlVdh0"
     },
     {
         "id": 9986,
@@ -23493,7 +23493,7 @@ const mvDB = [
         "title": "我記得你眼裡的依戀",
         "vid": "VG0TyqduIW8",
         "surname": "萬",
-        "kid": "wksgXp9k_Ws"
+        "kid": "VG0TyqduIW8"
     },
     {
         "id": 9987,
@@ -23501,7 +23501,7 @@ const mvDB = [
         "title": "猜心",
         "vid": "i6BHvcY-Hv0",
         "surname": "萬",
-        "kid": "3HysS7LOaLA"
+        "kid": "Qg0pEk3LVgs"
     },
     {
         "id": 9988,
@@ -23509,7 +23509,7 @@ const mvDB = [
         "title": "就值得了愛",
         "vid": "ibG92StQm-U",
         "surname": "萬",
-        "kid": "6jMZQ6y2W58"
+        "kid": "PYb-lL73kZQ"
     },
     {
         "id": 9989,
@@ -23533,7 +23533,7 @@ const mvDB = [
         "title": "試著了解",
         "vid": "yQIo7beRZjg",
         "surname": "萬",
-        "kid": ""
+        "kid": "enUtQHEYpco"
     },
     {
         "id": 9992,
@@ -23613,7 +23613,7 @@ const mvDB = [
         "title": "還能幸福嗎",
         "vid": "eJo2_lwXC1o",
         "surname": "梁",
-        "kid": ""
+        "kid": "Iin-8nlSzh8"
     },
     {
         "id": 10002,
@@ -23725,7 +23725,7 @@ const mvDB = [
         "title": "三個願望",
         "vid": "zwr61OV3ihI",
         "surname": "梁",
-        "kid": ""
+        "kid": "ivlb68ynYGI"
     },
     {
         "id": 10016,
@@ -23733,7 +23733,7 @@ const mvDB = [
         "title": "愛一直存在",
         "vid": "s_H_BVzk2rM",
         "surname": "梁",
-        "kid": ""
+        "kid": "mi4s1sSQs7A"
     },
     {
         "id": 10017,
@@ -23749,7 +23749,7 @@ const mvDB = [
         "title": "純情青春夢",
         "vid": "ufc514yn-XI",
         "surname": "潘",
-        "kid": ""
+        "kid": "4oamgqTiTys"
     },
     {
         "id": 10019,
@@ -23773,7 +23773,7 @@ const mvDB = [
         "title": "浮生千山路",
         "vid": "eVNaFoHq95A",
         "surname": "潘",
-        "kid": "askJ-Df_xD4"
+        "kid": "PpX-0YcTA48"
     },
     {
         "id": 10022,
@@ -23805,7 +23805,7 @@ const mvDB = [
         "title": "守著陽光守著你",
         "vid": "6gxiMmgAJMQ",
         "surname": "潘",
-        "kid": "fCFUMGF7cDo"
+        "kid": "3KXhX0Ffb7Y"
     },
     {
         "id": 10026,
@@ -23821,7 +23821,7 @@ const mvDB = [
         "title": "心情",
         "vid": "jjvqc5Z6sCI",
         "surname": "潘",
-        "kid": ""
+        "kid": "XfZnpcCyUFY"
     },
     {
         "id": 10028,
@@ -23829,7 +23829,7 @@ const mvDB = [
         "title": "最愛",
         "vid": "DXE8rM3vkbQ",
         "surname": "潘",
-        "kid": ""
+        "kid": "P3mbc9H4bv4"
     },
     {
         "id": 10029,
@@ -23837,7 +23837,7 @@ const mvDB = [
         "title": "無言的歌",
         "vid": "b0SV7SbSXPg",
         "surname": "潘",
-        "kid": ""
+        "kid": "1W6ntUObVOk"
     },
     {
         "id": 10030,
@@ -23869,7 +23869,7 @@ const mvDB = [
         "title": "鎖上記憶",
         "vid": "ZAuxxzUQw5U",
         "surname": "潘",
-        "kid": "qaQCjNm9LNk"
+        "kid": "olnOllsbTq0"
     },
     {
         "id": 10034,
@@ -23901,7 +23901,7 @@ const mvDB = [
         "title": "新阿郎",
         "vid": "9KUc3ZRDiXw",
         "surname": "范",
-        "kid": "zalmeadIAfU"
+        "kid": "hC7OqEyWm74"
     },
     {
         "id": 10038,
@@ -23925,7 +23925,7 @@ const mvDB = [
         "title": "別讓情兩難",
         "vid": "UjGmlFrn1SU",
         "surname": "范",
-        "kid": "0dSD019seD4"
+        "kid": "GzxzqV3avNQ"
     },
     {
         "id": 10041,
@@ -23941,7 +23941,7 @@ const mvDB = [
         "title": "真愛宣言",
         "vid": "qJjXlOVxr3A",
         "surname": "范",
-        "kid": "YvvLoqq12x0"
+        "kid": "T2kGN9uqPLw"
     },
     {
         "id": 10043,
@@ -23957,7 +23957,7 @@ const mvDB = [
         "title": "stay",
         "vid": "b25JlZSLckw",
         "surname": "范",
-        "kid": ""
+        "kid": "w8zeuWP7DNQ"
     },
     {
         "id": 10045,
@@ -24029,7 +24029,7 @@ const mvDB = [
         "title": "別人的",
         "vid": "0b6zNSQJb_M",
         "surname": "徐",
-        "kid": "sNkFzxIAB4g"
+        "kid": "MQT_II2fsAs"
     },
     {
         "id": 10054,
@@ -24069,7 +24069,7 @@ const mvDB = [
         "title": "再見錯的人",
         "vid": "uZtXXPr0MaY",
         "surname": "徐",
-        "kid": ""
+        "kid": "MDzxVoIqZmA"
     },
     {
         "id": 10059,
@@ -24085,7 +24085,7 @@ const mvDB = [
         "title": "不敗的",
         "vid": "LyoCffgCyeE",
         "surname": "徐",
-        "kid": ""
+        "kid": "Yc98JiaiUSA"
     },
     {
         "id": 10061,
@@ -24117,7 +24117,7 @@ const mvDB = [
         "title": "決定愛你",
         "vid": "4uvkkl_TdAY",
         "surname": "徐",
-        "kid": "yb_r6Z5cxNQ"
+        "kid": "1o0edIF6ad4"
     },
     {
         "id": 10065,
@@ -24157,7 +24157,7 @@ const mvDB = [
         "title": "不愛了",
         "vid": "PPKPK6nOKkM",
         "surname": "徐",
-        "kid": ""
+        "kid": "MSBrXFMTtuo"
     },
     {
         "id": 10070,
@@ -24165,7 +24165,7 @@ const mvDB = [
         "title": "情難枕",
         "vid": "ayuZ-ugT4tc",
         "surname": "林",
-        "kid": "XhUoWWGK2JU"
+        "kid": "iFaf9yDJf_4"
     },
     {
         "id": 10071,
@@ -24197,7 +24197,7 @@ const mvDB = [
         "title": "情難枕",
         "vid": "xhQzAm-_gWY",
         "surname": "林",
-        "kid": "XhUoWWGK2JU"
+        "kid": "iFaf9yDJf_4"
     },
     {
         "id": 10075,
@@ -24229,7 +24229,7 @@ const mvDB = [
         "title": "列車",
         "vid": "StMcFQIMsLU",
         "surname": "林",
-        "kid": ""
+        "kid": "StMcFQIMsLU"
     },
     {
         "id": 10079,
@@ -24317,7 +24317,7 @@ const mvDB = [
         "title": "明明愛你",
         "vid": "Tn7Itx_orTA",
         "surname": "林",
-        "kid": ""
+        "kid": "Tn7Itx_orTA"
     },
     {
         "id": 10090,
@@ -24325,7 +24325,7 @@ const mvDB = [
         "title": "缺口",
         "vid": "pe7HXvrFr6c",
         "surname": "林",
-        "kid": "XI3EfDGOeS4"
+        "kid": "pe7HXvrFr6c"
     },
     {
         "id": 10091,
@@ -24349,7 +24349,7 @@ const mvDB = [
         "title": "這樣愛你好可怕",
         "vid": "Dr0J2bvqQ2A",
         "surname": "林",
-        "kid": ""
+        "kid": "Dr0J2bvqQ2A"
     },
     {
         "id": 10094,
@@ -24389,7 +24389,7 @@ const mvDB = [
         "title": "聽你說",
         "vid": "H0Eu1syELno",
         "surname": "林",
-        "kid": "IrZj2Ewi2Ls"
+        "kid": "H0Eu1syELno"
     },
     {
         "id": 10099,
@@ -24397,7 +24397,7 @@ const mvDB = [
         "title": "五天幾年",
         "vid": "PtrIG-4ulTE",
         "surname": "林",
-        "kid": "KxckmzqfjSo"
+        "kid": "HwEPQk38wU8"
     },
     {
         "id": 10100,
@@ -24405,7 +24405,7 @@ const mvDB = [
         "title": "重傷",
         "vid": "usNHFmYx9YU",
         "surname": "林",
-        "kid": "jWWOjSNOoEo"
+        "kid": "XULBpS-U8Tk"
     },
     {
         "id": 10101,
@@ -24485,7 +24485,7 @@ const mvDB = [
         "title": "是什麼讓我遇見這樣的你what",
         "vid": "aVmZpcrQBU4",
         "surname": "白",
-        "kid": ""
+        "kid": "aVmZpcrQBU4"
     },
     {
         "id": 10111,
@@ -24493,7 +24493,7 @@ const mvDB = [
         "title": "我只想在乎我在乎的",
         "vid": "LygMIq09Cps",
         "surname": "白",
-        "kid": ""
+        "kid": "ndx3PL0iFhM"
     },
     {
         "id": 10112,
@@ -24509,7 +24509,7 @@ const mvDB = [
         "title": "離開後",
         "vid": "QaFL6cdk9_Y",
         "surname": "白",
-        "kid": ""
+        "kid": "oMn5AQc7cLk"
     },
     {
         "id": 10114,
@@ -24525,7 +24525,7 @@ const mvDB = [
         "title": "緊急公關",
         "vid": "eU3ihbOqwyM",
         "surname": "白",
-        "kid": ""
+        "kid": "0ArOBABwJxE"
     },
     {
         "id": 10116,
@@ -24589,7 +24589,7 @@ const mvDB = [
         "title": "我不在意你曾經吻過誰",
         "vid": "lc-ce20XRdg",
         "surname": "魏",
-        "kid": ""
+        "kid": "4h9dduKUUEE"
     },
     {
         "id": 10143,
@@ -24597,7 +24597,7 @@ const mvDB = [
         "title": "為你寫詩",
         "vid": "uRWWkUeSw5M",
         "surname": "魏",
-        "kid": ""
+        "kid": "0tgHQOPA_Ng"
     },
     {
         "id": 10144,
@@ -24629,7 +24629,7 @@ const mvDB = [
         "title": "喜歡我吧",
         "vid": "m15Cz3ruVkw",
         "surname": "魏",
-        "kid": "pPLoeiZivbo"
+        "kid": "KjWL3khbk1s"
     },
     {
         "id": 10148,
@@ -24637,7 +24637,7 @@ const mvDB = [
         "title": "我還是不懂",
         "vid": "7YjrU6oLH4Q",
         "surname": "魏",
-        "kid": ""
+        "kid": "KG80brXfSn8"
     },
     {
         "id": 10149,
@@ -24653,7 +24653,7 @@ const mvDB = [
         "title": "東東路",
         "vid": "6VEo2DN2tFI",
         "surname": "魏",
-        "kid": ""
+        "kid": "DlzfQ-p471U"
     },
     {
         "id": 10151,
@@ -24709,7 +24709,7 @@ const mvDB = [
         "title": "達拉崩吧",
         "vid": "tKUngIoUwxw",
         "surname": "魏",
-        "kid": "A-5O9SnP6HU"
+        "kid": "zhL2tdKh4Yw"
     },
     {
         "id": 10158,
@@ -24733,7 +24733,7 @@ const mvDB = [
         "title": "愛的主旋律",
         "vid": "jqdQUQqaDdU",
         "surname": "卓",
-        "kid": ""
+        "kid": "Fq4lvCMeJ2Q"
     },
     {
         "id": 10161,
@@ -24789,7 +24789,7 @@ const mvDB = [
         "title": "不要不要",
         "vid": "Yx4lLUmQMc0",
         "surname": "卓",
-        "kid": "6L_yBVEHe98"
+        "kid": "_EkkFm3xWnY"
     },
     {
         "id": 10168,
@@ -24805,7 +24805,7 @@ const mvDB = [
         "title": "愛的城堡",
         "vid": "QUQYrxUusrM",
         "surname": "卓",
-        "kid": ""
+        "kid": "tVSaPSh5Yns"
     },
     {
         "id": 10170,
@@ -24813,7 +24813,7 @@ const mvDB = [
         "title": "一秒也好",
         "vid": "p5C8ceNKyos",
         "surname": "卓",
-        "kid": "l5J2DuXgxF8"
+        "kid": "0iRS2fKR944"
     },
     {
         "id": 10171,
@@ -24853,7 +24853,7 @@ const mvDB = [
         "title": "獨家快樂",
         "vid": "r_iKnSU8gEg",
         "surname": "卓",
-        "kid": ""
+        "kid": "r_iKnSU8gEg"
     },
     {
         "id": 10176,
@@ -24893,7 +24893,7 @@ const mvDB = [
         "title": "聽見下雨的聲音",
         "vid": "F2uX6ByoW7A",
         "surname": "魏",
-        "kid": "W3ozgmXQ8Bg"
+        "kid": "DoNrl0IWoa0"
     },
     {
         "id": 10181,
@@ -24909,7 +24909,7 @@ const mvDB = [
         "title": "秋鄉",
         "vid": "zTCaALLOWaI",
         "surname": "魏",
-        "kid": "5EMFCq3JDJE"
+        "kid": "9204SKlF0ko"
     },
     {
         "id": 10183,
@@ -24917,7 +24917,7 @@ const mvDB = [
         "title": "木",
         "vid": "BbyY9G0z-Qo",
         "surname": "魏",
-        "kid": "O74YtAcHBv4"
+        "kid": "TH6dNgam_oM"
     },
     {
         "id": 10184,
@@ -24925,7 +24925,7 @@ const mvDB = [
         "title": "怎麼忘記了你",
         "vid": "w-FVkto2mwk",
         "surname": "魏",
-        "kid": ""
+        "kid": "u_CPOZo1s0E"
     },
     {
         "id": 10185,
@@ -25005,7 +25005,7 @@ const mvDB = [
         "title": "初戀",
         "vid": "wpibIPvgBZw",
         "surname": "魏",
-        "kid": "fKrdJLDxQzY"
+        "kid": "pgw45GZsAYQ"
     },
     {
         "id": 10195,
@@ -25013,7 +25013,7 @@ const mvDB = [
         "title": "我們沒有再見",
         "vid": "nvOT2U0nvWM",
         "surname": "魏",
-        "kid": ""
+        "kid": "1EHw53doncA"
     },
     {
         "id": 10196,
@@ -25045,7 +25045,7 @@ const mvDB = [
         "title": "何以笙蕭默",
         "vid": "90xQdZ4WmLA",
         "surname": "吳",
-        "kid": ""
+        "kid": "90xQdZ4WmLA"
     },
     {
         "id": 10200,
@@ -25061,7 +25061,7 @@ const mvDB = [
         "title": "星座愛情",
         "vid": "-08AbdEjy2M",
         "surname": "吳",
-        "kid": ""
+        "kid": "a1_JOU19Rjo"
     },
     {
         "id": 10202,
@@ -25085,7 +25085,7 @@ const mvDB = [
         "title": "火金姑",
         "vid": "nGGBia07vac",
         "surname": "吳",
-        "kid": "38iPT3IP398"
+        "kid": "mJPfo-r73BY"
     },
     {
         "id": 10205,
@@ -25141,7 +25141,7 @@ const mvDB = [
         "title": "亡命之徒",
         "vid": "E4lsCCbik_I",
         "surname": "縱",
-        "kid": ""
+        "kid": "E4lsCCbik_I"
     },
     {
         "id": 10212,
@@ -25149,7 +25149,7 @@ const mvDB = [
         "title": "公路",
         "vid": "z64woIKIOnk",
         "surname": "縱",
-        "kid": ""
+        "kid": "nNKDYnAGMGM"
     },
     {
         "id": 10213,
@@ -25162,7 +25162,7 @@ const mvDB = [
     {
         "id": 10214,
         "artist": "縱貫線",
-        "title": "兄弟姐妹",
+        "title": "opening】",
         "vid": "qrJ1TlE7C2w",
         "surname": "縱",
         "kid": ""
@@ -25194,10 +25194,10 @@ const mvDB = [
     {
         "id": 10218,
         "artist": "縱貫線",
-        "title": "縱貫線皇后大道東",
+        "title": "皇后大道東",
         "vid": "S32A68Zm6KY",
         "surname": "縱",
-        "kid": ""
+        "kid": "S32A68Zm6KY"
     },
     {
         "id": 10219,
@@ -25213,7 +25213,7 @@ const mvDB = [
         "title": "亡命之徒",
         "vid": "2D-5rDe-IrY",
         "surname": "縱",
-        "kid": "O0j-8Fj7zlI"
+        "kid": "E4lsCCbik_I"
     },
     {
         "id": 10221,
@@ -25226,10 +25226,10 @@ const mvDB = [
     {
         "id": 10222,
         "artist": "縱貫線",
-        "title": ", cd version,",
+        "title": "愛",
         "vid": "oRIIE6u5xqM",
         "surname": "縱",
-        "kid": "3cOJO0_-vTo"
+        "kid": "oRIIE6u5xqM"
     },
     {
         "id": 10223,
@@ -25237,7 +25237,7 @@ const mvDB = [
         "title": "亡命之徒",
         "vid": "m3FS7vYj3z0",
         "surname": "縱",
-        "kid": ""
+        "kid": "E4lsCCbik_I"
     },
     {
         "id": 10224,
@@ -25245,12 +25245,12 @@ const mvDB = [
         "title": "再見",
         "vid": "yxGIQmbcV8Q",
         "surname": "縱",
-        "kid": "-oK-8_DBhwc"
+        "kid": "JScl91AFn78"
     },
     {
         "id": 10225,
         "artist": "縱貫線",
-        "title": "superband",
+        "title": "抱著你",
         "vid": "MLCI_qIIoZY",
         "surname": "縱",
         "kid": ""
@@ -25269,7 +25269,7 @@ const mvDB = [
         "title": "掌心",
         "vid": "EtepxIjzY7U",
         "surname": "無",
-        "kid": "85QhXk6P7vE"
+        "kid": "f6e4u_-NdXU"
     },
     {
         "id": 10228,
@@ -25277,7 +25277,7 @@ const mvDB = [
         "title": "想見你",
         "vid": "bXbcvG12SEY",
         "surname": "無",
-        "kid": ""
+        "kid": "bXbcvG12SEY"
     },
     {
         "id": 10229,
@@ -25285,7 +25285,7 @@ const mvDB = [
         "title": "身邊",
         "vid": "1pPwRjasS-0",
         "surname": "無",
-        "kid": ""
+        "kid": "B06DG1IcG7s"
     },
     {
         "id": 10230,
@@ -25309,7 +25309,7 @@ const mvDB = [
         "title": "我找你找了好久",
         "vid": "63QYjFE81ec",
         "surname": "無",
-        "kid": ""
+        "kid": "qIWtxG_cN7M"
     },
     {
         "id": 10233,
@@ -25333,7 +25333,7 @@ const mvDB = [
         "title": "別人都說我們會分開",
         "vid": "puC7vIKKmMM",
         "surname": "無",
-        "kid": ""
+        "kid": "Xu5badH1NBY"
     },
     {
         "id": 10236,
@@ -25413,7 +25413,7 @@ const mvDB = [
         "title": "少年遊",
         "vid": "1mOQ5itWpzg",
         "surname": "優",
-        "kid": "NU4H4WHrT1M"
+        "kid": "uSiqKAQdsd4"
     },
     {
         "id": 10246,
@@ -25445,7 +25445,7 @@ const mvDB = [
         "title": "認錯",
         "vid": "STn-xzn1634",
         "surname": "優",
-        "kid": "SVWdPdpqj08"
+        "kid": "bZTn2m6Tw4o"
     },
     {
         "id": 10250,
@@ -25469,7 +25469,7 @@ const mvDB = [
         "title": "多情種",
         "vid": "FaBaBzjPq6A",
         "surname": "優",
-        "kid": ""
+        "kid": "k3kZcO4FhrI"
     },
     {
         "id": 10253,
@@ -25701,7 +25701,7 @@ const mvDB = [
         "title": "我想要佔據你",
         "vid": "IT35gZlLYXQ",
         "surname": "告",
-        "kid": ""
+        "kid": "IT35gZlLYXQ"
     },
     {
         "id": 10282,
@@ -25717,7 +25717,7 @@ const mvDB = [
         "title": "黑夜狂奔",
         "vid": "CjHisbXBCC0",
         "surname": "告",
-        "kid": "gv2U_BpM-ko"
+        "kid": "CjHisbXBCC0"
     },
     {
         "id": 10284,
@@ -25725,12 +25725,12 @@ const mvDB = [
         "title": "愛人錯過",
         "vid": "i_ZHOGNEaJM",
         "surname": "告",
-        "kid": "nna9ZhqyOzs"
+        "kid": "RxyVTL2XeRc"
     },
     {
         "id": 10285,
         "artist": "告五人",
-        "title": "有夢版",
+        "title": "有夢",
         "vid": "h-PpnbX006E",
         "surname": "告",
         "kid": ""
@@ -25757,7 +25757,7 @@ const mvDB = [
         "title": "帶我去找夜生活",
         "vid": "W9Fq1HC_5hg",
         "surname": "告",
-        "kid": "zT7tubvFMn8"
+        "kid": "A8-LkiDD9n4"
     },
     {
         "id": 10289,
@@ -25765,7 +25765,7 @@ const mvDB = [
         "title": "她們創業的那些鳥事",
         "vid": "PlCbgZxonJs",
         "surname": "告",
-        "kid": ""
+        "kid": "PlCbgZxonJs"
     },
     {
         "id": 10290,
@@ -25773,7 +25773,7 @@ const mvDB = [
         "title": "披星戴月的想你",
         "vid": "VpwAq7hiij0",
         "surname": "告",
-        "kid": "1noCGRlZXFI"
+        "kid": "lSg2ajAqAug"
     },
     {
         "id": 10291,
@@ -25781,7 +25781,7 @@ const mvDB = [
         "title": "愛在夏天－盛夏之約",
         "vid": "6Xu-TGL-_qk",
         "surname": "告",
-        "kid": ""
+        "kid": "6Xu-TGL-_qk"
     },
     {
         "id": 10292,
@@ -25789,7 +25789,7 @@ const mvDB = [
         "title": "愛在夏天",
         "vid": "_zv8Y94eLYI",
         "surname": "告",
-        "kid": ""
+        "kid": "6Xu-TGL-_qk"
     },
     {
         "id": 10293,
@@ -25861,7 +25861,7 @@ const mvDB = [
         "title": "i remember",
         "vid": "I0jziPqZLX8",
         "surname": "F",
-        "kid": ""
+        "kid": "bvwZz5gcZlE"
     },
     {
         "id": 10302,
@@ -25933,7 +25933,7 @@ const mvDB = [
         "title": "你的微笑",
         "vid": "5-2ednIJsa8",
         "surname": "F",
-        "kid": ""
+        "kid": "zXamAaU-ZSo"
     },
     {
         "id": 10311,
@@ -25989,7 +25989,7 @@ const mvDB = [
         "title": "佛系少女",
         "vid": "G8V6FwtIciM",
         "surname": "馮",
-        "kid": "ieaymc_Fq4o"
+        "kid": "qozz4zJLYXs"
     },
     {
         "id": 10318,
@@ -26085,7 +26085,7 @@ const mvDB = [
         "title": "世間美好與你環環相扣",
         "vid": "8ivbjhhM4kg",
         "surname": "馮",
-        "kid": ""
+        "kid": "IK5MsRkcTSo"
     },
     {
         "id": 10330,
@@ -26117,7 +26117,7 @@ const mvDB = [
         "title": "再見前任",
         "vid": "ev2JvCUIQP8",
         "surname": "馮",
-        "kid": ""
+        "kid": "Od3qfADQA5I"
     },
     {
         "id": 10334,
@@ -26149,7 +26149,7 @@ const mvDB = [
         "title": "嫁給我",
         "vid": "sTE21SU3TVM",
         "surname": "杜",
-        "kid": ""
+        "kid": "sTE21SU3TVM"
     },
     {
         "id": 10338,
@@ -26157,7 +26157,7 @@ const mvDB = [
         "title": "無心傷害",
         "vid": "u650A5w7Ka0",
         "surname": "杜",
-        "kid": ""
+        "kid": "Y44jVMRxVfM"
     },
     {
         "id": 10339,
@@ -26173,7 +26173,7 @@ const mvDB = [
         "title": "鍾愛一生",
         "vid": "6rNlumm_3Uw",
         "surname": "杜",
-        "kid": "J6fmK8LdwMY"
+        "kid": "6rNlumm_3Uw"
     },
     {
         "id": 10341,
@@ -26197,7 +26197,7 @@ const mvDB = [
         "title": "跟著我一輩子",
         "vid": "GtO4E5TRPP4",
         "surname": "杜",
-        "kid": "2tCxVfI_DrY"
+        "kid": "WlvS_JPs9j4"
     },
     {
         "id": 10344,
@@ -26205,7 +26205,7 @@ const mvDB = [
         "title": "黑色契約",
         "vid": "f-8NEc5859s",
         "surname": "杜",
-        "kid": ""
+        "kid": "f-8NEc5859s"
     },
     {
         "id": 10345,
@@ -26213,7 +26213,7 @@ const mvDB = [
         "title": "不走",
         "vid": "pVsdqHo_neY",
         "surname": "杜",
-        "kid": ""
+        "kid": "pVsdqHo_neY"
     },
     {
         "id": 10346,
@@ -26245,7 +26245,7 @@ const mvDB = [
         "title": "讓愛那麼愉快",
         "vid": "sGbsvkKOV3o",
         "surname": "杜",
-        "kid": ""
+        "kid": "sGbsvkKOV3o"
     },
     {
         "id": 10350,
@@ -26253,7 +26253,7 @@ const mvDB = [
         "title": "癡癡的等",
         "vid": "oUFEAyTnOiU",
         "surname": "杜",
-        "kid": ""
+        "kid": "oUFEAyTnOiU"
     },
     {
         "id": 10351,
@@ -26333,7 +26333,7 @@ const mvDB = [
         "title": "致青春",
         "vid": "ERUMIAuYBUI",
         "surname": "八",
-        "kid": "6ywItJWyeRI"
+        "kid": "ERUMIAuYBUI"
     },
     {
         "id": 10361,
@@ -26381,7 +26381,7 @@ const mvDB = [
         "title": "我不想改變世界",
         "vid": "uHrcAx-bETE",
         "surname": "八",
-        "kid": "Y-ONe_kgND0"
+        "kid": "uHrcAx-bETE"
     },
     {
         "id": 10367,
@@ -26429,7 +26429,7 @@ const mvDB = [
         "title": "想見你想見你想見你",
         "vid": "4iRupuNet3Q",
         "surname": "八",
-        "kid": "VTkdWQr35OQ"
+        "kid": "4iRupuNet3Q"
     },
     {
         "id": 10373,
@@ -26493,7 +26493,7 @@ const mvDB = [
         "title": "還不夠",
         "vid": "P1FeVAQbcNc",
         "surname": "孫",
-        "kid": ""
+        "kid": "P0Ym4KWGpTk"
     },
     {
         "id": 10381,
@@ -26501,7 +26501,7 @@ const mvDB = [
         "title": "不要讓我後悔",
         "vid": "cg86cO06uRU",
         "surname": "孫",
-        "kid": ""
+        "kid": "crdoGiqO5ts"
     },
     {
         "id": 10382,
@@ -26509,7 +26509,7 @@ const mvDB = [
         "title": "眼淚記得你",
         "vid": "07hpRRx4xMg",
         "surname": "孫",
-        "kid": "SUg7vyOH-To"
+        "kid": "lQFQ5Upna6I"
     },
     {
         "id": 10383,
@@ -26517,7 +26517,7 @@ const mvDB = [
         "title": "是他不配",
         "vid": "1TCgqhpGSEg",
         "surname": "孫",
-        "kid": "Bqu7HnwXJN0"
+        "kid": "aHGYNKi9IkQ"
     },
     {
         "id": 10384,
@@ -26525,7 +26525,7 @@ const mvDB = [
         "title": "someday or one day",
         "vid": "-Km_NObPF5E",
         "surname": "孫",
-        "kid": "s8Wi6HGpwdo"
+        "kid": "gjfX5RpJFFo"
     },
     {
         "id": 10385,
@@ -26533,7 +26533,7 @@ const mvDB = [
         "title": "曖",
         "vid": "Bt_va48LunY",
         "surname": "孫",
-        "kid": ""
+        "kid": "eG-8IpF1Qho"
     },
     {
         "id": 10386,
@@ -26621,7 +26621,7 @@ const mvDB = [
         "title": "光的方向",
         "vid": "cwdmC6mqO1w",
         "surname": "張",
-        "kid": "M_o0qS1oK6w"
+        "kid": "OIxv3SjZV1U"
     },
     {
         "id": 10397,
@@ -26661,7 +26661,7 @@ const mvDB = [
         "title": "你給我聽好",
         "vid": "QfH8EzQWQdk",
         "surname": "張",
-        "kid": ""
+        "kid": "iEc5jbO0SF8"
     },
     {
         "id": 10402,
@@ -26669,7 +26669,7 @@ const mvDB = [
         "title": "騙",
         "vid": "dKTdWsaal0A",
         "surname": "張",
-        "kid": "AfVuT5RpC9M"
+        "kid": "TZ8HyMUara4"
     },
     {
         "id": 10403,
@@ -26677,7 +26677,7 @@ const mvDB = [
         "title": "字字句句",
         "vid": "urjRUdZuT50",
         "surname": "張",
-        "kid": "610669l_yGI"
+        "kid": "bbMbO8VG0MM"
     },
     {
         "id": 10404,
@@ -26685,7 +26685,7 @@ const mvDB = [
         "title": "渡紅塵",
         "vid": "r0o-n4F7v48",
         "surname": "張",
-        "kid": "5Tf0VuIagjk"
+        "kid": "BicNhqkUo-4"
     },
     {
         "id": 10405,
@@ -26733,7 +26733,7 @@ const mvDB = [
         "title": "世間最毒的仇恨",
         "vid": "FodM_FibFCs",
         "surname": "張",
-        "kid": ""
+        "kid": "FodM_FibFCs"
     },
     {
         "id": 10411,
@@ -26765,7 +26765,7 @@ const mvDB = [
         "title": "偷偷藏不住hidden",
         "vid": "Nckju7t8qLI",
         "surname": "趙",
-        "kid": ""
+        "kid": "Nckju7t8qLI"
     },
     {
         "id": 10415,
@@ -26805,7 +26805,7 @@ const mvDB = [
         "title": "black veil bride",
         "vid": "HSIBatuTUNY",
         "surname": "趙",
-        "kid": "I02PdzW8VzA"
+        "kid": "7vd1orzPBCY"
     },
     {
         "id": 10422,
@@ -26850,7 +26850,7 @@ const mvDB = [
     {
         "id": 10427,
         "artist": "趙露思",
-        "title": "我是披著暗紗的新娘，今夜無人陷入情網，請保持距離",
+        "title": "#必聽熱門歌曲",
         "vid": "gSt-JD7aly0",
         "surname": "趙",
         "kid": ""
@@ -26861,7 +26861,7 @@ const mvDB = [
         "title": "如果我們再相遇",
         "vid": "8sle0aDaUXI",
         "surname": "王",
-        "kid": ""
+        "kid": "_vpgwBp-jU8"
     },
     {
         "id": 10430,
@@ -26869,7 +26869,7 @@ const mvDB = [
         "title": "你是答案",
         "vid": "FfzpWqMNrio",
         "surname": "王",
-        "kid": ""
+        "kid": "a86kXF__gzU"
     },
     {
         "id": 10431,
@@ -26877,7 +26877,7 @@ const mvDB = [
         "title": "我依然是我",
         "vid": "XWaiPzx0tfg",
         "surname": "王",
-        "kid": ""
+        "kid": "W2J2hQghDhU"
     },
     {
         "id": 10432,
@@ -26949,7 +26949,7 @@ const mvDB = [
         "title": "如果我們再相遇",
         "vid": "EKtPiM9Yrqc",
         "surname": "王",
-        "kid": ""
+        "kid": "_vpgwBp-jU8"
     },
     {
         "id": 10441,
@@ -27010,7 +27010,7 @@ const mvDB = [
     {
         "id": 10448,
         "artist": "單依純",
-        "title": "單依純",
+        "title": "#在夜裡跳舞",
         "vid": "qQKV8UOtkO8",
         "surname": "單",
         "kid": "2_5T3GHC2uw"
@@ -27045,7 +27045,7 @@ const mvDB = [
         "title": "給電影人的情書",
         "vid": "rPgOQMgBdkM",
         "surname": "單",
-        "kid": "2_5T3GHC2uw"
+        "kid": "AF8nezAm_Es"
     },
     {
         "id": 10453,
@@ -27053,7 +27053,7 @@ const mvDB = [
         "title": "一生一世",
         "vid": "tF3Ie4chm_g",
         "surname": "單",
-        "kid": "v3gTF6zIO5E"
+        "kid": "8XFwp2yf31g"
     },
     {
         "id": 10454,
@@ -27082,10 +27082,10 @@ const mvDB = [
     {
         "id": 10457,
         "artist": "單依純",
-        "title": "動態歌詞",
+        "title": "給電影人的情書",
         "vid": "SdDrq8iUN8w",
         "surname": "單",
-        "kid": "Y3GhraVcU6M"
+        "kid": "AF8nezAm_Es"
     },
     {
         "id": 10458,
@@ -27098,7 +27098,7 @@ const mvDB = [
     {
         "id": 10459,
         "artist": "單依純",
-        "title": "這次再見如果是最後的一面",
+        "title": "想你時風起『』",
         "vid": "s3A6fMR6X5I",
         "surname": "單",
         "kid": ""
@@ -27173,7 +27173,7 @@ const mvDB = [
         "title": "依然愛著",
         "vid": "6ZiibmUdyUQ",
         "surname": "B",
-        "kid": "PzJ6zWiRaq4"
+        "kid": "6ZiibmUdyUQ"
     },
     {
         "id": 10469,
@@ -27181,7 +27181,7 @@ const mvDB = [
         "title": "死了一個娛樂女記者之後",
         "vid": "QRtw9yZL2fk",
         "surname": "B",
-        "kid": ""
+        "kid": "QRtw9yZL2fk"
     },
     {
         "id": 10470,
@@ -27189,7 +27189,7 @@ const mvDB = [
         "title": "是不是又欠揍了",
         "vid": "OFwWBrPuijE",
         "surname": "B",
-        "kid": "zetsjFbBtRQ"
+        "kid": "iw8iWzXvkBg"
     },
     {
         "id": 10471,
@@ -27205,7 +27205,7 @@ const mvDB = [
         "title": "人生就是一場遊戲",
         "vid": "SoDPaqwqC90",
         "surname": "B",
-        "kid": "f26Jlt2JqWc"
+        "kid": "fUr23nDR8TY"
     },
     {
         "id": 10473,
@@ -27213,7 +27213,7 @@ const mvDB = [
         "title": "beautiful day",
         "vid": "WROXBZGj2IQ",
         "surname": "B",
-        "kid": "2-7kgGBGUD8"
+        "kid": "A8WBAT9m5lE"
     },
     {
         "id": 10474,
@@ -27237,7 +27237,7 @@ const mvDB = [
         "title": "最後的溫柔",
         "vid": "LlG_Ol3dWow",
         "surname": "姜",
-        "kid": "ZAIfx61XGn4"
+        "kid": "J2G4Z7wCAP4"
     },
     {
         "id": 10477,
@@ -27357,7 +27357,7 @@ const mvDB = [
         "title": "情難枕",
         "vid": "eY5BiruK83E",
         "surname": "姜",
-        "kid": ""
+        "kid": "a922xiO-YAw"
     },
     {
         "id": 10492,
@@ -27373,7 +27373,7 @@ const mvDB = [
         "title": "跟往事乾杯",
         "vid": "5maUPQEjvCQ",
         "surname": "姜",
-        "kid": "G6Q0vC-o-us"
+        "kid": "9ntiniXUvlA"
     },
     {
         "id": 10494,
@@ -27493,7 +27493,7 @@ const mvDB = [
         "title": "陪我長大",
         "vid": "zj8DW6HEU1Y",
         "surname": "段",
-        "kid": "RZRwhBinFmY"
+        "kid": "a6a2N3So1EI"
     },
     {
         "id": 10509,
@@ -27501,7 +27501,7 @@ const mvDB = [
         "title": "陪我長大的願望",
         "vid": "h5ZitiM5fm0",
         "surname": "段",
-        "kid": "B-ce4G85E8Q"
+        "kid": "h5ZitiM5fm0"
     },
     {
         "id": 10510,
@@ -27533,7 +27533,7 @@ const mvDB = [
         "title": "口是心非",
         "vid": "QAmsnJQEb20",
         "surname": "張",
-        "kid": "-J8GnU7cIFI"
+        "kid": "QAmsnJQEb20"
     },
     {
         "id": 10514,
@@ -27549,7 +27549,7 @@ const mvDB = [
         "title": "我的未來不是夢",
         "vid": "lTxZmhAoSGU",
         "surname": "張",
-        "kid": "vJYI9Z-8VDI"
+        "kid": "cpiuwqWFZlc"
     },
     {
         "id": 10516,
@@ -27565,7 +27565,7 @@ const mvDB = [
         "title": "天天想你",
         "vid": "0yZuyXFdVFs",
         "surname": "張",
-        "kid": "A2rKRE-KK0c"
+        "kid": "UscfHgbAz10"
     },
     {
         "id": 10518,
@@ -27573,7 +27573,7 @@ const mvDB = [
         "title": "以為你都知道",
         "vid": "iivSGwAk7FE",
         "surname": "張",
-        "kid": ""
+        "kid": "iivSGwAk7FE"
     },
     {
         "id": 10519,
@@ -27645,7 +27645,7 @@ const mvDB = [
         "title": "閣愛妳一擺",
         "vid": "PJJhHihvDpo",
         "surname": "茄",
-        "kid": "7zzahDzSgIo"
+        "kid": "LRZVjXje1Hk"
     },
     {
         "id": 10528,
@@ -27661,7 +27661,7 @@ const mvDB = [
         "title": "浪子回頭",
         "vid": "x3bDhtuC5yk",
         "surname": "茄",
-        "kid": "LGzIBZzq5QA"
+        "kid": "x3bDhtuC5yk"
     },
     {
         "id": 10530,
@@ -27677,7 +27677,7 @@ const mvDB = [
         "title": "當男人戀愛時",
         "vid": "0rp3pP2Xwhs",
         "surname": "茄",
-        "kid": "vNloGR7mF1Y"
+        "kid": "0rp3pP2Xwhs"
     },
     {
         "id": 10532,
@@ -27757,7 +27757,7 @@ const mvDB = [
         "title": "愛情你比我想的閣較偉大",
         "vid": "SLnpJ9VqstQ",
         "surname": "茄",
-        "kid": "vNloGR7mF1Y"
+        "kid": "QhJ5t76pbq0"
     },
     {
         "id": 10542,
@@ -27805,7 +27805,7 @@ const mvDB = [
         "title": "米可，go！",
         "vid": "vYcl7cw8gWo",
         "surname": "四",
-        "kid": ""
+        "kid": "vYcl7cw8gWo"
     },
     {
         "id": 10548,
@@ -27837,7 +27837,7 @@ const mvDB = [
         "title": "小清新",
         "vid": "i2IFIvEpR7M",
         "surname": "四",
-        "kid": "J_vHlWdFbFc"
+        "kid": "8rY49Njhghc"
     },
     {
         "id": 10552,
@@ -27885,7 +27885,7 @@ const mvDB = [
         "title": "莫名其妙愛上你",
         "vid": "yMEv_Y4bEGM",
         "surname": "四",
-        "kid": ""
+        "kid": "imaRNezosVY"
     },
     {
         "id": 10558,
@@ -27893,7 +27893,7 @@ const mvDB = [
         "title": "月琴",
         "vid": "Psk4Zf37aHs",
         "surname": "鄭",
-        "kid": "nJQVaqkBMbM"
+        "kid": "w9B591FZmEM"
     },
     {
         "id": 10559,
@@ -27917,7 +27917,7 @@ const mvDB = [
         "title": "心情",
         "vid": "9D547i3MSa4",
         "surname": "鄭",
-        "kid": "mWF235pH0oo"
+        "kid": "0WCLmmjuX34"
     },
     {
         "id": 10562,
@@ -27949,7 +27949,7 @@ const mvDB = [
         "title": "敲痛我的心",
         "vid": "gF5h1sR-NVY",
         "surname": "鄭",
-        "kid": ""
+        "kid": "8QJmUvm_o0o"
     },
     {
         "id": 10566,
@@ -27973,7 +27973,7 @@ const mvDB = [
         "title": "敲痛我的心",
         "vid": "RJ5ZoFHYk_c",
         "surname": "鄭",
-        "kid": ""
+        "kid": "8QJmUvm_o0o"
     },
     {
         "id": 10569,
@@ -28021,7 +28021,7 @@ const mvDB = [
         "title": "will you remember me",
         "vid": "Qly4kNtckkg",
         "surname": "李",
-        "kid": ""
+        "kid": "FRBbvzr6cyw"
     },
     {
         "id": 10575,
@@ -28082,7 +28082,7 @@ const mvDB = [
     {
         "id": 10582,
         "artist": "李玖哲",
-        "title": "ft.倪耐斯",
+        "title": "倪耐斯",
         "vid": "jn1rha4kB58",
         "surname": "李",
         "kid": ""
@@ -28117,7 +28117,7 @@ const mvDB = [
         "title": "夏天",
         "vid": "tLGgJLDk5kM",
         "surname": "李",
-        "kid": "vbfbMEKiK2E"
+        "kid": "hVmR5HVan_w"
     },
     {
         "id": 10587,
@@ -28130,7 +28130,7 @@ const mvDB = [
     {
         "id": 10588,
         "artist": "李玖哲",
-        "title": "影子shadow",
+        "title": "影子shadow.w",
         "vid": "HtJKylLZaBE",
         "surname": "李",
         "kid": ""
@@ -28141,7 +28141,7 @@ const mvDB = [
         "title": "不一樣",
         "vid": "hf-dN1bBIJc",
         "surname": "李",
-        "kid": ""
+        "kid": "6rPz4qvP_0w"
     },
     {
         "id": 10590,
@@ -28173,7 +28173,7 @@ const mvDB = [
         "title": "我想要擁有你",
         "vid": "8qjHUrb3vZc",
         "surname": "小",
-        "kid": "gi9MhKRqLHQ"
+        "kid": "8qjHUrb3vZc"
     },
     {
         "id": 10594,
@@ -28181,7 +28181,7 @@ const mvDB = [
         "title": "hey girl",
         "vid": "QEvD6RfaNWo",
         "surname": "小",
-        "kid": "ec1whdU_TJI"
+        "kid": "QEvD6RfaNWo"
     },
     {
         "id": 10595,
@@ -28189,7 +28189,7 @@ const mvDB = [
         "title": "everything",
         "vid": "sLseQTkFt8M",
         "surname": "小",
-        "kid": "A7P8NUkThQs"
+        "kid": "C0BlIm3ZQAo"
     },
     {
         "id": 10596,
@@ -28205,7 +28205,7 @@ const mvDB = [
         "title": "never the point",
         "vid": "N-Xm_DTfDQA",
         "surname": "小",
-        "kid": ""
+        "kid": "N-Xm_DTfDQA"
     },
     {
         "id": 10598,
@@ -28213,7 +28213,7 @@ const mvDB = [
         "title": "轉身以後",
         "vid": "l4MqxhZiidA",
         "surname": "小",
-        "kid": "AYS2BaHu7qM"
+        "kid": "tkAUdngXMr4"
     },
     {
         "id": 10599,
@@ -28237,7 +28237,7 @@ const mvDB = [
         "title": "回不去的回憶",
         "vid": "Jl0NTtI9iJM",
         "surname": "小",
-        "kid": ""
+        "kid": "XDnSOpKm3LI"
     },
     {
         "id": 10602,
@@ -28309,7 +28309,7 @@ const mvDB = [
         "title": "春泥",
         "vid": "amO7qIqb4Yk",
         "surname": "琳",
-        "kid": ""
+        "kid": "C-MHUYc-Xx8"
     },
     {
         "id": 10611,
@@ -28373,7 +28373,7 @@ const mvDB = [
         "title": "芫荽",
         "vid": "N-Qe9GvGKNI",
         "surname": "琳",
-        "kid": ""
+        "kid": "N-Qe9GvGKNI"
     },
     {
         "id": 10619,
@@ -28413,7 +28413,7 @@ const mvDB = [
         "title": "748情人節",
         "vid": "WeuSzBAsxrI",
         "surname": "琳",
-        "kid": ""
+        "kid": "9T79B7NGxgc"
     },
     {
         "id": 10624,
@@ -28429,7 +28429,7 @@ const mvDB = [
         "title": "俗女養成記2",
         "vid": "jj-8twO9KUA",
         "surname": "琳",
-        "kid": "qez7nlsrnPE"
+        "kid": "cCvvgUqYNks"
     },
     {
         "id": 10626,
@@ -28437,7 +28437,7 @@ const mvDB = [
         "title": "蚵仔麵線",
         "vid": "qLMDlKhoGhk",
         "surname": "琳",
-        "kid": "XlRkqQRw_l4"
+        "kid": "hUbOOql7P1U"
     },
     {
         "id": 10627,
@@ -28469,7 +28469,7 @@ const mvDB = [
         "title": "逆光",
         "vid": "tDw1B_hWwbw",
         "surname": "陳",
-        "kid": "ZWsk1CjNZ7Q"
+        "kid": "ZlyymyPf7oY"
     },
     {
         "id": 10631,
@@ -28485,7 +28485,7 @@ const mvDB = [
         "title": "愛你",
         "vid": "KGrulNiJ6Uc",
         "surname": "陳",
-        "kid": "kZYmugu52Ug"
+        "kid": "KGrulNiJ6Uc"
     },
     {
         "id": 10633,
@@ -28493,7 +28493,7 @@ const mvDB = [
         "title": "分手說愛你",
         "vid": "8TdW38mtd98",
         "surname": "陳",
-        "kid": ""
+        "kid": "qsCg0dFMyS8"
     },
     {
         "id": 10634,
@@ -28509,7 +28509,7 @@ const mvDB = [
         "title": "心動拍拍",
         "vid": "XtbQHPRCLq0",
         "surname": "陳",
-        "kid": ""
+        "kid": "lNP3028M69I"
     },
     {
         "id": 10636,
@@ -28525,7 +28525,7 @@ const mvDB = [
         "title": "girl趕快愛",
         "vid": "mgebFEYjRro",
         "surname": "陳",
-        "kid": ""
+        "kid": "WFJqr0_9tM0"
     },
     {
         "id": 10638,
@@ -28533,7 +28533,7 @@ const mvDB = [
         "title": "never change",
         "vid": "j1jYP0eam5A",
         "surname": "陳",
-        "kid": ""
+        "kid": "j1jYP0eam5A"
     },
     {
         "id": 10639,
@@ -28541,7 +28541,7 @@ const mvDB = [
         "title": "再愛我一天",
         "vid": "NKhzuleUGro",
         "surname": "陳",
-        "kid": ""
+        "kid": "Fw-TglpkXKg"
     },
     {
         "id": 10640,
@@ -28581,7 +28581,7 @@ const mvDB = [
         "title": "愛你",
         "vid": "LjUsohZqkzw",
         "surname": "陳",
-        "kid": "kZYmugu52Ug"
+        "kid": "KGrulNiJ6Uc"
     },
     {
         "id": 10645,
@@ -28621,12 +28621,12 @@ const mvDB = [
         "title": "眼淚知道",
         "vid": "pAkIgXGPNoI",
         "surname": "溫",
-        "kid": "q6hV3H-8YZM"
+        "kid": "nWumfYKYnVs"
     },
     {
         "id": 12436,
         "artist": "JENNIE",
-        "title": "like JENNIE",
+        "title": "JENNIE - like JENNIE (Official Video)",
         "vid": "JSFG-IE8n_c",
         "surname": "J",
         "kid": ""
@@ -28637,7 +28637,7 @@ const mvDB = [
         "title": "ExtraL",
         "vid": "eWAdpUyzCkI",
         "surname": "J",
-        "kid": ""
+        "kid": "eEWum4Fmth8"
     },
     {
         "id": 12438,
@@ -28645,7 +28645,7 @@ const mvDB = [
         "title": "Mantra",
         "vid": "bB3-CUMERIU",
         "surname": "J",
-        "kid": ""
+        "kid": "RdJSszreF3k"
     },
     {
         "id": 12439,
@@ -28661,7 +28661,7 @@ const mvDB = [
         "title": "ZEN",
         "vid": "cXmYNmQ4BuM",
         "surname": "J",
-        "kid": ""
+        "kid": "vdQdTyw4O38"
     },
     {
         "id": 12441,
@@ -28693,7 +28693,7 @@ const mvDB = [
         "title": "number one girl",
         "vid": "pZ1NdE69VTs",
         "surname": "R",
-        "kid": ""
+        "kid": "BUrfNdIgxH0"
     },
     {
         "id": 12445,
@@ -28701,7 +28701,7 @@ const mvDB = [
         "title": "APT.",
         "vid": "ekr2nIex040",
         "surname": "R",
-        "kid": ""
+        "kid": "d3TPwaqOBvY"
     },
     {
         "id": 12446,
@@ -28717,7 +28717,7 @@ const mvDB = [
         "title": "On The Ground",
         "vid": "CKZvWhCqx1s",
         "surname": "R",
-        "kid": ""
+        "kid": "FrfyqKgHpA4"
     },
     {
         "id": 12448,
@@ -28725,7 +28725,7 @@ const mvDB = [
         "title": "EYES CLOSED",
         "vid": "EN1tMeXQii0",
         "surname": "J",
-        "kid": ""
+        "kid": "lPBnpi6PYdc"
     },
     {
         "id": 12449,
@@ -28741,7 +28741,7 @@ const mvDB = [
         "title": "eartuake",
         "vid": "Z33suvklkx0",
         "surname": "J",
-        "kid": ""
+        "kid": "n-aHkg4JTHw"
     },
     {
         "id": 12451,
@@ -28749,7 +28749,7 @@ const mvDB = [
         "title": "eartuake",
         "vid": "2V6lvCUPT8I",
         "surname": "J",
-        "kid": ""
+        "kid": "n-aHkg4JTHw"
     },
     {
         "id": 12452,
@@ -28757,7 +28757,7 @@ const mvDB = [
         "title": "FLOWER",
         "vid": "YudHcBIxlYw",
         "surname": "J",
-        "kid": ""
+        "kid": "Bn5n8R5MY1k"
     },
     {
         "id": 12453,
@@ -28765,23 +28765,23 @@ const mvDB = [
         "title": "JUMP",
         "vid": "CgCVZdcKcqY",
         "surname": "B",
-        "kid": ""
+        "kid": "bIJp4lkX5Zw"
     },
     {
         "id": 12454,
         "artist": "BLACKPINK",
-        "title": "『Shut Down』",
+        "title": "Shut Down",
         "vid": "POe9SOEKotk",
         "surname": "B",
-        "kid": ""
+        "kid": "u0XVZwf1l9Q"
     },
     {
         "id": 12455,
         "artist": "BLACKPINK",
-        "title": "『Pink Venom』",
+        "title": "Pink Venom",
         "vid": "gQlMMD8auMs",
         "surname": "B",
-        "kid": ""
+        "kid": "MmkJtZ83yl4"
     },
     {
         "id": 12456,
@@ -28797,7 +28797,7 @@ const mvDB = [
         "title": "Lovesick Girls",
         "vid": "dyRsYk0LyA8",
         "surname": "B",
-        "kid": ""
+        "kid": "V4WDQmZd2VE"
     },
     {
         "id": 12458,
@@ -28805,7 +28805,7 @@ const mvDB = [
         "title": "Ice Cream",
         "vid": "vRXZj0DzXIA",
         "surname": "B",
-        "kid": "4n2I3jT_sqU"
+        "kid": "N7kV59gpJjg"
     },
     {
         "id": 12459,
@@ -28813,7 +28813,7 @@ const mvDB = [
         "title": "How You Like That",
         "vid": "ioNng23DkIM",
         "surname": "B",
-        "kid": "npgCVF34vWE"
+        "kid": "co7XVGR2pPM"
     },
     {
         "id": 12460,
@@ -28821,7 +28821,7 @@ const mvDB = [
         "title": "Kill This Love",
         "vid": "2S24-y0Ij3Y",
         "surname": "B",
-        "kid": ""
+        "kid": "YoWJa7GWzk4"
     },
     {
         "id": 12461,
@@ -28834,7 +28834,7 @@ const mvDB = [
     {
         "id": 12462,
         "artist": "BLACKPINK",
-        "title": "DU DDU",
+        "title": "『』",
         "vid": "IHNzOHi8sJs",
         "surname": "B",
         "kid": "ONXYzOnIwds"
@@ -28845,7 +28845,7 @@ const mvDB = [
         "title": "AS IF ITS YOUR LAST",
         "vid": "Amq-qlqbjYA",
         "surname": "B",
-        "kid": "Ww0MKCSvIeo"
+        "kid": "7m4evva1qPY"
     },
     {
         "id": 12464,
@@ -28877,12 +28877,12 @@ const mvDB = [
         "title": "BOOMBAYAH",
         "vid": "bwmSjveL3Lc",
         "surname": "B",
-        "kid": "WcXyUSTUA_s"
+        "kid": "OWBMMqZfGJg"
     },
     {
         "id": 12468,
         "artist": "BABYMONSTER",
-        "title": "『SUPA DUPA LUV』",
+        "title": "SUPA DUPA LUV",
         "vid": "SbdOIdg2McI",
         "surname": "B",
         "kid": ""
@@ -28890,31 +28890,31 @@ const mvDB = [
     {
         "id": 12469,
         "artist": "BABYMONSTER",
-        "title": "『PSYCHO』",
+        "title": "PSYCHO",
         "vid": "yd_uG3TtREs",
         "surname": "B",
-        "kid": ""
+        "kid": "7qMb5A11sWE"
     },
     {
         "id": 12470,
         "artist": "BABYMONSTER",
-        "title": "『WE GO UP』",
+        "title": "WE GO UP",
         "vid": "wlHwjkYpSr0",
         "surname": "B",
-        "kid": ""
+        "kid": "UW299bu36ds"
     },
     {
         "id": 12471,
         "artist": "BABYMONSTER",
-        "title": "『HOT SAUCE』",
+        "title": "HOT SAUCE",
         "vid": "xn8mQqz2xmM",
         "surname": "B",
-        "kid": ""
+        "kid": "ThDvY_N70g0"
     },
     {
         "id": 12472,
         "artist": "BABYMONSTER",
-        "title": "『Really Like You’",
+        "title": "『",
         "vid": "XShaIZs7J7M",
         "surname": "B",
         "kid": ""
@@ -28933,7 +28933,7 @@ const mvDB = [
         "title": "DRIP",
         "vid": "Zp-Jhuhq0bQ",
         "surname": "B",
-        "kid": ""
+        "kid": "3gO5laSon44"
     },
     {
         "id": 12475,
@@ -28941,23 +28941,23 @@ const mvDB = [
         "title": "CLIK CLAK",
         "vid": "o0oW3lPoOXM",
         "surname": "B",
-        "kid": ""
+        "kid": "XJAa-mZLAEA"
     },
     {
         "id": 12476,
         "artist": "BABYMONSTER",
-        "title": "『FOREVER』",
+        "title": "FOREVER",
         "vid": "eJCHKjt0MPw",
         "surname": "B",
-        "kid": ""
+        "kid": "OZ8BEucczaQ"
     },
     {
         "id": 12477,
         "artist": "BABYMONSTER",
-        "title": "『SHEESH』",
+        "title": "SHEESH",
         "vid": "2wA_b6YHjqQ",
         "surname": "B",
-        "kid": ""
+        "kid": "oywVOcD-bo0"
     },
     {
         "id": 12478,
@@ -28965,7 +28965,7 @@ const mvDB = [
         "title": "Stuck In The Middle",
         "vid": "GsV1i0QHi-o",
         "surname": "B",
-        "kid": ""
+        "kid": "xea0kXBAI38"
     },
     {
         "id": 12479,
@@ -28973,12 +28973,12 @@ const mvDB = [
         "title": "BATTER UP",
         "vid": "olDWm2veCrM",
         "surname": "B",
-        "kid": ""
+        "kid": "4g1XWSTATno"
     },
     {
         "id": 12480,
         "artist": "IVE",
-        "title": "IVE 아이브 『XOXZ』",
+        "title": "XOXZ",
         "vid": "B1ShLiq3EVc",
         "surname": "I",
         "kid": ""
@@ -28986,7 +28986,7 @@ const mvDB = [
     {
         "id": 12481,
         "artist": "IVE",
-        "title": "IVE 아이브 Be Alright",
+        "title": "Be Alright",
         "vid": "gC7cURZsiH8",
         "surname": "I",
         "kid": ""
@@ -28994,7 +28994,7 @@ const mvDB = [
     {
         "id": 12482,
         "artist": "IVE",
-        "title": "IVE 아이브 ATTITUDE",
+        "title": "ATTITUDE",
         "vid": "38xYeot-ciM",
         "surname": "I",
         "kid": ""
@@ -29002,7 +29002,7 @@ const mvDB = [
     {
         "id": 12483,
         "artist": "IVE",
-        "title": "IVE 아이브 REBEL HEART Performance",
+        "title": "REBEL HEART Performance",
         "vid": "es9MaJPb_U8",
         "surname": "I",
         "kid": ""
@@ -29010,7 +29010,7 @@ const mvDB = [
     {
         "id": 12484,
         "artist": "IVE",
-        "title": "IVE 아이브 REBEL HEART",
+        "title": "REBEL HEART",
         "vid": "g36q0ZLvygQ",
         "surname": "I",
         "kid": ""
@@ -29018,7 +29018,7 @@ const mvDB = [
     {
         "id": 12485,
         "artist": "IVE",
-        "title": "IVE 아이브 EMPATHY! Trailer",
+        "title": "EMPATHY! Trailer",
         "vid": "aHAr8M4VZr8",
         "surname": "I",
         "kid": ""
@@ -29026,7 +29026,7 @@ const mvDB = [
     {
         "id": 12486,
         "artist": "IVE",
-        "title": "IVE, David Guetta, BE@RBRICK Supernova Love",
+        "title": "Supernova Love",
         "vid": "Wwb-U41oLIc",
         "surname": "I",
         "kid": ""
@@ -29042,7 +29042,7 @@ const mvDB = [
     {
         "id": 12488,
         "artist": "IVE",
-        "title": "IVE 아이브 CRUSH",
+        "title": "CRUSH",
         "vid": "D-geLVTaBAo",
         "surname": "I",
         "kid": ""
@@ -29050,7 +29050,7 @@ const mvDB = [
     {
         "id": 12489,
         "artist": "IVE",
-        "title": "IVE 아이브 SUMMER FESTA",
+        "title": "SUMMER FESTA",
         "vid": "9adnWMIVHQ0",
         "surname": "I",
         "kid": ""
@@ -29058,7 +29058,7 @@ const mvDB = [
     {
         "id": 12490,
         "artist": "IVE",
-        "title": "IVE 아이브 Accendio",
+        "title": "Accendio",
         "vid": "PGLx4V680J8",
         "surname": "I",
         "kid": ""
@@ -29069,12 +29069,12 @@ const mvDB = [
         "title": "HEYA",
         "vid": "07EzMbVH3QE",
         "surname": "I",
-        "kid": ""
+        "kid": "B-mYtbhBFAE"
     },
     {
         "id": 12492,
         "artist": "IVE",
-        "title": "IVE 아이브 All Night",
+        "title": "All Night",
         "vid": "xU8mQMLx0tk",
         "surname": "I",
         "kid": ""
@@ -29082,7 +29082,7 @@ const mvDB = [
     {
         "id": 12493,
         "artist": "IVE",
-        "title": "IVE 아이브 Baddie",
+        "title": "Baddie",
         "vid": "Da4P2uT4mVc",
         "surname": "I",
         "kid": ""
@@ -29090,15 +29090,15 @@ const mvDB = [
     {
         "id": 12494,
         "artist": "IVE",
-        "title": "IVE 아이브 Off The Record",
+        "title": "Off The Record",
         "vid": "_ApV7Lm87cg",
         "surname": "I",
-        "kid": ""
+        "kid": "h3Zh_CRYFp0"
     },
     {
         "id": 12495,
         "artist": "IVE",
-        "title": "IVE 아이브 Either Way』",
+        "title": "Either Way』",
         "vid": "_Hu4GYtye5U",
         "surname": "I",
         "kid": ""
@@ -29106,7 +29106,7 @@ const mvDB = [
     {
         "id": 12496,
         "artist": "IVE",
-        "title": "IVE 아이브 I WANT",
+        "title": "I WANT",
         "vid": "okVTSehE414",
         "surname": "I",
         "kid": ""
@@ -29114,7 +29114,7 @@ const mvDB = [
     {
         "id": 12497,
         "artist": "IVE",
-        "title": "IVE 아이브 WAVE",
+        "title": "WAVE",
         "vid": "qD1kP_nJU3o",
         "surname": "I",
         "kid": ""
@@ -29122,31 +29122,31 @@ const mvDB = [
     {
         "id": 12498,
         "artist": "IVE",
-        "title": "IVE 아이브 I AM",
+        "title": "I AM",
         "vid": "6ZUIwj3FgUY",
         "surname": "I",
-        "kid": ""
+        "kid": "6eysaF9iZi8"
     },
     {
         "id": 12499,
         "artist": "IVE",
-        "title": "IVE 아이브 Kitsch",
+        "title": "Kitsch",
         "vid": "pG6iaOMV46I",
         "surname": "I",
-        "kid": ""
+        "kid": "P2zvgp0DLcs"
     },
     {
         "id": 12500,
         "artist": "IVE",
-        "title": "Japanese ver.",
+        "title": "eleven",
         "vid": "XfEZzUtdINI",
         "surname": "I",
-        "kid": ""
+        "kid": "V0pyvfuQv0U"
     },
     {
         "id": 12501,
         "artist": "IVE",
-        "title": "IVE 아이브 After LIKE",
+        "title": "After LIKE",
         "vid": "F0B7HDiY-10",
         "surname": "I",
         "kid": ""
@@ -29154,7 +29154,7 @@ const mvDB = [
     {
         "id": 12502,
         "artist": "IVE",
-        "title": "IVE SUMMER FILM",
+        "title": "summer film",
         "vid": "jibz3MwJpj8",
         "surname": "I",
         "kid": ""
@@ -29162,7 +29162,7 @@ const mvDB = [
     {
         "id": 12503,
         "artist": "IVE",
-        "title": "IVE 아이브 LOVE DIVE",
+        "title": "love d",
         "vid": "Y8JFxS1HlDo",
         "surname": "I",
         "kid": ""
@@ -29178,15 +29178,15 @@ const mvDB = [
     {
         "id": 12505,
         "artist": "IVE",
-        "title": "Amazon Music Original Performance",
+        "title": "eleven",
         "vid": "OurWoiIWEr8",
         "surname": "I",
-        "kid": ""
+        "kid": "V0pyvfuQv0U"
     },
     {
         "id": 12506,
         "artist": "IVE",
-        "title": "IVE 아이브 ELEVEN  EXTRA CUT",
+        "title": "ELEVEN MV EXTRA CUT",
         "vid": "92GyDTd3AZk",
         "surname": "I",
         "kid": ""
@@ -29197,7 +29197,7 @@ const mvDB = [
         "title": "아이브",
         "vid": "--FmExEAsM8",
         "surname": "I",
-        "kid": ""
+        "kid": "0Ab6V_hAiY4"
     },
     {
         "id": 12508,
@@ -29274,7 +29274,7 @@ const mvDB = [
     {
         "id": 12517,
         "artist": "FIFTY FIFTY",
-        "title": "『SOS』",
+        "title": "SOS",
         "vid": "XpZTcLSH6Cc",
         "surname": "F",
         "kid": ""
@@ -29282,7 +29282,7 @@ const mvDB = [
     {
         "id": 12518,
         "artist": "FIFTY FIFTY",
-        "title": "『Starry Night』",
+        "title": "Starry Night",
         "vid": "lzm-7YfBJBU",
         "surname": "F",
         "kid": ""
@@ -29293,15 +29293,15 @@ const mvDB = [
         "title": "Cupid",
         "vid": "dsL8VvJnrFo",
         "surname": "F",
-        "kid": ""
+        "kid": "q7xdulZjasw"
     },
     {
         "id": 12520,
         "artist": "FIFTY FIFTY",
-        "title": "TwinVer.",
+        "title": "Cupid",
         "vid": "6uvUTu716rU",
         "surname": "F",
-        "kid": ""
+        "kid": "q7xdulZjasw"
     },
     {
         "id": 12521,
@@ -29309,7 +29309,7 @@ const mvDB = [
         "title": "Cupid",
         "vid": "Qc7_zRjH808",
         "surname": "F",
-        "kid": ""
+        "kid": "q7xdulZjasw"
     },
     {
         "id": 12522,
@@ -29322,15 +29322,15 @@ const mvDB = [
     {
         "id": 12523,
         "artist": "FIFTY FIFTY",
-        "title": "『Higher』",
+        "title": "Higher",
         "vid": "XCikSpjR1ic",
         "surname": "F",
-        "kid": ""
+        "kid": "t12jsl_5M2g"
     },
     {
         "id": 12524,
         "artist": "FIFTY FIFTY",
-        "title": "『Log in",
+        "title": "『",
         "vid": "2OJsgX3hva8",
         "surname": "F",
         "kid": ""
@@ -29338,7 +29338,7 @@ const mvDB = [
     {
         "id": 12525,
         "artist": "FIFTY FIFTY",
-        "title": "『Lovin Me’",
+        "title": "Lovin Me’",
         "vid": "4PnFuEbzxos",
         "surname": "F",
         "kid": ""
@@ -29365,7 +29365,7 @@ const mvDB = [
         "title": "SUGAR FREE",
         "vid": "q_eo5j5sib8",
         "surname": "T",
-        "kid": ""
+        "kid": "0cCwVqB5NJk"
     },
     {
         "id": 12529,
@@ -29394,7 +29394,7 @@ const mvDB = [
     {
         "id": 12532,
         "artist": "T-ara",
-        "title": "Ver.2",
+        "title": "MV Ver.2",
         "vid": "5M69TE1yzt4",
         "surname": "T",
         "kid": ""
@@ -29402,7 +29402,7 @@ const mvDB = [
     {
         "id": 12533,
         "artist": "T-ara",
-        "title": "Ballad ver.",
+        "title": "Cry Cry",
         "vid": "xMTSYvRyNzs",
         "surname": "T",
         "kid": ""
@@ -29413,20 +29413,20 @@ const mvDB = [
         "title": "Lovey Dovey",
         "vid": "CJ0djllyqwY",
         "surname": "T",
-        "kid": ""
+        "kid": "1L_EmZvOWR0"
     },
     {
         "id": 12535,
         "artist": "T-ara",
-        "title": "_ DAY BY DAY",
+        "title": "DAY BY DAY",
         "vid": "kb6mCsvLqP0",
         "surname": "T",
-        "kid": ""
+        "kid": "5nyKM3VL61s"
     },
     {
         "id": 12536,
         "artist": "T-ara",
-        "title": "_ Sexy Love",
+        "title": "Sexy Love",
         "vid": "ShVRP09NCO4",
         "surname": "T",
         "kid": ""
@@ -29434,7 +29434,7 @@ const mvDB = [
     {
         "id": 12537,
         "artist": "T-ara",
-        "title": "ROBOT",
+        "title": "Sexy Love",
         "vid": "mjknp1nWGjY",
         "surname": "T",
         "kid": ""
@@ -29442,7 +29442,7 @@ const mvDB = [
     {
         "id": 12538,
         "artist": "T-ara",
-        "title": "_ SEXY LOVE IN TOKYO",
+        "title": "SEXY LOVE IN TOKYO",
         "vid": "49TrjU5PQY8",
         "surname": "T",
         "kid": ""
@@ -29493,7 +29493,7 @@ const mvDB = [
         "title": "We were in love",
         "vid": "nJ31sMmytHU",
         "surname": "T",
-        "kid": ""
+        "kid": "nJltW0enhbk"
     },
     {
         "id": 12545,
@@ -29501,7 +29501,7 @@ const mvDB = [
         "title": "TIME TO LOVE",
         "vid": "NFFgRRLInD4",
         "surname": "T",
-        "kid": ""
+        "kid": "hVBuSyVfD2o"
     },
     {
         "id": 12546,
@@ -29541,7 +29541,7 @@ const mvDB = [
         "title": "IN",
         "vid": "xlGDca_0wVk",
         "surname": "T",
-        "kid": ""
+        "kid": "sxo2dvnDWZg"
     },
     {
         "id": 12551,
@@ -29570,7 +29570,7 @@ const mvDB = [
     {
         "id": 12554,
         "artist": "T-ara",
-        "title": "japanese version",
+        "title": "roly poly",
         "vid": "JJIm_C0Y43k",
         "surname": "T",
         "kid": ""
@@ -29594,7 +29594,7 @@ const mvDB = [
     {
         "id": 12557,
         "artist": "T-ara",
-        "title": "Bunny Style White Dance ver.",
+        "title": "MV  Bunny Style White Dance ver.",
         "vid": "SUOKWdHmjcM",
         "surname": "T",
         "kid": ""
@@ -29618,7 +29618,7 @@ const mvDB = [
     {
         "id": 12560,
         "artist": "miss A",
-        "title": "miss A 「Hush」",
+        "title": "Hush",
         "vid": "dp0F18FFCTE",
         "surname": "m",
         "kid": ""
@@ -29634,7 +29634,7 @@ const mvDB = [
     {
         "id": 12562,
         "artist": "miss A",
-        "title": "Touch」",
+        "title": "touch」",
         "vid": "aF8Fst_zonU",
         "surname": "m",
         "kid": ""
@@ -29642,7 +29642,7 @@ const mvDB = [
     {
         "id": 12563,
         "artist": "miss A",
-        "title": "bye Baby」",
+        "title": "bye Baby",
         "vid": "EYKO1za5mX0",
         "surname": "m",
         "kid": ""
@@ -29650,7 +29650,7 @@ const mvDB = [
     {
         "id": 12564,
         "artist": "miss A",
-        "title": "miss A 「Love Alone」",
+        "title": "Love Alone",
         "vid": "dBR0oEUIoGI",
         "surname": "m",
         "kid": ""
@@ -29658,7 +29658,7 @@ const mvDB = [
     {
         "id": 12565,
         "artist": "miss A",
-        "title": "miss A 「Breathe」",
+        "title": "Breathe",
         "vid": "16sfLHXAASU",
         "surname": "m",
         "kid": ""
@@ -29666,7 +29666,7 @@ const mvDB = [
     {
         "id": 12566,
         "artist": "miss A",
-        "title": "miss A 「Breathe」",
+        "title": "Breathe",
         "vid": "wTnwjlDhAY4",
         "surname": "m",
         "kid": ""
@@ -29674,7 +29674,7 @@ const mvDB = [
     {
         "id": 12567,
         "artist": "miss A",
-        "title": "Bad Girl, Good Girl」",
+        "title": "bad girl, good girl」",
         "vid": "8TeeJvcBdLA",
         "surname": "m",
         "kid": ""
@@ -29682,7 +29682,7 @@ const mvDB = [
     {
         "id": 12568,
         "artist": "miss A",
-        "title": "Chinese Ver.",
+        "title": "love again",
         "vid": "9JBq45FKfvk",
         "surname": "m",
         "kid": ""
@@ -29690,7 +29690,7 @@ const mvDB = [
     {
         "id": 12569,
         "artist": "AOA",
-        "title": "Come See Me",
+        "title": "『』",
         "vid": "ixxWWKX4S_8",
         "surname": "A",
         "kid": ""
@@ -29781,7 +29781,7 @@ const mvDB = [
         "title": "Miniskirt",
         "vid": "q6f-LLM1H6U",
         "surname": "A",
-        "kid": ""
+        "kid": "5hcI9008O-Y"
     },
     {
         "id": 12581,
@@ -29834,7 +29834,7 @@ const mvDB = [
     {
         "id": 12587,
         "artist": "少女時代",
-        "title": "HYO 효연 YES",
+        "title": "YES",
         "vid": "GAL-Wm8l4xw",
         "surname": "少",
         "kid": ""
@@ -29850,7 +29850,7 @@ const mvDB = [
     {
         "id": 12589,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Letter To Myself",
+        "title": "Letter To Myself",
         "vid": "wqN1vLPX-no",
         "surname": "少",
         "kid": ""
@@ -29866,7 +29866,7 @@ const mvDB = [
     {
         "id": 12591,
         "artist": "少女時代",
-        "title": "HYO 효연 Retro Romance",
+        "title": "Retro Romance",
         "vid": "_1ZckkIf1vU",
         "surname": "少",
         "kid": ""
@@ -29882,7 +29882,7 @@ const mvDB = [
     {
         "id": 12593,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 To. X",
+        "title": "To. X",
         "vid": "5_n6t9G2TUQ",
         "surname": "少",
         "kid": ""
@@ -29890,7 +29890,7 @@ const mvDB = [
     {
         "id": 12594,
         "artist": "少女時代",
-        "title": "HYO 효연 Picture",
+        "title": "Picture",
         "vid": "nS6jENpzz3w",
         "surname": "少",
         "kid": ""
@@ -29922,7 +29922,7 @@ const mvDB = [
     {
         "id": 12598,
         "artist": "少女時代",
-        "title": "HYO 효연 DEEP",
+        "title": "DEEP",
         "vid": "4DTkTJPtDZI",
         "surname": "少",
         "kid": ""
@@ -29930,7 +29930,7 @@ const mvDB = [
     {
         "id": 12599,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 INVU",
+        "title": "INVU",
         "vid": "AbZH7XWDW_k",
         "surname": "少",
         "kid": ""
@@ -29938,7 +29938,7 @@ const mvDB = [
     {
         "id": 12600,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Cant Control Myself",
+        "title": "Cant Control Myself",
         "vid": "RccDIpx4ZMM",
         "surname": "少",
         "kid": ""
@@ -29946,7 +29946,7 @@ const mvDB = [
     {
         "id": 12601,
         "artist": "少女時代",
-        "title": "HYO 효연 Second )",
+        "title": "Second )",
         "vid": "rthppvDJ2fA",
         "surname": "少",
         "kid": ""
@@ -29954,7 +29954,7 @@ const mvDB = [
     {
         "id": 12602,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Weekend",
+        "title": "Weekend",
         "vid": "RmuL-BPFi2Q",
         "surname": "少",
         "kid": ""
@@ -29962,7 +29962,7 @@ const mvDB = [
     {
         "id": 12603,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 What Do I Call You",
+        "title": "What Do I Call You",
         "vid": "5LbFdY6vGsQ",
         "surname": "少",
         "kid": ""
@@ -29978,7 +29978,7 @@ const mvDB = [
     {
         "id": 12605,
         "artist": "少女時代",
-        "title": "TAEYEON テヨン GirlsSpkOut",
+        "title": "TAEYEON テヨン #GirlsSpkOut",
         "vid": "XT7Oh6vTY1Q",
         "surname": "少",
         "kid": ""
@@ -29986,7 +29986,7 @@ const mvDB = [
     {
         "id": 12606,
         "artist": "少女時代",
-        "title": "HYO 효연 『DESSERT』",
+        "title": "DESSERT",
         "vid": "4VmLuWDkHYQ",
         "surname": "少",
         "kid": ""
@@ -29994,7 +29994,7 @@ const mvDB = [
     {
         "id": 12607,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Happy",
+        "title": "Happy",
         "vid": "Raj-AuQgCTg",
         "surname": "少",
         "kid": ""
@@ -30026,7 +30026,7 @@ const mvDB = [
     {
         "id": 12611,
         "artist": "少女時代",
-        "title": "English Ver.",
+        "title": "Badster",
         "vid": "Z26czvItS5g",
         "surname": "少",
         "kid": ""
@@ -30034,7 +30034,7 @@ const mvDB = [
     {
         "id": 12612,
         "artist": "少女時代",
-        "title": "HYO 효연 Badster",
+        "title": "Badster",
         "vid": "6UDqRKS7crI",
         "surname": "少",
         "kid": ""
@@ -30066,7 +30066,7 @@ const mvDB = [
     {
         "id": 12616,
         "artist": "少女時代",
-        "title": "HYO 효연 & 3LAU Punk Right Now",
+        "title": "& 3LAU Punk Right Now",
         "vid": "ZOxlPu_rizU",
         "surname": "少",
         "kid": ""
@@ -30074,7 +30074,7 @@ const mvDB = [
     {
         "id": 12617,
         "artist": "少女時代",
-        "title": "English Ver.",
+        "title": "& 3LAU Punk Right Now",
         "vid": "fjpoSONoReo",
         "surname": "少",
         "kid": ""
@@ -30114,7 +30114,7 @@ const mvDB = [
     {
         "id": 12622,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Something New",
+        "title": "Something New",
         "vid": "im1UUY8dQIk",
         "surname": "少",
         "kid": ""
@@ -30130,7 +30130,7 @@ const mvDB = [
     {
         "id": 12624,
         "artist": "少女時代",
-        "title": "HYO 효연 Sober",
+        "title": "Sober",
         "vid": "T87wXAJe-_M",
         "surname": "少",
         "kid": ""
@@ -30146,7 +30146,7 @@ const mvDB = [
     {
         "id": 12626,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 This Christmas",
+        "title": "This Christmas",
         "vid": "hsh54g9JmC0",
         "surname": "少",
         "kid": ""
@@ -30154,7 +30154,7 @@ const mvDB = [
     {
         "id": 12627,
         "artist": "少女時代",
-        "title": "Clean Ver.",
+        "title": "All Night",
         "vid": "f4w8IbQTJpY",
         "surname": "少",
         "kid": ""
@@ -30162,7 +30162,7 @@ const mvDB = [
     {
         "id": 12628,
         "artist": "少女時代",
-        "title": "Documentary Ver.",
+        "title": "All Night",
         "vid": "HzEJPRqLUZE",
         "surname": "少",
         "kid": ""
@@ -30186,7 +30186,7 @@ const mvDB = [
     {
         "id": 12631,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Make Me Love You",
+        "title": "Make Me Love You",
         "vid": "TVUqLBRQom8",
         "surname": "少",
         "kid": ""
@@ -30194,7 +30194,7 @@ const mvDB = [
     {
         "id": 12632,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Fine",
+        "title": "Fine",
         "vid": "NHXUM-6a3dU",
         "surname": "少",
         "kid": ""
@@ -30202,7 +30202,7 @@ const mvDB = [
     {
         "id": 12633,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 I Got Love",
+        "title": "I Got Love",
         "vid": "MHqy1JsVvIE",
         "surname": "少",
         "kid": ""
@@ -30218,7 +30218,7 @@ const mvDB = [
     {
         "id": 12635,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 11:11",
+        "title": "11:11",
         "vid": "ulr0muQKjk0",
         "surname": "少",
         "kid": ""
@@ -30226,7 +30226,7 @@ const mvDB = [
     {
         "id": 12636,
         "artist": "少女時代",
-        "title": "Dance ver.",
+        "title": "Why",
         "vid": "Ri6wvGjuoOg",
         "surname": "少",
         "kid": ""
@@ -30234,7 +30234,7 @@ const mvDB = [
     {
         "id": 12637,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Why",
+        "title": "Why",
         "vid": "WkdtmT8A2iY",
         "surname": "少",
         "kid": ""
@@ -30242,7 +30242,7 @@ const mvDB = [
     {
         "id": 12638,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Starlight",
+        "title": "Starlight",
         "vid": "eNmL4JiGxZQ",
         "surname": "少",
         "kid": ""
@@ -30258,7 +30258,7 @@ const mvDB = [
     {
         "id": 12640,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 Rain",
+        "title": "Rain",
         "vid": "eHir_vB1RUI",
         "surname": "少",
         "kid": ""
@@ -30274,10 +30274,10 @@ const mvDB = [
     {
         "id": 12642,
         "artist": "少女時代",
-        "title": "TAEYEON 태연 I",
+        "title": "I",
         "vid": "4OrCA1OInoo",
         "surname": "少",
-        "kid": ""
+        "kid": "OImrHjySLDg"
     },
     {
         "id": 12643,
@@ -30309,7 +30309,7 @@ const mvDB = [
         "title": "Mr.Mr.",
         "vid": "Z8j_XEn9b_8",
         "surname": "少",
-        "kid": ""
+        "kid": "byCB1kiVaak"
     },
     {
         "id": 12647,
@@ -30322,7 +30322,7 @@ const mvDB = [
     {
         "id": 12648,
         "artist": "少女時代",
-        "title": "GALAXY SUPERNOVA  Dance ver.",
+        "title": "GALAXY SUPERNOVA MV Dance ver.",
         "vid": "Z6FPJOgfCkc",
         "surname": "少",
         "kid": ""
@@ -30330,7 +30330,7 @@ const mvDB = [
     {
         "id": 12649,
         "artist": "少女時代",
-        "title": "LOVE&GIRLS  Dance ver.",
+        "title": "LOVE&GIRLS MV Dance ver.",
         "vid": "6ex1YkDXelo",
         "surname": "少",
         "kid": ""
@@ -30373,7 +30373,7 @@ const mvDB = [
         "title": "Oh!",
         "vid": "tXZWudcVzEg",
         "surname": "少",
-        "kid": ""
+        "kid": "aEcWwNkWVmA"
     },
     {
         "id": 12655,
@@ -30386,7 +30386,7 @@ const mvDB = [
     {
         "id": 12656,
         "artist": "少女時代",
-        "title": "PAPARAZZI  Dance Edit GOLD",
+        "title": "PAPARAZZI MV Dance Edit GOLD",
         "vid": "c3-pUNhYORw",
         "surname": "少",
         "kid": ""
@@ -30413,7 +30413,7 @@ const mvDB = [
         "title": "Time Machine",
         "vid": "fj-857Q_zEU",
         "surname": "少",
-        "kid": ""
+        "kid": "OImrHjySLDg"
     },
     {
         "id": 12660,
@@ -30437,7 +30437,7 @@ const mvDB = [
         "title": "Gee",
         "vid": "mpoKx48WmEM",
         "surname": "少",
-        "kid": ""
+        "kid": "SljtpkFkVd0"
     },
     {
         "id": 12663,
@@ -30450,18 +30450,18 @@ const mvDB = [
     {
         "id": 12664,
         "artist": "少女時代",
-        "title": "ENG Ver.",
+        "title": "The Boys",
         "vid": "xqe9nXEyG0o",
         "surname": "少",
-        "kid": ""
+        "kid": "-8RH2iabdhs"
     },
     {
         "id": 12665,
         "artist": "少女時代",
-        "title": "KOR Ver.",
+        "title": "The Boys",
         "vid": "6pA_Tou-DPI",
         "surname": "少",
-        "kid": ""
+        "kid": "-8RH2iabdhs"
     },
     {
         "id": 12666,
@@ -30509,7 +30509,7 @@ const mvDB = [
         "title": "소녀시대",
         "vid": "IbLh4i40I4E",
         "surname": "少",
-        "kid": ""
+        "kid": "rNnIzgOzklY"
     },
     {
         "id": 12672,
@@ -30517,7 +30517,7 @@ const mvDB = [
         "title": "Into The New World",
         "vid": "0k2Zzkw_-0I",
         "surname": "少",
-        "kid": ""
+        "kid": "rNnIzgOzklY"
     },
     {
         "id": 12673,
@@ -30554,7 +30554,7 @@ const mvDB = [
     {
         "id": 12677,
         "artist": "少女時代",
-        "title": "Run Devil Run  Story Ver.",
+        "title": "Run Devil Run MV Story Ver.",
         "vid": "MON0BrDxOuw",
         "surname": "少",
         "kid": ""
@@ -30581,7 +30581,7 @@ const mvDB = [
         "title": "Oh!",
         "vid": "TGbwL8kSpEk",
         "surname": "少",
-        "kid": ""
+        "kid": "aEcWwNkWVmA"
     },
     {
         "id": 12681,
@@ -30597,12 +30597,12 @@ const mvDB = [
         "title": "Gee",
         "vid": "U7mPqycQ0tQ",
         "surname": "少",
-        "kid": ""
+        "kid": "SljtpkFkVd0"
     },
     {
         "id": 12683,
         "artist": "i-dle",
-        "title": "MIYEON",
+        "title": "Say My Name",
         "vid": "9g9NClV1z_w",
         "surname": "i",
         "kid": ""
@@ -30610,7 +30610,7 @@ const mvDB = [
     {
         "id": 12684,
         "artist": "i-dle",
-        "title": "MIYEON",
+        "title": "Reno",
         "vid": "nXWEZT0fVYY",
         "surname": "i",
         "kid": ""
@@ -30642,7 +30642,7 @@ const mvDB = [
     {
         "id": 12688,
         "artist": "i-dle",
-        "title": "YUQI",
+        "title": "M.O.",
         "vid": "nZFH-gZa9R4",
         "surname": "i",
         "kid": ""
@@ -30650,7 +30650,7 @@ const mvDB = [
     {
         "id": 12689,
         "artist": "i-dle",
-        "title": "YUQI",
+        "title": "아프다",
         "vid": "yfn7EG7tQpg",
         "surname": "i",
         "kid": ""
@@ -30674,7 +30674,7 @@ const mvDB = [
     {
         "id": 12692,
         "artist": "i-dle",
-        "title": "MINNIE",
+        "title": "HER",
         "vid": "UTHqh7Vpa64",
         "surname": "i",
         "kid": ""
@@ -30682,7 +30682,7 @@ const mvDB = [
     {
         "id": 12693,
         "artist": "i-dle",
-        "title": "MINNIE",
+        "title": "Blind Eyes Red",
         "vid": "8KpvPHcXr1c",
         "surname": "i",
         "kid": ""
@@ -30690,7 +30690,7 @@ const mvDB = [
     {
         "id": 12694,
         "artist": "i-dle",
-        "title": "(여자)아이들((G)I-DLE) - 클락션 (Klaxon) Official Music Video",
+        "title": "Klaxon",
         "vid": "rTKqSmX9XhQ",
         "surname": "i",
         "kid": ""
@@ -30698,7 +30698,7 @@ const mvDB = [
     {
         "id": 12695,
         "artist": "i-dle",
-        "title": "YUQI",
+        "title": "FREAK",
         "vid": "UqJIBItJeyg",
         "surname": "i",
         "kid": ""
@@ -30706,7 +30706,7 @@ const mvDB = [
     {
         "id": 12696,
         "artist": "i-dle",
-        "title": "YUQI",
+        "title": "Could It Be",
         "vid": "ZqU4oTDy3XE",
         "surname": "i",
         "kid": ""
@@ -30722,7 +30722,7 @@ const mvDB = [
     {
         "id": 12698,
         "artist": "i-dle",
-        "title": "(여자)아이들((G)I-DLE), Steve Aoki - Nxde (Steve Aoki Remix) Visualizer",
+        "title": "Nxde",
         "vid": "qRrV31S7oO0",
         "surname": "i",
         "kid": ""
@@ -30730,7 +30730,7 @@ const mvDB = [
     {
         "id": 12699,
         "artist": "i-dle",
-        "title": "MIYEON",
+        "title": "Drive",
         "vid": "35lirBqwgTs",
         "surname": "i",
         "kid": ""
@@ -30746,7 +30746,7 @@ const mvDB = [
     {
         "id": 12701,
         "artist": "i-dle",
-        "title": "YUQI",
+        "title": "Bonnie & Clyde",
         "vid": "AE8yKldv_oo",
         "surname": "i",
         "kid": ""
@@ -30754,7 +30754,7 @@ const mvDB = [
     {
         "id": 12702,
         "artist": "i-dle",
-        "title": "YUQI",
+        "title": "Giant",
         "vid": "wxDHQT0iBKM",
         "surname": "i",
         "kid": ""
@@ -30762,7 +30762,7 @@ const mvDB = [
     {
         "id": 12703,
         "artist": "i-dle",
-        "title": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - HWAA (Dimitri Vegas & Like Mike Remix) Official MV",
+        "title": "HWAA",
         "vid": "P62kgQCuxGE",
         "surname": "i",
         "kid": ""
@@ -30786,7 +30786,7 @@ const mvDB = [
     {
         "id": 12706,
         "artist": "Taylor Swift",
-        "title": "Bad Blood ft. Kendrick Lamar",
+        "title": "Bad Blood  Kendrick Lamar",
         "vid": "QcIy9NiNbmo",
         "surname": "T",
         "kid": ""
@@ -30805,7 +30805,7 @@ const mvDB = [
         "title": "Blank Space",
         "vid": "e-ORhEE9VVg",
         "surname": "T",
-        "kid": ""
+        "kid": "QSSp-3sRh9Q"
     },
     {
         "id": 12709,
@@ -30826,7 +30826,7 @@ const mvDB = [
     {
         "id": 12711,
         "artist": "Taylor Swift",
-        "title": "Everything Has Changed ft. Ed Sheeran",
+        "title": "Everything Has Changed  Ed Sheeran",
         "vid": "w1oM3kQpXRo",
         "surname": "T",
         "kid": ""
@@ -30909,7 +30909,7 @@ const mvDB = [
         "title": "You Belong With Me",
         "vid": "VuNIsY6JdUw",
         "surname": "T",
-        "kid": "I3_FaKKyKPg"
+        "kid": "1BUxpjYBJz0"
     },
     {
         "id": 12722,
@@ -30978,7 +30978,7 @@ const mvDB = [
     {
         "id": 12730,
         "artist": "Taylor Swift",
-        "title": "ME!  ft. Brendon Urie",
+        "title": "ME!Brendon Urie",
         "vid": "FuXNumBwDOM",
         "surname": "T",
         "kid": ""
@@ -30997,7 +30997,7 @@ const mvDB = [
         "title": "On My Way",
         "vid": "dhYOPzcsbGM",
         "surname": "A",
-        "kid": ""
+        "kid": "9oNDMiyLm4U"
     },
     {
         "id": 12733,
@@ -31018,7 +31018,7 @@ const mvDB = [
     {
         "id": 12735,
         "artist": "Alan Walker",
-        "title": "Team Side feat. RCB",
+        "title": "Team Side  RCB",
         "vid": "WOZSI2_m-3o",
         "surname": "A",
         "kid": ""
@@ -31053,7 +31053,7 @@ const mvDB = [
         "title": "The Drum",
         "vid": "TicGJQqrq2M",
         "surname": "A",
-        "kid": ""
+        "kid": "0N_QrhdROKo"
     },
     {
         "id": 12740,
@@ -31074,7 +31074,7 @@ const mvDB = [
     {
         "id": 12742,
         "artist": "Alan Walker",
-        "title": "Alan Walkers",
+        "title": "391, Tungevaag, Mangoo",
         "vid": "YQRHrco73g4",
         "surname": "A",
         "kid": ""
@@ -31093,7 +31093,7 @@ const mvDB = [
         "title": "Darkside",
         "vid": "M-P4QBt-FWw",
         "surname": "A",
-        "kid": ""
+        "kid": "VQjhpQBw8pA"
     },
     {
         "id": 12745,
@@ -31101,7 +31101,7 @@ const mvDB = [
         "title": "All Falls Down",
         "vid": "6RLLOEzdxsM",
         "surname": "A",
-        "kid": ""
+        "kid": "Yy8_0pD6Fj0"
     },
     {
         "id": 12746,
@@ -31109,7 +31109,7 @@ const mvDB = [
         "title": "The Spectre",
         "vid": "wJnBTPUQS5A",
         "surname": "A",
-        "kid": ""
+        "kid": "bFl2V_wNooo"
     },
     {
         "id": 12747,
@@ -31117,7 +31117,7 @@ const mvDB = [
         "title": "Alone",
         "vid": "1-xGerv5FOk",
         "surname": "A",
-        "kid": ""
+        "kid": "w0F6goHM1DM"
     },
     {
         "id": 12748,
@@ -31133,7 +31133,7 @@ const mvDB = [
         "title": "Sing Me To Sleep",
         "vid": "2i2khp_npdE",
         "surname": "A",
-        "kid": ""
+        "kid": "OUs7rR48_M8"
     },
     {
         "id": 12750,
@@ -31141,7 +31141,7 @@ const mvDB = [
         "title": "Faded",
         "vid": "60ItHLz5WEA",
         "surname": "A",
-        "kid": ""
+        "kid": "xf5rgfur4gw"
     },
     {
         "id": 12751,
@@ -31149,7 +31149,7 @@ const mvDB = [
         "title": "We Belong Together",
         "vid": "0habxsuXW4g",
         "surname": "M",
-        "kid": ""
+        "kid": "3FLnPmuXSGw"
     },
     {
         "id": 12752,
@@ -31157,7 +31157,7 @@ const mvDB = [
         "title": "My All",
         "vid": "mIhI23gBBPQ",
         "surname": "M",
-        "kid": ""
+        "kid": "3lI0cNEvDS4"
     },
     {
         "id": 12753,
@@ -31202,7 +31202,7 @@ const mvDB = [
     {
         "id": 12758,
         "artist": "Mariah Carey",
-        "title": "Beautiful ft. Miguel",
+        "title": "Beautiful  Miguel",
         "vid": "oe1wtkkt9-E",
         "surname": "M",
         "kid": ""
@@ -31210,7 +31210,7 @@ const mvDB = [
     {
         "id": 12759,
         "artist": "Mariah Carey",
-        "title": "Explicit Version",
+        "title": "BeautifulMiguel",
         "vid": "USF55GUALyQ",
         "surname": "M",
         "kid": ""
@@ -31234,7 +31234,7 @@ const mvDB = [
     {
         "id": 12762,
         "artist": "Mariah Carey",
-        "title": "Angels Cry  ft. Ne",
+        "title": "Angels CryNe",
         "vid": "DyGNfbKkMVE",
         "surname": "M",
         "kid": ""
@@ -31242,7 +31242,7 @@ const mvDB = [
     {
         "id": 12763,
         "artist": "Mariah Carey",
-        "title": "Up Out My Face  ft. Nicki Minaj",
+        "title": "Up Out My FaceNicki Minaj",
         "vid": "5i7GEMQC2IY",
         "surname": "M",
         "kid": ""
@@ -31290,7 +31290,7 @@ const mvDB = [
     {
         "id": 12769,
         "artist": "Mariah Carey",
-        "title": "The New Years Anthem, Fireworks Version",
+        "title": "Auld Lang Syne",
         "vid": "Aop6YF1Xqqg",
         "surname": "M",
         "kid": ""
@@ -31314,7 +31314,7 @@ const mvDB = [
     {
         "id": 12772,
         "artist": "Mariah Carey",
-        "title": "O Come All Ye FaithfulHallelujah Chorus ft. Patricia Carey",
+        "title": "O Come All Ye FaithfulHallelujah Chorus  Patricia Carey",
         "vid": "j25wYtN1EIA",
         "surname": "M",
         "kid": ""
@@ -31330,7 +31330,7 @@ const mvDB = [
     {
         "id": 12774,
         "artist": "Mariah Carey",
-        "title": "Ill Be Lovin U Long Time  ft. T.I.",
+        "title": "Ill Be Lovin U Long TimeT.I.",
         "vid": "7j16uymohGQ",
         "surname": "M",
         "kid": ""
@@ -31341,7 +31341,7 @@ const mvDB = [
         "title": "I Stay In Love",
         "vid": "5C5JFDEGj8A",
         "surname": "M",
-        "kid": ""
+        "kid": "AggrOBiE_Gk"
     },
     {
         "id": 12776,
@@ -31349,7 +31349,7 @@ const mvDB = [
         "title": "Bye Bye",
         "vid": "UqfLVDIZcP8",
         "surname": "M",
-        "kid": ""
+        "kid": "YbmVUDMJWKU"
     },
     {
         "id": 12777,
@@ -31373,12 +31373,12 @@ const mvDB = [
         "title": "N",
         "vid": "_tmukfHXBvQ",
         "surname": "M",
-        "kid": ""
+        "kid": "TTThdbaA7xs"
     },
     {
         "id": 12780,
         "artist": "Mariah Carey",
-        "title": "Get Your Number  ft. Jermaine Dupri",
+        "title": "Get Your NumberJermaine Dupri",
         "vid": "yvoWWtynalI",
         "surname": "M",
         "kid": ""
@@ -31386,7 +31386,7 @@ const mvDB = [
     {
         "id": 12781,
         "artist": "Mariah Carey",
-        "title": "Say Somethin  ft. Snoop Dogg",
+        "title": "Say SomethinSnoop Dogg",
         "vid": "-yxHnAXZqhA",
         "surname": "M",
         "kid": ""
@@ -31402,7 +31402,7 @@ const mvDB = [
     {
         "id": 12783,
         "artist": "Mariah Carey",
-        "title": "U Make Me Wanna ft. Mariah Carey",
+        "title": "Jadakiss",
         "vid": "FEN0KRUYmGs",
         "surname": "M",
         "kid": ""
@@ -31410,7 +31410,7 @@ const mvDB = [
     {
         "id": 12784,
         "artist": "Mariah Carey",
-        "title": "I Know What You Want  ft. Flipmode Squad",
+        "title": "I Know What You WantFlipmode Squad",
         "vid": "WDaNJW_jEBo",
         "surname": "M",
         "kid": ""
@@ -31437,7 +31437,7 @@ const mvDB = [
         "title": "Through The Rain",
         "vid": "RRNdmkH8zrI",
         "surname": "M",
-        "kid": ""
+        "kid": "6oDUWmSs9NI"
     },
     {
         "id": 12788,
@@ -31453,7 +31453,7 @@ const mvDB = [
         "title": "Thank God I Found You",
         "vid": "7KVxjQUCyn0",
         "surname": "M",
-        "kid": ""
+        "kid": "b1FFPH1y8Lo"
     },
     {
         "id": 12790,
@@ -31477,7 +31477,7 @@ const mvDB = [
         "title": "When You Believe",
         "vid": "LKaXY4IdZ40",
         "surname": "M",
-        "kid": ""
+        "kid": "TTThdbaA7xs"
     },
     {
         "id": 12793,
@@ -31490,7 +31490,7 @@ const mvDB = [
     {
         "id": 12794,
         "artist": "Mariah Carey",
-        "title": "Sweetheart  ft. Mariah Carey",
+        "title": "Jermaine Dupri",
         "vid": "vefhY2RfM_0",
         "surname": "M",
         "kid": ""
@@ -31506,7 +31506,7 @@ const mvDB = [
     {
         "id": 12796,
         "artist": "Mariah Carey",
-        "title": "Breakdown ft. Krayzie Bone, Wish Bone",
+        "title": "Breakdown  Krayzie Bone, Wish Bone",
         "vid": "bC7V9dn1rC8",
         "surname": "M",
         "kid": ""
@@ -31538,7 +31538,7 @@ const mvDB = [
     {
         "id": 12800,
         "artist": "Mariah Carey",
-        "title": "Mariah Carey - Honey (Bad Boy Remix - Official HD Video) ft. Mase, The Lox",
+        "title": "HoneyMase, The Lox",
         "vid": "Oy2bwwIsS40",
         "surname": "M",
         "kid": ""
@@ -31554,7 +31554,7 @@ const mvDB = [
     {
         "id": 12802,
         "artist": "Mariah Carey",
-        "title": "Version",
+        "title": "Forever",
         "vid": "Dnc35lZR0O4",
         "surname": "M",
         "kid": ""
@@ -31597,12 +31597,12 @@ const mvDB = [
         "title": "All I Want For Christmas Is You",
         "vid": "yXQViqx6GMY",
         "surname": "M",
-        "kid": ""
+        "kid": "mje8h7NFnko"
     },
     {
         "id": 12808,
         "artist": "Mariah Carey",
-        "title": "Duet with Mariah Carey",
+        "title": "duet",
         "vid": "Nu9RVPTpDyA",
         "surname": "M",
         "kid": ""
@@ -31613,12 +31613,12 @@ const mvDB = [
         "title": "Without You",
         "vid": "Hat1Hc9SNwE",
         "surname": "M",
-        "kid": ""
+        "kid": "OA44unnMz2Q"
     },
     {
         "id": 12810,
         "artist": "Mariah Carey",
-        "title": "Mariah Carey - Anytime You Need A Friend (Alt. Version - Official HD Video)",
+        "title": "Anytime You Need A Friend",
         "vid": "sD9gA2hJZG4",
         "surname": "M",
         "kid": ""
@@ -31645,7 +31645,7 @@ const mvDB = [
         "title": "Hero",
         "vid": "0IA3ZvCkRkQ",
         "surname": "M",
-        "kid": ""
+        "kid": "K8px4D91CYw"
     },
     {
         "id": 12814,
@@ -31658,7 +31658,7 @@ const mvDB = [
     {
         "id": 12815,
         "artist": "Mariah Carey",
-        "title": "Mariah Carey - If Its Over (MTV Unplugged - HD Video)",
+        "title": "If Its Over",
         "vid": "9q3Rg0xKmpM",
         "surname": "M",
         "kid": ""
@@ -31666,10 +31666,10 @@ const mvDB = [
     {
         "id": 12816,
         "artist": "Mariah Carey",
-        "title": "Mariah Carey - Ill Be There (MTV Unplugged - HD Video)",
+        "title": "Ill Be There",
         "vid": "UIt3dx4an9c",
         "surname": "M",
-        "kid": ""
+        "kid": "4YtkNDX_cjs"
     },
     {
         "id": 12817,
@@ -31690,7 +31690,7 @@ const mvDB = [
     {
         "id": 12819,
         "artist": "Mariah Carey",
-        "title": "Mariah Carey - Emotions (Remix - Official HD Video)",
+        "title": "Emotions",
         "vid": "WfKRETbL_a8",
         "surname": "M",
         "kid": ""
@@ -31730,7 +31730,7 @@ const mvDB = [
     {
         "id": 12824,
         "artist": "Mariah Carey",
-        "title": "Version",
+        "title": "Someday",
         "vid": "wVDwpdQTDlc",
         "surname": "M",
         "kid": ""
@@ -31738,7 +31738,7 @@ const mvDB = [
     {
         "id": 12825,
         "artist": "Mariah Carey",
-        "title": "Mariah Carey - Someday (MTV Unplugged - HD Video)",
+        "title": "Someday",
         "vid": "N_-vgiGtxvc",
         "surname": "M",
         "kid": ""
@@ -31805,7 +31805,7 @@ const mvDB = [
         "title": "Happier Than Ever",
         "vid": "5GJWxDKyk3A",
         "surname": "B",
-        "kid": ""
+        "kid": "jNfT49-cZE8"
     },
     {
         "id": 12834,
@@ -31853,7 +31853,7 @@ const mvDB = [
         "title": "No Time To Die",
         "vid": "BboMpayJomw",
         "surname": "B",
-        "kid": ""
+        "kid": "ioqGmaBHUrk"
     },
     {
         "id": 12840,
@@ -31869,7 +31869,7 @@ const mvDB = [
         "title": "everything i wanted",
         "vid": "EgBJmlPo8Xw",
         "surname": "B",
-        "kid": ""
+        "kid": "0J_z7RjLZfo"
     },
     {
         "id": 12842,
@@ -31885,7 +31885,7 @@ const mvDB = [
         "title": "all the good girls go to hell",
         "vid": "-PZsSWwc9xA",
         "surname": "B",
-        "kid": ""
+        "kid": "PH5dzxD7i3U"
     },
     {
         "id": 12844,
@@ -31893,7 +31893,7 @@ const mvDB = [
         "title": "bad guy",
         "vid": "DyDfgMOUjCI",
         "surname": "B",
-        "kid": ""
+        "kid": "GsFlbMS7UIc"
     },
     {
         "id": 12845,
@@ -31909,12 +31909,12 @@ const mvDB = [
         "title": "when the partys over",
         "vid": "pbMwTqkKSps",
         "surname": "B",
-        "kid": ""
+        "kid": "sluLx2JlLqw"
     },
     {
         "id": 12847,
         "artist": "Billie Eilish",
-        "title": "Vertical",
+        "title": "you should see me in a crown",
         "vid": "Ah0Ys50CqO8",
         "surname": "B",
         "kid": ""
@@ -31933,7 +31933,7 @@ const mvDB = [
         "title": "lovely",
         "vid": "V1Pl8CzNzCw",
         "surname": "B",
-        "kid": ""
+        "kid": "Poh3XzQmmIA"
     },
     {
         "id": 12850,
@@ -31941,7 +31941,7 @@ const mvDB = [
         "title": "idontwannabeyouanymore",
         "vid": "-tn2S3kJlyU",
         "surname": "B",
-        "kid": ""
+        "kid": "DUWfL7U-StI"
     },
     {
         "id": 12851,
@@ -31965,15 +31965,15 @@ const mvDB = [
         "title": "Bellyache",
         "vid": "gBRi6aZJGj4",
         "surname": "B",
-        "kid": ""
+        "kid": "GakCnD5pzNM"
     },
     {
         "id": 12854,
         "artist": "Billie Eilish",
-        "title": "Dance Performance",
+        "title": "Ocean Eyes",
         "vid": "hG4lT4fxj8M",
         "surname": "B",
-        "kid": ""
+        "kid": "rqF-W9QBHUQ"
     },
     {
         "id": 12855,
@@ -31981,12 +31981,12 @@ const mvDB = [
         "title": "ocean eyes",
         "vid": "viimfQi_pUw",
         "surname": "B",
-        "kid": ""
+        "kid": "rqF-W9QBHUQ"
     },
     {
         "id": 12856,
         "artist": "Katy Perry",
-        "title": "IM HIS, HES MINE ft. Doechii",
+        "title": "IM HIS, HES MINE  Doechii",
         "vid": "sH89mSsCTu8",
         "surname": "K",
         "kid": ""
@@ -32053,7 +32053,7 @@ const mvDB = [
         "title": "Teenage Dream",
         "vid": "98WtmW-lfeE",
         "surname": "K",
-        "kid": ""
+        "kid": "kUyhDgryS3g"
     },
     {
         "id": 12865,
@@ -32069,7 +32069,7 @@ const mvDB = [
         "title": "Roar",
         "vid": "CevxZvSJLk8",
         "surname": "K",
-        "kid": ""
+        "kid": "hMF4h0gYN-0"
     },
     {
         "id": 12867,
@@ -32098,7 +32098,7 @@ const mvDB = [
     {
         "id": 12870,
         "artist": "Katy Perry",
-        "title": "Bon Appétit  ft. Migos",
+        "title": "Bon AppétitMigos",
         "vid": "dPI-mRFEIH0",
         "surname": "K",
         "kid": ""
@@ -32109,12 +32109,12 @@ const mvDB = [
         "title": "Firework",
         "vid": "QGJuMBdaqIw",
         "surname": "K",
-        "kid": ""
+        "kid": "KUKyy4r-BO4"
     },
     {
         "id": 12872,
         "artist": "Katy Perry",
-        "title": "California Gurls  ft. Snoop Dogg",
+        "title": "California GurlsSnoop Dogg",
         "vid": "F57P9C4SAW4",
         "surname": "K",
         "kid": ""
@@ -32138,7 +32138,7 @@ const mvDB = [
     {
         "id": 12875,
         "artist": "Katy Perry",
-        "title": "Swish Swish  ft. Nicki Minaj",
+        "title": "Swish SwishNicki Minaj",
         "vid": "iGk5fR-t5AU",
         "surname": "K",
         "kid": ""
@@ -32146,7 +32146,7 @@ const mvDB = [
     {
         "id": 12876,
         "artist": "Katy Perry",
-        "title": "Chained To The Rhythm  ft. Skip Marley",
+        "title": "Chained To The RhythmSkip Marley",
         "vid": "Um7pMggPnug",
         "surname": "K",
         "kid": ""
@@ -32154,7 +32154,7 @@ const mvDB = [
     {
         "id": 12877,
         "artist": "Katy Perry",
-        "title": "E.T. ft. Kanye West",
+        "title": "E.T.  Kanye West",
         "vid": "t5Sd5c4o9UM",
         "surname": "K",
         "kid": ""
@@ -32178,7 +32178,7 @@ const mvDB = [
     {
         "id": 12880,
         "artist": "Katy Perry",
-        "title": "Dark Horse ft. Juicy J",
+        "title": "Dark Horse  Juicy J",
         "vid": "0KSOMA3QBU0",
         "surname": "K",
         "kid": ""
@@ -32213,7 +32213,7 @@ const mvDB = [
         "title": "Wide Awake",
         "vid": "k0BWlvnBmIE",
         "surname": "K",
-        "kid": ""
+        "kid": "r1nkyeH96Lk"
     },
     {
         "id": 12885,
@@ -32261,7 +32261,7 @@ const mvDB = [
         "title": "The One That Got Away",
         "vid": "Ahha3Cqe_fk",
         "surname": "K",
-        "kid": ""
+        "kid": "zxjFe42SA8I"
     },
     {
         "id": 12891,
@@ -32274,10 +32274,10 @@ const mvDB = [
     {
         "id": 12892,
         "artist": "Katy Perry",
-        "title": "Kaskade Club Remix",
+        "title": "Teenage Dream",
         "vid": "SYKnTeclmOs",
         "surname": "K",
-        "kid": ""
+        "kid": "kUyhDgryS3g"
     },
     {
         "id": 12893,
@@ -32298,7 +32298,7 @@ const mvDB = [
     {
         "id": 12895,
         "artist": "Maroon 5",
-        "title": "Girls Like You ft. Cardi B",
+        "title": "Girls Like You  Cardi B",
         "vid": "aJOTlE1K90k",
         "surname": "M",
         "kid": ""
@@ -32309,12 +32309,12 @@ const mvDB = [
         "title": "Sugar",
         "vid": "09R8_2nJtjg",
         "surname": "M",
-        "kid": ""
+        "kid": "PqX8aA6w4bM"
     },
     {
         "id": 12897,
         "artist": "Maroon 5",
-        "title": "What Lovers Do ft. SZA",
+        "title": "What Lovers Do  SZA",
         "vid": "5Wiio4KoGe8",
         "surname": "M",
         "kid": ""
@@ -32325,7 +32325,7 @@ const mvDB = [
         "title": "Memories",
         "vid": "SlPhMPnQ58k",
         "surname": "M",
-        "kid": ""
+        "kid": "KSr0TJH5m-Q"
     },
     {
         "id": 12899,
@@ -32333,7 +32333,7 @@ const mvDB = [
         "title": "Animals",
         "vid": "qpgTC9MDx1o",
         "surname": "M",
-        "kid": ""
+        "kid": "OA4dcR-Q__c"
     },
     {
         "id": 12900,
@@ -32354,7 +32354,7 @@ const mvDB = [
     {
         "id": 12902,
         "artist": "Maroon 5",
-        "title": "Moves Like Jagger ft. Christina Aguilera  ft. Christina Aguilera",
+        "title": "Moves Like Jagger  Christina AguileraChristina Aguilera",
         "vid": "iEPTlhBmwRg",
         "surname": "M",
         "kid": ""
@@ -32426,7 +32426,7 @@ const mvDB = [
     {
         "id": 12911,
         "artist": "Maroon 5",
-        "title": "Payphone ft. Wiz Khalifa",
+        "title": "Payphone  Wiz Khalifa",
         "vid": "5FlQSQuv_mg",
         "surname": "M",
         "kid": ""
@@ -32629,7 +32629,7 @@ const mvDB = [
         "title": "愛情廢柴",
         "vid": "2kdYSeoHChg",
         "surname": "周",
-        "kid": ""
+        "kid": "Qfo_5deYH3M"
     },
     {
         "id": 12937,
@@ -32661,7 +32661,7 @@ const mvDB = [
         "title": "我是如此相信",
         "vid": "TbFWYT9VGRk",
         "surname": "周",
-        "kid": ""
+        "kid": "nVjc1U-w6E4"
     },
     {
         "id": 12941,
@@ -32669,7 +32669,7 @@ const mvDB = [
         "title": "紅顏如霜",
         "vid": "APgx1k-2Tqc",
         "surname": "周",
-        "kid": ""
+        "kid": "UJE5DgvxcPA"
     },
     {
         "id": 12942,
@@ -32730,10 +32730,10 @@ const mvDB = [
     {
         "id": 12949,
         "artist": "華晨宇",
-        "title": "創作",
+        "title": "好想愛這個世界啊",
         "vid": "MIR5SRaQJgQ",
         "surname": "華",
-        "kid": ""
+        "kid": "LNkG9CId-3Y"
     },
     {
         "id": 12950,
@@ -32746,10 +32746,10 @@ const mvDB = [
     {
         "id": 12951,
         "artist": "華晨宇",
-        "title": "歌詞",
+        "title": "煙火里的塵埃",
         "vid": "hiVvRGhlq2s",
         "surname": "華",
-        "kid": ""
+        "kid": "hbDVf_7ZKs0"
     },
     {
         "id": 12952,
@@ -32765,7 +32765,7 @@ const mvDB = [
         "title": "單車",
         "vid": "AfPUiV-jamA",
         "surname": "陳",
-        "kid": ""
+        "kid": "onrHO3VpJl4"
     },
     {
         "id": 12954,
@@ -32773,7 +32773,7 @@ const mvDB = [
         "title": "漸漸",
         "vid": "TNKQudtrR_Q",
         "surname": "陳",
-        "kid": ""
+        "kid": "oXPyHLvfhAM"
     },
     {
         "id": 12955,
@@ -32858,7 +32858,7 @@ const mvDB = [
     {
         "id": 12965,
         "artist": "陳奕迅",
-        "title": "如果我是",
+        "title": "mr.【如果我是】",
         "vid": "lv_9ldCB4a4",
         "surname": "陳",
         "kid": ""
@@ -32869,7 +32869,7 @@ const mvDB = [
         "title": "我應該",
         "vid": "K6PTyAD_fNA",
         "surname": "張",
-        "kid": ""
+        "kid": "DSglP3Txi4k"
     },
     {
         "id": 12967,
@@ -32877,7 +32877,7 @@ const mvDB = [
         "title": "一路上有你",
         "vid": "IgvK6sqGFtI",
         "surname": "張",
-        "kid": ""
+        "kid": "M9bvLM3AObI"
     },
     {
         "id": 12968,
@@ -32901,7 +32901,7 @@ const mvDB = [
         "title": "遙遠的她",
         "vid": "-1Opdm8BcEY",
         "surname": "張",
-        "kid": "tRrcOQB3tI8"
+        "kid": "lJ8oYaQ2naU"
     },
     {
         "id": 12971,
@@ -32957,7 +32957,7 @@ const mvDB = [
         "title": "兄弟",
         "vid": "xTjrJmcSjzM",
         "surname": "任",
-        "kid": ""
+        "kid": "w8_ZM9ILqd8"
     },
     {
         "id": 12978,
@@ -33021,7 +33021,7 @@ const mvDB = [
         "title": "我對緣分小心翼翼",
         "vid": "j8yO0LkqA7s",
         "surname": "林",
-        "kid": ""
+        "kid": "m7naHvk9nrI"
     },
     {
         "id": 12986,
@@ -33045,7 +33045,7 @@ const mvDB = [
         "title": "小酒窩",
         "vid": "h-woMj_Vt0A",
         "surname": "林",
-        "kid": "H7ETuGjOSjo"
+        "kid": "-JrlBAB1bBY"
     },
     {
         "id": 12989,
@@ -33106,7 +33106,7 @@ const mvDB = [
     {
         "id": 12996,
         "artist": "劉德華",
-        "title": "劉德華—一起走過的日子",
+        "title": "—一起走過的日子",
         "vid": "Vtj_8SrfqQ4",
         "surname": "劉",
         "kid": ""
@@ -33133,7 +33133,7 @@ const mvDB = [
         "title": "忘情水",
         "vid": "pKoeIPTlTDI",
         "surname": "劉",
-        "kid": "k5QcfLyU3QA"
+        "kid": "uXfEOBl3R9A"
     },
     {
         "id": 13000,
@@ -33301,7 +33301,7 @@ const mvDB = [
         "title": "不將就",
         "vid": "a9ot-Fa9KHk",
         "surname": "李",
-        "kid": ""
+        "kid": "vzMTePYvwkc"
     },
     {
         "id": 13021,
@@ -33338,7 +33338,7 @@ const mvDB = [
     {
         "id": 13025,
         "artist": "李榮浩",
-        "title": "「你的婚禮」",
+        "title": "你的婚禮",
         "vid": "n_KHQk1w7Gs",
         "surname": "李",
         "kid": ""
@@ -33349,7 +33349,7 @@ const mvDB = [
         "title": "模特",
         "vid": "7LBUcOVmD6A",
         "surname": "李",
-        "kid": "Z3_lXY8_e_k"
+        "kid": "jYV7lB6KMAo"
     },
     {
         "id": 13027,
@@ -33397,7 +33397,7 @@ const mvDB = [
         "title": "忘記",
         "vid": "K98aPbJchfc",
         "surname": "周",
-        "kid": ""
+        "kid": "j79GmwKwDi8"
     },
     {
         "id": 13033,
@@ -33477,7 +33477,7 @@ const mvDB = [
         "title": "消愁",
         "vid": "9C3Nd5dRin8",
         "surname": "毛",
-        "kid": "YgPQrbXyxGM"
+        "kid": "3MgqKzgLDjE"
     },
     {
         "id": 13043,
@@ -33485,7 +33485,7 @@ const mvDB = [
         "title": "借",
         "vid": "QIPJBAYLbYg",
         "surname": "毛",
-        "kid": "Gh7ZHDWVOGc"
+        "kid": "QIPJBAYLbYg"
     },
     {
         "id": 13044,
@@ -33493,7 +33493,7 @@ const mvDB = [
         "title": "東北民謠",
         "vid": "jEAEBxkDNEw",
         "surname": "毛",
-        "kid": "CZzb36dLx94"
+        "kid": "jEAEBxkDNEw"
     },
     {
         "id": 13045,
@@ -33530,7 +33530,7 @@ const mvDB = [
     {
         "id": 13049,
         "artist": "王力宏",
-        "title": "khalil fong (方大同) - flow ft. leehom wang (王力宏)official music video",
+        "title": "khalil fong (方大同) - flow ft. leehom wang (王力宏)   official music video",
         "vid": "T6xFyigWDqI",
         "surname": "王",
         "kid": ""
@@ -33546,7 +33546,7 @@ const mvDB = [
     {
         "id": 13051,
         "artist": "王力宏",
-        "title": "hk & china version",
+        "title": "改變自己",
         "vid": "P2Iqh2_nJBE",
         "surname": "王",
         "kid": ""
@@ -33557,7 +33557,7 @@ const mvDB = [
         "title": "火力全開",
         "vid": "t-uUdbCR32I",
         "surname": "王",
-        "kid": ""
+        "kid": "DnobQXx9dU8"
     },
     {
         "id": 13053,
@@ -33573,7 +33573,7 @@ const mvDB = [
         "title": "心跳",
         "vid": "w41gqTFYh08",
         "surname": "王",
-        "kid": ""
+        "kid": "OFOEil3m2xY"
     },
     {
         "id": 13055,
@@ -33581,7 +33581,7 @@ const mvDB = [
         "title": "你不在",
         "vid": "_OP1roi1_Fs",
         "surname": "王",
-        "kid": ""
+        "kid": "19n6J99qFRY"
     },
     {
         "id": 13056,
@@ -33589,7 +33589,7 @@ const mvDB = [
         "title": "愛錯",
         "vid": "JdpNT5yRbwg",
         "surname": "王",
-        "kid": "fytkbbv7NiM"
+        "kid": "dC1eawRQV8A"
     },
     {
         "id": 13057,
@@ -33597,7 +33597,7 @@ const mvDB = [
         "title": "愛的就是你",
         "vid": "fNnQqokjv_0",
         "surname": "王",
-        "kid": "Ij_3Yrx8nlM"
+        "kid": "l_89u4zLeaQ"
     },
     {
         "id": 13058,
@@ -33610,7 +33610,7 @@ const mvDB = [
     {
         "id": 13059,
         "artist": "譚詠麟",
-        "title": "譚詠麟",
+        "title": "講不出再見",
         "vid": "1_rjE9BIQ1M",
         "surname": "譚",
         "kid": ""
@@ -33698,7 +33698,7 @@ const mvDB = [
     {
         "id": 13070,
         "artist": "譚詠麟",
-        "title": "91",
+        "title": "一生中最愛",
         "vid": "JqiUXzm_yrk",
         "surname": "譚",
         "kid": ""
@@ -33714,7 +33714,7 @@ const mvDB = [
     {
         "id": 13072,
         "artist": "譚詠麟",
-        "title": "91",
+        "title": "半夢半醒",
         "vid": "-hAR0TSUi-A",
         "surname": "譚",
         "kid": ""
@@ -33773,7 +33773,7 @@ const mvDB = [
         "title": "愛就一個字",
         "vid": "NhJFuDZ7RDg",
         "surname": "張",
-        "kid": "SNYjHKmepP0"
+        "kid": "pSSLH6V-6UQ"
     },
     {
         "id": 13080,
@@ -33986,7 +33986,7 @@ const mvDB = [
     {
         "id": 13106,
         "artist": "王傑",
-        "title": "版",
+        "title": "歌曲:   王傑 --------   英雄淚  (mv  版) (mv 片斷來自至尊無上ii之永霸天下 (1991年))(casino raiders ii)",
         "vid": "7r9iqBd-H50",
         "surname": "王",
         "kid": ""
@@ -34117,7 +34117,7 @@ const mvDB = [
         "title": "小小的太陽",
         "vid": "RU-jH9VcO5s",
         "surname": "張",
-        "kid": "-3F2pxKv0Oo"
+        "kid": "GbavIjg9jSQ"
     },
     {
         "id": 13123,
@@ -34157,7 +34157,7 @@ const mvDB = [
         "title": "最真的夢",
         "vid": "yXVNkhXv1XI",
         "surname": "周",
-        "kid": ""
+        "kid": "yXVNkhXv1XI"
     },
     {
         "id": 13128,
@@ -34173,7 +34173,7 @@ const mvDB = [
         "title": "我是真的付出我的愛",
         "vid": "9npGAdxRdWA",
         "surname": "周",
-        "kid": "2FWo2b3u6EM"
+        "kid": "1FfhCRozKJc"
     },
     {
         "id": 13130,
@@ -34189,7 +34189,7 @@ const mvDB = [
         "title": "領悟",
         "vid": "RhfUGpEp9to",
         "surname": "李",
-        "kid": ""
+        "kid": "S4gwU7YAEb4"
     },
     {
         "id": 13132,
@@ -34197,7 +34197,7 @@ const mvDB = [
         "title": "張清芳",
         "vid": "aJbrXZQ3dzo",
         "surname": "李",
-        "kid": ""
+        "kid": "aJbrXZQ3dzo"
     },
     {
         "id": 13133,
@@ -34205,7 +34205,7 @@ const mvDB = [
         "title": "飄洋過海來看你",
         "vid": "pWyny3b49oE",
         "surname": "李",
-        "kid": "u8bKwxifIR0"
+        "kid": "n4v8nlZZnM8"
     },
     {
         "id": 13134,
@@ -34218,10 +34218,10 @@ const mvDB = [
     {
         "id": 13135,
         "artist": "楊宗緯",
-        "title": "歌手音樂頻道",
+        "title": "空白格",
         "vid": "hWZ0Wvaa2cw",
         "surname": "楊",
-        "kid": ""
+        "kid": "7cVXQoFxMrg"
     },
     {
         "id": 13136,
@@ -34237,7 +34237,7 @@ const mvDB = [
         "title": "人質",
         "vid": "7Zy-hO-K_bY",
         "surname": "楊",
-        "kid": ""
+        "kid": "StLJz6iPmCk"
     },
     {
         "id": 13138,
@@ -34245,7 +34245,7 @@ const mvDB = [
         "title": "天黑",
         "vid": "_flXaAvyGso",
         "surname": "阿",
-        "kid": ""
+        "kid": "dbtjGyD2OEA"
     },
     {
         "id": 13139,
@@ -34258,7 +34258,7 @@ const mvDB = [
     {
         "id": 13140,
         "artist": "阿杜",
-        "title": "是你讓我翻破愛情的祕笈",
+        "title": "堅持到底『』",
         "vid": "8oiyFJXQeRU",
         "surname": "阿",
         "kid": "8oiyFJXQeRU"
@@ -34282,7 +34282,7 @@ const mvDB = [
     {
         "id": 13143,
         "artist": "林志炫",
-        "title": "【林志炫】新歌mv《我忘了我已老去》高清版",
+        "title": "我忘了我已老去",
         "vid": "SYtf553WocU",
         "surname": "林",
         "kid": ""
@@ -34301,12 +34301,12 @@ const mvDB = [
         "title": "離人",
         "vid": "yUvl55h0Rxg",
         "surname": "林",
-        "kid": ""
+        "kid": "yUvl55h0Rxg"
     },
     {
         "id": 13146,
         "artist": "林志炫",
-        "title": "【林志炫live】林志炫全新演繹任賢齊經典作品《笑傲江湖》的ost《天涯》一開口就把我們拉到武俠大片的場景中！《時光音樂會》time concert ep4丨mangotv",
+        "title": "笑傲江湖",
         "vid": "kpTFNf4ViLw",
         "surname": "林",
         "kid": ""
@@ -34314,7 +34314,7 @@ const mvDB = [
     {
         "id": 13147,
         "artist": "林志炫",
-        "title": "【林志炫live】林志炫4d版《這世界那麼多人》悠然唱腔描繪生動畫面！《時光音樂會》time concert ep12丨mangotv",
+        "title": "這世界那麼多人",
         "vid": "gG0b-yFXUFA",
         "surname": "林",
         "kid": ""
@@ -34333,7 +34333,7 @@ const mvDB = [
         "title": "往事隨風",
         "vid": "lAVu2zwnOUs",
         "surname": "齊",
-        "kid": ""
+        "kid": "a4VmQmiKKJA"
     },
     {
         "id": 13150,
@@ -34402,7 +34402,7 @@ const mvDB = [
     {
         "id": 13158,
         "artist": "胡彥斌",
-        "title": "訣別詩",
+        "title": "訣別詩『』",
         "vid": "o4IpoUP7PNE",
         "surname": "胡",
         "kid": ""
@@ -34490,7 +34490,7 @@ const mvDB = [
     {
         "id": 13169,
         "artist": "迪克牛仔",
-        "title": "album version",
+        "title": "meng xing shi fen",
         "vid": "8kvSqwoK42k",
         "surname": "迪",
         "kid": ""
@@ -34613,7 +34613,7 @@ const mvDB = [
         "title": "melody",
         "vid": "yEtU5tzZMkY",
         "surname": "陶",
-        "kid": "ccPWTmzznKE"
+        "kid": "P4qrBfiCQiA"
     },
     {
         "id": 13185,
@@ -34621,7 +34621,7 @@ const mvDB = [
         "title": "寂寞的季節",
         "vid": "9J_NxeC-NeE",
         "surname": "陶",
-        "kid": "i4p3Z4kS_7Y"
+        "kid": "BQu7YLtEjZg"
     },
     {
         "id": 13186,
@@ -34658,7 +34658,7 @@ const mvDB = [
     {
         "id": 13190,
         "artist": "童安格",
-        "title": "我曾経愛過  ------童安格",
+        "title": "我曾経愛過     ------      童安格",
         "vid": "czFOa8fs_9c",
         "surname": "童",
         "kid": ""
@@ -34669,7 +34669,7 @@ const mvDB = [
         "title": "怪胎",
         "vid": "aWJbA_gLZHo",
         "surname": "鄭",
-        "kid": "gEPKmQ4cY0I"
+        "kid": "aWJbA_gLZHo"
     },
     {
         "id": 13192,
@@ -34677,7 +34677,7 @@ const mvDB = [
         "title": "不許人佔有",
         "vid": "jEKz3brzg3Y",
         "surname": "鄭",
-        "kid": ""
+        "kid": "p4paYlZn-KA"
     },
     {
         "id": 13193,
@@ -34701,7 +34701,7 @@ const mvDB = [
         "title": "想念你的愛",
         "vid": "zuesm2EnEPg",
         "surname": "鄭",
-        "kid": ""
+        "kid": "nkcSawx1S4U"
     },
     {
         "id": 13196,
@@ -34741,7 +34741,7 @@ const mvDB = [
         "title": "關不掉的月光",
         "vid": "7fca-cRJJck",
         "surname": "庾",
-        "kid": ""
+        "kid": "TeXKMLapfSE"
     },
     {
         "id": 13201,
@@ -34813,7 +34813,7 @@ const mvDB = [
         "title": "無所謂",
         "vid": "9PPGapl0crs",
         "surname": "楊",
-        "kid": ""
+        "kid": "dzGreOERrw8"
     },
     {
         "id": 13210,
@@ -34821,7 +34821,7 @@ const mvDB = [
         "title": "空城",
         "vid": "AIHl9fzJCyg",
         "surname": "楊",
-        "kid": "hFxXK57G8cY"
+        "kid": "B4n_kfHEJXc"
     },
     {
         "id": 13211,
@@ -34893,7 +34893,7 @@ const mvDB = [
         "title": "愛那麼重",
         "vid": "FMspOhXCb7E",
         "surname": "巫",
-        "kid": ""
+        "kid": "XaKKrv1hNgc"
     },
     {
         "id": 13220,
@@ -34925,7 +34925,7 @@ const mvDB = [
         "title": "痛哭",
         "vid": "FFgsJysVwNc",
         "surname": "郭",
-        "kid": ""
+        "kid": "FFgsJysVwNc"
     },
     {
         "id": 13224,
@@ -34989,7 +34989,7 @@ const mvDB = [
         "title": "男人不該讓女人流淚",
         "vid": "0FvxyH0PCkg",
         "surname": "蘇",
-        "kid": "WqhWnAlaCfk"
+        "kid": "RK-XeafvL7I"
     },
     {
         "id": 13232,
@@ -35069,7 +35069,7 @@ const mvDB = [
         "title": "野百合也有春天",
         "vid": "uwRLI1Gk3h8",
         "surname": "羅",
-        "kid": "uwRLI1Gk3h8"
+        "kid": "oPp0OFbz4_g"
     },
     {
         "id": 13242,
@@ -35101,7 +35101,7 @@ const mvDB = [
         "title": "大海",
         "vid": "U32LkCGcYds",
         "surname": "楊",
-        "kid": "lz2kLr6nq6c"
+        "kid": "2QxVcO6utG0"
     },
     {
         "id": 13246,
@@ -35149,7 +35149,7 @@ const mvDB = [
         "title": "好不容易",
         "vid": "jDGGAaDsN8Y",
         "surname": "方",
-        "kid": ""
+        "kid": "IXhKrjd1gvs"
     },
     {
         "id": 13252,
@@ -35205,7 +35205,7 @@ const mvDB = [
         "title": "pass by",
         "vid": "88E5cHtoVgg",
         "surname": "李",
-        "kid": ""
+        "kid": "88E5cHtoVgg"
     },
     {
         "id": 13259,
@@ -35309,7 +35309,7 @@ const mvDB = [
         "title": "每次都想呼喊你的名字",
         "vid": "MsOoLiZ19R4",
         "surname": "趙",
-        "kid": ""
+        "kid": "MsOoLiZ19R4"
     },
     {
         "id": 13272,
@@ -35317,7 +35317,7 @@ const mvDB = [
         "title": "我終於失去了你",
         "vid": "7fU07K27EoY",
         "surname": "趙",
-        "kid": ""
+        "kid": "T-X1gWi0q-4"
     },
     {
         "id": 13273,
@@ -35341,7 +35341,7 @@ const mvDB = [
         "title": "下沙",
         "vid": "pItlCqukZsk",
         "surname": "游",
-        "kid": "3ZzegSGHVDM"
+        "kid": "BgmT2siQ23s"
     },
     {
         "id": 13276,
@@ -35365,7 +35365,7 @@ const mvDB = [
         "title": "一天一萬年",
         "vid": "fHTBrWZkAoE",
         "surname": "游",
-        "kid": "JApFLkJ2ZJo"
+        "kid": "enIUGEMTb4U"
     },
     {
         "id": 13279,
@@ -35397,7 +35397,7 @@ const mvDB = [
         "title": "痛哭的人",
         "vid": "P8fqHvr82-o",
         "surname": "伍",
-        "kid": "knWK9Esn7Fk"
+        "kid": "wLgYvg20Fhs"
     },
     {
         "id": 13283,
@@ -35421,7 +35421,7 @@ const mvDB = [
         "title": "妳是我的花朵",
         "vid": "FXg4LXsg14s",
         "surname": "伍",
-        "kid": ""
+        "kid": "rMWJO_7DiIU"
     },
     {
         "id": 13286,
@@ -35570,7 +35570,7 @@ const mvDB = [
     {
         "id": 13304,
         "artist": "許志安",
-        "title": "經典流行曲",
+        "title": "流行曲",
         "vid": "e7YFG6LL7WE",
         "surname": "許",
         "kid": ""
@@ -35605,7 +35605,7 @@ const mvDB = [
         "title": "少年",
         "vid": "UHBqEn93NlI",
         "surname": "光",
-        "kid": ""
+        "kid": "uR7Na-RQIac"
     },
     {
         "id": 13309,
@@ -35613,7 +35613,7 @@ const mvDB = [
         "title": "天堂",
         "vid": "t8r-ptWZzXI",
         "surname": "光",
-        "kid": ""
+        "kid": "bXw2us-MV54"
     },
     {
         "id": 13310,
@@ -35621,7 +35621,7 @@ const mvDB = [
         "title": "握你的手",
         "vid": "3b1HbrfSJtE",
         "surname": "光",
-        "kid": ""
+        "kid": "lDlEDJzQsBg"
     },
     {
         "id": 13311,
@@ -35829,7 +35829,7 @@ const mvDB = [
         "title": "愛要怎麼說",
         "vid": "8OxwfNrHaIc",
         "surname": "伍",
-        "kid": ""
+        "kid": "uJ3gVuI-WiI"
     },
     {
         "id": 13337,
@@ -35837,7 +35837,7 @@ const mvDB = [
         "title": "最愛是你",
         "vid": "BFtLuHfxyrs",
         "surname": "伍",
-        "kid": "Yc2OghzgJz8"
+        "kid": "U1qNDGXvaQo"
     },
     {
         "id": 13338,
@@ -35845,7 +35845,7 @@ const mvDB = [
         "title": "愛與愁",
         "vid": "LF9v8lDpKmM",
         "surname": "伍",
-        "kid": ""
+        "kid": "z9Ppe0OfCRI"
     },
     {
         "id": 13339,
@@ -36053,7 +36053,7 @@ const mvDB = [
         "title": "相信愛情的笨蛋",
         "vid": "5JjRI3Kqudo",
         "surname": "吳",
-        "kid": ""
+        "kid": "D18SK9w0fR0"
     },
     {
         "id": 13365,
@@ -36266,7 +36266,7 @@ const mvDB = [
     {
         "id": 13391,
         "artist": "韋禮安",
-        "title": "今天陽光就是特別耀眼特別和諧",
+        "title": "曾沛慈",
         "vid": "J-pT68WQt_Q",
         "surname": "韋",
         "kid": ""
@@ -36277,7 +36277,7 @@ const mvDB = [
         "title": "星座愛情",
         "vid": "d7YJ_fOcOks",
         "surname": "韋",
-        "kid": ""
+        "kid": "d7YJ_fOcOks"
     },
     {
         "id": 13393,
@@ -36298,7 +36298,7 @@ const mvDB = [
     {
         "id": 13395,
         "artist": "梁朝偉",
-        "title": "愛是一個字",
+        "title": "龍兄虎弟",
         "vid": "AIz00j6DFxU",
         "surname": "梁",
         "kid": ""
@@ -36386,7 +36386,7 @@ const mvDB = [
     {
         "id": 13406,
         "artist": "梁朝偉",
-        "title": "梁朝偉",
+        "title": "你是如此難以忘記",
         "vid": "d2pJFNWGqck",
         "surname": "梁",
         "kid": ""
@@ -36554,7 +36554,7 @@ const mvDB = [
     {
         "id": 13427,
         "artist": "陳雷",
-        "title": "導唱",
+        "title": "ktv",
         "vid": "GPoTmtykcGY",
         "surname": "陳",
         "kid": ""
@@ -36621,7 +36621,7 @@ const mvDB = [
         "title": "我以為",
         "vid": "9PtgXYxISVU",
         "surname": "品",
-        "kid": "_3M0IEM0S64"
+        "kid": "Az-TL6i0C7s"
     },
     {
         "id": 13436,
@@ -36637,7 +36637,7 @@ const mvDB = [
         "title": "好愛好散",
         "vid": "PCCoDZ0fkV8",
         "surname": "陳",
-        "kid": "54gzwXzqwfU"
+        "kid": "v_PSFfZI5_M"
     },
     {
         "id": 13438,
@@ -36661,7 +36661,7 @@ const mvDB = [
         "title": "我們都傷",
         "vid": "mB0J-fwyg50",
         "surname": "陳",
-        "kid": ""
+        "kid": "prZftIMID4M"
     },
     {
         "id": 13441,
@@ -36690,7 +36690,7 @@ const mvDB = [
     {
         "id": 13444,
         "artist": "劉文正",
-        "title": "經典必看",
+        "title": "必看",
         "vid": "htDgrbU85mw",
         "surname": "劉",
         "kid": ""
@@ -36837,7 +36837,7 @@ const mvDB = [
         "title": "死心了沒有",
         "vid": "6VMZsMjfiEQ",
         "surname": "蕭",
-        "kid": ""
+        "kid": "dqBaXZzOjP0"
     },
     {
         "id": 13463,
@@ -36850,7 +36850,7 @@ const mvDB = [
     {
         "id": 13464,
         "artist": "蕭煌奇",
-        "title": "needle in my heart",
+        "title": "心裡有針，xiao",
         "vid": "gqpGr_QlUR0",
         "surname": "蕭",
         "kid": ""
@@ -36869,7 +36869,7 @@ const mvDB = [
         "title": "你的眼睛",
         "vid": "-ViqkNSbGHk",
         "surname": "熊",
-        "kid": "6ICuHQnWt9Q"
+        "kid": "MCuPiB2mz50"
     },
     {
         "id": 13467,
@@ -36917,7 +36917,7 @@ const mvDB = [
         "title": "雪候鳥",
         "vid": "pMr7MTP6Qr8",
         "surname": "熊",
-        "kid": ""
+        "kid": "qeQOpAKAQPo"
     },
     {
         "id": 13473,
@@ -36949,7 +36949,7 @@ const mvDB = [
         "title": "刻在我心底的名字",
         "vid": "m78lJuzftcc",
         "surname": "盧",
-        "kid": ""
+        "kid": "VwoMvCMc8Rg"
     },
     {
         "id": 13477,
@@ -36957,7 +36957,7 @@ const mvDB = [
         "title": "大人中",
         "vid": "Q0W--O7aWBg",
         "surname": "盧",
-        "kid": ""
+        "kid": "OXZIyFjhPVI"
     },
     {
         "id": 13478,
@@ -37034,7 +37034,7 @@ const mvDB = [
     {
         "id": 13487,
         "artist": "永邦",
-        "title": "【永邦】每次都想呼喊你的名字",
+        "title": "【】每次都想呼喊你的名字",
         "vid": "CXNRkQFw21g",
         "surname": "永",
         "kid": ""
@@ -37098,7 +37098,7 @@ const mvDB = [
     {
         "id": 13495,
         "artist": "永邦",
-        "title": "完整版",
+        "title": "完整",
         "vid": "L5z01O9Uvls",
         "surname": "永",
         "kid": ""
@@ -37173,7 +37173,7 @@ const mvDB = [
         "title": "天使忌妒的生活",
         "vid": "-1-J_wyeSjs",
         "surname": "曹",
-        "kid": ""
+        "kid": "QZ5YIcDp60k"
     },
     {
         "id": 13505,
@@ -37181,7 +37181,7 @@ const mvDB = [
         "title": "單數",
         "vid": "sJOx6Zt0_So",
         "surname": "曹",
-        "kid": ""
+        "kid": "UEtsB9_UESg"
     },
     {
         "id": 13506,
@@ -37365,7 +37365,7 @@ const mvDB = [
         "title": "留心",
         "vid": "i4zlORLeSVM",
         "surname": "吳",
-        "kid": ""
+        "kid": "X7QYwwqjXfQ"
     },
     {
         "id": 13529,
@@ -37405,7 +37405,7 @@ const mvDB = [
         "title": "臣服",
         "vid": "sWJud-oW6Y0",
         "surname": "吳",
-        "kid": ""
+        "kid": "YVDaOAm-PZY"
     },
     {
         "id": 13534,
@@ -37421,7 +37421,7 @@ const mvDB = [
         "title": "窗外",
         "vid": "tFvTJBjfycY",
         "surname": "吳",
-        "kid": ""
+        "kid": "cnzev8BvDdc"
     },
     {
         "id": 13536,
@@ -37469,7 +37469,7 @@ const mvDB = [
         "title": "台",
         "vid": "Tc1GK5SkQLQ",
         "surname": "吳",
-        "kid": ""
+        "kid": "v89kzt2ihD8"
     },
     {
         "id": 13542,
@@ -37498,7 +37498,7 @@ const mvDB = [
     {
         "id": 13545,
         "artist": "蔡小虎",
-        "title": "大",
+        "title": "幸福送乎妳",
         "vid": "3Hyr6UukfYE",
         "surname": "蔡",
         "kid": ""
@@ -37690,7 +37690,7 @@ const mvDB = [
     {
         "id": 13569,
         "artist": "沈文程",
-        "title": "▌",
+        "title": "往事隨風-沈文程 {歌詞} 輕快台語 ♚ ▌首播 ▌",
         "vid": "3jG2sXHNftI",
         "surname": "沈",
         "kid": ""
@@ -37853,7 +37853,7 @@ const mvDB = [
         "title": "塵緣",
         "vid": "vbpNeZ1LXNQ",
         "surname": "殷",
-        "kid": "oWyLVcxu7So"
+        "kid": "tmsViSv8K7A"
     },
     {
         "id": 13590,
@@ -37861,7 +37861,7 @@ const mvDB = [
         "title": "最好聽的歌",
         "vid": "f_5UbuEza90",
         "surname": "殷",
-        "kid": ""
+        "kid": "vL6KTMvqh7o"
     },
     {
         "id": 13591,
@@ -37885,7 +37885,7 @@ const mvDB = [
         "title": "你歌+原聲",
         "vid": "RyrHcndqy78",
         "surname": "殷",
-        "kid": ""
+        "kid": "RyrHcndqy78"
     },
     {
         "id": 13594,
@@ -38026,15 +38026,15 @@ const mvDB = [
     {
         "id": 13611,
         "artist": "嚴爵",
-        "title": "版",
+        "title": "吾在場的證明",
         "vid": "mveIqnh-7EE",
         "surname": "嚴",
-        "kid": ""
+        "kid": "mveIqnh-7EE"
     },
     {
         "id": 13612,
         "artist": "LBI利比",
-        "title": "動態",
+        "title": "跳樓機|",
         "vid": "t25937PbUp4",
         "surname": "L",
         "kid": ""
@@ -38058,7 +38058,7 @@ const mvDB = [
     {
         "id": 13615,
         "artist": "LBI利比",
-        "title": "你說的話卻把我困在雨季。",
+        "title": "跳樓機『』",
         "vid": "CdLwCjfw3Ao",
         "surname": "L",
         "kid": ""
@@ -38066,7 +38066,7 @@ const mvDB = [
     {
         "id": 13616,
         "artist": "LBI利比",
-        "title": "雨無情的下",
+        "title": "無情的下『』",
         "vid": "xPOJL4pTbck",
         "surname": "L",
         "kid": ""
@@ -38077,7 +38077,7 @@ const mvDB = [
         "title": "跳樓機",
         "vid": "HegSBovl24I",
         "surname": "L",
-        "kid": ""
+        "kid": "G6QDarjX8Kc"
     },
     {
         "id": 13618,
@@ -38085,7 +38085,7 @@ const mvDB = [
         "title": "跳樓機",
         "vid": "mC1Ket54DW8",
         "surname": "L",
-        "kid": ""
+        "kid": "G6QDarjX8Kc"
     },
     {
         "id": 13619,
@@ -38114,7 +38114,7 @@ const mvDB = [
     {
         "id": 13622,
         "artist": "LBI利比",
-        "title": "|",
+        "title": "時柏塵",
         "vid": "3ISpQNB2-nM",
         "surname": "L",
         "kid": ""
@@ -38138,7 +38138,7 @@ const mvDB = [
     {
         "id": 13625,
         "artist": "LBI利比",
-        "title": "一個人",
+        "title": "淋一場雨『』",
         "vid": "40zIsXN2yIs",
         "surname": "L",
         "kid": ""
@@ -38250,7 +38250,7 @@ const mvDB = [
     {
         "id": 13639,
         "artist": "陳雪燃",
-        "title": "你是我的榮耀",
+        "title": "生來是鷹",
         "vid": "h3xtfgILLqQ",
         "surname": "陳",
         "kid": ""
@@ -38261,7 +38261,7 @@ const mvDB = [
         "title": "情人",
         "vid": "iXqIb2KOC3M",
         "surname": "杜",
-        "kid": ""
+        "kid": "iXqIb2KOC3M"
     },
     {
         "id": 13641,
@@ -38269,7 +38269,7 @@ const mvDB = [
         "title": "把你藏起來",
         "vid": "hlzRmISZVLY",
         "surname": "杜",
-        "kid": "96uzFCrOIyY"
+        "kid": "hlzRmISZVLY"
     },
     {
         "id": 13642,
@@ -38338,7 +38338,7 @@ const mvDB = [
     {
         "id": 13650,
         "artist": "文章",
-        "title": "動態歌詞",
+        "title": "張韶涵",
         "vid": "FV_WikNJlhA",
         "surname": "文",
         "kid": ""
@@ -38445,7 +38445,7 @@ const mvDB = [
         "title": "青梅竹馬",
         "vid": "9BzKj5HOOCE",
         "surname": "周",
-        "kid": ""
+        "kid": "3BNywH75YU4"
     },
     {
         "id": 13664,
@@ -38461,7 +38461,7 @@ const mvDB = [
         "title": "箏",
         "vid": "LHbmuj6HbAs",
         "surname": "周",
-        "kid": ""
+        "kid": "rmVXqqaRNNg"
     },
     {
         "id": 13666,
@@ -38485,7 +38485,7 @@ const mvDB = [
         "title": "箏_",
         "vid": "dOzAktH5M9c",
         "surname": "周",
-        "kid": ""
+        "kid": "rmVXqqaRNNg"
     },
     {
         "id": 13669,
@@ -38493,7 +38493,7 @@ const mvDB = [
         "title": "那一場風花雪月的事",
         "vid": "iZ4dA7TVvKk",
         "surname": "周",
-        "kid": ""
+        "kid": "zFCBe2zB4QY"
     },
     {
         "id": 13670,
@@ -38501,7 +38501,7 @@ const mvDB = [
         "title": "箏",
         "vid": "NTb7pO2s5oY",
         "surname": "周",
-        "kid": ""
+        "kid": "rmVXqqaRNNg"
     },
     {
         "id": 13671,
@@ -38754,7 +38754,7 @@ const mvDB = [
     {
         "id": 13702,
         "artist": "白小白",
-        "title": "五月天",
+        "title": "派對動物",
         "vid": "twBhdwD0lSA",
         "surname": "白",
         "kid": ""
@@ -38762,7 +38762,7 @@ const mvDB = [
     {
         "id": 13703,
         "artist": "白小白",
-        "title": "就像風走了千萬里從不問歸期，像太陽升了落去無論朝夕。",
+        "title": "我愛你不問歸期『』",
         "vid": "oDvJjrjHbu4",
         "surname": "白",
         "kid": ""
@@ -38778,7 +38778,7 @@ const mvDB = [
     {
         "id": 13705,
         "artist": "白小白",
-        "title": "就向流星許個心願，讓你知道我愛你。",
+        "title": "星語心願『』",
         "vid": "62muikTcWNQ",
         "surname": "白",
         "kid": ""
@@ -38853,7 +38853,7 @@ const mvDB = [
         "title": "再見",
         "vid": "_VCU94B_Oig",
         "surname": "張",
-        "kid": ""
+        "kid": "NWLQZPXooEI"
     },
     {
         "id": 13715,
@@ -38861,7 +38861,7 @@ const mvDB = [
         "title": "愛の初體驗",
         "vid": "4shwLyB7690",
         "surname": "張",
-        "kid": ""
+        "kid": "4shwLyB7690"
     },
     {
         "id": 13716,
@@ -38893,7 +38893,7 @@ const mvDB = [
         "title": "分手吧",
         "vid": "4hTHm5CKtSI",
         "surname": "張",
-        "kid": ""
+        "kid": "KnSCGS4zgQw"
     },
     {
         "id": 13720,
@@ -38901,7 +38901,7 @@ const mvDB = [
         "title": "小宇",
         "vid": "6bi587lgWhM",
         "surname": "張",
-        "kid": ""
+        "kid": "KxMhvWj02tI"
     },
     {
         "id": 13721,
@@ -39122,7 +39122,7 @@ const mvDB = [
     {
         "id": 13748,
         "artist": "周柏豪",
-        "title": "smiley face  :)",
+        "title": "smiley face",
         "vid": "bocQiurXeI4",
         "surname": "周",
         "kid": ""
@@ -39418,7 +39418,7 @@ const mvDB = [
     {
         "id": 13785,
         "artist": "倪安東",
-        "title": "english subs + pinyin +",
+        "title": "english subs +  +",
         "vid": "MESLyTPP_RU",
         "surname": "倪",
         "kid": ""
@@ -39434,7 +39434,7 @@ const mvDB = [
     {
         "id": 13787,
         "artist": "馬嘉祺",
-        "title": "馬嘉祺",
+        "title": "睫毛彎彎",
         "vid": "0TnkTbYg5iM",
         "surname": "馬",
         "kid": ""
@@ -39442,7 +39442,7 @@ const mvDB = [
     {
         "id": 13788,
         "artist": "馬嘉祺",
-        "title": "tf家族馬嘉祺",
+        "title": "我想我不夠好",
         "vid": "tkZJbZpc8h4",
         "surname": "馬",
         "kid": ""
@@ -39517,7 +39517,7 @@ const mvDB = [
         "title": "way up",
         "vid": "JfS8YZD5eSA",
         "surname": "瘦",
-        "kid": ""
+        "kid": "Q_40MV_dkUU"
     },
     {
         "id": 13798,
@@ -39525,7 +39525,7 @@ const mvDB = [
         "title": "祖先",
         "vid": "iiX78NtKHu8",
         "surname": "瘦",
-        "kid": ""
+        "kid": "iiX78NtKHu8"
     },
     {
         "id": 13799,
@@ -39533,7 +39533,7 @@ const mvDB = [
         "title": "change",
         "vid": "HTRQ0n4yjfs",
         "surname": "瘦",
-        "kid": ""
+        "kid": "HTRQ0n4yjfs"
     },
     {
         "id": 13800,
@@ -39557,12 +39557,12 @@ const mvDB = [
         "title": "dont worry about me",
         "vid": "C4M7_jQe4RA",
         "surname": "瘦",
-        "kid": ""
+        "kid": "C4M7_jQe4RA"
     },
     {
         "id": 13803,
         "artist": "瘦子E.SO",
-        "title": "benz remix",
+        "title": "benz",
         "vid": "KGlh0wKELb8",
         "surname": "瘦",
         "kid": ""
@@ -39586,7 +39586,7 @@ const mvDB = [
     {
         "id": 13806,
         "artist": "瘦子E.SO",
-        "title": "hero  feat.e.so, gordon & starr chen",
+        "title": "hero  e.so, gordon & starr chen",
         "vid": "n_7zCDSw_bE",
         "surname": "瘦",
         "kid": ""
@@ -39613,7 +39613,7 @@ const mvDB = [
         "title": "天黑請閉眼",
         "vid": "VaAacrLk4gE",
         "surname": "陳",
-        "kid": ""
+        "kid": "-FeaX9v3Hr8"
     },
     {
         "id": 13810,
@@ -39621,7 +39621,7 @@ const mvDB = [
         "title": "你他我",
         "vid": "ueqIHjM_Gvo",
         "surname": "陳",
-        "kid": ""
+        "kid": "oLJrVsSIupQ"
     },
     {
         "id": 13811,
@@ -39637,7 +39637,7 @@ const mvDB = [
         "title": "天亮請睜眼",
         "vid": "98Q5ptSsC4o",
         "surname": "陳",
-        "kid": ""
+        "kid": "6sVWM7GMhuc"
     },
     {
         "id": 13813,
@@ -39661,7 +39661,7 @@ const mvDB = [
         "title": "千年以後",
         "vid": "cOrS3RKz3_A",
         "surname": "陳",
-        "kid": ""
+        "kid": "RM_eqYhKxJY"
     },
     {
         "id": 13816,
@@ -39677,7 +39677,7 @@ const mvDB = [
         "title": "最後一首情歌",
         "vid": "_8ab9ykwK_c",
         "surname": "陳",
-        "kid": ""
+        "kid": "tZhPhm6pj4E"
     },
     {
         "id": 13818,
@@ -39714,7 +39714,7 @@ const mvDB = [
     {
         "id": 13822,
         "artist": "陳零九",
-        "title": "愛人不回版",
+        "title": "今晚，只是有些話",
         "vid": "2z2NcZpqFrI",
         "surname": "陳",
         "kid": ""
@@ -39874,7 +39874,7 @@ const mvDB = [
     {
         "id": 13842,
         "artist": "徐暐翔",
-        "title": "愛都愛了",
+        "title": "我們到底算什麼",
         "vid": "tMk1Kwmjess",
         "surname": "徐",
         "kid": ""
@@ -39898,7 +39898,7 @@ const mvDB = [
     {
         "id": 13845,
         "artist": "徐暐翔",
-        "title": "經典韓劇版主題曲",
+        "title": "韓劇主題曲",
         "vid": "uro55fG880w",
         "surname": "徐",
         "kid": ""
@@ -39930,7 +39930,7 @@ const mvDB = [
     {
         "id": 13849,
         "artist": "周深",
-        "title": "你的眼眸裝滿了時間",
+        "title": "浮光",
         "vid": "cYNXh9AkvMg",
         "surname": "周",
         "kid": ""
@@ -40077,7 +40077,7 @@ const mvDB = [
         "title": "廟堂之外",
         "vid": "r_7-80t9tKA",
         "surname": "陳",
-        "kid": ""
+        "kid": "XRSdv5G8MWY"
     },
     {
         "id": 13868,
@@ -40122,7 +40122,7 @@ const mvDB = [
     {
         "id": 13873,
         "artist": "陳楚生",
-        "title": "正式",
+        "title": "思念一個荒廢的名字",
         "vid": "IZ6grkyMDts",
         "surname": "陳",
         "kid": ""
@@ -40133,7 +40133,7 @@ const mvDB = [
         "title": "曉得",
         "vid": "6Fp_h0dd_Os",
         "surname": "陳",
-        "kid": ""
+        "kid": "mfAKy4wzjgs"
     },
     {
         "id": 13875,
@@ -40154,7 +40154,7 @@ const mvDB = [
     {
         "id": 13877,
         "artist": "陳楚生",
-        "title": "歌手2025·",
+        "title": "輕描淡寫",
         "vid": "9y4xVSh6ghk",
         "surname": "陳",
         "kid": ""
@@ -40181,7 +40181,7 @@ const mvDB = [
         "title": "有沒有人告訴你",
         "vid": "Sb9O44I1ryU",
         "surname": "陳",
-        "kid": ""
+        "kid": "fj4KpCzdkVY"
     },
     {
         "id": 13881,
@@ -40205,7 +40205,7 @@ const mvDB = [
         "title": "嘉賓",
         "vid": "Uv_p43UAdBY",
         "surname": "張",
-        "kid": ""
+        "kid": "P5263vdtbXQ"
     },
     {
         "id": 13884,
@@ -40213,7 +40213,7 @@ const mvDB = [
         "title": "嘉賓",
         "vid": "Vu7ZjXWayIA",
         "surname": "張",
-        "kid": ""
+        "kid": "P5263vdtbXQ"
     },
     {
         "id": 13885,
@@ -40250,7 +40250,7 @@ const mvDB = [
     {
         "id": 13889,
         "artist": "張遠",
-        "title": "|",
+        "title": "嘉賓♫『』zhang",
         "vid": "jPzkNvWOcGc",
         "surname": "張",
         "kid": ""
@@ -40261,7 +40261,7 @@ const mvDB = [
         "title": "看著我的眼睛說",
         "vid": "376utoTabMI",
         "surname": "張",
-        "kid": ""
+        "kid": "8_zOm1I512Q"
     },
     {
         "id": 13891,
@@ -40269,7 +40269,7 @@ const mvDB = [
         "title": "可以不是你",
         "vid": "Pe0bcEe1-hA",
         "surname": "張",
-        "kid": ""
+        "kid": "ycfT_s02djQ"
     },
     {
         "id": 13892,
@@ -40290,7 +40290,7 @@ const mvDB = [
     {
         "id": 13894,
         "artist": "張遠",
-        "title": "後來他讓我明白",
+        "title": "可以不是你『』",
         "vid": "VU795o3OVTE",
         "surname": "張",
         "kid": ""
@@ -40610,7 +40610,7 @@ const mvDB = [
     {
         "id": 13934,
         "artist": "覆予",
-        "title": "動態歌詞",
+        "title": "因為愛情",
         "vid": "2CfYRiCFPcI",
         "surname": "覆",
         "kid": ""
@@ -40626,7 +40626,7 @@ const mvDB = [
     {
         "id": 13936,
         "artist": "覆予",
-        "title": "他會去穿越風雨擁抱你，披星戴月奔向你。",
+        "title": "等霧散去『』",
         "vid": "fJ3FdEo04LA",
         "surname": "覆",
         "kid": ""
@@ -40634,7 +40634,7 @@ const mvDB = [
     {
         "id": 13937,
         "artist": "覆予",
-        "title": "女版",
+        "title": "屬於你",
         "vid": "qPVZFOdb_WY",
         "surname": "覆",
         "kid": ""
@@ -40650,7 +40650,7 @@ const mvDB = [
     {
         "id": 13939,
         "artist": "覆予",
-        "title": "在你的維度裡",
+        "title": "螞蟻『』",
         "vid": "1yzo5e0sIn0",
         "surname": "覆",
         "kid": ""
@@ -40666,7 +40666,7 @@ const mvDB = [
     {
         "id": 13941,
         "artist": "覆予",
-        "title": "|",
+        "title": "想念被擱淺『』♫",
         "vid": "3ycomck_Dio",
         "surname": "覆",
         "kid": ""
@@ -40682,7 +40682,7 @@ const mvDB = [
     {
         "id": 13943,
         "artist": "覆予",
-        "title": "也許會在某個際遇觸動你的心",
+        "title": "等霧散去『』",
         "vid": "HOrnNuVDoLI",
         "surname": "覆",
         "kid": ""
@@ -40842,10 +40842,10 @@ const mvDB = [
     {
         "id": 13963,
         "artist": "姜育恆",
-        "title": "超高無損音質",
+        "title": "女人的選擇",
         "vid": "cvuqdiTCwcc",
         "surname": "姜",
-        "kid": ""
+        "kid": "QybkQs_Dy1Q"
     },
     {
         "id": 13964,
@@ -40853,12 +40853,12 @@ const mvDB = [
         "title": "驛動的心",
         "vid": "vWK92TFZYRM",
         "surname": "姜",
-        "kid": "0dxzVglbY_w"
+        "kid": "00l5XmlEmCk"
     },
     {
         "id": 13965,
         "artist": "誓言",
-        "title": "彼呢水音圓唱片李素專",
+        "title": "李素專",
         "vid": "8KLlSHyWghs",
         "surname": "誓",
         "kid": ""
@@ -40866,7 +40866,7 @@ const mvDB = [
     {
         "id": 13966,
         "artist": "誓言",
-        "title": "月滿音圓唱片廖秋平",
+        "title": "廖秋平",
         "vid": "Wa6HWRgnApI",
         "surname": "誓",
         "kid": ""
@@ -40889,8 +40889,8 @@ const mvDB = [
     },
     {
         "id": 13969,
-        "artist": "誓言",
-        "title": "謝采妘誓言| 官方歌詞版 | official lyric video",
+        "artist": "謝采妘",
+        "title": "誓言",
         "vid": "qopzuF3B35Q",
         "surname": "誓",
         "kid": ""
@@ -40898,7 +40898,7 @@ const mvDB = [
     {
         "id": 13970,
         "artist": "誓言",
-        "title": "al4hapromise",
+        "title": "al4ha   promise",
         "vid": "d3neT6v4LDM",
         "surname": "誓",
         "kid": ""
@@ -40914,7 +40914,7 @@ const mvDB = [
     {
         "id": 13972,
         "artist": "誓言",
-        "title": "徐懷鈺 yuki【誓言】official music video",
+        "title": "徐懷鈺",
         "vid": "OAZw_1srOEE",
         "surname": "誓",
         "kid": ""
@@ -40978,7 +40978,7 @@ const mvDB = [
     {
         "id": 13980,
         "artist": "誓言",
-        "title": "莊學忠",
+        "title": "夢的風采2",
         "vid": "DxkWkpdUp-8",
         "surname": "誓",
         "kid": ""
@@ -40986,7 +40986,7 @@ const mvDB = [
     {
         "id": 13981,
         "artist": "誓言",
-        "title": "pledge",
+        "title": "李聖雅",
         "vid": "EEuNpCUMCeA",
         "surname": "誓",
         "kid": ""
@@ -41074,7 +41074,7 @@ const mvDB = [
     {
         "id": 13992,
         "artist": "許紹洋",
-        "title": "記憶是陣陣花香",
+        "title": "花香『』",
         "vid": "zSG6qKyJJZI",
         "surname": "許",
         "kid": ""
@@ -41122,7 +41122,7 @@ const mvDB = [
     {
         "id": 13998,
         "artist": "許紹洋",
-        "title": "花香.mpg",
+        "title": "ktv",
         "vid": "-3aJAJE_HVk",
         "surname": "許",
         "kid": ""
@@ -41141,7 +41141,7 @@ const mvDB = [
         "title": "沒了妳",
         "vid": "HQDDlgGy2hg",
         "surname": "高",
-        "kid": ""
+        "kid": "WAorkd_cJg8"
     },
     {
         "id": 14001,
@@ -41157,7 +41157,7 @@ const mvDB = [
         "title": "so bad",
         "vid": "kTNNPbVFNHQ",
         "surname": "高",
-        "kid": ""
+        "kid": "kTNNPbVFNHQ"
     },
     {
         "id": 14003,
@@ -41165,7 +41165,7 @@ const mvDB = [
         "title": "be alright",
         "vid": "Io3rPXN1bKc",
         "surname": "高",
-        "kid": ""
+        "kid": "gr0eHtZiX3I"
     },
     {
         "id": 14004,
@@ -41173,7 +41173,7 @@ const mvDB = [
         "title": "on my way",
         "vid": "To7qHHaTl0s",
         "surname": "高",
-        "kid": ""
+        "kid": "_6r6R75apSE"
     },
     {
         "id": 14005,
@@ -41181,7 +41181,7 @@ const mvDB = [
         "title": "old me",
         "vid": "haXIao7t9Xw",
         "surname": "高",
-        "kid": ""
+        "kid": "Z8vWzBEX3pc"
     },
     {
         "id": 14006,
@@ -41197,12 +41197,12 @@ const mvDB = [
         "title": "circles",
         "vid": "YIygr9UAciE",
         "surname": "高",
-        "kid": ""
+        "kid": "NTDC4sAXVjs"
     },
     {
         "id": 14008,
         "artist": "高爾宣OSN",
-        "title": "benz booty feat. sowut",
+        "title": "benz booty  sowut",
         "vid": "eL4Y1BE6WDc",
         "surname": "高",
         "kid": ""
@@ -41229,7 +41229,7 @@ const mvDB = [
         "title": "somebody else",
         "vid": "egZ_th99Krk",
         "surname": "高",
-        "kid": ""
+        "kid": "Sm0Nnel_qUs"
     },
     {
         "id": 14012,
@@ -41245,7 +41245,7 @@ const mvDB = [
         "title": "最後一次",
         "vid": "4NKw3TfaKCw",
         "surname": "高",
-        "kid": ""
+        "kid": "4NKw3TfaKCw"
     },
     {
         "id": 14014,
@@ -41285,7 +41285,7 @@ const mvDB = [
         "title": "失去妳就像失去我的麥克風",
         "vid": "H_R4klZD3Ew",
         "surname": "高",
-        "kid": ""
+        "kid": "H_R4klZD3Ew"
     },
     {
         "id": 14019,
@@ -41306,7 +41306,7 @@ const mvDB = [
     {
         "id": 14021,
         "artist": "邱振哲 (Qiu Pika)",
-        "title": "我只想做你的太陽",
+        "title": "qiu pika",
         "vid": "5ysNX3PbY_k",
         "surname": "邱",
         "kid": ""
@@ -41402,7 +41402,7 @@ const mvDB = [
     {
         "id": 14033,
         "artist": "邱振哲 (Qiu Pika)",
-        "title": "初版demo",
+        "title": "初demo",
         "vid": "zl4N-gKXBvw",
         "surname": "邱",
         "kid": ""
@@ -41410,7 +41410,7 @@ const mvDB = [
     {
         "id": 14034,
         "artist": "邱振哲 (Qiu Pika)",
-        "title": "初版demo",
+        "title": "初demo",
         "vid": "2_9QnIeW0Fk",
         "surname": "邱",
         "kid": ""
@@ -41418,7 +41418,7 @@ const mvDB = [
     {
         "id": 14035,
         "artist": "李健",
-        "title": "拾光",
+        "title": "【拾光】",
         "vid": "xilNxEG4Rbc",
         "surname": "李",
         "kid": ""
@@ -41426,7 +41426,7 @@ const mvDB = [
     {
         "id": 14036,
         "artist": "李健",
-        "title": "【李健】傳奇_歌詞版",
+        "title": "【】傳奇_",
         "vid": "gEMIchfIQ7Q",
         "surname": "李",
         "kid": ""
@@ -41514,7 +41514,7 @@ const mvDB = [
     {
         "id": 14047,
         "artist": "李健",
-        "title": "一念一生",
+        "title": "慶餘年主題曲",
         "vid": "3bdeIcoxdhw",
         "surname": "李",
         "kid": ""
@@ -41538,7 +41538,7 @@ const mvDB = [
     {
         "id": 14050,
         "artist": "新聲主義",
-        "title": "（播放鷄）",
+        "title": "一百分",
         "vid": "w7vr7Rv2B5I",
         "surname": "新",
         "kid": ""
@@ -41546,7 +41546,7 @@ const mvDB = [
     {
         "id": 14051,
         "artist": "新聲主義",
-        "title": "新聲主義",
+        "title": "1+1",
         "vid": "eDw3di9wwUA",
         "surname": "新",
         "kid": ""
@@ -41554,7 +41554,7 @@ const mvDB = [
     {
         "id": 14052,
         "artist": "新聲主義",
-        "title": "回憶布滿著心墻",
+        "title": "yes i do",
         "vid": "ByvOEMbutFE",
         "surname": "新",
         "kid": ""
@@ -41586,7 +41586,7 @@ const mvDB = [
     {
         "id": 14056,
         "artist": "新聲主義",
-        "title": "pinyin",
+        "title": "無關於你",
         "vid": "mSfh_fHI3Kc",
         "surname": "新",
         "kid": ""
@@ -41602,7 +41602,7 @@ const mvDB = [
     {
         "id": 14058,
         "artist": "新聲主義",
-        "title": "歌詞",
+        "title": "一百分",
         "vid": "dwVZYtJ0qMs",
         "surname": "新",
         "kid": ""
@@ -41618,7 +41618,7 @@ const mvDB = [
     {
         "id": 14060,
         "artist": "新聲主義",
-        "title": "我們都曾經奮不顧身愛過對方，都把彼此當作唯一信仰",
+        "title": "奮不顧身愛過『』視頻",
         "vid": "UKr-_sOOksI",
         "surname": "新",
         "kid": ""
@@ -41626,7 +41626,7 @@ const mvDB = [
     {
         "id": 14061,
         "artist": "新聲主義",
-        "title": "新聲主義1+1",
+        "title": "1+1 1",
         "vid": "CKhDkjBC0Z4",
         "surname": "新",
         "kid": ""
@@ -41789,7 +41789,7 @@ const mvDB = [
         "title": "超跑情人夢",
         "vid": "TBkybgllGRA",
         "surname": "卜",
-        "kid": ""
+        "kid": "TBkybgllGRA"
     },
     {
         "id": 14082,
@@ -41797,7 +41797,7 @@ const mvDB = [
         "title": "子曰",
         "vid": "K0AlWouVI9s",
         "surname": "卜",
-        "kid": ""
+        "kid": "K0AlWouVI9s"
     },
     {
         "id": 14083,
@@ -41805,7 +41805,7 @@ const mvDB = [
         "title": "轟動武林一首歌",
         "vid": "4BGhe6vuEyA",
         "surname": "卜",
-        "kid": ""
+        "kid": "4BGhe6vuEyA"
     },
     {
         "id": 14084,
@@ -41829,7 +41829,7 @@ const mvDB = [
         "title": "只要我心裡有妳",
         "vid": "GWb0WaIJZT0",
         "surname": "卜",
-        "kid": ""
+        "kid": "bIWgDn1ETxo"
     },
     {
         "id": 14087,
@@ -41837,7 +41837,7 @@ const mvDB = [
         "title": "恭喜發財歌",
         "vid": "MnSXWs9orZk",
         "surname": "卜",
-        "kid": ""
+        "kid": "MnSXWs9orZk"
     },
     {
         "id": 14088,
@@ -41845,7 +41845,7 @@ const mvDB = [
         "title": "火車頂的心情",
         "vid": "p9nTuhxcVYE",
         "surname": "卜",
-        "kid": ""
+        "kid": "p9nTuhxcVYE"
     },
     {
         "id": 14089,
@@ -41869,7 +41869,7 @@ const mvDB = [
         "title": "我想做個好男人",
         "vid": "k9OTKwW7ZtQ",
         "surname": "卜",
-        "kid": ""
+        "kid": "jW_ynP4dXcs"
     },
     {
         "id": 14092,
@@ -41877,7 +41877,7 @@ const mvDB = [
         "title": "小憐",
         "vid": "vr302isGWtw",
         "surname": "卜",
-        "kid": ""
+        "kid": "jRT7CEZZawQ"
     },
     {
         "id": 14093,
@@ -41893,7 +41893,7 @@ const mvDB = [
         "title": "lesuchan",
         "vid": "F2eeOgiO4FQ",
         "surname": "李",
-        "kid": ""
+        "kid": "F2eeOgiO4FQ"
     },
     {
         "id": 14095,
@@ -41901,7 +41901,7 @@ const mvDB = [
         "title": "lesuchan",
         "vid": "YKRdJrUsuqQ",
         "surname": "李",
-        "kid": ""
+        "kid": "F2eeOgiO4FQ"
     },
     {
         "id": 14096,
@@ -41933,7 +41933,7 @@ const mvDB = [
         "title": "迴",
         "vid": "C0BBvaLIxdw",
         "surname": "李",
-        "kid": ""
+        "kid": "iMmS6cDwN3w"
     },
     {
         "id": 14100,
@@ -41957,7 +41957,7 @@ const mvDB = [
         "title": "每次都想呼喊你的名字",
         "vid": "Oyh61kx-bw8",
         "surname": "李",
-        "kid": ""
+        "kid": "ZEMmoNAZBVs"
     },
     {
         "id": 14103,
@@ -41965,7 +41965,7 @@ const mvDB = [
         "title": "by david lee",
         "vid": "4m2WMojN0pM",
         "surname": "李",
-        "kid": ""
+        "kid": "4m2WMojN0pM"
     },
     {
         "id": 14104,
@@ -41973,7 +41973,7 @@ const mvDB = [
         "title": "黑夜不再哭泣",
         "vid": "mDTnEoRX-24",
         "surname": "李",
-        "kid": ""
+        "kid": "mDTnEoRX-24"
     },
     {
         "id": 14105,
@@ -42106,7 +42106,7 @@ const mvDB = [
     {
         "id": 14121,
         "artist": "李炳輝",
-        "title": "台語歌曲",
+        "title": "歌曲",
         "vid": "ABPYiXj6-M0",
         "surname": "李",
         "kid": ""
@@ -42117,7 +42117,7 @@ const mvDB = [
         "title": "向前走",
         "vid": "gD14iiXq7Xw",
         "surname": "林",
-        "kid": ""
+        "kid": "VIU6t-Nn4WY"
     },
     {
         "id": 14123,
@@ -42125,7 +42125,7 @@ const mvDB = [
         "title": "台北孤兒",
         "vid": "oaqHpR9ahgY",
         "surname": "林",
-        "kid": ""
+        "kid": "oaqHpR9ahgY"
     },
     {
         "id": 14124,
@@ -42141,7 +42141,7 @@ const mvDB = [
         "title": "無聲的所在",
         "vid": "W8Qa5YQ9UzA",
         "surname": "林",
-        "kid": ""
+        "kid": "W8Qa5YQ9UzA"
     },
     {
         "id": 14126,
@@ -42149,7 +42149,7 @@ const mvDB = [
         "title": "黑輪伯仔",
         "vid": "dwJkTfBQOC8",
         "surname": "林",
-        "kid": ""
+        "kid": "dwJkTfBQOC8"
     },
     {
         "id": 14127,
@@ -42157,7 +42157,7 @@ const mvDB = [
         "title": "春風少年兄",
         "vid": "aXOqPZdDeRE",
         "surname": "林",
-        "kid": ""
+        "kid": "aXOqPZdDeRE"
     },
     {
         "id": 14128,
@@ -42165,7 +42165,7 @@ const mvDB = [
         "title": "幸福進行曲",
         "vid": "RT1EiLGKkzA",
         "surname": "林",
-        "kid": ""
+        "kid": "MHXql8JdA3M"
     },
     {
         "id": 14129,
@@ -42229,7 +42229,7 @@ const mvDB = [
         "title": "夢中人",
         "vid": "paPUuotuPco",
         "surname": "林",
-        "kid": ""
+        "kid": "paPUuotuPco"
     },
     {
         "id": 14137,
@@ -42269,7 +42269,7 @@ const mvDB = [
         "title": "捨不得分開",
         "vid": "3fs6FuSotcc",
         "surname": "曲",
-        "kid": ""
+        "kid": "7iKdqyzLxgQ"
     },
     {
         "id": 14142,
@@ -42277,7 +42277,7 @@ const mvDB = [
         "title": "心裡龍",
         "vid": "7le9ecKGuEU",
         "surname": "曲",
-        "kid": ""
+        "kid": "7le9ecKGuEU"
     },
     {
         "id": 14143,
@@ -42309,7 +42309,7 @@ const mvDB = [
         "title": "英雄",
         "vid": "dIla9oNQpmI",
         "surname": "曲",
-        "kid": ""
+        "kid": "dIla9oNQpmI"
     },
     {
         "id": 14147,
@@ -42317,7 +42317,7 @@ const mvDB = [
         "title": "鄭怡",
         "vid": "GhWRGiB2MZ4",
         "surname": "曲",
-        "kid": ""
+        "kid": "GhWRGiB2MZ4"
     },
     {
         "id": 14148,
@@ -42333,12 +42333,12 @@ const mvDB = [
         "title": "曲祐良",
         "vid": "Tj_LePCtmFs",
         "surname": "曲",
-        "kid": ""
+        "kid": "Tj_LePCtmFs"
     },
     {
         "id": 14150,
         "artist": "曲佑良",
-        "title": "album version",
+        "title": "英雄好漢",
         "vid": "1-OSL0_hx6g",
         "surname": "曲",
         "kid": ""
@@ -42357,7 +42357,7 @@ const mvDB = [
         "title": "小草",
         "vid": "Bm3_k4Mdk4A",
         "surname": "王",
-        "kid": ""
+        "kid": "WrP-DjCEPbI"
     },
     {
         "id": 14153,
@@ -42365,7 +42365,7 @@ const mvDB = [
         "title": "木棉道",
         "vid": "eAKXYUJk7O4",
         "surname": "王",
-        "kid": ""
+        "kid": "eAKXYUJk7O4"
     },
     {
         "id": 14154,
@@ -42373,7 +42373,7 @@ const mvDB = [
         "title": "廟會",
         "vid": "KqdJcJadx_Q",
         "surname": "王",
-        "kid": ""
+        "kid": "KqdJcJadx_Q"
     },
     {
         "id": 14155,
@@ -42389,7 +42389,7 @@ const mvDB = [
         "title": "雨中即景",
         "vid": "IzQj1L_ORxI",
         "surname": "王",
-        "kid": ""
+        "kid": "k3V9-m0LyMs"
     },
     {
         "id": 14157,
@@ -42397,7 +42397,7 @@ const mvDB = [
         "title": "故事",
         "vid": "--qhDE6PCfg",
         "surname": "王",
-        "kid": ""
+        "kid": "J79DSXNVSBw"
     },
     {
         "id": 14158,
@@ -42405,7 +42405,7 @@ const mvDB = [
         "title": "離開你走近你",
         "vid": "uURVAXUJdPc",
         "surname": "王",
-        "kid": ""
+        "kid": "vIdx_NMAH6s"
     },
     {
         "id": 14159,
@@ -42442,7 +42442,7 @@ const mvDB = [
     {
         "id": 14163,
         "artist": "王夢麟",
-        "title": "原聲原影",
+        "title": "我知道我變了樣",
         "vid": "NJY5EDUXJig",
         "surname": "王",
         "kid": ""
@@ -42450,7 +42450,7 @@ const mvDB = [
     {
         "id": 14164,
         "artist": "王夢麟",
-        "title": "真情版",
+        "title": "我知道我變了樣",
         "vid": "1KJUku4_iz4",
         "surname": "王",
         "kid": ""
@@ -42461,7 +42461,7 @@ const mvDB = [
         "title": "唱",
         "vid": "Auxzr-lx20E",
         "surname": "王",
-        "kid": ""
+        "kid": "IBRslTwzxqw"
     },
     {
         "id": 14166,
@@ -42477,7 +42477,7 @@ const mvDB = [
         "title": "未央歌",
         "vid": "wI6Fpsp0Ok4",
         "surname": "黃",
-        "kid": ""
+        "kid": "1XAh7zI78cY"
     },
     {
         "id": 14168,
@@ -42485,7 +42485,7 @@ const mvDB = [
         "title": "不要只因為他親吻了你",
         "vid": "mCDPZGa3qAE",
         "surname": "黃",
-        "kid": ""
+        "kid": "vrg4FGIX_88"
     },
     {
         "id": 14169,
@@ -42509,7 +42509,7 @@ const mvDB = [
         "title": "馬不停蹄的憂傷",
         "vid": "dSivt8ZrkWk",
         "surname": "黃",
-        "kid": ""
+        "kid": "uZVe5Gd1Hz0"
     },
     {
         "id": 14172,
@@ -42530,7 +42530,7 @@ const mvDB = [
     {
         "id": 14174,
         "artist": "黃舒駿",
-        "title": "何德何能",
+        "title": "何德何能mv",
         "vid": "8XXJsieJRCc",
         "surname": "黃",
         "kid": ""
@@ -42546,7 +42546,7 @@ const mvDB = [
     {
         "id": 14176,
         "artist": "黃舒駿",
-        "title": "黃舒駿",
+        "title": "少年狂想曲",
         "vid": "n51wFzGTFC8",
         "surname": "黃",
         "kid": ""
@@ -42565,12 +42565,12 @@ const mvDB = [
         "title": "愛你",
         "vid": "tFfi1bXyhEw",
         "surname": "黃",
-        "kid": ""
+        "kid": "tFfi1bXyhEw"
     },
     {
         "id": 14179,
         "artist": "黃舒駿",
-        "title": "大兵日記",
+        "title": "少年狂想曲",
         "vid": "v-QnkWs2tXw",
         "surname": "黃",
         "kid": ""
@@ -42589,7 +42589,7 @@ const mvDB = [
         "title": "再會啦！心愛的無緣的人",
         "vid": "f6SE9JO7nMA",
         "surname": "施",
-        "kid": ""
+        "kid": "EqoQhUaLYsI"
     },
     {
         "id": 14182,
@@ -42597,12 +42597,12 @@ const mvDB = [
         "title": "傷心酒店",
         "vid": "I4ybeqKnFJA",
         "surname": "施",
-        "kid": ""
+        "kid": "bDs2BAXop7c"
     },
     {
         "id": 14183,
         "artist": "施文彬",
-        "title": "飄撇𨑨迌人",
+        "title": "fivewood",
         "vid": "vfFamsNXYLc",
         "surname": "施",
         "kid": ""
@@ -42613,7 +42613,7 @@ const mvDB = [
         "title": "再會啦！心愛的無緣的人",
         "vid": "EqoQhUaLYsI",
         "surname": "施",
-        "kid": ""
+        "kid": "EqoQhUaLYsI"
     },
     {
         "id": 14185,
@@ -42629,7 +42629,7 @@ const mvDB = [
         "title": "請你保重",
         "vid": "gJueqw1DPVs",
         "surname": "施",
-        "kid": ""
+        "kid": "UkfEau4Rpqs"
     },
     {
         "id": 14187,
@@ -42637,7 +42637,7 @@ const mvDB = [
         "title": "真情味",
         "vid": "7HxmljnwTOA",
         "surname": "施",
-        "kid": ""
+        "kid": "Kf8aMxYeVXc"
     },
     {
         "id": 14188,
@@ -42645,7 +42645,7 @@ const mvDB = [
         "title": "夢中情網",
         "vid": "pks18TGlPTY",
         "surname": "施",
-        "kid": ""
+        "kid": "czkCKabF27k"
     },
     {
         "id": 14189,
@@ -42725,7 +42725,7 @@ const mvDB = [
         "title": "好聽",
         "vid": "9Tf6tMiH1Ks",
         "surname": "施",
-        "kid": ""
+        "kid": "WXYvaIWiYj4"
     },
     {
         "id": 14199,
@@ -42733,7 +42733,7 @@ const mvDB = [
         "title": "你愛的不是我",
         "vid": "i0CHSIYHKPI",
         "surname": "施",
-        "kid": ""
+        "kid": "lpYg4MRWEm8"
     },
     {
         "id": 14200,
@@ -42797,7 +42797,7 @@ const mvDB = [
         "title": "踏破鐵鞋",
         "vid": "yC26AtfLQpU",
         "surname": "亦",
-        "kid": ""
+        "kid": "WcrG9XLcWPg"
     },
     {
         "id": 14208,
@@ -42821,7 +42821,7 @@ const mvDB = [
         "title": "大雨欲來",
         "vid": "08HIFVsn1sc",
         "surname": "亦",
-        "kid": ""
+        "kid": "08HIFVsn1sc"
     },
     {
         "id": 14211,
@@ -42869,7 +42869,7 @@ const mvDB = [
         "title": "茫茫夢夢",
         "vid": "PT-i9vPM-LY",
         "surname": "亦",
-        "kid": ""
+        "kid": "3kWBDb9Z2rc"
     },
     {
         "id": 14217,
@@ -42901,7 +42901,7 @@ const mvDB = [
         "title": "淚崩了",
         "vid": "BZtnDvee2cw",
         "surname": "亦",
-        "kid": ""
+        "kid": "VRecSl1z_Bw"
     },
     {
         "id": 14221,
@@ -42941,7 +42941,7 @@ const mvDB = [
         "title": "如果還有明天",
         "vid": "BLP_leP0GuM",
         "surname": "薛",
-        "kid": ""
+        "kid": "Ahw0fuzEv5M"
     },
     {
         "id": 14226,
@@ -42949,7 +42949,7 @@ const mvDB = [
         "title": "機場",
         "vid": "P4KCOUKfels",
         "surname": "薛",
-        "kid": ""
+        "kid": "ol7LLQXs0ZI"
     },
     {
         "id": 14227,
@@ -42965,7 +42965,7 @@ const mvDB = [
         "title": "許乃勝作曲",
         "vid": "AZowar1ArWA",
         "surname": "薛",
-        "kid": ""
+        "kid": "AZowar1ArWA"
     },
     {
         "id": 14229,
@@ -42989,7 +42989,7 @@ const mvDB = [
         "title": "搖滾舞台",
         "vid": "6tje6l7VoTU",
         "surname": "薛",
-        "kid": ""
+        "kid": "bSdCw_rC7I4"
     },
     {
         "id": 14232,
@@ -43026,7 +43026,7 @@ const mvDB = [
     {
         "id": 14236,
         "artist": "薛岳",
-        "title": "阿信＆＆柯有倫如果還有明天.mpg",
+        "title": "ktv",
         "vid": "DgjSTYZkTsQ",
         "surname": "薛",
         "kid": ""
@@ -43037,7 +43037,7 @@ const mvDB = [
         "title": "那年我們十九歲",
         "vid": "gAoz0bZWdsY",
         "surname": "馬",
-        "kid": ""
+        "kid": "gAoz0bZWdsY"
     },
     {
         "id": 14238,
@@ -43045,7 +43045,7 @@ const mvDB = [
         "title": "我要的不多",
         "vid": "NNvWOwxff4g",
         "surname": "馬",
-        "kid": ""
+        "kid": "NNvWOwxff4g"
     },
     {
         "id": 14239,
@@ -43114,7 +43114,7 @@ const mvDB = [
     {
         "id": 14247,
         "artist": "馬兆駿",
-        "title": "孟庭葦.經典作品校園.民歌.",
+        "title": "木棉道",
         "vid": "JRzW_4FZeV8",
         "surname": "馬",
         "kid": ""
@@ -43173,7 +43173,7 @@ const mvDB = [
         "title": "龍的傳人",
         "vid": "L8kLPuBSruc",
         "surname": "李",
-        "kid": ""
+        "kid": "wyMOODDs6z0"
     },
     {
         "id": 14255,
@@ -43189,7 +43189,7 @@ const mvDB = [
         "title": "曠野寄情",
         "vid": "RbwIyYtA3d8",
         "surname": "李",
-        "kid": ""
+        "kid": "aO3CdFQL0NE"
     },
     {
         "id": 14257,
@@ -43197,7 +43197,7 @@ const mvDB = [
         "title": "歸",
         "vid": "ibeSFqK9wN4",
         "surname": "李",
-        "kid": ""
+        "kid": "mrOdYgFXNAc"
     },
     {
         "id": 14258,
@@ -43205,7 +43205,7 @@ const mvDB = [
         "title": "忘川",
         "vid": "wwBaZDI9Psg",
         "surname": "李",
-        "kid": ""
+        "kid": "uIF0_59zXRM"
     },
     {
         "id": 14259,
@@ -43253,7 +43253,7 @@ const mvDB = [
         "title": "網住一季秋",
         "vid": "E7YggkwEuUQ",
         "surname": "李",
-        "kid": ""
+        "kid": "BTLiCZJ3nsE"
     },
     {
         "id": 14265,
@@ -43394,7 +43394,7 @@ const mvDB = [
     {
         "id": 14282,
         "artist": "大Q秉洛",
-        "title": "抒情版",
+        "title": "tt",
         "vid": "UmiGItzMxgw",
         "surname": "大",
         "kid": ""
@@ -43557,7 +43557,7 @@ const mvDB = [
         "title": "想太多",
         "vid": "yU687O08nnQ",
         "surname": "李",
-        "kid": "ZIG9iRhDpDw"
+        "kid": "RIxy9RBDMKw"
     },
     {
         "id": 14303,
@@ -43578,7 +43578,7 @@ const mvDB = [
     {
         "id": 14305,
         "artist": "李玖哲",
-        "title": "圍牆wall",
+        "title": "圍牆wall.w",
         "vid": "pjw12MM4m5c",
         "surname": "李",
         "kid": ""
@@ -43922,7 +43922,7 @@ const mvDB = [
     {
         "id": 14348,
         "artist": "崔健",
-        "title": "樂隊現場",
+        "title": "飛狗",
         "vid": "BhxrrQtwn3M",
         "surname": "崔",
         "kid": ""
@@ -44098,7 +44098,7 @@ const mvDB = [
     {
         "id": 14370,
         "artist": "黃安",
-        "title": "新鴛鴦蝴蝶夢黃安",
+        "title": "新鴛鴦蝴蝶夢",
         "vid": "4KkjBz34yzw",
         "surname": "黃",
         "kid": ""
@@ -44122,7 +44122,7 @@ const mvDB = [
     {
         "id": 14373,
         "artist": "林志穎",
-        "title": "林志穎 jimmy lin-我的驕傲my pride 【林志穎 official hd 官方mv】",
+        "title": "我的驕傲my",
         "vid": "iFn5EDH64VY",
         "surname": "林",
         "kid": ""
@@ -44130,7 +44130,7 @@ const mvDB = [
     {
         "id": 14374,
         "artist": "林志穎",
-        "title": "林志穎 jimmy lin - 一步之遙 one step 【林志穎 official hd 官方mv】",
+        "title": "一步之遙",
         "vid": "sFxsnJst0lk",
         "surname": "林",
         "kid": ""
@@ -44226,7 +44226,7 @@ const mvDB = [
     {
         "id": 14386,
         "artist": "林志穎",
-        "title": "超清版",
+        "title": "給我一個心愛的",
         "vid": "uKvKUyfkMHg",
         "surname": "林",
         "kid": ""
@@ -44234,7 +44234,7 @@ const mvDB = [
     {
         "id": 14387,
         "artist": "林志穎",
-        "title": "jimmy lin",
+        "title": "戲",
         "vid": "-JGSfUQ_II4",
         "surname": "林",
         "kid": ""
@@ -44266,7 +44266,7 @@ const mvDB = [
     {
         "id": 14391,
         "artist": "呂方",
-        "title": "顏志琳、袁惟仁",
+        "title": "dear顏志琳、袁惟仁",
         "vid": "f7OD09iwRTo",
         "surname": "呂",
         "kid": ""
@@ -44277,7 +44277,7 @@ const mvDB = [
         "title": "朋友別哭",
         "vid": "UOrGX49N2aU",
         "surname": "呂",
-        "kid": ""
+        "kid": "ael53CHXWdg"
     },
     {
         "id": 14393,
@@ -44285,7 +44285,7 @@ const mvDB = [
         "title": "老情歌",
         "vid": "DnxWyXYqfVg",
         "surname": "呂",
-        "kid": ""
+        "kid": "jtQRAtgRLvw"
     },
     {
         "id": 14394,
@@ -44293,7 +44293,7 @@ const mvDB = [
         "title": "流浪花",
         "vid": "_YKz3HnXgY0",
         "surname": "呂",
-        "kid": ""
+        "kid": "GTLg9prbmlA"
     },
     {
         "id": 14395,
@@ -44349,7 +44349,7 @@ const mvDB = [
         "title": "彎彎的月亮",
         "vid": "etUMmbIjgTY",
         "surname": "呂",
-        "kid": ""
+        "kid": "mE8dHn6ho2o"
     },
     {
         "id": 14402,
@@ -44357,7 +44357,7 @@ const mvDB = [
         "title": "求你講清楚",
         "vid": "ipns5g18tvs",
         "surname": "呂",
-        "kid": ""
+        "kid": "Fr04VWTNDac"
     },
     {
         "id": 14403,
@@ -44402,7 +44402,7 @@ const mvDB = [
     {
         "id": 14408,
         "artist": "羅時豐",
-        "title": "時間到feat.",
+        "title": "時間到",
         "vid": "OTOX7OhRRiU",
         "surname": "羅",
         "kid": ""
@@ -44434,7 +44434,7 @@ const mvDB = [
     {
         "id": 14412,
         "artist": "羅時豐",
-        "title": "大",
+        "title": "風水世家",
         "vid": "CMSCDDP8gDI",
         "surname": "羅",
         "kid": ""
@@ -44522,7 +44522,7 @@ const mvDB = [
     {
         "id": 14423,
         "artist": "羅時豐",
-        "title": "羅時豐",
+        "title": "浪子情歌",
         "vid": "gQZl_MupgIs",
         "surname": "羅",
         "kid": ""
@@ -45130,7 +45130,7 @@ const mvDB = [
     {
         "id": 14499,
         "artist": "游宇潼",
-        "title": "eternal sunshine ft. pingoo",
+        "title": "eternal sunshine  pingoo",
         "vid": "tSTUQNi2Tpw",
         "surname": "游",
         "kid": ""
@@ -45394,7 +45394,7 @@ const mvDB = [
     {
         "id": 14532,
         "artist": "PPlin 林芃逸",
-        "title": "anime",
+        "title": "放心吧爸媽",
         "vid": "XmlUouf3z6o",
         "surname": "P",
         "kid": ""
@@ -45418,7 +45418,7 @@ const mvDB = [
     {
         "id": 14535,
         "artist": "PPlin 林芃逸",
-        "title": "touch her feat.kaizly",
+        "title": "touch her kaizly",
         "vid": "p0xDs3pZ0ZE",
         "surname": "P",
         "kid": ""
@@ -45434,7 +45434,7 @@ const mvDB = [
     {
         "id": 14537,
         "artist": "PPlin 林芃逸",
-        "title": "妳不離開我都在",
+        "title": "pplin）",
         "vid": "C5DQ_NSix7Q",
         "surname": "P",
         "kid": ""
@@ -45762,7 +45762,7 @@ const mvDB = [
     {
         "id": 14578,
         "artist": "K.Swo",
-        "title": "paling sadap feat. niken soge & j flo",
+        "title": "paling sadap  niken soge & j flo",
         "vid": "oGMSSMxVndY",
         "surname": "K",
         "kid": ""
@@ -45858,7 +45858,7 @@ const mvDB = [
     {
         "id": 14590,
         "artist": "K.Swo",
-        "title": "ecko show feat. young lex & jujuu - ada sayang ada [ music video ]",
+        "title": "ada sayang ada",
         "vid": "l-cEBdZKKso",
         "surname": "K",
         "kid": ""
@@ -45938,7 +45938,7 @@ const mvDB = [
     {
         "id": 14600,
         "artist": "王ADEN",
-        "title": "天天remix",
+        "title": "天天",
         "vid": "6c297dGSi4s",
         "surname": "王",
         "kid": ""
@@ -46034,7 +46034,7 @@ const mvDB = [
     {
         "id": 14612,
         "artist": "李澤垚",
-        "title": "校長 - 帶你去旅行想要帶你去浪漫的土耳其~【動態歌詞lyrics】",
+        "title": "』",
         "vid": "j5bupt6r3gg",
         "surname": "李",
         "kid": ""
@@ -46066,7 +46066,7 @@ const mvDB = [
     {
         "id": 14616,
         "artist": "李澤垚",
-        "title": "愛是十萬分之一的偶然",
+        "title": "偶然",
         "vid": "CR8k1vd_hbA",
         "surname": "李",
         "kid": ""
@@ -46354,7 +46354,7 @@ const mvDB = [
     {
         "id": 14652,
         "artist": "Shawn尚融",
-        "title": "ft.shawn尚融",
+        "title": "shawn尚融",
         "vid": "XRM4bEeaQXI",
         "surname": "S",
         "kid": ""
@@ -46466,7 +46466,7 @@ const mvDB = [
     {
         "id": 14666,
         "artist": "CORSAK胡夢周",
-        "title": "總想要透過你眼睛",
+        "title": "reverse",
         "vid": "xSzOPR3QxSU",
         "surname": "C",
         "kid": ""
@@ -46506,7 +46506,7 @@ const mvDB = [
     {
         "id": 14671,
         "artist": "CORSAK胡夢周",
-        "title": "鼎力推薦的中國電音製作人！",
+        "title": "溯（reverse）",
         "vid": "lrDlTEbHw3g",
         "surname": "C",
         "kid": ""
@@ -46586,7 +46586,7 @@ const mvDB = [
     {
         "id": 14681,
         "artist": "CORSAK胡夢周",
-        "title": "降落的時候你的心不在，那就別怪我有jet",
+        "title": "紙上飛行（flying",
         "vid": "uEyAD9YQjys",
         "surname": "C",
         "kid": ""
@@ -46605,7 +46605,7 @@ const mvDB = [
         "title": "然而",
         "vid": "D1V2GDpDzCk",
         "surname": "陳",
-        "kid": ""
+        "kid": "Y7WhLoU-GOU"
     },
     {
         "id": 14684,
@@ -46621,7 +46621,7 @@ const mvDB = [
         "title": "不再讓你孤單",
         "vid": "jL_ua9Yc-oM",
         "surname": "陳",
-        "kid": "nHWo7H0Vt6s"
+        "kid": "jL_ua9Yc-oM"
     },
     {
         "id": 14686,
@@ -46642,7 +46642,7 @@ const mvDB = [
     {
         "id": 14688,
         "artist": "張齊山DanieL",
-        "title": "動態歌詞",
+        "title": "十一月新歌",
         "vid": "wwBRxUVhhVw",
         "surname": "張",
         "kid": ""
@@ -46650,7 +46650,7 @@ const mvDB = [
     {
         "id": 14689,
         "artist": "張齊山DanieL",
-        "title": "怪我忘不了",
+        "title": "怪我忘不掉『』",
         "vid": "jgKEQpIYb_Q",
         "surname": "張",
         "kid": ""
@@ -46682,7 +46682,7 @@ const mvDB = [
     {
         "id": 14693,
         "artist": "張齊山DanieL",
-        "title": "|",
+        "title": "死磕到底『』♫",
         "vid": "fCewH4vKO9k",
         "surname": "張",
         "kid": ""
@@ -46690,7 +46690,7 @@ const mvDB = [
     {
         "id": 14694,
         "artist": "張齊山DanieL",
-        "title": "你我的故事已經結束，你要好好走完這段旅途",
+        "title": "張齊山daniel",
         "vid": "HckOI0BesY0",
         "surname": "張",
         "kid": ""
@@ -46698,7 +46698,7 @@ const mvDB = [
     {
         "id": 14695,
         "artist": "張齊山DanieL",
-        "title": "沒有細枝末節怎麼堆砌出具體",
+        "title": "反正",
         "vid": "UYVKQ3kecJs",
         "surname": "張",
         "kid": ""
@@ -46778,7 +46778,7 @@ const mvDB = [
     {
         "id": 14705,
         "artist": "關正傑",
-        "title": "一點燭光（原聲歌詞同步）",
+        "title": "一點燭光（原聲同步）",
         "vid": "76DF0TvOLVQ",
         "surname": "關",
         "kid": ""
@@ -46810,7 +46810,7 @@ const mvDB = [
     {
         "id": 14709,
         "artist": "關正傑",
-        "title": "original version",
+        "title": "重現",
         "vid": "NaEMPNEFIsE",
         "surname": "關",
         "kid": ""
@@ -46834,7 +46834,7 @@ const mvDB = [
     {
         "id": 14712,
         "artist": "關正傑",
-        "title": ".第一首粵語歌",
+        "title": ".第一首歌",
         "vid": "imLrZCMmNZw",
         "surname": "關",
         "kid": ""
@@ -47013,7 +47013,7 @@ const mvDB = [
         "title": "有心人有情人",
         "vid": "_6UWtnDLz-o",
         "surname": "蔡",
-        "kid": ""
+        "kid": "71ogPwjTJdg"
     },
     {
         "id": 14735,
@@ -47021,7 +47021,7 @@ const mvDB = [
         "title": "陪我看日出",
         "vid": "mnCcH6HL-E4",
         "surname": "蔡",
-        "kid": ""
+        "kid": "VlLQrN2GBvY"
     },
     {
         "id": 14736,
@@ -47069,7 +47069,7 @@ const mvDB = [
         "title": "談心",
         "vid": "ipDaNBBQlTY",
         "surname": "蔡",
-        "kid": ""
+        "kid": "a_bBW2KBkbc"
     },
     {
         "id": 14742,
@@ -47101,7 +47101,7 @@ const mvDB = [
         "title": "慶幸有你愛我",
         "vid": "58whN4s02C0",
         "surname": "蔡",
-        "kid": ""
+        "kid": "sFq46C5de18"
     },
     {
         "id": 14746,
@@ -47149,7 +47149,7 @@ const mvDB = [
         "title": "等一個晴天",
         "vid": "tc2gQFRBUgk",
         "surname": "蔡",
-        "kid": ""
+        "kid": "sS8ihfFKQQw"
     },
     {
         "id": 14752,
@@ -47157,7 +47157,7 @@ const mvDB = [
         "title": "隱形紀念",
         "vid": "591-dI_28OY",
         "surname": "蔡",
-        "kid": ""
+        "kid": "b6Kym_4-tHw"
     },
     {
         "id": 14753,
@@ -47234,7 +47234,7 @@ const mvDB = [
     {
         "id": 14762,
         "artist": "方炯鑌",
-        "title": "我可能不會愛你之林凱現聲版",
+        "title": "在我懷裡",
         "vid": "hHdUGNR4Cu4",
         "surname": "方",
         "kid": ""
@@ -47266,7 +47266,7 @@ const mvDB = [
     {
         "id": 14766,
         "artist": "方炯鑌",
-        "title": "無損",
+        "title": "遺憾",
         "vid": "YJ_k2sJSgVI",
         "surname": "方",
         "kid": ""
@@ -47378,7 +47378,7 @@ const mvDB = [
     {
         "id": 14780,
         "artist": "屠洪剛",
-        "title": "屠洪剛",
+        "title": "武家坡",
         "vid": "bLJxa5h1WCA",
         "surname": "屠",
         "kid": ""
@@ -47386,7 +47386,7 @@ const mvDB = [
     {
         "id": 14781,
         "artist": "屠洪剛",
-        "title": "你屠洪剛",
+        "title": "你",
         "vid": "0YSZSe484tY",
         "surname": "屠",
         "kid": ""
@@ -47450,7 +47450,7 @@ const mvDB = [
     {
         "id": 14789,
         "artist": "屠洪剛",
-        "title": "屠洪剛你",
+        "title": "你",
         "vid": "3I4cWiyIqvE",
         "surname": "屠",
         "kid": ""
@@ -47482,7 +47482,7 @@ const mvDB = [
     {
         "id": 14793,
         "artist": "程響",
-        "title": "世界這麼大還是遇見你",
+        "title": "清新的小女孩",
         "vid": "wRmedql89Ro",
         "surname": "程",
         "kid": "kG-Bc8VTtBg"
@@ -47493,7 +47493,7 @@ const mvDB = [
         "title": "四季予你",
         "vid": "VnGyNMK5vYM",
         "surname": "程",
-        "kid": "WKbDjz1dLqc"
+        "kid": "Ek6AQ8A8SvM"
     },
     {
         "id": 14795,
@@ -47509,12 +47509,12 @@ const mvDB = [
         "title": "可能",
         "vid": "yulrHDVvm9c",
         "surname": "程",
-        "kid": "JnngXODMvnY"
+        "kid": "nb3BjFK12jU"
     },
     {
         "id": 14797,
         "artist": "程響",
-        "title": "不再聯繫",
+        "title": "不再聯繫ktv",
         "vid": "ixNQjjrioxE",
         "surname": "程",
         "kid": "UVkVgMq4UBI"
@@ -47522,7 +47522,7 @@ const mvDB = [
     {
         "id": 14798,
         "artist": "程響",
-        "title": "姑娘站在閣樓上，等待歸來的情郎。",
+        "title": "江南夜色『』",
         "vid": "0amzqnfe--o",
         "surname": "程",
         "kid": ""
@@ -47538,10 +47538,10 @@ const mvDB = [
     {
         "id": 14800,
         "artist": "程響",
-        "title": "動態歌詞",
+        "title": "千里共嬋娟",
         "vid": "hh0b2_dyEHs",
         "surname": "程",
-        "kid": ""
+        "kid": "MCKoxo1Vn6M"
     },
     {
         "id": 14801,
@@ -47554,7 +47554,7 @@ const mvDB = [
     {
         "id": 14802,
         "artist": "程響",
-        "title": "程響的歌果然不同凡響",
+        "title": "cheng xiang",
         "vid": "oTdLNWkW73I",
         "surname": "程",
         "kid": ""
@@ -47573,7 +47573,7 @@ const mvDB = [
         "title": "夜的盡頭",
         "vid": "3OSGYTj08rU",
         "surname": "G",
-        "kid": ""
+        "kid": "3OSGYTj08rU"
     },
     {
         "id": 14805,
@@ -47613,7 +47613,7 @@ const mvDB = [
         "title": "一路逆風",
         "vid": "C117NWgCJ88",
         "surname": "G",
-        "kid": ""
+        "kid": "dulibZ3gwqI"
     },
     {
         "id": 14810,
@@ -47621,7 +47621,7 @@ const mvDB = [
         "title": "泡沫",
         "vid": "mGeiABBB5f8",
         "surname": "G",
-        "kid": ""
+        "kid": "gHj-0Rj78MY"
     },
     {
         "id": 14811,
@@ -47629,7 +47629,7 @@ const mvDB = [
         "title": "gloria",
         "vid": "stGUpMav1sc",
         "surname": "G",
-        "kid": "aqKe7KkA7gQ"
+        "kid": "rTcYPgoK1ZA"
     },
     {
         "id": 14812,
@@ -47669,7 +47669,7 @@ const mvDB = [
         "title": "11",
         "vid": "0GWR7CnsuWk",
         "surname": "G",
-        "kid": "0Uh5ww1k4Es"
+        "kid": "Tn2UlJnhwKY"
     },
     {
         "id": 14817,
@@ -47685,7 +47685,7 @@ const mvDB = [
         "title": "手心的薔薇",
         "vid": "eQQJDuOIQHE",
         "surname": "G",
-        "kid": ""
+        "kid": "eJlTjahrcqI"
     },
     {
         "id": 14819,
@@ -47722,10 +47722,10 @@ const mvDB = [
     {
         "id": 14823,
         "artist": "G.E.M.鄧紫棋",
-        "title": "where did u go",
+        "title": "鄧紫棋",
         "vid": "9k_qrnQpwR8",
         "surname": "G",
-        "kid": "8Z3lPb8rjuM"
+        "kid": "4sPO2hHPOSY"
     },
     {
         "id": 14824,
@@ -47733,7 +47733,7 @@ const mvDB = [
         "title": "悶",
         "vid": "rllzZICrt_c",
         "surname": "王",
-        "kid": ""
+        "kid": "V8EW0PG57Hc"
     },
     {
         "id": 14825,
@@ -47741,7 +47741,7 @@ const mvDB = [
         "title": "你快樂",
         "vid": "LXHs3VBE5cc",
         "surname": "王",
-        "kid": ""
+        "kid": "qr50OfGKVJU"
     },
     {
         "id": 14826,
@@ -47781,7 +47781,7 @@ const mvDB = [
         "title": "紅豆",
         "vid": "5wmfXve11rM",
         "surname": "王",
-        "kid": ""
+        "kid": "mkcPGBh6FHQ"
     },
     {
         "id": 14831,
@@ -47797,7 +47797,7 @@ const mvDB = [
         "title": "半途而廢",
         "vid": "TxJIi_NOR54",
         "surname": "王",
-        "kid": ""
+        "kid": "vGIoPSPbR68"
     },
     {
         "id": 14833,
@@ -47805,7 +47805,7 @@ const mvDB = [
         "title": "口袋的天空",
         "vid": "IDhZy6tfJGY",
         "surname": "張",
-        "kid": ""
+        "kid": "vTPHLgcE1I4"
     },
     {
         "id": 14834,
@@ -47842,7 +47842,7 @@ const mvDB = [
     {
         "id": 14838,
         "artist": "張韶涵",
-        "title": "斗羅大陸",
+        "title": "angela zhang",
         "vid": "e1_4y8RJ5xU",
         "surname": "張",
         "kid": ""
@@ -47853,7 +47853,7 @@ const mvDB = [
         "title": "甜蜜蜜",
         "vid": "5eF8oOWtsk4",
         "surname": "鄧",
-        "kid": "aiJ9wrtWPis"
+        "kid": "Ji3e6gADGrw"
     },
     {
         "id": 14840,
@@ -47869,7 +47869,7 @@ const mvDB = [
         "title": "甜蜜蜜",
         "vid": "OMVlGjmppeY",
         "surname": "鄧",
-        "kid": "aiJ9wrtWPis"
+        "kid": "Ji3e6gADGrw"
     },
     {
         "id": 14842,
@@ -47890,7 +47890,7 @@ const mvDB = [
     {
         "id": 14844,
         "artist": "鄧麗君",
-        "title": "full , with , pinyin and english translation",
+        "title": "full ,  ,  and english translation",
         "vid": "7guSDkKIpX0",
         "surname": "鄧",
         "kid": ""
@@ -47898,10 +47898,10 @@ const mvDB = [
     {
         "id": 14845,
         "artist": "鄧麗君",
-        "title": "teresa teng 25th anniversary",
+        "title": "甜蜜蜜",
         "vid": "Uc7MYu0BRdg",
         "surname": "鄧",
-        "kid": ""
+        "kid": "Ji3e6gADGrw"
     },
     {
         "id": 14846,
@@ -47917,7 +47917,7 @@ const mvDB = [
         "title": "何日君再來",
         "vid": "ikrasYUi3kM",
         "surname": "鄧",
-        "kid": ""
+        "kid": "un8oucrFMxI"
     },
     {
         "id": 14848,
@@ -47938,7 +47938,7 @@ const mvDB = [
     {
         "id": 14850,
         "artist": "蔡健雅",
-        "title": "我終於捨得為你放開手，因為愛你愛到我心痛。",
+        "title": "letting go『』",
         "vid": "wm8k-hQnJZM",
         "surname": "蔡",
         "kid": ""
@@ -47949,7 +47949,7 @@ const mvDB = [
         "title": "雙棲動物",
         "vid": "I14e0OAotEQ",
         "surname": "蔡",
-        "kid": "kDuZI1z8cco"
+        "kid": "SZP7JSz8Zog"
     },
     {
         "id": 14852,
@@ -48021,7 +48021,7 @@ const mvDB = [
         "title": "陌生人",
         "vid": "LYpWvdGAyus",
         "surname": "蔡",
-        "kid": "sILAzWq3rZA"
+        "kid": "ELAEkZI6gUU"
     },
     {
         "id": 14861,
@@ -48077,7 +48077,7 @@ const mvDB = [
         "title": "true love",
         "vid": "fEJbPyFjM8Q",
         "surname": "蔡",
-        "kid": ""
+        "kid": "Um9Nz0BrMUU"
     },
     {
         "id": 14868,
@@ -48125,7 +48125,7 @@ const mvDB = [
         "title": "到現在還愛你",
         "vid": "UfoscP4YptI",
         "surname": "莊",
-        "kid": "UfoscP4YptI"
+        "kid": "ghPymIX8esc"
     },
     {
         "id": 14874,
@@ -48189,7 +48189,7 @@ const mvDB = [
         "title": "陰天",
         "vid": "4qDnLFKdP2Y",
         "surname": "莫",
-        "kid": "022ws-g_A3I"
+        "kid": "tYWufUugeUc"
     },
     {
         "id": 14882,
@@ -48229,7 +48229,7 @@ const mvDB = [
         "title": "如果沒有你",
         "vid": "pKNMIfF4Zg0",
         "surname": "莫",
-        "kid": "muFYzuYRW2s"
+        "kid": "5NOvO8BZ-3I"
     },
     {
         "id": 14887,
@@ -48306,7 +48306,7 @@ const mvDB = [
     {
         "id": 14896,
         "artist": "王心凌",
-        "title": "|",
+        "title": "都快忘了怎樣戀一個愛",
         "vid": "49O6U2WdMAI",
         "surname": "王",
         "kid": ""
@@ -48333,7 +48333,7 @@ const mvDB = [
         "title": "無人之島",
         "vid": "0RsL8Ga73QQ",
         "surname": "任",
-        "kid": "SKiNQg24kNc"
+        "kid": "WaBD0LJpRoI"
     },
     {
         "id": 14900,
@@ -48357,7 +48357,7 @@ const mvDB = [
         "title": "無人之島",
         "vid": "UOCQwUl2dc8",
         "surname": "任",
-        "kid": "SKiNQg24kNc"
+        "kid": "WaBD0LJpRoI"
     },
     {
         "id": 14903,
@@ -48365,7 +48365,7 @@ const mvDB = [
         "title": "無人之島",
         "vid": "3AllSrBdZkw",
         "surname": "任",
-        "kid": "SKiNQg24kNc"
+        "kid": "WaBD0LJpRoI"
     },
     {
         "id": 14904,
@@ -48381,7 +48381,7 @@ const mvDB = [
         "title": "花雨落",
         "vid": "zRGVcRikoro",
         "surname": "任",
-        "kid": "LFEy32e2yig"
+        "kid": "3QsxYtTt6vs"
     },
     {
         "id": 14906,
@@ -48477,7 +48477,7 @@ const mvDB = [
         "title": "好朋友只是朋友",
         "vid": "JqipicNx1Ds",
         "surname": "郁",
-        "kid": ""
+        "kid": "D96_wZfEDUA"
     },
     {
         "id": 14918,
@@ -48541,7 +48541,7 @@ const mvDB = [
         "title": "我的愛",
         "vid": "qyMm2-XsCB4",
         "surname": "孫",
-        "kid": ""
+        "kid": "ljFOJfmNk_w"
     },
     {
         "id": 14926,
@@ -48594,7 +48594,7 @@ const mvDB = [
     {
         "id": 14932,
         "artist": "孟庭葦",
-        "title": "1991",
+        "title": "紫浣花",
         "vid": "k8sfWswIiwI",
         "surname": "孟",
         "kid": ""
@@ -48613,7 +48613,7 @@ const mvDB = [
         "title": "羞答答的玫瑰靜悄悄地開",
         "vid": "4i2HTSaZfGw",
         "surname": "孟",
-        "kid": "ItotN0ySX5A"
+        "kid": "QLYyIX0LUh0"
     },
     {
         "id": 14935,
@@ -48621,7 +48621,7 @@ const mvDB = [
         "title": "你",
         "vid": "ceIygtMtY6c",
         "surname": "那",
-        "kid": "v4Ts-TgTEk8"
+        "kid": "3Jr0jtL1Vwk"
     },
     {
         "id": 14936,
@@ -48629,7 +48629,7 @@ const mvDB = [
         "title": "征服",
         "vid": "lOhbUzOiRKI",
         "surname": "那",
-        "kid": "UtrE9HVnWgU"
+        "kid": "Wx7zDTEefiU"
     },
     {
         "id": 14937,
@@ -48693,7 +48693,7 @@ const mvDB = [
         "title": "betray",
         "vid": "bL7WtT9O5fQ",
         "surname": "那",
-        "kid": ""
+        "kid": "bL7WtT9O5fQ"
     },
     {
         "id": 14945,
@@ -48714,7 +48714,7 @@ const mvDB = [
     {
         "id": 14947,
         "artist": "那英",
-        "title": "2011",
+        "title": "你的微笑",
         "vid": "40lwZ5FIC4s",
         "surname": "那",
         "kid": ""
@@ -48730,10 +48730,10 @@ const mvDB = [
     {
         "id": 14949,
         "artist": "梁靜茹",
-        "title": "獨唱版",
+        "title": "分手快樂",
         "vid": "lBNYpPmjH8M",
         "surname": "梁",
-        "kid": ""
+        "kid": "gf3i8_40p7U"
     },
     {
         "id": 14950,
@@ -48805,7 +48805,7 @@ const mvDB = [
         "title": "沒有如果",
         "vid": "XBEL5r6puCs",
         "surname": "梁",
-        "kid": ""
+        "kid": "CWf_jpic3Mk"
     },
     {
         "id": 14959,
@@ -48813,7 +48813,7 @@ const mvDB = [
         "title": "慢冷的人啊，會自我折磨",
         "vid": "2LuW7acW9B8",
         "surname": "梁",
-        "kid": ""
+        "kid": "2LuW7acW9B8"
     },
     {
         "id": 14960,
@@ -48821,7 +48821,7 @@ const mvDB = [
         "title": "暖暖",
         "vid": "sqBU8XyMgoc",
         "surname": "梁",
-        "kid": "ipjXrGtH41I"
+        "kid": "0GtLDh0jnAw"
     },
     {
         "id": 14961,
@@ -48829,7 +48829,7 @@ const mvDB = [
         "title": "小手拉大手",
         "vid": "mh0uiWlr4RE",
         "surname": "梁",
-        "kid": "xPYz42BN_lk"
+        "kid": "mh0uiWlr4RE"
     },
     {
         "id": 14962,
@@ -48866,10 +48866,10 @@ const mvDB = [
     {
         "id": 14966,
         "artist": "梁靜茹",
-        "title": "vocal",
+        "title": "愛久見人心",
         "vid": "US161VkktJg",
         "surname": "梁",
-        "kid": ""
+        "kid": "RkQy3NlG1eo"
     },
     {
         "id": 14967,
@@ -48885,7 +48885,7 @@ const mvDB = [
         "title": "傷痕",
         "vid": "qCXTF6pQQR0",
         "surname": "林",
-        "kid": "kSz7sGsjvMo"
+        "kid": "lsEn5_dNqw4"
     },
     {
         "id": 14969,
@@ -48909,7 +48909,7 @@ const mvDB = [
         "title": "遠走高飛",
         "vid": "InbFsQwUVS4",
         "surname": "林",
-        "kid": ""
+        "kid": "tENJCYfSa8U"
     },
     {
         "id": 14972,
@@ -48962,7 +48962,7 @@ const mvDB = [
     {
         "id": 14978,
         "artist": "劉惜君",
-        "title": "歌手2025·",
+        "title": "月半小夜曲",
         "vid": "KmDciqXCfvY",
         "surname": "劉",
         "kid": ""
@@ -48997,7 +48997,7 @@ const mvDB = [
         "title": "如果你知我苦衷",
         "vid": "5m4n5DZlQ3w",
         "surname": "周",
-        "kid": "URzjPtyQJgo"
+        "kid": "RF_2VdRIG-A"
     },
     {
         "id": 14983,
@@ -49021,7 +49021,7 @@ const mvDB = [
         "title": "留戀",
         "vid": "8WIe5c2CS38",
         "surname": "周",
-        "kid": ""
+        "kid": "0Q7OqMhMhsc"
     },
     {
         "id": 14986,
@@ -49077,7 +49077,7 @@ const mvDB = [
         "title": "知道",
         "vid": "p1lNM7mXfyM",
         "surname": "張",
-        "kid": ""
+        "kid": "nGboaUdLpdU"
     },
     {
         "id": 14993,
@@ -49085,7 +49085,7 @@ const mvDB = [
         "title": "人質",
         "vid": "o4JrzNdpKw4",
         "surname": "張",
-        "kid": "PqjMyXNmSAA"
+        "kid": "iC8v--UqaA4"
     },
     {
         "id": 14994,
@@ -49093,7 +49093,7 @@ const mvDB = [
         "title": "掉了",
         "vid": "1dyRJJzlwQ8",
         "surname": "張",
-        "kid": ""
+        "kid": "_0sP-KjhUdg"
     },
     {
         "id": 14995,
@@ -49101,7 +49101,7 @@ const mvDB = [
         "title": "記得",
         "vid": "qm3wIQWnXxg",
         "surname": "張",
-        "kid": "8NTo9iUg70U"
+        "kid": "ZH6HW-EnuMU"
     },
     {
         "id": 14996,
@@ -49189,7 +49189,7 @@ const mvDB = [
         "title": "曖昧",
         "vid": "mebzXfWi87E",
         "surname": "楊",
-        "kid": ""
+        "kid": "e8yDD07vO0I"
     },
     {
         "id": 15007,
@@ -49205,7 +49205,7 @@ const mvDB = [
         "title": "理想情人",
         "vid": "2O2bBhjudXw",
         "surname": "楊",
-        "kid": "uXPtRchlBBA"
+        "kid": "2O2bBhjudXw"
     },
     {
         "id": 15009,
@@ -49213,7 +49213,7 @@ const mvDB = [
         "title": "失憶的金魚",
         "vid": "kn6_RH1t7_I",
         "surname": "楊",
-        "kid": ""
+        "kid": "Bxkpf6inq2s"
     },
     {
         "id": 15010,
@@ -49261,12 +49261,12 @@ const mvDB = [
         "title": "匿名的好友",
         "vid": "s9hGDIpwfXw",
         "surname": "楊",
-        "kid": "YGofo2euAow"
+        "kid": "ZiByLAcv9EQ"
     },
     {
         "id": 15016,
         "artist": "曲婉婷",
-        "title": "他們說一切都是最好的安排，就讓愛教我學會忍耐。",
+        "title": "最好的安排『』",
         "vid": "PVO7SUnZ_F4",
         "surname": "曲",
         "kid": "PVO7SUnZ_F4"
@@ -49274,7 +49274,7 @@ const mvDB = [
     {
         "id": 15017,
         "artist": "曲婉婷",
-        "title": "joyce jonathan &sans toi",
+        "title": "joyce jonathan &   sans toi",
         "vid": "Uw3pQ6JQkg8",
         "surname": "曲",
         "kid": ""
@@ -49285,7 +49285,7 @@ const mvDB = [
         "title": "愛的主打歌",
         "vid": "tgxolGZ_NQY",
         "surname": "蕭",
-        "kid": "4F0KprVHx_Q"
+        "kid": "EHMm_ElRvMA"
     },
     {
         "id": 15019,
@@ -49309,7 +49309,7 @@ const mvDB = [
         "title": "錯的人",
         "vid": "54yKHYSwJcQ",
         "surname": "蕭",
-        "kid": "5wMTT0I6OR0"
+        "kid": "-CWvMK21wFg"
     },
     {
         "id": 15022,
@@ -49317,7 +49317,7 @@ const mvDB = [
         "title": "愛的主打歌",
         "vid": "EHMm_ElRvMA",
         "surname": "蕭",
-        "kid": "4F0KprVHx_Q"
+        "kid": "EHMm_ElRvMA"
     },
     {
         "id": 15023,
@@ -49346,7 +49346,7 @@ const mvDB = [
     {
         "id": 15026,
         "artist": "蕭亞軒",
-        "title": "english subs + pinyin +",
+        "title": "english subs +  +",
         "vid": "S9TCMHqQPF8",
         "surname": "蕭",
         "kid": ""
@@ -49402,7 +49402,7 @@ const mvDB = [
     {
         "id": 15033,
         "artist": "許茹芸",
-        "title": "版",
+        "title": "我們都寂寞",
         "vid": "1ZoEY_ytqeY",
         "surname": "許",
         "kid": ""
@@ -49429,7 +49429,7 @@ const mvDB = [
         "title": "無常",
         "vid": "LNxM5f5LVuc",
         "surname": "田",
-        "kid": ""
+        "kid": "Tdf2i7NWuPg"
     },
     {
         "id": 15037,
@@ -49437,7 +49437,7 @@ const mvDB = [
         "title": "寂寞寂寞就好",
         "vid": "DyFIzKYQQYE",
         "surname": "田",
-        "kid": "-ROMbBrtAI0"
+        "kid": "E-yVx366fPM"
     },
     {
         "id": 15038,
@@ -49445,7 +49445,7 @@ const mvDB = [
         "title": "魔鬼中的天使",
         "vid": "na_xv5iFt2Y",
         "surname": "田",
-        "kid": "QmIHZ4YCRUM"
+        "kid": "ie8vr4Oo7R8"
     },
     {
         "id": 15039,
@@ -49453,7 +49453,7 @@ const mvDB = [
         "title": "我想我不會愛你",
         "vid": "jmvsxBwpnIQ",
         "surname": "田",
-        "kid": ""
+        "kid": "3XBwgfN0TPo"
     },
     {
         "id": 15040,
@@ -49482,10 +49482,10 @@ const mvDB = [
     {
         "id": 15043,
         "artist": "阿桑",
-        "title": "葉子 ~ 阿桑 ( 動態歌詞 )",
+        "title": "葉子",
         "vid": "60QFQtRAvWQ",
         "surname": "阿",
-        "kid": ""
+        "kid": "9YXxCciHRcU"
     },
     {
         "id": 15044,
@@ -49645,7 +49645,7 @@ const mvDB = [
         "title": "愛",
         "vid": "av8RjbM3aQ0",
         "surname": "A",
-        "kid": "bUJ1JZBDKLw"
+        "kid": "NgoB-qLNHws"
     },
     {
         "id": 15064,
@@ -49661,7 +49661,7 @@ const mvDB = [
         "title": "月牙灣",
         "vid": "Kdg93WoFbSs",
         "surname": "A",
-        "kid": ""
+        "kid": "N6SnDxj3hdk"
     },
     {
         "id": 15066,
@@ -49669,7 +49669,7 @@ const mvDB = [
         "title": "拿走了什麼",
         "vid": "v1Q4yDHisM0",
         "surname": "A",
-        "kid": "xzhNGPGV8aI"
+        "kid": "377jxICUut8"
     },
     {
         "id": 15067,
@@ -49677,7 +49677,7 @@ const mvDB = [
         "title": "我等到花兒也謝了",
         "vid": "dtZy312HJbM",
         "surname": "A",
-        "kid": ""
+        "kid": "AFp6ABHEMXU"
     },
     {
         "id": 15068,
@@ -49698,10 +49698,10 @@ const mvDB = [
     {
         "id": 15070,
         "artist": "A-Lin",
-        "title": "歌手2025·",
+        "title": "失戀無罪",
         "vid": "1ar-XFFJaQQ",
         "surname": "A",
-        "kid": ""
+        "kid": "wyDrjzSOkbk"
     },
     {
         "id": 15071,
@@ -49741,7 +49741,7 @@ const mvDB = [
         "title": "失落沙洲",
         "vid": "Ie1KcGvBN_k",
         "surname": "徐",
-        "kid": "ArcVKaF2lIc"
+        "kid": "-AH-icJwmwc"
     },
     {
         "id": 15076,
@@ -49749,7 +49749,7 @@ const mvDB = [
         "title": "身騎白馬",
         "vid": "VzXOT26_Da8",
         "surname": "徐",
-        "kid": "c42PY9z1-tk"
+        "kid": "btbDOMh0o2w"
     },
     {
         "id": 15077,
@@ -49778,7 +49778,7 @@ const mvDB = [
     {
         "id": 15080,
         "artist": "潘美辰",
-        "title": "其實我好想有人陪",
+        "title": "龍兄虎弟",
         "vid": "BOibGmcWu0U",
         "surname": "潘",
         "kid": ""
@@ -49834,7 +49834,7 @@ const mvDB = [
     {
         "id": 15087,
         "artist": "潘美辰",
-        "title": "我想要有個家",
+        "title": "我想有個家『』",
         "vid": "dH4f6gW1J9E",
         "surname": "潘",
         "kid": ""
@@ -49914,7 +49914,7 @@ const mvDB = [
     {
         "id": 15097,
         "artist": "裘海正",
-        "title": "愛你十分淚七分",
+        "title": "龍兄虎弟",
         "vid": "T-GP_J3bTs4",
         "surname": "裘",
         "kid": ""
@@ -49978,7 +49978,7 @@ const mvDB = [
     {
         "id": 15105,
         "artist": "裘海正",
-        "title": "原唱",
+        "title": "愛我的人和我愛的人",
         "vid": "PiBJnJXM57w",
         "surname": "裘",
         "kid": ""
@@ -50037,7 +50037,7 @@ const mvDB = [
         "title": "灰姑娘",
         "vid": "_xBfCQILQZk",
         "surname": "梁",
-        "kid": "p_kiHa5f7wo"
+        "kid": "RkOHkIpJxOk"
     },
     {
         "id": 15113,
@@ -50053,12 +50053,12 @@ const mvDB = [
         "title": "偏見",
         "vid": "8ORd878fGvs",
         "surname": "梁",
-        "kid": ""
+        "kid": "SGJPREY_Mt4"
     },
     {
         "id": 15115,
         "artist": "梁詠琪",
-        "title": "給自己的情歌",
+        "title": "給自己的情歌ktv",
         "vid": "gHCbSgMrC7Q",
         "surname": "梁",
         "kid": "gHCbSgMrC7Q"
@@ -50069,7 +50069,7 @@ const mvDB = [
         "title": "中意他",
         "vid": "mFdG0uEqsbY",
         "surname": "梁",
-        "kid": "gq7grnimqpo"
+        "kid": "Az-UhsKC0ys"
     },
     {
         "id": 15117,
@@ -50109,7 +50109,7 @@ const mvDB = [
         "title": "捨不得",
         "vid": "1-XMhPbJPgU",
         "surname": "弦",
-        "kid": ""
+        "kid": "n-FDE-X3VW8"
     },
     {
         "id": 15122,
@@ -50141,7 +50141,7 @@ const mvDB = [
         "title": "潘瑋柏",
         "vid": "wuwbok3wlGE",
         "surname": "弦",
-        "kid": ""
+        "kid": "eKYdJjV7wUU"
     },
     {
         "id": 15126,
@@ -50149,7 +50149,7 @@ const mvDB = [
         "title": "天真",
         "vid": "Ei1Df7Ys1mk",
         "surname": "弦",
-        "kid": ""
+        "kid": "HuhwKA7j_dg"
     },
     {
         "id": 15127,
@@ -50157,7 +50157,7 @@ const mvDB = [
         "title": "非你不愛",
         "vid": "OmG2PjCRsL0",
         "surname": "弦",
-        "kid": ""
+        "kid": "Qbaq4E9hrcU"
     },
     {
         "id": 15128,
@@ -50173,7 +50173,7 @@ const mvDB = [
         "title": "第三者的第三者",
         "vid": "ev91rQwpKbM",
         "surname": "弦",
-        "kid": ""
+        "kid": "9czRSHT7SzU"
     },
     {
         "id": 15130,
@@ -50237,7 +50237,7 @@ const mvDB = [
         "title": "那些花兒",
         "vid": "8qIEmtq4K2k",
         "surname": "范",
-        "kid": "A3sTblrd5E4"
+        "kid": "ikBJ6L6q8OM"
     },
     {
         "id": 15138,
@@ -50285,7 +50285,7 @@ const mvDB = [
         "title": "情鎖",
         "vid": "fHhYZC73EWY",
         "surname": "蔡",
-        "kid": "_mB4u1Cn2EM"
+        "kid": "RLRDZv8v05s"
     },
     {
         "id": 15144,
@@ -50418,7 +50418,7 @@ const mvDB = [
     {
         "id": 15160,
         "artist": "許美靜",
-        "title": "傾城復刻版",
+        "title": "傾城復刻",
         "vid": "UqUqpgV4M0w",
         "surname": "許",
         "kid": ""
@@ -50461,7 +50461,7 @@ const mvDB = [
         "title": "笨蛋",
         "vid": "2HPTdD4Z9bM",
         "surname": "金",
-        "kid": ""
+        "kid": "R8q6sh-Wvts"
     },
     {
         "id": 15166,
@@ -50477,7 +50477,7 @@ const mvDB = [
         "title": "我知道我們不會有結果",
         "vid": "PuwTVTj8lPA",
         "surname": "金",
-        "kid": ""
+        "kid": "968wgPDigEg"
     },
     {
         "id": 15168,
@@ -50661,7 +50661,7 @@ const mvDB = [
         "title": "曾經如今",
         "vid": "pZFdEvwEVb4",
         "surname": "丁",
-        "kid": ""
+        "kid": "pZFdEvwEVb4"
     },
     {
         "id": 15191,
@@ -50749,7 +50749,7 @@ const mvDB = [
         "title": "心牆",
         "vid": "VhCRokYVF1I",
         "surname": "郭",
-        "kid": "IHDhQ3cwDXs"
+        "kid": "OSqa0ol-5pw"
     },
     {
         "id": 15202,
@@ -50909,7 +50909,7 @@ const mvDB = [
         "title": "怎樣",
         "vid": "WWX4OD-fge0",
         "surname": "戴",
-        "kid": "bQpih-roeac"
+        "kid": "VY3zPF7hK7I"
     },
     {
         "id": 15222,
@@ -50957,7 +50957,7 @@ const mvDB = [
         "title": "水中央",
         "vid": "9UmHWXPfMlc",
         "surname": "戴",
-        "kid": ""
+        "kid": "34dU3sPKcTg"
     },
     {
         "id": 15228,
@@ -50970,15 +50970,15 @@ const mvDB = [
     {
         "id": 15229,
         "artist": "戴佩妮",
-        "title": "超高無損音質",
+        "title": "怎樣",
         "vid": "VPQb18ktEk4",
         "surname": "戴",
-        "kid": ""
+        "kid": "VY3zPF7hK7I"
     },
     {
         "id": 15230,
         "artist": "戴佩妮",
-        "title": "【戴佩妮live】戴佩妮翻唱梁詠琪《膽小鬼》聽起來清新又熱烈！《時光音樂會》time concert ep12丨mangotv",
+        "title": "膽小鬼",
         "vid": "Ti1VELBLAzc",
         "surname": "戴",
         "kid": ""
@@ -50997,7 +50997,7 @@ const mvDB = [
         "title": "小玩意",
         "vid": "c1b-yV1yos0",
         "surname": "彭",
-        "kid": "MvLpoZs4pnA"
+        "kid": "SW1r-09C0ps"
     },
     {
         "id": 15233,
@@ -51018,7 +51018,7 @@ const mvDB = [
     {
         "id": 15235,
         "artist": "彭羚",
-        "title": "香港樂壇「垃圾五部曲」",
+        "title": "垃圾五部曲",
         "vid": "mdDdPLMx0mk",
         "surname": "彭",
         "kid": ""
@@ -51026,10 +51026,10 @@ const mvDB = [
     {
         "id": 15236,
         "artist": "彭羚",
-        "title": "tvb版",
+        "title": "仍然是最愛你",
         "vid": "GPBSC4edaYk",
         "surname": "彭",
-        "kid": ""
+        "kid": "nURMi-c2En4"
     },
     {
         "id": 15237,
@@ -51037,7 +51037,7 @@ const mvDB = [
         "title": "仍然是最愛你",
         "vid": "4xdadHeIJ8g",
         "surname": "彭",
-        "kid": ""
+        "kid": "nURMi-c2En4"
     },
     {
         "id": 15238,
@@ -51053,7 +51053,7 @@ const mvDB = [
         "title": "風鈴",
         "vid": "Ra3Fuc77hgU",
         "surname": "周",
-        "kid": ""
+        "kid": "BLBG7zeccCU"
     },
     {
         "id": 15240,
@@ -51098,7 +51098,7 @@ const mvDB = [
     {
         "id": 15245,
         "artist": "陳明真",
-        "title": "【 官方整首版 】陳明真：背心 mv - 1080p",
+        "title": "背心",
         "vid": "ZNu8TVAtjMQ",
         "surname": "陳",
         "kid": ""
@@ -51106,7 +51106,7 @@ const mvDB = [
     {
         "id": 15246,
         "artist": "陳明真",
-        "title": "【 官方３分鐘版 】陳明真：寶貝我的心 mv - 480p",
+        "title": "寶貝我的心",
         "vid": "LxkBloKOX8M",
         "surname": "陳",
         "kid": ""
@@ -51162,7 +51162,7 @@ const mvDB = [
     {
         "id": 15253,
         "artist": "陳明真",
-        "title": "album version",
+        "title": "dao na li zhao na mo hao de ren",
         "vid": "fy04a_BY9ak",
         "surname": "陳",
         "kid": ""
@@ -51218,7 +51218,7 @@ const mvDB = [
     {
         "id": 15260,
         "artist": "陳明真",
-        "title": "offcial",
+        "title": "念念不忘的情人",
         "vid": "CcpxLD2UASw",
         "surname": "陳",
         "kid": ""
@@ -51362,7 +51362,7 @@ const mvDB = [
     {
         "id": 15278,
         "artist": "鳳飛飛",
-        "title": "華語經典",
+        "title": "邂逅",
         "vid": "-h1GAXIBUy0",
         "surname": "鳳",
         "kid": ""
@@ -51386,7 +51386,7 @@ const mvDB = [
     {
         "id": 15281,
         "artist": "詹雯婷",
-        "title": "盛宇",
+        "title": "訣愛·盡",
         "vid": "dzsCXLWNRpA",
         "surname": "詹",
         "kid": ""
@@ -51490,7 +51490,7 @@ const mvDB = [
     {
         "id": 15294,
         "artist": "詹雯婷",
-        "title": "faye",
+        "title": "蒼蘭訣ost",
         "vid": "sXWCZtJsmLU",
         "surname": "詹",
         "kid": ""
@@ -51498,7 +51498,7 @@ const mvDB = [
     {
         "id": 15295,
         "artist": "陳小雲",
-        "title": "台語原聲暢銷精選",
+        "title": "原聲暢銷精選",
         "vid": "oKrF_ZB2AJI",
         "surname": "陳",
         "kid": ""
@@ -51506,7 +51506,7 @@ const mvDB = [
     {
         "id": 15296,
         "artist": "陳小雲",
-        "title": "台語原聲暢銷精選",
+        "title": "原聲暢銷精選",
         "vid": "5QfkS1ee-y4",
         "surname": "陳",
         "kid": ""
@@ -51514,7 +51514,7 @@ const mvDB = [
     {
         "id": 15297,
         "artist": "陳小雲",
-        "title": "台語原聲暢銷精選",
+        "title": "原聲暢銷精選",
         "vid": "7Qo7scxfnaw",
         "surname": "陳",
         "kid": ""
@@ -51610,7 +51610,7 @@ const mvDB = [
     {
         "id": 15309,
         "artist": "陳小雲",
-        "title": "台語",
+        "title": "舞女",
         "vid": "mL8RXLb93-8",
         "surname": "陳",
         "kid": ""
@@ -51666,7 +51666,7 @@ const mvDB = [
     {
         "id": 15316,
         "artist": "黃小琥",
-        "title": "重來孤單版",
+        "title": "重來孤單",
         "vid": "5R66sjcKzAE",
         "surname": "黃",
         "kid": ""
@@ -51690,10 +51690,10 @@ const mvDB = [
     {
         "id": 15319,
         "artist": "辛曉琪",
-        "title": "歌手音樂頻道",
+        "title": "味道",
         "vid": "2H0lN_yTFU8",
         "surname": "辛",
-        "kid": ""
+        "kid": "9BByAxgUCJw"
     },
     {
         "id": 15320,
@@ -51709,7 +51709,7 @@ const mvDB = [
         "title": "眉來眼去",
         "vid": "V0-2GhaCt60",
         "surname": "辛",
-        "kid": "FFZe67p_jec"
+        "kid": "IVEzYcsg3_E"
     },
     {
         "id": 15322,
@@ -51861,7 +51861,7 @@ const mvDB = [
         "title": "夏之旅",
         "vid": "ZXuXjmzwK4Q",
         "surname": "蔡",
-        "kid": ""
+        "kid": "W3jXMXRj3yc"
     },
     {
         "id": 15341,
@@ -51874,10 +51874,10 @@ const mvDB = [
     {
         "id": 15342,
         "artist": "蔡幸娟",
-        "title": "我心已許（原聲版）",
+        "title": "我心已許",
         "vid": "WxlWNsim4fg",
         "surname": "蔡",
-        "kid": ""
+        "kid": "iyyPhkPsudE"
     },
     {
         "id": 15343,
@@ -51885,7 +51885,7 @@ const mvDB = [
         "title": "我心已許",
         "vid": "wkA_Egpp03E",
         "surname": "蔡",
-        "kid": ""
+        "kid": "iyyPhkPsudE"
     },
     {
         "id": 15344,
@@ -51901,12 +51901,12 @@ const mvDB = [
         "title": "今生今世",
         "vid": "8nkkJv4hTnc",
         "surname": "陳",
-        "kid": ""
+        "kid": "8nkkJv4hTnc"
     },
     {
         "id": 15346,
         "artist": "陳潔儀",
-        "title": "變了真心",
+        "title": "潘協慶",
         "vid": "_I1dcKyeaIU",
         "surname": "陳",
         "kid": ""
@@ -51954,7 +51954,7 @@ const mvDB = [
     {
         "id": 15352,
         "artist": "范曉萱",
-        "title": "「姐妹們的旅行」",
+        "title": "姐妹們的旅行",
         "vid": "jZM9FvxVNgc",
         "surname": "范",
         "kid": ""
@@ -51970,10 +51970,10 @@ const mvDB = [
     {
         "id": 15354,
         "artist": "范曉萱",
-        "title": "龍貓動畫",
+        "title": "豆豆龍",
         "vid": "vdyfjj0Cyyo",
         "surname": "范",
-        "kid": ""
+        "kid": "IgRNoxJeuBk"
     },
     {
         "id": 15355,
@@ -51994,7 +51994,7 @@ const mvDB = [
     {
         "id": 15357,
         "artist": "李麗芬",
-        "title": "的第一首作品雀躍.喜悅的歌校園.民歌.",
+        "title": "激盪",
         "vid": "5rwbsB-b51A",
         "surname": "李",
         "kid": ""
@@ -52026,7 +52026,7 @@ const mvDB = [
     {
         "id": 15361,
         "artist": "李麗芬",
-        "title": "lily lee",
+        "title": "time",
         "vid": "Z-vdfVxQ04w",
         "surname": "李",
         "kid": ""
@@ -52101,7 +52101,7 @@ const mvDB = [
         "title": "愛像一場重感冒",
         "vid": "p3zMfYY_XN4",
         "surname": "徐",
-        "kid": ""
+        "kid": "wVNAm528Gc8"
     },
     {
         "id": 15371,
@@ -52117,7 +52117,7 @@ const mvDB = [
         "title": "i",
         "vid": "U0HcRy3gZ3I",
         "surname": "徐",
-        "kid": "EV77iUBowak"
+        "kid": "qSJQllOlMAc"
     },
     {
         "id": 15373,
@@ -52157,7 +52157,7 @@ const mvDB = [
         "title": "刺蝟",
         "vid": "srFvTzcC5cM",
         "surname": "温",
-        "kid": "Cp1IaI9nWCg"
+        "kid": "VSmLeYR9E1A"
     },
     {
         "id": 15378,
@@ -52229,7 +52229,7 @@ const mvDB = [
         "title": "說不出有多麼快樂",
         "vid": "oBZ1rQIvFDM",
         "surname": "王",
-        "kid": ""
+        "kid": "oBZ1rQIvFDM"
     },
     {
         "id": 15387,
@@ -52237,7 +52237,7 @@ const mvDB = [
         "title": "深度安靜",
         "vid": "MTC9XuO3wrI",
         "surname": "魏",
-        "kid": ""
+        "kid": "MTC9XuO3wrI"
     },
     {
         "id": 15388,
@@ -52301,7 +52301,7 @@ const mvDB = [
         "title": "諸葛亮",
         "vid": "vdueuixqPGw",
         "surname": "薛",
-        "kid": ""
+        "kid": "R45fAECPe8Y"
     },
     {
         "id": 15396,
@@ -52317,7 +52317,7 @@ const mvDB = [
         "title": "慕容雪",
         "vid": "UTQf91sKlJE",
         "surname": "薛",
-        "kid": "b-BjtkuQjNQ"
+        "kid": "fZcbnztSWR0"
     },
     {
         "id": 15398,
@@ -52381,7 +52381,7 @@ const mvDB = [
         "title": "哭過的天空",
         "vid": "Zt9R71jilEM",
         "surname": "蘇",
-        "kid": ""
+        "kid": "EIzjqbZlu9E"
     },
     {
         "id": 15406,
@@ -52413,7 +52413,7 @@ const mvDB = [
         "title": "少女問",
         "vid": "HkdWgYJMWTE",
         "surname": "蘇",
-        "kid": ""
+        "kid": "4U3LGj3C2EA"
     },
     {
         "id": 15410,
@@ -52570,10 +52570,10 @@ const mvDB = [
     {
         "id": 15429,
         "artist": "藍心湄",
-        "title": "landiva",
+        "title": "一見鍾情",
         "vid": "jO4i2VhbFZU",
         "surname": "藍",
-        "kid": ""
+        "kid": "-G9J5605PZc"
     },
     {
         "id": 15430,
@@ -52581,7 +52581,7 @@ const mvDB = [
         "title": "愛走了",
         "vid": "qrABxnBgvFs",
         "surname": "藍",
-        "kid": ""
+        "kid": "npiXTtUBDKM"
     },
     {
         "id": 15431,
@@ -52605,7 +52605,7 @@ const mvDB = [
         "title": "返來阮身邊",
         "vid": "O8RFO3AHLZQ",
         "surname": "江",
-        "kid": ""
+        "kid": "Kp0DgrGufkc"
     },
     {
         "id": 15434,
@@ -52658,7 +52658,7 @@ const mvDB = [
     {
         "id": 15440,
         "artist": "江蕙",
-        "title": "江蕙 jody chiang - 當時欲嫁 when i was getting married  [ lyric video ]",
+        "title": "當時欲嫁",
         "vid": "4MC0gnZHz90",
         "surname": "江",
         "kid": ""
@@ -52666,7 +52666,7 @@ const mvDB = [
     {
         "id": 15441,
         "artist": "歐陽菲菲",
-        "title": "感恩的心",
+        "title": "ktv",
         "vid": "MKPsXd5YjPs",
         "surname": "歐",
         "kid": ""
@@ -52706,7 +52706,7 @@ const mvDB = [
     {
         "id": 15446,
         "artist": "歐陽菲菲",
-        "title": "歐陽菲菲）昭和61年放送　　日本歌謡チャンネル",
+        "title": "）昭和61年放送　　日本歌謡チャンネル",
         "vid": "J-OXiYIdXcA",
         "surname": "歐",
         "kid": ""
@@ -52738,7 +52738,7 @@ const mvDB = [
     {
         "id": 15450,
         "artist": "歐陽菲菲",
-        "title": "3d",
+        "title": "熱情的沙漠",
         "vid": "wH0KMtK6YeM",
         "surname": "歐",
         "kid": ""
@@ -52861,7 +52861,7 @@ const mvDB = [
         "title": "煙火",
         "vid": "2s8S9yj7ym8",
         "surname": "郭",
-        "kid": ""
+        "kid": "MGbF8j7PabM"
     },
     {
         "id": 15466,
@@ -53205,7 +53205,7 @@ const mvDB = [
         "title": "慷慨",
         "vid": "_QpJlDoI-Cc",
         "surname": "曾",
-        "kid": ""
+        "kid": "k4gTVlUYXJA"
     },
     {
         "id": 15509,
@@ -53333,7 +53333,7 @@ const mvDB = [
         "title": "圓的圓的",
         "vid": "TtZwRK6cr6s",
         "surname": "江",
-        "kid": ""
+        "kid": "qRF161N3Tsc"
     },
     {
         "id": 15525,
@@ -53341,7 +53341,7 @@ const mvDB = [
         "title": "能不能看到我",
         "vid": "5LvMgocL_nk",
         "surname": "江",
-        "kid": ""
+        "kid": "aOl0yl3CDNA"
     },
     {
         "id": 15526,
@@ -53413,12 +53413,12 @@ const mvDB = [
         "title": "繞",
         "vid": "NwwuIJBH7Bg",
         "surname": "江",
-        "kid": ""
+        "kid": "bLFC1NESo28"
     },
     {
         "id": 15535,
         "artist": "艾怡良",
-        "title": "morrison馬仕釗",
+        "title": "j.sheon",
         "vid": "7Y4k1fDIVjs",
         "surname": "艾",
         "kid": ""
@@ -53429,7 +53429,7 @@ const mvDB = [
         "title": "寂寞無害",
         "vid": "yFJ3So9kvEE",
         "surname": "艾",
-        "kid": "qoWfnqH7W44"
+        "kid": "R0aW3rj4rVE"
     },
     {
         "id": 15537,
@@ -53437,7 +53437,7 @@ const mvDB = [
         "title": "給朱利安",
         "vid": "_jOAUWhSQI0",
         "surname": "艾",
-        "kid": ""
+        "kid": "55YzL3h0--k"
     },
     {
         "id": 15538,
@@ -53469,7 +53469,7 @@ const mvDB = [
         "title": "對的人",
         "vid": "dNr_yUBSDmI",
         "surname": "戴",
-        "kid": "xU34EttruLI"
+        "kid": "dNr_yUBSDmI"
     },
     {
         "id": 15542,
@@ -53485,7 +53485,7 @@ const mvDB = [
         "title": "對的人",
         "vid": "fcLPFchVP9g",
         "surname": "戴",
-        "kid": "xU34EttruLI"
+        "kid": "dNr_yUBSDmI"
     },
     {
         "id": 15544,
@@ -53493,7 +53493,7 @@ const mvDB = [
         "title": "醒了",
         "vid": "ojCtmyGZY_Q",
         "surname": "戴",
-        "kid": ""
+        "kid": "bJPrXZTrCmk"
     },
     {
         "id": 15545,
@@ -53669,7 +53669,7 @@ const mvDB = [
         "title": "鄰居的耳朵",
         "vid": "3p3TVFaXbgI",
         "surname": "柯",
-        "kid": ""
+        "kid": "D4eGxAPGSgc"
     },
     {
         "id": 15567,
@@ -53693,7 +53693,7 @@ const mvDB = [
         "title": "愛我",
         "vid": "BM4Rnjspqp8",
         "surname": "柯",
-        "kid": ""
+        "kid": "BM4Rnjspqp8"
     },
     {
         "id": 15570,
@@ -53701,7 +53701,7 @@ const mvDB = [
         "title": "河流",
         "vid": "V5Tuf5s9iK8",
         "surname": "柯",
-        "kid": ""
+        "kid": "V5Tuf5s9iK8"
     },
     {
         "id": 15571,
@@ -53709,7 +53709,7 @@ const mvDB = [
         "title": "斷了線",
         "vid": "2vVSH2zGE_c",
         "surname": "柯",
-        "kid": ""
+        "kid": "2vVSH2zGE_c"
     },
     {
         "id": 15572,
@@ -53717,7 +53717,7 @@ const mvDB = [
         "title": "怕你不了解",
         "vid": "LqDduuHfiBc",
         "surname": "柯",
-        "kid": ""
+        "kid": "LqDduuHfiBc"
     },
     {
         "id": 15573,
@@ -53725,7 +53725,7 @@ const mvDB = [
         "title": "擁抱我",
         "vid": "j8iyc0FDw4E",
         "surname": "柯",
-        "kid": ""
+        "kid": "j8iyc0FDw4E"
     },
     {
         "id": 15574,
@@ -53733,7 +53733,7 @@ const mvDB = [
         "title": "在秋天醒來",
         "vid": "Ohxh88aYNQc",
         "surname": "柯",
-        "kid": ""
+        "kid": "Ohxh88aYNQc"
     },
     {
         "id": 15575,
@@ -53741,7 +53741,7 @@ const mvDB = [
         "title": "思念綿綿",
         "vid": "wdNIHmn0OAw",
         "surname": "柯",
-        "kid": ""
+        "kid": "wdNIHmn0OAw"
     },
     {
         "id": 15576,
@@ -53749,7 +53749,7 @@ const mvDB = [
         "title": "她在睡前哭泣",
         "vid": "lFZRvwAffmo",
         "surname": "柯",
-        "kid": ""
+        "kid": "lFZRvwAffmo"
     },
     {
         "id": 15577,
@@ -53757,7 +53757,7 @@ const mvDB = [
         "title": "謝謝你讓我這麼愛你",
         "vid": "7ba82RO4Ewk",
         "surname": "柯",
-        "kid": ""
+        "kid": "050IX_PGgCM"
     },
     {
         "id": 15578,
@@ -53765,7 +53765,7 @@ const mvDB = [
         "title": "李玟她在睡前哭泣",
         "vid": "G0Gus5kUuaE",
         "surname": "柯",
-        "kid": ""
+        "kid": "G0Gus5kUuaE"
     },
     {
         "id": 15579,
@@ -53821,7 +53821,7 @@ const mvDB = [
         "title": "孩子氣",
         "vid": "wnacmpROGtU",
         "surname": "萬",
-        "kid": ""
+        "kid": "jDpORCas15c"
     },
     {
         "id": 15586,
@@ -53845,7 +53845,7 @@ const mvDB = [
         "title": "流浪的小孩",
         "vid": "Ibf3RiX0Rh0",
         "surname": "伊",
-        "kid": ""
+        "kid": "8VolUk6qJk0"
     },
     {
         "id": 15589,
@@ -53861,7 +53861,7 @@ const mvDB = [
         "title": "螢火蟲",
         "vid": "7baTI3S7Et4",
         "surname": "伊",
-        "kid": ""
+        "kid": "-OaW8oJ5Ia4"
     },
     {
         "id": 15591,
@@ -53869,7 +53869,7 @@ const mvDB = [
         "title": "悲傷茱麗葉",
         "vid": "1Ey1jWwVa0Y",
         "surname": "伊",
-        "kid": ""
+        "kid": "1Ey1jWwVa0Y"
     },
     {
         "id": 15592,
@@ -53901,7 +53901,7 @@ const mvDB = [
         "title": "說不出的快活",
         "vid": "oZISbeU051o",
         "surname": "伊",
-        "kid": ""
+        "kid": "flcafc0SjKQ"
     },
     {
         "id": 15596,
@@ -53962,7 +53962,7 @@ const mvDB = [
     {
         "id": 15603,
         "artist": "伊能靜",
-        "title": "annie yi",
+        "title": "悲傷茱麗葉sad",
         "vid": "fxFhXn01fZ0",
         "surname": "伊",
         "kid": ""
@@ -54013,12 +54013,12 @@ const mvDB = [
         "title": "你存在",
         "vid": "_fQEVFOFXS0",
         "surname": "梁",
-        "kid": ""
+        "kid": "cwsgTXB_tyY"
     },
     {
         "id": 15610,
         "artist": "梁文音",
-        "title": "媽咪的男朋友",
+        "title": "每一次戀愛",
         "vid": "yFQrHCyS2ZQ",
         "surname": "梁",
         "kid": ""
@@ -54165,7 +54165,7 @@ const mvDB = [
         "title": "激情過後",
         "vid": "1rpbv_mcBWc",
         "surname": "張",
-        "kid": "4OZe8lTMbhk"
+        "kid": "jLa77Tc5NEo"
     },
     {
         "id": 15629,
@@ -54194,7 +54194,7 @@ const mvDB = [
     {
         "id": 15632,
         "artist": "張清芳",
-        "title": "再別康橋",
+        "title": "ktv",
         "vid": "88lKbsKfq8M",
         "surname": "張",
         "kid": ""
@@ -54221,7 +54221,7 @@ const mvDB = [
         "title": "神鵰俠侶",
         "vid": "1LBNRO5EyzE",
         "surname": "范",
-        "kid": ""
+        "kid": "Wth2qp5VWUs"
     },
     {
         "id": 15636,
@@ -54245,7 +54245,7 @@ const mvDB = [
         "title": "不敗的戀人",
         "vid": "cOeVO4k4ByY",
         "surname": "徐",
-        "kid": ""
+        "kid": "Yc98JiaiUSA"
     },
     {
         "id": 15639,
@@ -54298,10 +54298,10 @@ const mvDB = [
     {
         "id": 15645,
         "artist": "林慧萍",
-        "title": "超高無損音質",
+        "title": "情難枕",
         "vid": "bAfPC_qAPsw",
         "surname": "林",
-        "kid": ""
+        "kid": "iFaf9yDJf_4"
     },
     {
         "id": 15646,
@@ -54394,7 +54394,7 @@ const mvDB = [
     {
         "id": 15657,
         "artist": "張艾嘉",
-        "title": "ktv-張艾嘉-童年",
+        "title": "ktv",
         "vid": "1Hn5inD7JX0",
         "surname": "張",
         "kid": ""
@@ -54418,7 +54418,7 @@ const mvDB = [
     {
         "id": 15660,
         "artist": "張艾嘉",
-        "title": "李宗盛&",
+        "title": "因為寂寞",
         "vid": "tAv4_8MCWDU",
         "surname": "張",
         "kid": ""
@@ -54597,7 +54597,7 @@ const mvDB = [
         "title": "我悄悄蒙上你的眼睛",
         "vid": "po5c4nJx3Vk",
         "surname": "陳",
-        "kid": ""
+        "kid": "ZHVkP4JqHOg"
     },
     {
         "id": 15683,
@@ -54605,7 +54605,7 @@ const mvDB = [
         "title": "雨傘的故事",
         "vid": "LiNH0nX_83M",
         "surname": "陳",
-        "kid": ""
+        "kid": "IDtQRTT9HBA"
     },
     {
         "id": 15684,
@@ -54613,7 +54613,7 @@ const mvDB = [
         "title": "小軒",
         "vid": "Eo_wANvBq1M",
         "surname": "陳",
-        "kid": ""
+        "kid": "Eo_wANvBq1M"
     },
     {
         "id": 15685,
@@ -54637,12 +54637,12 @@ const mvDB = [
         "title": "誰說我不在乎",
         "vid": "3YLOMMJNEKA",
         "surname": "陳",
-        "kid": ""
+        "kid": "PqW1TGzdpn4"
     },
     {
         "id": 15688,
         "artist": "陳艾湄",
-        "title": "從mary到sunny和ivory",
+        "title": "我悄悄蒙上你的眼睛『』",
         "vid": "0qeiQrtrzPA",
         "surname": "陳",
         "kid": ""
@@ -54653,7 +54653,7 @@ const mvDB = [
         "title": "那種心跳的感覺",
         "vid": "3T9KefdFPZ8",
         "surname": "陳",
-        "kid": ""
+        "kid": "I13IOJ9zAX4"
     },
     {
         "id": 15690,
@@ -54709,7 +54709,7 @@ const mvDB = [
         "title": "a love theme",
         "vid": "kj7HrAKlTKY",
         "surname": "O",
-        "kid": ""
+        "kid": "OEvsJPekIiU"
     },
     {
         "id": 15697,
@@ -54717,7 +54717,7 @@ const mvDB = [
         "title": "等等",
         "vid": "CO2-TX6_ZFU",
         "surname": "O",
-        "kid": ""
+        "kid": "TrGquuNdzrc"
     },
     {
         "id": 15698,
@@ -54725,7 +54725,7 @@ const mvDB = [
         "title": "不變",
         "vid": "O_p5cQ4i1uc",
         "surname": "O",
-        "kid": ""
+        "kid": "cVLn2QmJ1HM"
     },
     {
         "id": 15699,
@@ -54765,7 +54765,7 @@ const mvDB = [
         "title": "海枯石爛",
         "vid": "b5EFKNmeovM",
         "surname": "O",
-        "kid": ""
+        "kid": "b5EFKNmeovM"
     },
     {
         "id": 15704,
@@ -54773,7 +54773,7 @@ const mvDB = [
         "title": "you and me",
         "vid": "3sre1IM0pIU",
         "surname": "O",
-        "kid": ""
+        "kid": "yIOBSrBscrA"
     },
     {
         "id": 15705,
@@ -54781,7 +54781,7 @@ const mvDB = [
         "title": "我願意",
         "vid": "AlccUKnfnpo",
         "surname": "O",
-        "kid": ""
+        "kid": "GBTiir9rj1A"
     },
     {
         "id": 15706,
@@ -54789,7 +54789,7 @@ const mvDB = [
         "title": "ready for love",
         "vid": "ukPPYtu8m9U",
         "surname": "O",
-        "kid": ""
+        "kid": "b_J-ifpiIfM"
     },
     {
         "id": 15707,
@@ -54797,7 +54797,7 @@ const mvDB = [
         "title": "如燕",
         "vid": "rnX00KoNf2I",
         "surname": "O",
-        "kid": "DW1Jz9Qxtzg"
+        "kid": "rsx1y44bFEc"
     },
     {
         "id": 15708,
@@ -54821,7 +54821,7 @@ const mvDB = [
         "title": "o",
         "vid": "5k71Ueu4wG8",
         "surname": "O",
-        "kid": "DW1Jz9Qxtzg"
+        "kid": "b_J-ifpiIfM"
     },
     {
         "id": 15711,
@@ -54837,12 +54837,12 @@ const mvDB = [
         "title": "小娘惹",
         "vid": "QTUrFbm34XY",
         "surname": "O",
-        "kid": "3TurwVQEAK4"
+        "kid": "QTUrFbm34XY"
     },
     {
         "id": 15713,
         "artist": "Olivia Ong",
-        "title": "killing me softly with his song",
+        "title": "killing me softly  his song",
         "vid": "UAlkgPXZiew",
         "surname": "O",
         "kid": ""
@@ -54901,7 +54901,7 @@ const mvDB = [
         "title": "愛我好嗎",
         "vid": "_WlIIw4KhMw",
         "surname": "卓",
-        "kid": ""
+        "kid": "cDA2RES-Teo"
     },
     {
         "id": 15721,
@@ -54917,7 +54917,7 @@ const mvDB = [
         "title": "一句話",
         "vid": "q6lU3NIfwyQ",
         "surname": "卓",
-        "kid": ""
+        "kid": "djmgc_SOZiQ"
     },
     {
         "id": 15723,
@@ -55042,7 +55042,7 @@ const mvDB = [
     {
         "id": 15738,
         "artist": "詹雅雯",
-        "title": "一個人的心事",
+        "title": "一個人的心事 / 詹雅雯『 官方mv 』",
         "vid": "FHO2LNz3ZYs",
         "surname": "詹",
         "kid": ""
@@ -55093,7 +55093,7 @@ const mvDB = [
         "title": "要發達",
         "vid": "LZN266wFeP8",
         "surname": "謝",
-        "kid": ""
+        "kid": "LZN266wFeP8"
     },
     {
         "id": 15745,
@@ -55117,7 +55117,7 @@ const mvDB = [
         "title": "一級棒",
         "vid": "EJmnIltUlLw",
         "surname": "謝",
-        "kid": ""
+        "kid": "EJmnIltUlLw"
     },
     {
         "id": 15748,
@@ -55149,7 +55149,7 @@ const mvDB = [
         "title": "月彎彎",
         "vid": "iysQ6nzofn0",
         "surname": "謝",
-        "kid": ""
+        "kid": "iysQ6nzofn0"
     },
     {
         "id": 15752,
@@ -55290,7 +55290,7 @@ const mvDB = [
     {
         "id": 15769,
         "artist": "鄧妙華",
-        "title": "歌譜版",
+        "title": "牽引24bit",
         "vid": "EmAHH69Ta24",
         "surname": "鄧",
         "kid": ""
@@ -55306,7 +55306,7 @@ const mvDB = [
     {
         "id": 15771,
         "artist": "鄧妙華",
-        "title": "你歌伴唱+原聲",
+        "title": "你歌+原聲",
         "vid": "QkVZS7Ur3Kc",
         "surname": "鄧",
         "kid": ""
@@ -55370,7 +55370,7 @@ const mvDB = [
     {
         "id": 15779,
         "artist": "鄧妙華",
-        "title": "經典成名曲牽引",
+        "title": "成名曲～牽引",
         "vid": "NYe5-a7h6P4",
         "surname": "鄧",
         "kid": ""
@@ -55394,7 +55394,7 @@ const mvDB = [
     {
         "id": 15782,
         "artist": "王詩安",
-        "title": "愛不需要裝乖",
+        "title": "謝和弦",
         "vid": "QOjR0s2Wk30",
         "surname": "王",
         "kid": ""
@@ -55405,7 +55405,7 @@ const mvDB = [
         "title": "愛存在",
         "vid": "Qu1ZTCEw6wg",
         "surname": "王",
-        "kid": ""
+        "kid": "Cjp0vGmeTRE"
     },
     {
         "id": 15784,
@@ -55413,7 +55413,7 @@ const mvDB = [
         "title": "早熟",
         "vid": "xnYRxKV1ZM0",
         "surname": "王",
-        "kid": ""
+        "kid": "xnYRxKV1ZM0"
     },
     {
         "id": 15785,
@@ -55429,7 +55429,7 @@ const mvDB = [
         "title": "你好嗎",
         "vid": "ZuvLtTAsbGc",
         "surname": "王",
-        "kid": ""
+        "kid": "vJzgWwWRIe0"
     },
     {
         "id": 15787,
@@ -55573,7 +55573,7 @@ const mvDB = [
         "title": "蝶戀",
         "vid": "aHGWAN2BSzA",
         "surname": "魏",
-        "kid": ""
+        "kid": "erOnI92kbsk"
     },
     {
         "id": 15805,
@@ -55658,7 +55658,7 @@ const mvDB = [
     {
         "id": 15815,
         "artist": "葉璦菱",
-        "title": "永遠抹凍親像你台語標誌+版c",
+        "title": "永遠抹凍親像你標誌+c",
         "vid": "uoFl_zOI-8Y",
         "surname": "葉",
         "kid": ""
@@ -55725,7 +55725,7 @@ const mvDB = [
         "title": "愛的生存之道",
         "vid": "kBlUJD858N4",
         "surname": "吳",
-        "kid": ""
+        "kid": "kBlUJD858N4"
     },
     {
         "id": 15824,
@@ -55757,7 +55757,7 @@ const mvDB = [
         "title": "重遊舊地",
         "vid": "TSmS1o3rK4k",
         "surname": "吳",
-        "kid": ""
+        "kid": "YFvR7ELEq4g"
     },
     {
         "id": 15828,
@@ -55765,7 +55765,7 @@ const mvDB = [
         "title": "你說呢what",
         "vid": "Ofx5N_BU9aY",
         "surname": "吳",
-        "kid": ""
+        "kid": "Ofx5N_BU9aY"
     },
     {
         "id": 15829,
@@ -55834,7 +55834,7 @@ const mvDB = [
     {
         "id": 15837,
         "artist": "沈雁",
-        "title": "心串串　心蹦蹦　臉兒紅　都是為了你",
+        "title": "一串心",
         "vid": "7lQ30X5NXKw",
         "surname": "沈",
         "kid": ""
@@ -55906,7 +55906,7 @@ const mvDB = [
     {
         "id": 15846,
         "artist": "黃霄雲",
-        "title": "只有我守著安靜的沙漠",
+        "title": "煙火裡的塵埃『』",
         "vid": "_eHVE7GJ7lc",
         "surname": "黃",
         "kid": ""
@@ -55933,7 +55933,7 @@ const mvDB = [
         "title": "還可以愛嗎",
         "vid": "8rJ4u6oHoA0",
         "surname": "黃",
-        "kid": ""
+        "kid": "frjJtGpikzQ"
     },
     {
         "id": 15850,
@@ -55957,7 +55957,7 @@ const mvDB = [
         "title": "要不然我們就這樣一萬年",
         "vid": "CukBsE9g1fU",
         "surname": "黃",
-        "kid": ""
+        "kid": "QOyTG-x2Dzo"
     },
     {
         "id": 15853,
@@ -55973,12 +55973,12 @@ const mvDB = [
         "title": "左手指月",
         "vid": "VoSVmrwlvMU",
         "surname": "黃",
-        "kid": ""
+        "kid": "0ravHJWm_bM"
     },
     {
         "id": 15855,
         "artist": "黃霄雲",
-        "title": "還能做些什麼事掙扎，才不會顯得尷尬。",
+        "title": "還可以愛嗎『』",
         "vid": "TLrRtCaDoOY",
         "surname": "黃",
         "kid": ""
@@ -55994,10 +55994,10 @@ const mvDB = [
     {
         "id": 15857,
         "artist": "黃霄雲",
-        "title": "黃霄雲",
+        "title": "要不然我們就這樣一萬年",
         "vid": "q07EmkvztQM",
         "surname": "黃",
-        "kid": ""
+        "kid": "QOyTG-x2Dzo"
     },
     {
         "id": 15858,
@@ -56005,12 +56005,12 @@ const mvDB = [
         "title": "長月燼明",
         "vid": "BcSebH5e80Q",
         "surname": "黃",
-        "kid": ""
+        "kid": "QOyTG-x2Dzo"
     },
     {
         "id": 15859,
         "artist": "黃霄雲",
-        "title": "問自己一句我在怕什麼？害怕結果還是害怕錯過？",
+        "title": "打開『』",
         "vid": "8SsCtoPhCuY",
         "surname": "黃",
         "kid": ""
@@ -56026,10 +56026,10 @@ const mvDB = [
     {
         "id": 15861,
         "artist": "黃霄雲",
-        "title": "超高無損音質",
+        "title": "左手指月",
         "vid": "nPVTTyB2uFI",
         "surname": "黃",
-        "kid": ""
+        "kid": "0ravHJWm_bM"
     },
     {
         "id": 15862,
@@ -56037,7 +56037,7 @@ const mvDB = [
         "title": "我們",
         "vid": "vhHKfExTdK4",
         "surname": "黃",
-        "kid": ""
+        "kid": "j5yTGYN6gEc"
     },
     {
         "id": 15863,
@@ -56058,7 +56058,7 @@ const mvDB = [
     {
         "id": 15865,
         "artist": "陳雪凝",
-        "title": "子彈在我心頭上了膛，請告訴我今後怎麼扛，遍體鱗傷",
+        "title": "你的酒館對我打了烊『』",
         "vid": "7L6oHbJRK8U",
         "surname": "陳",
         "kid": ""
@@ -56098,7 +56098,7 @@ const mvDB = [
     {
         "id": 15870,
         "artist": "陳雪凝",
-        "title": "說不痛苦那是假的，畢竟我的心也是肉做的。",
+        "title": "綠色『』",
         "vid": "WY6nQK7zbsk",
         "surname": "陳",
         "kid": ""
@@ -56109,7 +56109,7 @@ const mvDB = [
         "title": "你的酒館對我打了烊",
         "vid": "ynaARgs_yvQ",
         "surname": "陳",
-        "kid": ""
+        "kid": "b2kndN8tDu8"
     },
     {
         "id": 15872,
@@ -56133,7 +56133,7 @@ const mvDB = [
         "title": "綠色",
         "vid": "_wSp6umHC4I",
         "surname": "陳",
-        "kid": ""
+        "kid": "nMCC4xuX4v8"
     },
     {
         "id": 15875,
@@ -56154,7 +56154,7 @@ const mvDB = [
     {
         "id": 15877,
         "artist": "陳雪凝",
-        "title": "|",
+        "title": "手指和嘴愛上煙『』♫",
         "vid": "wqutRnQ3_ec",
         "surname": "陳",
         "kid": ""
@@ -56170,7 +56170,7 @@ const mvDB = [
     {
         "id": 15879,
         "artist": "陳雪凝",
-        "title": "若不是你突然闖進",
+        "title": "綠色『』",
         "vid": "Cm--Wa43JnU",
         "surname": "陳",
         "kid": ""
@@ -56186,7 +56186,7 @@ const mvDB = [
     {
         "id": 15881,
         "artist": "陳雪凝",
-        "title": "沒有人會心疼我",
+        "title": "沒有人心疼我『』",
         "vid": "pwmgsr4opeM",
         "surname": "陳",
         "kid": ""
@@ -56194,7 +56194,7 @@ const mvDB = [
     {
         "id": 15882,
         "artist": "阿冗",
-        "title": "開始的傾心交談",
+        "title": "與我無關『』",
         "vid": "KT3c5-GqC7Q",
         "surname": "阿",
         "kid": ""
@@ -56210,7 +56210,7 @@ const mvDB = [
     {
         "id": 15884,
         "artist": "阿冗",
-        "title": "也許我只能沉默，眼淚濕潤眼眶可又不甘懦弱。",
+        "title": "你的答案『』",
         "vid": "ye4jAQ0uxcQ",
         "surname": "阿",
         "kid": ""
@@ -56226,7 +56226,7 @@ const mvDB = [
     {
         "id": 15886,
         "artist": "阿冗",
-        "title": "創作",
+        "title": "你的答案",
         "vid": "E_4bt2Ci1Nk",
         "surname": "阿",
         "kid": ""
@@ -56242,7 +56242,7 @@ const mvDB = [
     {
         "id": 15888,
         "artist": "阿冗",
-        "title": "超高無損音質",
+        "title": "你的答案",
         "vid": "Hl3L9_VK7wM",
         "surname": "阿",
         "kid": ""
@@ -56258,7 +56258,7 @@ const mvDB = [
     {
         "id": 15890,
         "artist": "阿冗",
-        "title": "pinyinenglish translation subtitle",
+        "title": "english translation subtitle",
         "vid": "n6im9cLaCIg",
         "surname": "阿",
         "kid": ""
@@ -56314,7 +56314,7 @@ const mvDB = [
     {
         "id": 15897,
         "artist": "阿冗",
-        "title": "我要多遺憾我要多孤單",
+        "title": "所有的不甘『』",
         "vid": "xn4sFlrmSyE",
         "surname": "阿",
         "kid": ""
@@ -56322,7 +56322,7 @@ const mvDB = [
     {
         "id": 15898,
         "artist": "阿冗",
-        "title": "我把愛恨留在這天地，你將生命賦予了期許，我在這裡等你不再問結局。",
+        "title": "喃喃自問『』",
         "vid": "1dKJimjDJBs",
         "surname": "阿",
         "kid": ""
@@ -56330,7 +56330,7 @@ const mvDB = [
     {
         "id": 15899,
         "artist": "阿冗",
-        "title": "|",
+        "title": "瀟灑佳人淡淡妝",
         "vid": "VAxZeCt_WXU",
         "surname": "阿",
         "kid": ""
@@ -56338,7 +56338,7 @@ const mvDB = [
     {
         "id": 15900,
         "artist": "阿冗",
-        "title": "流浪地球",
+        "title": "ktv",
         "vid": "0cUWQqhtP1g",
         "surname": "阿",
         "kid": ""
@@ -56429,7 +56429,7 @@ const mvDB = [
         "title": "恆溫",
         "vid": "O381ioChc-I",
         "surname": "孫",
-        "kid": ""
+        "kid": "H0wWY1-OMOo"
     },
     {
         "id": 15912,
@@ -56578,7 +56578,7 @@ const mvDB = [
     {
         "id": 15930,
         "artist": "艾薇",
-        "title": "lee",
+        "title": "艾文",
         "vid": "NBp0DatrviY",
         "surname": "艾",
         "kid": ""
@@ -56717,7 +56717,7 @@ const mvDB = [
         "title": "不枉",
         "vid": "mk_iQkU9gaA",
         "surname": "汪",
-        "kid": ""
+        "kid": "8VHKzrovZ9g"
     },
     {
         "id": 15948,
@@ -56733,7 +56733,7 @@ const mvDB = [
         "title": "海闊天空",
         "vid": "jlKxv40MCIw",
         "surname": "汪",
-        "kid": ""
+        "kid": "jJstvFg7Y2E"
     },
     {
         "id": 15950,
@@ -56749,7 +56749,7 @@ const mvDB = [
         "title": "檸檬草的味道",
         "vid": "5LUPE5qiP4I",
         "surname": "汪",
-        "kid": ""
+        "kid": "KaTzJ4Hw2OM"
     },
     {
         "id": 15952,
@@ -56813,7 +56813,7 @@ const mvDB = [
         "title": "消失的她",
         "vid": "TEXY7u2YSyA",
         "surname": "張",
-        "kid": "R45zcJGA9l0"
+        "kid": "XOx3keIYdJI"
     },
     {
         "id": 15960,
@@ -56898,7 +56898,7 @@ const mvDB = [
     {
         "id": 15970,
         "artist": "張靚穎",
-        "title": "正式上線",
+        "title": "jane zhang",
         "vid": "H6QwKv3Pw0g",
         "surname": "張",
         "kid": ""
@@ -56954,7 +56954,7 @@ const mvDB = [
     {
         "id": 15977,
         "artist": "張靚穎",
-        "title": "動態歌詞",
+        "title": "灼灼韶華",
         "vid": "45gRsCJPFyg",
         "surname": "張",
         "kid": ""
@@ -57293,7 +57293,7 @@ const mvDB = [
         "title": "彩色的黑",
         "vid": "KpbUoxC8NPU",
         "surname": "吉",
-        "kid": ""
+        "kid": "Sh8cjhIX_hY"
     },
     {
         "id": 16020,
@@ -57333,7 +57333,7 @@ const mvDB = [
         "title": "問風",
         "vid": "NYgcBxfRWQA",
         "surname": "吉",
-        "kid": ""
+        "kid": "NYgcBxfRWQA"
     },
     {
         "id": 16025,
@@ -57349,7 +57349,7 @@ const mvDB = [
         "title": "千年",
         "vid": "mBKXARJlhbc",
         "surname": "吉",
-        "kid": ""
+        "kid": "hs7ZgdY_bVY"
     },
     {
         "id": 16027,
@@ -57413,7 +57413,7 @@ const mvDB = [
         "title": "錯的人",
         "vid": "IqNbB5iuZXs",
         "surname": "吉",
-        "kid": ""
+        "kid": "D5U4YrM0Yj0"
     },
     {
         "id": 16035,
@@ -57469,7 +57469,7 @@ const mvDB = [
         "title": "她來聽我的演唱會",
         "vid": "yVP9jSJtITM",
         "surname": "希",
-        "kid": ""
+        "kid": "FLmryA5h4Sg"
     },
     {
         "id": 16042,
@@ -57501,7 +57501,7 @@ const mvDB = [
         "title": "怎麼會忘記你",
         "vid": "TPKlti6St6s",
         "surname": "希",
-        "kid": ""
+        "kid": "QWGiHrBsCLg"
     },
     {
         "id": 16046,
@@ -57509,7 +57509,7 @@ const mvDB = [
         "title": "怎麼會忘記你",
         "vid": "Kv35G7r-Cxg",
         "surname": "希",
-        "kid": ""
+        "kid": "QWGiHrBsCLg"
     },
     {
         "id": 16047,
@@ -57522,10 +57522,10 @@ const mvDB = [
     {
         "id": 16048,
         "artist": "希林娜依高",
-        "title": "2023年央視春晚",
+        "title": "是媽媽是女兒",
         "vid": "_GeSlkUsuLA",
         "surname": "希",
-        "kid": ""
+        "kid": "Qq9LC7SOy14"
     },
     {
         "id": 16049,
@@ -57581,7 +57581,7 @@ const mvDB = [
         "title": "戒不掉你的愛",
         "vid": "-UQNYJb-LaU",
         "surname": "閻",
-        "kid": ""
+        "kid": "-UQNYJb-LaU"
     },
     {
         "id": 16056,
@@ -57597,7 +57597,7 @@ const mvDB = [
         "title": "追婚日記",
         "vid": "lN-GUBIMDNA",
         "surname": "閻",
-        "kid": ""
+        "kid": "PZGwZwGQTlk"
     },
     {
         "id": 16058,
@@ -57621,7 +57621,7 @@ const mvDB = [
         "title": "我有我自己",
         "vid": "TZLzLR2PwP4",
         "surname": "閻",
-        "kid": ""
+        "kid": "aUlXukPgQc4"
     },
     {
         "id": 16061,
@@ -57653,7 +57653,7 @@ const mvDB = [
         "title": "不再可以",
         "vid": "w9zz36TqBKs",
         "surname": "閻",
-        "kid": ""
+        "kid": "ufNwy-pWQn4"
     },
     {
         "id": 16065,
@@ -57709,7 +57709,7 @@ const mvDB = [
         "title": "再見的時候",
         "vid": "WkWkGrcyCzw",
         "surname": "洪",
-        "kid": ""
+        "kid": "hQj0m9nx4do"
     },
     {
         "id": 16072,
@@ -57717,7 +57717,7 @@ const mvDB = [
         "title": "yu hung",
         "vid": "FL_HDNJ92y4",
         "surname": "洪",
-        "kid": ""
+        "kid": "1jcxTAb5W0M"
     },
     {
         "id": 16073,
@@ -57730,18 +57730,18 @@ const mvDB = [
     {
         "id": 16074,
         "artist": "洪佩瑜",
-        "title": "非完整",
+        "title": "踮起腳尖愛",
         "vid": "4gG-_HxNy_s",
         "surname": "洪",
-        "kid": ""
+        "kid": "GR32rAxvvjY"
     },
     {
         "id": 16075,
         "artist": "洪佩瑜",
-        "title": "hpy version",
+        "title": "yu hung",
         "vid": "xTi6GYxd7Dk",
         "surname": "洪",
-        "kid": ""
+        "kid": "1jcxTAb5W0M"
     },
     {
         "id": 16076,
@@ -57765,7 +57765,7 @@ const mvDB = [
         "title": "yu hung",
         "vid": "-fZ8iZ57JZk",
         "surname": "洪",
-        "kid": ""
+        "kid": "1jcxTAb5W0M"
     },
     {
         "id": 16079,
@@ -57773,12 +57773,12 @@ const mvDB = [
         "title": "想踮起腳尖找尋愛",
         "vid": "RH_l5wNskVw",
         "surname": "洪",
-        "kid": ""
+        "kid": "RH_l5wNskVw"
     },
     {
         "id": 16080,
         "artist": "洪佩瑜",
-        "title": "原聲原影",
+        "title": "左伴右唱",
         "vid": "wTQIRkhy4oQ",
         "surname": "洪",
         "kid": ""
@@ -57789,7 +57789,7 @@ const mvDB = [
         "title": "踮起腳尖愛",
         "vid": "wbPBXa9T30g",
         "surname": "洪",
-        "kid": ""
+        "kid": "GR32rAxvvjY"
     },
     {
         "id": 16082,
@@ -57826,7 +57826,7 @@ const mvDB = [
     {
         "id": 16086,
         "artist": "趙露思",
-        "title": "2024美好奇妙夜",
+        "title": "you r",
         "vid": "Ay1ELgpta8c",
         "surname": "趙",
         "kid": ""
@@ -57837,7 +57837,7 @@ const mvDB = [
         "title": "you are my light",
         "vid": "i0WHH5hbSmg",
         "surname": "趙",
-        "kid": "MTPOJBmdd4Q"
+        "kid": "0qpmjEQreTA"
     },
     {
         "id": 16088,
@@ -57845,7 +57845,7 @@ const mvDB = [
         "title": "偷偷藏不住",
         "vid": "LUMyDexBxFo",
         "surname": "趙",
-        "kid": ""
+        "kid": "Nckju7t8qLI"
     },
     {
         "id": 16089,
@@ -57869,7 +57869,7 @@ const mvDB = [
         "title": "black veil bride |",
         "vid": "mT7ZLjaU0YY",
         "surname": "趙",
-        "kid": ""
+        "kid": "I02PdzW8VzA"
     },
     {
         "id": 16092,
@@ -57938,7 +57938,7 @@ const mvDB = [
     {
         "id": 16100,
         "artist": "方文琳",
-        "title": "、裘海正、巫啓賢👪",
+        "title": "飛揚的青春",
         "vid": "H0OK8JyG1NI",
         "surname": "方",
         "kid": ""
@@ -58021,7 +58021,7 @@ const mvDB = [
         "title": "下雨天",
         "vid": "mcukQIh3Xrc",
         "surname": "單",
-        "kid": ""
+        "kid": "6xOVpK_Pu_k"
     },
     {
         "id": 16111,
@@ -58029,7 +58029,7 @@ const mvDB = [
         "title": "永不失聯的愛",
         "vid": "88aefYpRk0w",
         "surname": "單",
-        "kid": ""
+        "kid": "fIzGgA4yG-Y"
     },
     {
         "id": 16112,
@@ -58045,7 +58045,7 @@ const mvDB = [
         "title": "續寫",
         "vid": "mnw0jRkQIck",
         "surname": "單",
-        "kid": "v3gTF6zIO5E"
+        "kid": "NToXuRXWaSA"
     },
     {
         "id": 16114,
@@ -58058,7 +58058,7 @@ const mvDB = [
     {
         "id": 16115,
         "artist": "單依純",
-        "title": "歌手2025·",
+        "title": "有趣",
         "vid": "xpV6Vzzf1l4",
         "surname": "單",
         "kid": ""
@@ -58074,7 +58074,7 @@ const mvDB = [
     {
         "id": 16117,
         "artist": "小阿七",
-        "title": "如果會有那麼一天",
+        "title": "和你路過婚紗店『』",
         "vid": "jucOS8BkMCI",
         "surname": "小",
         "kid": ""
@@ -58090,7 +58090,7 @@ const mvDB = [
     {
         "id": 16119,
         "artist": "小阿七",
-        "title": "後來你把我歸還人海",
+        "title": "從前說",
         "vid": "7io1L4AkXjU",
         "surname": "小",
         "kid": ""
@@ -58098,7 +58098,7 @@ const mvDB = [
     {
         "id": 16120,
         "artist": "小阿七",
-        "title": "我希望五十年以後，你還能在我左右。",
+        "title": "五十年以後",
         "vid": "0yCiG7XpZG0",
         "surname": "小",
         "kid": ""
@@ -58106,7 +58106,7 @@ const mvDB = [
     {
         "id": 16121,
         "artist": "小阿七",
-        "title": "|",
+        "title": "沒有你的旅程♫『』little",
         "vid": "LHOILLE536g",
         "surname": "小",
         "kid": ""
@@ -58122,7 +58122,7 @@ const mvDB = [
     {
         "id": 16123,
         "artist": "小阿七",
-        "title": "從前說",
+        "title": "從前說（ktv）",
         "vid": "g2XmkyHJC4k",
         "surname": "小",
         "kid": ""
@@ -58146,7 +58146,7 @@ const mvDB = [
     {
         "id": 16126,
         "artist": "小阿七",
-        "title": "版",
+        "title": "最美的瞬間",
         "vid": "oMCt-Rh0dcA",
         "surname": "小",
         "kid": ""
@@ -58178,7 +58178,7 @@ const mvDB = [
     {
         "id": 16130,
         "artist": "小阿七",
-        "title": "從前說 (國語中字)【小阿七】{你的婚禮 my love (2021)｝(movieclips) mv",
+        "title": "你的婚禮",
         "vid": "GhonsaPE4hI",
         "surname": "小",
         "kid": ""
@@ -58197,7 +58197,7 @@ const mvDB = [
         "title": "想和你看五月的晚霞",
         "vid": "ljd9ISixsWo",
         "surname": "陳",
-        "kid": ""
+        "kid": "ZmdNJd9_hwc"
     },
     {
         "id": 16133,
@@ -58205,7 +58205,7 @@ const mvDB = [
         "title": "我把我留在那了",
         "vid": "98NvPRSYGWg",
         "surname": "陳",
-        "kid": ""
+        "kid": "nIzTM9xeyg8"
     },
     {
         "id": 16134,
@@ -58221,7 +58221,7 @@ const mvDB = [
         "title": "短暫的愛過我",
         "vid": "jxNFqowwwCA",
         "surname": "陳",
-        "kid": ""
+        "kid": "5-mahkYwi04"
     },
     {
         "id": 16136,
@@ -58229,7 +58229,7 @@ const mvDB = [
         "title": "陪你到這",
         "vid": "GWO5pqEy-X0",
         "surname": "陳",
-        "kid": ""
+        "kid": "32M0GgPsYQo"
     },
     {
         "id": 16137,
@@ -58285,7 +58285,7 @@ const mvDB = [
         "title": "左邊的人",
         "vid": "C_URQRwSGmk",
         "surname": "陳",
-        "kid": ""
+        "kid": "Rt3mXryDnJE"
     },
     {
         "id": 16144,
@@ -58410,7 +58410,7 @@ const mvDB = [
     {
         "id": 16159,
         "artist": "花粥",
-        "title": "動態歌詞pinyin",
+        "title": "晴天和貓",
         "vid": "u3aM5gibtSs",
         "surname": "花",
         "kid": ""
@@ -58418,7 +58418,7 @@ const mvDB = [
     {
         "id": 16160,
         "artist": "花粥",
-        "title": "聽到你做個記號",
+        "title": "出山『』",
         "vid": "VGfAl8hBVVw",
         "surname": "花",
         "kid": ""
@@ -58442,7 +58442,7 @@ const mvDB = [
     {
         "id": 16163,
         "artist": "花粥",
-        "title": "是否還有人在耳邊給你忠告",
+        "title": "活該『』",
         "vid": "90LwEhQodzA",
         "surname": "花",
         "kid": ""
@@ -58490,7 +58490,7 @@ const mvDB = [
     {
         "id": 16169,
         "artist": "羊羊",
-        "title": "沈黙の魔女の隠しごと",
+        "title": "tvアニメ『』オープニング主題歌",
         "vid": "bVrPoCfMZCE",
         "surname": "羊",
         "kid": ""
@@ -58546,7 +58546,7 @@ const mvDB = [
     {
         "id": 16176,
         "artist": "羊羊",
-        "title": "|",
+        "title": "現在我『』♫",
         "vid": "qwsu88G96sA",
         "surname": "羊",
         "kid": ""
@@ -58554,7 +58554,7 @@ const mvDB = [
     {
         "id": 16177,
         "artist": "羊羊",
-        "title": "我只是盡力地去附和，多餘的我像是拼湊的。",
+        "title": "好像全世界都很快樂『』",
         "vid": "nBOGqSSs-IM",
         "surname": "羊",
         "kid": ""
@@ -58570,7 +58570,7 @@ const mvDB = [
     {
         "id": 16179,
         "artist": "羊羊",
-        "title": "想最後說一聲抱歉，就讓我在夢裡好好再想念你一遍。",
+        "title": "再想念你一遍『』",
         "vid": "yh7UlGD17Bw",
         "surname": "羊",
         "kid": ""
@@ -58605,7 +58605,7 @@ const mvDB = [
         "title": "問",
         "vid": "HgqlVxxJcls",
         "surname": "陳",
-        "kid": ""
+        "kid": "K6X-lyex1Cs"
     },
     {
         "id": 16184,
@@ -58613,7 +58613,7 @@ const mvDB = [
         "title": "滾滾紅塵",
         "vid": "qVm3GdOd2P8",
         "surname": "陳",
-        "kid": ""
+        "kid": "vQ1y7D78lD4"
     },
     {
         "id": 16185,
@@ -58629,12 +58629,12 @@ const mvDB = [
         "title": "情關",
         "vid": "To2Mcur-WzU",
         "surname": "陳",
-        "kid": ""
+        "kid": "RyvYeI_irBw"
     },
     {
         "id": 16187,
         "artist": "陳淑樺",
-        "title": "a版",
+        "title": "這樣愛你對不對",
         "vid": "wdU8CRJshEc",
         "surname": "陳",
         "kid": ""
@@ -58645,7 +58645,7 @@ const mvDB = [
         "title": "聰明糊塗心",
         "vid": "2U5XTaNVQ70",
         "surname": "陳",
-        "kid": ""
+        "kid": "LKCvQ0ueORg"
     },
     {
         "id": 16189,
@@ -58669,7 +58669,7 @@ const mvDB = [
         "title": "夢醒時分",
         "vid": "HN-Ze9vs6y0",
         "surname": "陳",
-        "kid": ""
+        "kid": "swViXe6X4jA"
     },
     {
         "id": 16192,
@@ -58813,12 +58813,12 @@ const mvDB = [
         "title": "飄洋過海來看你",
         "vid": "xP5bDQGXyw4",
         "surname": "娃",
-        "kid": ""
+        "kid": "u8bKwxifIR0"
     },
     {
         "id": 16210,
         "artist": "娃娃",
-        "title": "孤單布",
+        "title": "sunshine",
         "vid": "D7PEVEffqWA",
         "surname": "娃",
         "kid": ""
@@ -58858,7 +58858,7 @@ const mvDB = [
     {
         "id": 16215,
         "artist": "娃娃",
-        "title": "晴天",
+        "title": "黑澀會美眉",
         "vid": "5o0oL4sQPeA",
         "surname": "娃",
         "kid": ""
@@ -58946,7 +58946,7 @@ const mvDB = [
     {
         "id": 16226,
         "artist": "王靖雯",
-        "title": "2021中國好聲音",
+        "title": "說說話",
         "vid": "fFoeA4H6n1Q",
         "surname": "王",
         "kid": ""
@@ -58978,7 +58978,7 @@ const mvDB = [
     {
         "id": 16230,
         "artist": "王靖雯",
-        "title": "|",
+        "title": "謙讓『』♫",
         "vid": "fwd1EAbkGUU",
         "surname": "王",
         "kid": ""
@@ -58994,7 +58994,7 @@ const mvDB = [
     {
         "id": 16232,
         "artist": "王靖雯",
-        "title": "從前你穿過半座城市",
+        "title": "善變『』",
         "vid": "znlheCOVNuo",
         "surname": "王",
         "kid": ""
@@ -59018,7 +59018,7 @@ const mvDB = [
     {
         "id": 16235,
         "artist": "王靖雯",
-        "title": "感謝你也曾愛過我",
+        "title": "遺憾也值得『』",
         "vid": "SkJvXBNUJgE",
         "surname": "王",
         "kid": ""
@@ -59338,7 +59338,7 @@ const mvDB = [
     {
         "id": 16275,
         "artist": "竇靖童",
-        "title": "version 2",
+        "title": "2",
         "vid": "eX9e2_QTV2I",
         "surname": "竇",
         "kid": ""
@@ -59394,7 +59394,7 @@ const mvDB = [
     {
         "id": 16282,
         "artist": "竇靖童",
-        "title": "歌手音樂頻道",
+        "title": "blooming",
         "vid": "JOiUWyzVrdc",
         "surname": "竇",
         "kid": ""
@@ -59482,7 +59482,7 @@ const mvDB = [
     {
         "id": 16293,
         "artist": "韓晶",
-        "title": "不要用我的愛來傷害我，你知道我是多脆弱，我做錯了什麼你要懲罰我，如果這樣你還說愛我。",
+        "title": "不要用我的愛來傷害我『』",
         "vid": "aA7ozc-i8hM",
         "surname": "韓",
         "kid": ""
@@ -59621,7 +59621,7 @@ const mvDB = [
         "title": "至少還有你",
         "vid": "pQlAWZLOpgo",
         "surname": "也",
-        "kid": "vYOfb3lScas"
+        "kid": "0Sv46YDSKzI"
     },
     {
         "id": 16311,
@@ -59653,7 +59653,7 @@ const mvDB = [
         "title": "愛人錯過",
         "vid": "6D79CYTxvOM",
         "surname": "也",
-        "kid": "nna9ZhqyOzs"
+        "kid": "RxyVTL2XeRc"
     },
     {
         "id": 16315,
@@ -59661,7 +59661,7 @@ const mvDB = [
         "title": "如果可以",
         "vid": "8MG--WuNW1Y",
         "surname": "也",
-        "kid": "EQ1m6yu4-wk"
+        "kid": "FJ6UeySFpm4"
     },
     {
         "id": 16316,
@@ -59698,7 +59698,7 @@ const mvDB = [
     {
         "id": 16320,
         "artist": "趙乃吉",
-        "title": "你走那天天空明明沒下雨，我卻從此陷入長長的雨季，你不偏不倚",
+        "title": "雨季臆想『』",
         "vid": "R8O7jTWmNsk",
         "surname": "趙",
         "kid": ""
@@ -59714,7 +59714,7 @@ const mvDB = [
     {
         "id": 16322,
         "artist": "趙乃吉",
-        "title": "|",
+        "title": "當",
         "vid": "7H1DZyckZpY",
         "surname": "趙",
         "kid": ""
@@ -59730,7 +59730,7 @@ const mvDB = [
     {
         "id": 16324,
         "artist": "趙乃吉",
-        "title": "起霧了",
+        "title": "車窗上『』",
         "vid": "JA_Etw5YsEc",
         "surname": "趙",
         "kid": ""
@@ -59754,7 +59754,7 @@ const mvDB = [
     {
         "id": 16327,
         "artist": "趙乃吉",
-        "title": "回不去的就不要再說，反正錯都錯了我不會找理由去推脫",
+        "title": "錯都錯了",
         "vid": "S-RvIPuxQpU",
         "surname": "趙",
         "kid": ""
@@ -59762,7 +59762,7 @@ const mvDB = [
     {
         "id": 16328,
         "artist": "趙乃吉",
-        "title": "下雨了車窗上勾勒出我的心事，簡單的兩個字是我心動的開始。",
+        "title": "車窗上『』♫",
         "vid": "68-4EpUebQU",
         "surname": "趙",
         "kid": ""
@@ -59770,7 +59770,7 @@ const mvDB = [
     {
         "id": 16329,
         "artist": "趙乃吉",
-        "title": "有幸",
+        "title": "赴約『』",
         "vid": "uzjF3cXMUik",
         "surname": "趙",
         "kid": ""
@@ -59778,7 +59778,7 @@ const mvDB = [
     {
         "id": 16330,
         "artist": "趙乃吉",
-        "title": "你把所有誓言所有諾言藏在手中化成一把火",
+        "title": "最初的溫柔『』",
         "vid": "bv7NGxxErEg",
         "surname": "趙",
         "kid": ""
@@ -59794,7 +59794,7 @@ const mvDB = [
     {
         "id": 16332,
         "artist": "彈棉花的小花",
-        "title": "我沒想過後來會那麼愛你，當初對你也只是有點興趣，是我太大意",
+        "title": "成癮『』",
         "vid": "_Lf3oUaMq70",
         "surname": "彈",
         "kid": ""
@@ -59810,7 +59810,7 @@ const mvDB = [
     {
         "id": 16334,
         "artist": "彈棉花的小花",
-        "title": "|",
+        "title": "捨不得又如何『』♫",
         "vid": "fqkMeU4LCuo",
         "surname": "彈",
         "kid": ""
@@ -59834,7 +59834,7 @@ const mvDB = [
     {
         "id": 16337,
         "artist": "彈棉花的小花",
-        "title": "而你卻靠近了逼我們視線交錯，原地不動或向前走",
+        "title": "身騎白馬",
         "vid": "KShNVCTtkCo",
         "surname": "彈",
         "kid": ""
@@ -59842,7 +59842,7 @@ const mvDB = [
     {
         "id": 16338,
         "artist": "彈棉花的小花",
-        "title": "煙嗓版",
+        "title": "對你說",
         "vid": "6BiQww_NDro",
         "surname": "彈",
         "kid": ""
@@ -59858,7 +59858,7 @@ const mvDB = [
     {
         "id": 16340,
         "artist": "彈棉花的小花",
-        "title": "我愛你一片痴心",
+        "title": "頓啦愛你『』2023",
         "vid": "t5MZhTcsEVw",
         "surname": "彈",
         "kid": ""
@@ -59866,7 +59866,7 @@ const mvDB = [
     {
         "id": 16341,
         "artist": "彈棉花的小花",
-        "title": "小花版",
+        "title": "頓啦",
         "vid": "str1PnUUGjk",
         "surname": "彈",
         "kid": ""
@@ -59874,7 +59874,7 @@ const mvDB = [
     {
         "id": 16342,
         "artist": "彈棉花的小花",
-        "title": "女版",
+        "title": "成癮",
         "vid": "sHV2GDEu7a8",
         "surname": "彈",
         "kid": ""
@@ -59882,7 +59882,7 @@ const mvDB = [
     {
         "id": 16343,
         "artist": "彈棉花的小花",
-        "title": "還沒出口只剩嘆息",
+        "title": "我在人海遇見你『』",
         "vid": "G9tFyIymXxo",
         "surname": "彈",
         "kid": ""
@@ -59890,7 +59890,7 @@ const mvDB = [
     {
         "id": 16344,
         "artist": "彈棉花的小花",
-        "title": "讓你的天空只看見彩虹",
+        "title": "對你說『』",
         "vid": "0Qg4QclQE3o",
         "surname": "彈",
         "kid": ""
@@ -59906,7 +59906,7 @@ const mvDB = [
     {
         "id": 16346,
         "artist": "彈棉花的小花",
-        "title": "你輕輕地走過那在風雨花叢中",
+        "title": "最美的瞬間",
         "vid": "RW6oqOHhzDQ",
         "surname": "彈",
         "kid": ""
@@ -59930,7 +59930,7 @@ const mvDB = [
     {
         "id": 16349,
         "artist": "錘娜麗莎",
-        "title": "是不是我太笨",
+        "title": "我太笨『』",
         "vid": "J6UpuAwYYS8",
         "surname": "錘",
         "kid": ""
@@ -59962,7 +59962,7 @@ const mvDB = [
     {
         "id": 16353,
         "artist": "錘娜麗莎",
-        "title": "李川和錘娜麗莎，一對病友搭子，真正的靈魂伴侶！",
+        "title": "李川和，一對病友搭子，真正的靈魂伴侶！",
         "vid": "cdsiqo7ZD2M",
         "surname": "錘",
         "kid": ""
@@ -60042,7 +60042,7 @@ const mvDB = [
     {
         "id": 16363,
         "artist": "林小珂",
-        "title": "你給的雨那麼大",
+        "title": "你給的雨那麼大『』",
         "vid": "xd1s2spC9ZE",
         "surname": "林",
         "kid": ""
@@ -60050,7 +60050,7 @@ const mvDB = [
     {
         "id": 16364,
         "artist": "林小珂",
-        "title": "你知道我在等待",
+        "title": "最後等待『』",
         "vid": "H7YFWitbzac",
         "surname": "林",
         "kid": ""
@@ -60058,7 +60058,7 @@ const mvDB = [
     {
         "id": 16365,
         "artist": "林小珂",
-        "title": "動態歌詞",
+        "title": "八月新歌",
         "vid": "3AUB0Fwrb3c",
         "surname": "林",
         "kid": ""
@@ -60074,7 +60074,7 @@ const mvDB = [
     {
         "id": 16367,
         "artist": "林小珂",
-        "title": "我的愛像塵埃",
+        "title": "塵埃",
         "vid": "6FdBXMwrDmY",
         "surname": "林",
         "kid": ""
@@ -60090,7 +60090,7 @@ const mvDB = [
     {
         "id": 16369,
         "artist": "林小珂",
-        "title": "我不是妳的心想的愛，可這愛的故事是妳邀我來",
+        "title": "最後等待",
         "vid": "8b_uc1V00fw",
         "surname": "林",
         "kid": ""
@@ -60098,7 +60098,7 @@ const mvDB = [
     {
         "id": 16370,
         "artist": "林小珂",
-        "title": "|",
+        "title": "下一個雨天♫『』",
         "vid": "En8segF2wQU",
         "surname": "林",
         "kid": ""
@@ -60114,7 +60114,7 @@ const mvDB = [
     {
         "id": 16372,
         "artist": "林小珂",
-        "title": "我經歷過一段星海接觸踏入一段",
+        "title": "翻轉星空『』",
         "vid": "Toq-l2on-Ew",
         "surname": "林",
         "kid": ""
@@ -60122,7 +60122,7 @@ const mvDB = [
     {
         "id": 16373,
         "artist": "林小珂",
-        "title": "看自己身上的傷，笑自己狼狽模樣。",
+        "title": "投降『』",
         "vid": "80fKB0wGHBM",
         "surname": "林",
         "kid": ""
@@ -60170,7 +60170,7 @@ const mvDB = [
     {
         "id": 16379,
         "artist": "林小珂",
-        "title": "動態歌詞pinyin",
+        "title": "翻轉星空",
         "vid": "2TlBvhBEMUE",
         "surname": "林",
         "kid": ""
@@ -60226,7 +60226,7 @@ const mvDB = [
     {
         "id": 16386,
         "artist": "王藍茵",
-        "title": "動態歌詞",
+        "title": "我想我會開始想念你",
         "vid": "BHZhN-q9hDE",
         "surname": "王",
         "kid": ""
@@ -60242,7 +60242,7 @@ const mvDB = [
     {
         "id": 16388,
         "artist": "王藍茵",
-        "title": "我想我已慢慢喜歡你",
+        "title": "r&b.funk",
         "vid": "Cb1hWjppfM0",
         "surname": "王",
         "kid": ""
@@ -60258,7 +60258,7 @@ const mvDB = [
     {
         "id": 16390,
         "artist": "王藍茵",
-        "title": "乘風",
+        "title": "【乘風】",
         "vid": "zD6HUm-BIRw",
         "surname": "王",
         "kid": ""
@@ -60266,7 +60266,7 @@ const mvDB = [
     {
         "id": 16391,
         "artist": "王藍茵",
-        "title": "惡作劇之吻",
+        "title": "ktv",
         "vid": "-NfqktOYVH0",
         "surname": "王",
         "kid": ""
@@ -60306,7 +60306,7 @@ const mvDB = [
     {
         "id": 16396,
         "artist": "段奧娟",
-        "title": "動態歌詞",
+        "title": "一生一念『』",
         "vid": "9SwPrOdUoU0",
         "surname": "段",
         "kid": ""
@@ -60341,7 +60341,7 @@ const mvDB = [
         "title": "成何體統",
         "vid": "ab9wbEj7BNM",
         "surname": "段",
-        "kid": ""
+        "kid": "ab9wbEj7BNM"
     },
     {
         "id": 16401,
@@ -60365,7 +60365,7 @@ const mvDB = [
         "title": "快把我哥帶走",
         "vid": "or9B6I1C9Gc",
         "surname": "段",
-        "kid": "eqaJs7fAfi8"
+        "kid": "uomQwwfc9Us"
     },
     {
         "id": 16404,
@@ -60386,7 +60386,7 @@ const mvDB = [
     {
         "id": 16406,
         "artist": "九九",
-        "title": "ninemultiplicationtable",
+        "title": "ninemultiplicationtable】",
         "vid": "LDbLi6NIarc",
         "surname": "九",
         "kid": ""
@@ -60450,7 +60450,7 @@ const mvDB = [
     {
         "id": 16414,
         "artist": "王芷蕾",
-        "title": "歌手單曲",
+        "title": "浪花",
         "vid": "kjT3u7LT9Ek",
         "surname": "王",
         "kid": ""
@@ -60541,7 +60541,7 @@ const mvDB = [
         "title": "一個人的我依然會微笑",
         "vid": "PiyX2SMuPQM",
         "surname": "林",
-        "kid": ""
+        "kid": "wI_mLuNzJEk"
     },
     {
         "id": 16426,
@@ -60549,12 +60549,12 @@ const mvDB = [
         "title": "心",
         "vid": "Ooy0QhZBShI",
         "surname": "林",
-        "kid": ""
+        "kid": "PjUGwJJ7R6Q"
     },
     {
         "id": 16427,
         "artist": "林佳儀",
-        "title": "林佳儀nisalini love my city- ( official官方mv)",
+        "title": "i love my city",
         "vid": "xkoS_X15Bvg",
         "surname": "林",
         "kid": ""
@@ -60565,12 +60565,12 @@ const mvDB = [
         "title": "何必可惜",
         "vid": "uGYkW4YQK24",
         "surname": "林",
-        "kid": ""
+        "kid": "1W2l1U5iJyg"
     },
     {
         "id": 16429,
         "artist": "林佳儀",
-        "title": "林佳儀nisalini love my city- (特別city汽車版 official官方mv)",
+        "title": "i love my city",
         "vid": "0tJUW3peL9I",
         "surname": "林",
         "kid": ""
@@ -60581,7 +60581,7 @@ const mvDB = [
         "title": "你傷了我的心",
         "vid": "jT1e_k9BNbk",
         "surname": "林",
-        "kid": ""
+        "kid": "PjUGwJJ7R6Q"
     },
     {
         "id": 16431,
@@ -60597,7 +60597,7 @@ const mvDB = [
         "title": "不在你面前流淚說再見",
         "vid": "crsZTpPtB2w",
         "surname": "林",
-        "kid": ""
+        "kid": "crsZTpPtB2w"
     },
     {
         "id": 16433,
@@ -60605,7 +60605,7 @@ const mvDB = [
         "title": "決定去愛",
         "vid": "XXVUNXxeVFc",
         "surname": "林",
-        "kid": ""
+        "kid": "XXVUNXxeVFc"
     },
     {
         "id": 16434,
@@ -60634,7 +60634,7 @@ const mvDB = [
     {
         "id": 16437,
         "artist": "林佳儀",
-        "title": "林佳儀 nisalin 你是我心中最想離開的依戀-mv",
+        "title": "你是我心中最想離開的依戀",
         "vid": "qxc4pkcNavc",
         "surname": "林",
         "kid": ""
@@ -60685,7 +60685,7 @@ const mvDB = [
         "title": "一句愛你買多少",
         "vid": "5LiQlnfa5jw",
         "surname": "林",
-        "kid": ""
+        "kid": "5LiQlnfa5jw"
     },
     {
         "id": 16444,
@@ -60765,7 +60765,7 @@ const mvDB = [
         "title": "三人的世界",
         "vid": "hrUHnYDiUdE",
         "surname": "林",
-        "kid": ""
+        "kid": "hrUHnYDiUdE"
     },
     {
         "id": 16454,
@@ -60778,7 +60778,7 @@ const mvDB = [
     {
         "id": 16455,
         "artist": "林子娟",
-        "title": "練唱版",
+        "title": "心痛阮甘願",
         "vid": "NYBR16B9qJU",
         "surname": "林",
         "kid": ""
@@ -60805,7 +60805,7 @@ const mvDB = [
         "title": "青春情歌",
         "vid": "9VoLeIKg-O0",
         "surname": "林",
-        "kid": ""
+        "kid": "9VoLeIKg-O0"
     },
     {
         "id": 16459,
@@ -60813,15 +60813,15 @@ const mvDB = [
         "title": "花言巧語",
         "vid": "m_iuyxIH7wU",
         "surname": "林",
-        "kid": ""
+        "kid": "WqIeIq4k6M4"
     },
     {
         "id": 16460,
         "artist": "林子娟",
-        "title": "大旗伴唱版",
+        "title": "大旗",
         "vid": "4tbVH8jezmI",
         "surname": "林",
-        "kid": ""
+        "kid": "4tbVH8jezmI"
     },
     {
         "id": 16461,
@@ -60829,7 +60829,7 @@ const mvDB = [
         "title": "五分鐘的愛",
         "vid": "KA8Rp-5kIhc",
         "surname": "林",
-        "kid": ""
+        "kid": "KA8Rp-5kIhc"
     },
     {
         "id": 16462,
@@ -60861,7 +60861,7 @@ const mvDB = [
         "title": "認真的女人最美麗",
         "vid": "afC4u_n7nF0",
         "surname": "高",
-        "kid": ""
+        "kid": "afC4u_n7nF0"
     },
     {
         "id": 16466,
@@ -60877,7 +60877,7 @@ const mvDB = [
         "title": "雨季過後",
         "vid": "FZHOpOU3MEg",
         "surname": "高",
-        "kid": ""
+        "kid": "FZHOpOU3MEg"
     },
     {
         "id": 16468,
@@ -60925,7 +60925,7 @@ const mvDB = [
         "title": "忘了",
         "vid": "y075fSVGaAA",
         "surname": "高",
-        "kid": ""
+        "kid": "y075fSVGaAA"
     },
     {
         "id": 16474,
@@ -60933,7 +60933,7 @@ const mvDB = [
         "title": "守候",
         "vid": "rMylYiOtCTc",
         "surname": "高",
-        "kid": ""
+        "kid": "rMylYiOtCTc"
     },
     {
         "id": 16475,
@@ -60970,7 +60970,7 @@ const mvDB = [
     {
         "id": 16479,
         "artist": "況明潔",
-        "title": "【 官方整首版 】況明潔：放逐你的心 mv - 480p",
+        "title": "放逐你的心",
         "vid": "5N6CP0e8jsg",
         "surname": "況",
         "kid": ""
@@ -60986,10 +60986,10 @@ const mvDB = [
     {
         "id": 16481,
         "artist": "況明潔",
-        "title": "華語歌曲",
+        "title": "歌曲",
         "vid": "ovLgkENtbv0",
         "surname": "況",
-        "kid": ""
+        "kid": "ovLgkENtbv0"
     },
     {
         "id": 16482,
@@ -61005,20 +61005,20 @@ const mvDB = [
         "title": "年輕不要留白",
         "vid": "Wi0V5QXVzuc",
         "surname": "況",
-        "kid": ""
+        "kid": "VwofpUCBjMA"
     },
     {
         "id": 16484,
         "artist": "況明潔",
-        "title": "童安格",
+        "title": "心願",
         "vid": "2B6mx1b7NNY",
         "surname": "況",
-        "kid": ""
+        "kid": "IceXoQwDEWE"
     },
     {
         "id": 16485,
         "artist": "況明潔",
-        "title": "k歌天后實況轉播",
+        "title": "懷舊康熙",
         "vid": "1ZoEVeIauyw",
         "surname": "況",
         "kid": ""
@@ -61029,7 +61029,7 @@ const mvDB = [
         "title": "張尚喬",
         "vid": "8YvAsNoRo-k",
         "surname": "金",
-        "kid": ""
+        "kid": "8YvAsNoRo-k"
     },
     {
         "id": 16487,
@@ -61053,7 +61053,7 @@ const mvDB = [
         "title": "好想你",
         "vid": "EZ1q2j7opvI",
         "surname": "金",
-        "kid": ""
+        "kid": "5XACZkY_i7k"
     },
     {
         "id": 16490,
@@ -61109,7 +61109,7 @@ const mvDB = [
         "title": "飛向你飛向我",
         "vid": "hbGc8ZwF-2w",
         "surname": "金",
-        "kid": ""
+        "kid": "_S42KVS26Rc"
     },
     {
         "id": 16497,
@@ -61125,7 +61125,7 @@ const mvDB = [
         "title": "飛向你飛向我",
         "vid": "4kzxup6TTP8",
         "surname": "金",
-        "kid": ""
+        "kid": "_S42KVS26Rc"
     },
     {
         "id": 16499,
@@ -61149,7 +61149,7 @@ const mvDB = [
         "title": "天頂的月娘啊",
         "vid": "WU5s4AdKYx0",
         "surname": "許",
-        "kid": ""
+        "kid": "WU5s4AdKYx0"
     },
     {
         "id": 16502,
@@ -61157,7 +61157,7 @@ const mvDB = [
         "title": "路長情更長",
         "vid": "NlPP31QDbxs",
         "surname": "許",
-        "kid": ""
+        "kid": "LqSiSkJrIeQ"
     },
     {
         "id": 16503,
@@ -61205,7 +61205,7 @@ const mvDB = [
         "title": "by christine hsu",
         "vid": "APrtdnBft14",
         "surname": "許",
-        "kid": ""
+        "kid": "APrtdnBft14"
     },
     {
         "id": 16509,
@@ -61213,7 +61213,7 @@ const mvDB = [
         "title": "玫瑰人生",
         "vid": "_jYKdcY6k3A",
         "surname": "許",
-        "kid": ""
+        "kid": "zU7y9hs_QAo"
     },
     {
         "id": 16510,
@@ -61258,7 +61258,7 @@ const mvDB = [
     {
         "id": 16515,
         "artist": "許景淳",
-        "title": "華語流行歌曲",
+        "title": "流行歌曲",
         "vid": "YE8qZEYuluo",
         "surname": "許",
         "kid": ""
@@ -61277,7 +61277,7 @@ const mvDB = [
         "title": "玫瑰人生",
         "vid": "utia0cxgyXs",
         "surname": "許",
-        "kid": ""
+        "kid": "zU7y9hs_QAo"
     },
     {
         "id": 16518,
@@ -61285,7 +61285,7 @@ const mvDB = [
         "title": "鐵心肝",
         "vid": "ehI8tFjlYrk",
         "surname": "秀",
-        "kid": ""
+        "kid": "hqZCTINX3RY"
     },
     {
         "id": 16519,
@@ -61293,7 +61293,7 @@ const mvDB = [
         "title": "滴答滴",
         "vid": "rLi5FinL9dY",
         "surname": "秀",
-        "kid": ""
+        "kid": "2JWXcRHM6Hg"
     },
     {
         "id": 16520,
@@ -61301,7 +61301,7 @@ const mvDB = [
         "title": "天頂星",
         "vid": "pSuygkRy8Y8",
         "surname": "秀",
-        "kid": ""
+        "kid": "GbW8Ux_kpaE"
     },
     {
         "id": 16521,
@@ -61333,7 +61333,7 @@ const mvDB = [
         "title": "醉心探戈",
         "vid": "4blv2lUDWu8",
         "surname": "秀",
-        "kid": ""
+        "kid": "ZTN4qYONI88"
     },
     {
         "id": 16525,
@@ -61341,7 +61341,7 @@ const mvDB = [
         "title": "真心話",
         "vid": "3lQ9qAWSg4Q",
         "surname": "秀",
-        "kid": ""
+        "kid": "ff13tz0aRFA"
     },
     {
         "id": 16526,
@@ -61357,7 +61357,7 @@ const mvDB = [
         "title": "深深思戀",
         "vid": "TRjmBP7wwqc",
         "surname": "秀",
-        "kid": ""
+        "kid": "i6KMGNxDzy8"
     },
     {
         "id": 16528,
@@ -61365,7 +61365,7 @@ const mvDB = [
         "title": "交代",
         "vid": "ZyPuWPnUNg8",
         "surname": "秀",
-        "kid": ""
+        "kid": "CCBcg4sSimM"
     },
     {
         "id": 16529,
@@ -61373,7 +61373,7 @@ const mvDB = [
         "title": "風過雨無停",
         "vid": "pco8ogMwomU",
         "surname": "秀",
-        "kid": ""
+        "kid": "sJhtZlXuAK8"
     },
     {
         "id": 16530,
@@ -61413,7 +61413,7 @@ const mvDB = [
         "title": "寄付",
         "vid": "84fzPN5zIwk",
         "surname": "秀",
-        "kid": ""
+        "kid": "tv9whFhP0yo"
     },
     {
         "id": 16535,
@@ -61429,7 +61429,7 @@ const mvDB = [
         "title": "不要說再見",
         "vid": "9ejIRZXDB-w",
         "surname": "王",
-        "kid": ""
+        "kid": "9ejIRZXDB-w"
     },
     {
         "id": 16537,
@@ -61437,7 +61437,7 @@ const mvDB = [
         "title": "偈",
         "vid": "dJ_cj9FjNUs",
         "surname": "王",
-        "kid": ""
+        "kid": "dJ_cj9FjNUs"
     },
     {
         "id": 16538,
@@ -61445,7 +61445,7 @@ const mvDB = [
         "title": "忘了我是誰",
         "vid": "qtmUg9uFOZM",
         "surname": "王",
-        "kid": ""
+        "kid": "DIWYam5fivI"
     },
     {
         "id": 16539,
@@ -61477,12 +61477,12 @@ const mvDB = [
         "title": "當你生日",
         "vid": "W0288Ce2cxw",
         "surname": "王",
-        "kid": ""
+        "kid": "W0288Ce2cxw"
     },
     {
         "id": 16543,
         "artist": "王海玲",
-        "title": "劇場版",
+        "title": "忘了我是誰1996",
         "vid": "8ZcaqH-LIUo",
         "surname": "王",
         "kid": ""
@@ -61498,10 +61498,10 @@ const mvDB = [
     {
         "id": 16545,
         "artist": "王海玲",
-        "title": "的經典民歌",
+        "title": "忘了我是誰",
         "vid": "jZICjqniCrI",
         "surname": "王",
-        "kid": ""
+        "kid": "DIWYam5fivI"
     },
     {
         "id": 16546,
@@ -61541,7 +61541,7 @@ const mvDB = [
         "title": "分手快樂",
         "vid": "FGY5qhdRBLY",
         "surname": "黃",
-        "kid": ""
+        "kid": "FGY5qhdRBLY"
     },
     {
         "id": 16551,
@@ -61565,7 +61565,7 @@ const mvDB = [
         "title": "愛已經滿滿的",
         "vid": "yvJiApDCSTg",
         "surname": "黃",
-        "kid": ""
+        "kid": "yvJiApDCSTg"
     },
     {
         "id": 16554,
@@ -61573,7 +61573,7 @@ const mvDB = [
         "title": "我們都要",
         "vid": "j04JRPHMqsg",
         "surname": "黃",
-        "kid": ""
+        "kid": "j04JRPHMqsg"
     },
     {
         "id": 16555,
@@ -61589,7 +61589,7 @@ const mvDB = [
         "title": "故意",
         "vid": "PBRP3k41NEA",
         "surname": "黃",
-        "kid": ""
+        "kid": "E_5tUAUFOgQ"
     },
     {
         "id": 16557,
@@ -61629,7 +61629,7 @@ const mvDB = [
         "title": "有人在為你禱告",
         "vid": "IBBfcTUmG8Q",
         "surname": "黃",
-        "kid": ""
+        "kid": "IBBfcTUmG8Q"
     },
     {
         "id": 16562,
@@ -61642,7 +61642,7 @@ const mvDB = [
     {
         "id": 16563,
         "artist": "黃嘉千",
-        "title": "姊妹",
+        "title": "姊妹（",
         "vid": "bDSCg9F1crY",
         "surname": "黃",
         "kid": ""
@@ -61666,7 +61666,7 @@ const mvDB = [
     {
         "id": 16566,
         "artist": "黃嘉千",
-        "title": "品冠x黃嘉千",
+        "title": "品冠x",
         "vid": "zS9Oce80ISA",
         "surname": "黃",
         "kid": ""
@@ -61746,7 +61746,7 @@ const mvDB = [
     {
         "id": 16576,
         "artist": "潘嘉麗",
-        "title": "在我最後一次",
+        "title": "最後一次『』",
         "vid": "00fonsMss-Y",
         "surname": "潘",
         "kid": ""
@@ -61829,7 +61829,7 @@ const mvDB = [
         "title": "真愛黑白配",
         "vid": "VWUbtdKKiSQ",
         "surname": "朱",
-        "kid": ""
+        "kid": "Wo_KGzyV9w4"
     },
     {
         "id": 16587,
@@ -61861,7 +61861,7 @@ const mvDB = [
         "title": "不完美的完美",
         "vid": "58flEy1uzR0",
         "surname": "朱",
-        "kid": ""
+        "kid": "T8f68Uw-iA0"
     },
     {
         "id": 16591,
@@ -61925,7 +61925,7 @@ const mvDB = [
         "title": "我的野蠻情人",
         "vid": "4Ubok_b1flk",
         "surname": "朱",
-        "kid": ""
+        "kid": "4Ubok_b1flk"
     },
     {
         "id": 16599,
@@ -61941,7 +61941,7 @@ const mvDB = [
         "title": "過得去",
         "vid": "PkX-FUqHn74",
         "surname": "蘇",
-        "kid": ""
+        "kid": "K863OgVD_Cs"
     },
     {
         "id": 16601,
@@ -61949,7 +61949,7 @@ const mvDB = [
         "title": "幸福就好",
         "vid": "q0hrMOcivr4",
         "surname": "蘇",
-        "kid": ""
+        "kid": "q0hrMOcivr4"
     },
     {
         "id": 16602,
@@ -62005,7 +62005,7 @@ const mvDB = [
         "title": "愛心樹遍人間",
         "vid": "X58_f0m_Kho",
         "surname": "蘇",
-        "kid": ""
+        "kid": "X58_f0m_Kho"
     },
     {
         "id": 16609,
@@ -62045,7 +62045,7 @@ const mvDB = [
         "title": "bu ying gai yong gan",
         "vid": "L-alpNA0KgU",
         "surname": "蘇",
-        "kid": ""
+        "kid": "L-alpNA0KgU"
     },
     {
         "id": 16614,
@@ -62061,7 +62061,7 @@ const mvDB = [
         "title": "我租了一個情人片尾曲",
         "vid": "pTKzv5WGFl4",
         "surname": "蘇",
-        "kid": ""
+        "kid": "pTKzv5WGFl4"
     },
     {
         "id": 16616,
@@ -62069,7 +62069,7 @@ const mvDB = [
         "title": "joy rich",
         "vid": "cjr4fXaP5Gs",
         "surname": "蘇",
-        "kid": ""
+        "kid": "cjr4fXaP5Gs"
     },
     {
         "id": 16617,
@@ -62122,7 +62122,7 @@ const mvDB = [
     {
         "id": 16623,
         "artist": "符瓊音",
-        "title": "meeia foo",
+        "title": "同場加映!!【",
         "vid": "8j-gupz_Twk",
         "surname": "符",
         "kid": ""
@@ -62133,7 +62133,7 @@ const mvDB = [
         "title": "都市愛情2部曲",
         "vid": "7e8unbn_dYw",
         "surname": "符",
-        "kid": ""
+        "kid": "7e8unbn_dYw"
     },
     {
         "id": 16625,
@@ -62141,7 +62141,7 @@ const mvDB = [
         "title": "很久沒哭了",
         "vid": "8uLhoYqcObs",
         "surname": "符",
-        "kid": ""
+        "kid": "ilLISThJttA"
     },
     {
         "id": 16626,
@@ -62157,7 +62157,7 @@ const mvDB = [
         "title": "不服",
         "vid": "uMkU9Eqj4tc",
         "surname": "符",
-        "kid": ""
+        "kid": "x5JRDc68yjU"
     },
     {
         "id": 16628,
@@ -62173,7 +62173,7 @@ const mvDB = [
         "title": "蝶戀花",
         "vid": "Ptn1-1BUvgE",
         "surname": "符",
-        "kid": ""
+        "kid": "Ptn1-1BUvgE"
     },
     {
         "id": 16630,
@@ -62197,7 +62197,7 @@ const mvDB = [
         "title": "i can believe",
         "vid": "dZXf-EQlqsg",
         "surname": "符",
-        "kid": ""
+        "kid": "dZXf-EQlqsg"
     },
     {
         "id": 16633,
@@ -62226,10 +62226,10 @@ const mvDB = [
     {
         "id": 16636,
         "artist": "李千那",
-        "title": "通靈少女",
+        "title": "不曾回來過",
         "vid": "bpJko9n8KTY",
         "surname": "李",
-        "kid": ""
+        "kid": "bbcO-Z7Ik1k"
     },
     {
         "id": 16637,
@@ -62237,7 +62237,7 @@ const mvDB = [
         "title": "心花開",
         "vid": "Qd33i-OoOk4",
         "surname": "李",
-        "kid": ""
+        "kid": "PwZvPRBlKQg"
     },
     {
         "id": 16638,
@@ -62245,15 +62245,15 @@ const mvDB = [
         "title": "查某囡仔",
         "vid": "Ez7sOZ2CTbQ",
         "surname": "李",
-        "kid": ""
+        "kid": "3pqvcqPw0JE"
     },
     {
         "id": 16639,
         "artist": "李千那",
-        "title": "迷徒chloe",
+        "title": "打勾勾",
         "vid": "H059kI52_rE",
         "surname": "李",
-        "kid": ""
+        "kid": "9IBY3_OaYVc"
     },
     {
         "id": 16640,
@@ -62261,15 +62261,15 @@ const mvDB = [
         "title": "說實話",
         "vid": "NiKzHzL2ois",
         "surname": "李",
-        "kid": ""
+        "kid": "-gMBTrjCF5I"
     },
     {
         "id": 16641,
         "artist": "李千那",
-        "title": "熱海戀歌",
+        "title": "愛到站了",
         "vid": "ARp8srHc3GA",
         "surname": "李",
-        "kid": ""
+        "kid": "qLvzgJAYWFI"
     },
     {
         "id": 16642,
@@ -62309,7 +62309,7 @@ const mvDB = [
         "title": "寸尺",
         "vid": "eiV7EtUbmic",
         "surname": "李",
-        "kid": ""
+        "kid": "sSvlOABfn4M"
     },
     {
         "id": 16647,
@@ -62333,7 +62333,7 @@ const mvDB = [
         "title": "延禧攻略",
         "vid": "UuTBI3MY_ic",
         "surname": "李",
-        "kid": ""
+        "kid": "nuhR-ntic5g"
     },
     {
         "id": 16650,
@@ -62429,7 +62429,7 @@ const mvDB = [
         "title": "等一個人咖啡",
         "vid": "NluFa3bwZig",
         "surname": "林",
-        "kid": ""
+        "kid": "Ryrzj5VmO5c"
     },
     {
         "id": 16662,
@@ -62437,7 +62437,7 @@ const mvDB = [
         "title": "還敢不敢",
         "vid": "MFFl5ioAay0",
         "surname": "林",
-        "kid": ""
+        "kid": "vXQ0uWZKtAA"
     },
     {
         "id": 16663,
@@ -62445,7 +62445,7 @@ const mvDB = [
         "title": "道聽塗說",
         "vid": "iE5ZifNpucA",
         "surname": "林",
-        "kid": ""
+        "kid": "NcwDykf0A78"
     },
     {
         "id": 16664,
@@ -62469,7 +62469,7 @@ const mvDB = [
         "title": "以後以後",
         "vid": "bloYQwsi0Q0",
         "surname": "林",
-        "kid": ""
+        "kid": "vcFkiWIPpX8"
     },
     {
         "id": 16667,
@@ -62485,7 +62485,7 @@ const mvDB = [
         "title": "等一個人",
         "vid": "wRSNAyXxO2g",
         "surname": "林",
-        "kid": ""
+        "kid": "5m9BPR8UliQ"
     },
     {
         "id": 16669,
@@ -62498,7 +62498,7 @@ const mvDB = [
     {
         "id": 16670,
         "artist": "林芯儀",
-        "title": "singing with you",
+        "title": "singing  you",
         "vid": "Wv-qU1xtoN0",
         "surname": "林",
         "kid": ""
@@ -62509,7 +62509,7 @@ const mvDB = [
         "title": "月琴",
         "vid": "wUNThzrEZoI",
         "surname": "鄭",
-        "kid": "nJQVaqkBMbM"
+        "kid": "w9B591FZmEM"
     },
     {
         "id": 16672,
@@ -62525,7 +62525,7 @@ const mvDB = [
         "title": "海上花",
         "vid": "RtfjxiTMc0Y",
         "surname": "鄭",
-        "kid": ""
+        "kid": "RtfjxiTMc0Y"
     },
     {
         "id": 16674,
@@ -62549,7 +62549,7 @@ const mvDB = [
         "title": "秋蟬",
         "vid": "EcXd1XI4eIA",
         "surname": "楊",
-        "kid": ""
+        "kid": "lg0wlUyxkic"
     },
     {
         "id": 16677,
@@ -62557,7 +62557,7 @@ const mvDB = [
         "title": "就要揮別",
         "vid": "fFSa7vFsGQs",
         "surname": "楊",
-        "kid": ""
+        "kid": "Lz0YlQc3Rzk"
     },
     {
         "id": 16678,
@@ -62565,7 +62565,7 @@ const mvDB = [
         "title": "聽泉",
         "vid": "ktdwtZMzvsA",
         "surname": "楊",
-        "kid": ""
+        "kid": "w3w8SDulFSo"
     },
     {
         "id": 16679,
@@ -62573,7 +62573,7 @@ const mvDB = [
         "title": "露莎蘭",
         "vid": "eGlJdDZYYJQ",
         "surname": "楊",
-        "kid": ""
+        "kid": "olrIpqu38Mo"
     },
     {
         "id": 16680,
@@ -62581,7 +62581,7 @@ const mvDB = [
         "title": "歌聲滿行囊",
         "vid": "eh3JzBMjEC8",
         "surname": "楊",
-        "kid": ""
+        "kid": "eh3JzBMjEC8"
     },
     {
         "id": 16681,
@@ -62589,7 +62589,7 @@ const mvDB = [
         "title": "老師，斯卡也答",
         "vid": "tMtndNvnIBU",
         "surname": "楊",
-        "kid": ""
+        "kid": "eS8wqNtlXog"
     },
     {
         "id": 16682,
@@ -62597,7 +62597,7 @@ const mvDB = [
         "title": "夜玫瑰",
         "vid": "rTUIJ4jwL1g",
         "surname": "楊",
-        "kid": ""
+        "kid": "sJPwCes60J0"
     },
     {
         "id": 16683,
@@ -62661,7 +62661,7 @@ const mvDB = [
         "title": "就要揮別",
         "vid": "Lz0YlQc3Rzk",
         "surname": "楊",
-        "kid": ""
+        "kid": "Lz0YlQc3Rzk"
     },
     {
         "id": 16691,
@@ -62693,7 +62693,7 @@ const mvDB = [
         "title": "三個人的晚餐",
         "vid": "uUcZHrGnJ54",
         "surname": "黃",
-        "kid": ""
+        "kid": "1imoll0PmNs"
     },
     {
         "id": 16695,
@@ -62701,7 +62701,7 @@ const mvDB = [
         "title": "關不掉的收音機",
         "vid": "Tw2Cz1Pz8mI",
         "surname": "黃",
-        "kid": ""
+        "kid": "L6x98V_tLwQ"
     },
     {
         "id": 16696,
@@ -62725,7 +62725,7 @@ const mvDB = [
         "title": "藍色啤酒海",
         "vid": "HYBjHyPOY20",
         "surname": "黃",
-        "kid": ""
+        "kid": "HYBjHyPOY20"
     },
     {
         "id": 16699,
@@ -62778,7 +62778,7 @@ const mvDB = [
     {
         "id": 16705,
         "artist": "黃韻玲",
-        "title": "好經典",
+        "title": "好",
         "vid": "ZKZ-IrGkNh8",
         "surname": "黃",
         "kid": ""
@@ -62821,7 +62821,7 @@ const mvDB = [
         "title": "改變",
         "vid": "OJkf9kE4xVI",
         "surname": "黃",
-        "kid": ""
+        "kid": "PQVr5BBxW1E"
     },
     {
         "id": 16711,
@@ -62850,10 +62850,10 @@ const mvDB = [
     {
         "id": 16714,
         "artist": "于台煙",
-        "title": "練唱版",
+        "title": "月曆頂頭的記號",
         "vid": "lwaN_4BLW3E",
         "surname": "于",
-        "kid": ""
+        "kid": "lwaN_4BLW3E"
     },
     {
         "id": 16715,
@@ -62877,7 +62877,7 @@ const mvDB = [
         "title": "相思的種子",
         "vid": "0SUQQORG3zo",
         "surname": "于",
-        "kid": ""
+        "kid": "0SUQQORG3zo"
     },
     {
         "id": 16718,
@@ -62885,7 +62885,7 @@ const mvDB = [
         "title": "徐錦凱作曲",
         "vid": "imVoVd3sdcU",
         "surname": "于",
-        "kid": ""
+        "kid": "imVoVd3sdcU"
     },
     {
         "id": 16719,
@@ -62893,7 +62893,7 @@ const mvDB = [
         "title": "化妝舞會",
         "vid": "OMqhhqUNfY0",
         "surname": "于",
-        "kid": ""
+        "kid": "R2YYgq1c4T4"
     },
     {
         "id": 16720,
@@ -62909,7 +62909,7 @@ const mvDB = [
         "title": "空白錄音帶",
         "vid": "hFUGoR69nLo",
         "surname": "于",
-        "kid": ""
+        "kid": "YJyaKb28V5Y"
     },
     {
         "id": 16722,
@@ -62925,7 +62925,7 @@ const mvDB = [
         "title": "想你的夜",
         "vid": "FyLYuFUAmas",
         "surname": "于",
-        "kid": ""
+        "kid": "75GxMXZyWyI"
     },
     {
         "id": 16724,
@@ -62949,12 +62949,12 @@ const mvDB = [
         "title": "化妝舞會",
         "vid": "Rj2jTi8AUyA",
         "surname": "于",
-        "kid": ""
+        "kid": "R2YYgq1c4T4"
     },
     {
         "id": 16727,
         "artist": "于台煙",
-        "title": "華語流行歌曲",
+        "title": "流行歌曲",
         "vid": "uD5ePMK9i0M",
         "surname": "于",
         "kid": ""
@@ -62981,7 +62981,7 @@ const mvDB = [
         "title": "真想見到你",
         "vid": "sHK-ZhoI4Qo",
         "surname": "C",
-        "kid": ""
+        "kid": "C4rVAdgoVZA"
     },
     {
         "id": 16731,
@@ -62989,7 +62989,7 @@ const mvDB = [
         "title": "能不能",
         "vid": "9qq7cFhznpU",
         "surname": "C",
-        "kid": ""
+        "kid": "_bMxUGbM4kg"
     },
     {
         "id": 16732,
@@ -62997,7 +62997,7 @@ const mvDB = [
         "title": "李玟coco",
         "vid": "0RiKyg98ns0",
         "surname": "C",
-        "kid": ""
+        "kid": "ZxA02BlZFps"
     },
     {
         "id": 16733,
@@ -63029,7 +63029,7 @@ const mvDB = [
         "title": "i",
         "vid": "sKm8dq7n9FE",
         "surname": "C",
-        "kid": ""
+        "kid": "QPG6tgI3GHM"
     },
     {
         "id": 16737,
@@ -63037,7 +63037,7 @@ const mvDB = [
         "title": "被愛的女人",
         "vid": "ZJboCqe-jaA",
         "surname": "C",
-        "kid": ""
+        "kid": "1UZiPujhVrI"
     },
     {
         "id": 16738,
@@ -63045,7 +63045,7 @@ const mvDB = [
         "title": "di da di",
         "vid": "QPG6tgI3GHM",
         "surname": "C",
-        "kid": ""
+        "kid": "QPG6tgI3GHM"
     },
     {
         "id": 16739,
@@ -63085,12 +63085,12 @@ const mvDB = [
         "title": "完整",
         "vid": "6XJOAPgBepg",
         "surname": "C",
-        "kid": ""
+        "kid": "I1N_N4DdJIU"
     },
     {
         "id": 16744,
         "artist": "小潘潘",
-        "title": "可不可以你把我寵壞",
+        "title": "寵壞『』",
         "vid": "AAcU1Tbu5V8",
         "surname": "小",
         "kid": ""
@@ -63154,7 +63154,7 @@ const mvDB = [
     {
         "id": 16752,
         "artist": "小潘潘",
-        "title": "小潘潘、小峰峰 - 學貓叫你不說愛我我就喵喵喵~【動態歌詞lyrics】",
+        "title": "』",
         "vid": "vu1K6f8CBiE",
         "surname": "小",
         "kid": ""
@@ -63162,7 +63162,7 @@ const mvDB = [
     {
         "id": 16753,
         "artist": "小潘潘",
-        "title": "動態歌詞",
+        "title": "抖音熱歌",
         "vid": "vnCRlh7eaXA",
         "surname": "小",
         "kid": ""
@@ -63170,7 +63170,7 @@ const mvDB = [
     {
         "id": 16754,
         "artist": "小潘潘",
-        "title": "我天生可愛",
+        "title": "寵壞",
         "vid": "oE5Wa8FluTI",
         "surname": "小",
         "kid": ""
@@ -63194,7 +63194,7 @@ const mvDB = [
     {
         "id": 16757,
         "artist": "小潘潘",
-        "title": "毀經典的十大網紅，只是其一，幕後資本到底有多強大",
+        "title": "毀的十大網紅，只是其一，幕後資本到底有多強大",
         "vid": "7J9ZJeDVGwc",
         "surname": "小",
         "kid": ""
@@ -63210,7 +63210,7 @@ const mvDB = [
     {
         "id": 16759,
         "artist": "小潘潘",
-        "title": "抖音熱門歌曲",
+        "title": "想對你說",
         "vid": "BNP_VLROi70",
         "surname": "小",
         "kid": ""
@@ -63218,7 +63218,7 @@ const mvDB = [
     {
         "id": 16760,
         "artist": "小潘潘",
-        "title": "流行唱腔版",
+        "title": "黃梅戲",
         "vid": "UWYdbBLiAPM",
         "surname": "小",
         "kid": ""
@@ -63250,7 +63250,7 @@ const mvDB = [
     {
         "id": 16764,
         "artist": "風小箏",
-        "title": "風小箏",
+        "title": "別丟下我不管",
         "vid": "atSeQjIjx8M",
         "surname": "風",
         "kid": ""
@@ -63274,7 +63274,7 @@ const mvDB = [
     {
         "id": 16767,
         "artist": "風小箏",
-        "title": "因你而生的寂寞，在我心中騰起回憶旋渦。",
+        "title": "你比我懂我『』",
         "vid": "kNbKuvQBPsw",
         "surname": "風",
         "kid": ""
@@ -63322,7 +63322,7 @@ const mvDB = [
     {
         "id": 16773,
         "artist": "風小箏",
-        "title": "pinyin",
+        "title": "星空動力",
         "vid": "enTZKYrEw60",
         "surname": "風",
         "kid": ""
@@ -63346,7 +63346,7 @@ const mvDB = [
     {
         "id": 16776,
         "artist": "風小箏",
-        "title": "如果　我學會妥協",
+        "title": "學不會妥協♫『』",
         "vid": "Wfe_ax63iR8",
         "surname": "風",
         "kid": ""
@@ -63453,7 +63453,7 @@ const mvDB = [
         "title": "我們都是這樣長大的",
         "vid": "kTzUwhPuIwg",
         "surname": "鄭",
-        "kid": ""
+        "kid": "HCXrWIhlhoU"
     },
     {
         "id": 16790,
@@ -63477,7 +63477,7 @@ const mvDB = [
         "title": "千年如一日",
         "vid": "_sSQLa4I4cA",
         "surname": "鄭",
-        "kid": ""
+        "kid": "LziUoBZZ6Sw"
     },
     {
         "id": 16793,
@@ -63485,7 +63485,7 @@ const mvDB = [
         "title": "最後一次",
         "vid": "QchydtVN-xo",
         "surname": "鄭",
-        "kid": ""
+        "kid": "QchydtVN-xo"
     },
     {
         "id": 16794,
@@ -63517,7 +63517,7 @@ const mvDB = [
         "title": "終身美麗",
         "vid": "KK9viFTvIIk",
         "surname": "鄭",
-        "kid": ""
+        "kid": "iG4X6p7XPtM"
     },
     {
         "id": 16798,
@@ -63525,7 +63525,7 @@ const mvDB = [
         "title": "眉飛色舞",
         "vid": "nf0Ljc1lVQs",
         "surname": "鄭",
-        "kid": ""
+        "kid": "_wcWVeVV1uk"
     },
     {
         "id": 16799,
@@ -63533,7 +63533,7 @@ const mvDB = [
         "title": "默契",
         "vid": "zrs5UftPa4E",
         "surname": "鄭",
-        "kid": ""
+        "kid": "GlcCIXP967A"
     },
     {
         "id": 16800,
@@ -63549,7 +63549,7 @@ const mvDB = [
         "title": "值得",
         "vid": "1b8cx1v0ctE",
         "surname": "鄭",
-        "kid": ""
+        "kid": "Ir0DgK4tqe4"
     },
     {
         "id": 16802,
@@ -63557,7 +63557,7 @@ const mvDB = [
         "title": "出界",
         "vid": "nAjJ9AamrQ0",
         "surname": "鄭",
-        "kid": ""
+        "kid": "UKMZiVK8qJ8"
     },
     {
         "id": 16803,
@@ -63565,7 +63565,7 @@ const mvDB = [
         "title": "煞科",
         "vid": "wVZdkt38YO0",
         "surname": "鄭",
-        "kid": ""
+        "kid": "wVZdkt38YO0"
     },
     {
         "id": 16804,
@@ -63626,7 +63626,7 @@ const mvDB = [
     {
         "id": 16811,
         "artist": "袁婭維TIA RAY",
-        "title": "english ver.",
+        "title": "moonlight",
         "vid": "N9yS6lll1rk",
         "surname": "袁",
         "kid": ""
@@ -63781,7 +63781,7 @@ const mvDB = [
         "title": "心動",
         "vid": "tzZLopKKbJw",
         "surname": "林",
-        "kid": ""
+        "kid": "PMpAXi4fs8Y"
     },
     {
         "id": 16831,
@@ -63789,7 +63789,7 @@ const mvDB = [
         "title": "她的眼淚",
         "vid": "-cRvMnaQe2I",
         "surname": "林",
-        "kid": ""
+        "kid": "K43yz1iivBs"
     },
     {
         "id": 16832,
@@ -63837,7 +63837,7 @@ const mvDB = [
         "title": "緩慢",
         "vid": "RrpPlZibzd0",
         "surname": "林",
-        "kid": ""
+        "kid": "6I2f88g6RWo"
     },
     {
         "id": 16838,
@@ -63874,7 +63874,7 @@ const mvDB = [
     {
         "id": 16842,
         "artist": "林曉培",
-        "title": "永遠",
+        "title": "ktv",
         "vid": "VnOgswJLnic",
         "surname": "林",
         "kid": ""
@@ -64021,7 +64021,7 @@ const mvDB = [
         "title": "再坐一會",
         "vid": "kDyAvuZ_6gI",
         "surname": "鄺",
-        "kid": ""
+        "kid": "7YpxUED2kj4"
     },
     {
         "id": 16861,
@@ -64029,7 +64029,7 @@ const mvDB = [
         "title": "我和春天有個約會",
         "vid": "7TK1UCH-hbI",
         "surname": "鄺",
-        "kid": ""
+        "kid": "OG_3I8UKxDc"
     },
     {
         "id": 16862,
@@ -64069,7 +64069,7 @@ const mvDB = [
         "title": "唇印",
         "vid": "Sd8gcwjFzrY",
         "surname": "鄺",
-        "kid": ""
+        "kid": "7CAbvLgTpzk"
     },
     {
         "id": 16867,
@@ -64085,7 +64085,7 @@ const mvDB = [
         "title": "堆積情感",
         "vid": "WmWip56jOvM",
         "surname": "鄺",
-        "kid": ""
+        "kid": "09Fg_OJQXUQ"
     },
     {
         "id": 16869,
@@ -64093,12 +64093,12 @@ const mvDB = [
         "title": "容易受傷的女人",
         "vid": "W0dVh2pdWYg",
         "surname": "鄺",
-        "kid": ""
+        "kid": "t4nyM7j6ENA"
     },
     {
         "id": 16870,
         "artist": "鄺美雲",
-        "title": "那些年聽的華語歌",
+        "title": "那些年聽的歌",
         "vid": "SxMPyVkj1Jk",
         "surname": "鄺",
         "kid": ""
@@ -64138,10 +64138,10 @@ const mvDB = [
     {
         "id": 16875,
         "artist": "鄺美雲",
-        "title": "堆積情感 ~ 鄺美雲",
+        "title": "堆積情感",
         "vid": "h6nXC9HHmGk",
         "surname": "鄺",
-        "kid": ""
+        "kid": "09Fg_OJQXUQ"
     },
     {
         "id": 16876,
@@ -64258,7 +64258,7 @@ const mvDB = [
     {
         "id": 16890,
         "artist": "林良樂",
-        "title": "林良樂",
+        "title": "傷心留給別人說",
         "vid": "kAKiZ100UAM",
         "surname": "林",
         "kid": ""
@@ -64293,7 +64293,7 @@ const mvDB = [
         "title": "柳暗花明",
         "vid": "9XwhOW7iQJ4",
         "surname": "曾",
-        "kid": ""
+        "kid": "QAWNynWKua0"
     },
     {
         "id": 16895,
@@ -64357,7 +64357,7 @@ const mvDB = [
         "title": "今夕是何夕",
         "vid": "LuTRNGwbQXw",
         "surname": "曾",
-        "kid": ""
+        "kid": "jvf2J7lvZnA"
     },
     {
         "id": 16903,
@@ -64365,7 +64365,7 @@ const mvDB = [
         "title": "愛上你是我一生的錯",
         "vid": "tJLoLMAs66k",
         "surname": "曾",
-        "kid": ""
+        "kid": "tJLoLMAs66k"
     },
     {
         "id": 16904,
@@ -64373,7 +64373,7 @@ const mvDB = [
         "title": "隨風而逝",
         "vid": "aFtQNRaq8Ng",
         "surname": "曾",
-        "kid": ""
+        "kid": "t6CyluqMf8A"
     },
     {
         "id": 16905,
@@ -64589,12 +64589,12 @@ const mvDB = [
         "title": "通靈少女",
         "vid": "dVju976yQxk",
         "surname": "李",
-        "kid": ""
+        "kid": "dVju976yQxk"
     },
     {
         "id": 16932,
         "artist": "陳忻玥",
-        "title": "女聲版",
+        "title": "炙愛",
         "vid": "uaymV2BBD4o",
         "surname": "陳",
         "kid": ""
@@ -64610,7 +64610,7 @@ const mvDB = [
     {
         "id": 16934,
         "artist": "陳忻玥",
-        "title": "淚",
+        "title": "asiaboy禁藥王",
         "vid": "xcL16N2zBdU",
         "surname": "陳",
         "kid": ""
@@ -64826,7 +64826,7 @@ const mvDB = [
     {
         "id": 16961,
         "artist": "Karencici",
-        "title": "rosie feat. @itskarencici",
+        "title": "rosie  @its",
         "vid": "RIZDeVoSYRI",
         "surname": "K",
         "kid": ""
@@ -65098,7 +65098,7 @@ const mvDB = [
     {
         "id": 16995,
         "artist": "阿部瑪利亞",
-        "title": "花絮",
+        "title": "working on",
         "vid": "VmTjAHwIrLQ",
         "surname": "阿",
         "kid": ""
@@ -65282,7 +65282,7 @@ const mvDB = [
     {
         "id": 17018,
         "artist": "溫嵐",
-        "title": "女聲",
+        "title": "能不能",
         "vid": "Cs2DFFJwuQY",
         "surname": "溫",
         "kid": ""
@@ -65293,12 +65293,12 @@ const mvDB = [
         "title": "艷火",
         "vid": "lqPhqGu3VCM",
         "surname": "張",
-        "kid": ""
+        "kid": "427zOAJjXh8"
     },
     {
         "id": 17020,
         "artist": "張懸",
-        "title": "{兩者}",
+        "title": "兩者",
         "vid": "gyg7dNd9UwM",
         "surname": "張",
         "kid": ""
@@ -65306,10 +65306,10 @@ const mvDB = [
     {
         "id": 17021,
         "artist": "張懸",
-        "title": "{玫瑰色的你}",
+        "title": "玫瑰色的你",
         "vid": "CMH-VJ9cvG8",
         "surname": "張",
-        "kid": ""
+        "kid": "uZITtBeI1Qo"
     },
     {
         "id": 17022,
@@ -65317,7 +65317,7 @@ const mvDB = [
         "title": "寶貝",
         "vid": "TsriGIW30po",
         "surname": "張",
-        "kid": ""
+        "kid": "TsriGIW30po"
     },
     {
         "id": 17023,
@@ -65325,7 +65325,7 @@ const mvDB = [
         "title": "無狀態",
         "vid": "CtGL1b48YUA",
         "surname": "張",
-        "kid": ""
+        "kid": "CtGL1b48YUA"
     },
     {
         "id": 17024,
@@ -65333,7 +65333,7 @@ const mvDB = [
         "title": "玫瑰色的你",
         "vid": "uZITtBeI1Qo",
         "surname": "張",
-        "kid": ""
+        "kid": "uZITtBeI1Qo"
     },
     {
         "id": 17025,
@@ -65341,7 +65341,7 @@ const mvDB = [
         "title": "城市",
         "vid": "ACZoAEqJkyI",
         "surname": "張",
-        "kid": ""
+        "kid": "ACZoAEqJkyI"
     },
     {
         "id": 17026,
@@ -65381,7 +65381,7 @@ const mvDB = [
         "title": "關於我愛你",
         "vid": "lMinM-FphYQ",
         "surname": "張",
-        "kid": ""
+        "kid": "lMinM-FphYQ"
     },
     {
         "id": 17031,
@@ -65389,7 +65389,7 @@ const mvDB = [
         "title": "喜歡",
         "vid": "BnhUZUeS9hY",
         "surname": "張",
-        "kid": ""
+        "kid": "MKxwDwy-euE"
     },
     {
         "id": 17032,
@@ -65405,7 +65405,7 @@ const mvDB = [
         "title": "兒歌",
         "vid": "D-XSrJaTQ8Q",
         "surname": "張",
-        "kid": ""
+        "kid": "LVwWgpcHHMA"
     },
     {
         "id": 17034,
@@ -65421,7 +65421,7 @@ const mvDB = [
         "title": "討人厭的字",
         "vid": "oY8ts68IMr4",
         "surname": "張",
-        "kid": ""
+        "kid": "oY8ts68IMr4"
     },
     {
         "id": 17036,
@@ -65437,7 +65437,7 @@ const mvDB = [
         "title": "yesterday",
         "vid": "QU-DO5jqZe4",
         "surname": "蔡",
-        "kid": ""
+        "kid": "iGWIoG5rm_4"
     },
     {
         "id": 17038,
@@ -65453,7 +65453,7 @@ const mvDB = [
         "title": "寫一首歌",
         "vid": "iVhzAJuDbac",
         "surname": "順",
-        "kid": ""
+        "kid": "iVhzAJuDbac"
     },
     {
         "id": 17040,
@@ -65461,7 +65461,7 @@ const mvDB = [
         "title": "回家",
         "vid": "LnCRFNbhJkw",
         "surname": "順",
-        "kid": ""
+        "kid": "LnCRFNbhJkw"
     },
     {
         "id": 17041,
@@ -65477,7 +65477,7 @@ const mvDB = [
         "title": "dear friend",
         "vid": "6_wwgeOh2yw",
         "surname": "順",
-        "kid": ""
+        "kid": "ZeTw1FwBmJQ"
     },
     {
         "id": 17043,
@@ -65485,7 +65485,7 @@ const mvDB = [
         "title": "我心動了",
         "vid": "V7JsFmH5Wso",
         "surname": "順",
-        "kid": ""
+        "kid": "5-0Aeb_6luw"
     },
     {
         "id": 17044,
@@ -65493,7 +65493,7 @@ const mvDB = [
         "title": "open up",
         "vid": "dri5CLHyH1k",
         "surname": "順",
-        "kid": ""
+        "kid": "dri5CLHyH1k"
     },
     {
         "id": 17045,
@@ -65517,7 +65517,7 @@ const mvDB = [
         "title": "im sorry",
         "vid": "rOOOrbassyA",
         "surname": "順",
-        "kid": ""
+        "kid": "rOOOrbassyA"
     },
     {
         "id": 17048,
@@ -65794,7 +65794,7 @@ const mvDB = [
     {
         "id": 17082,
         "artist": "高勝美",
-        "title": "sammi kao",
+        "title": "哭砂",
         "vid": "93q0j8_Xr-c",
         "surname": "高",
         "kid": ""
@@ -65866,7 +65866,7 @@ const mvDB = [
     {
         "id": 17091,
         "artist": "高勝美",
-        "title": "華語",
+        "title": "笑擁江山夢",
         "vid": "jaIU9pYCKCk",
         "surname": "高",
         "kid": ""
@@ -65874,7 +65874,7 @@ const mvDB = [
     {
         "id": 17092,
         "artist": "高勝美",
-        "title": "笑擁江山夢（電視劇「一代皇后大玉兒」主題曲）",
+        "title": "一代皇后大玉兒",
         "vid": "ko5Xfn9Eh4c",
         "surname": "高",
         "kid": ""
@@ -65925,7 +65925,7 @@ const mvDB = [
         "title": "海闊天空",
         "vid": "V4GUy2EHMMs",
         "surname": "B",
-        "kid": ""
+        "kid": "N6gICr1IVuQ"
     },
     {
         "id": 17099,
@@ -65978,7 +65978,7 @@ const mvDB = [
     {
         "id": 17105,
         "artist": "Beyond",
-        "title": "遙かなる夢にfar",
+        "title": "遙かなる夢に～far",
         "vid": "ITI5vGE-rhk",
         "surname": "B",
         "kid": ""
@@ -66045,7 +66045,7 @@ const mvDB = [
         "title": "真的愛你",
         "vid": "n8aK_IUna_Y",
         "surname": "B",
-        "kid": ""
+        "kid": "fZHt_BverKU"
     },
     {
         "id": 17114,
@@ -66061,12 +66061,12 @@ const mvDB = [
         "title": "刻在我心底的名字",
         "vid": "RZG02MIb1VE",
         "surname": "五",
-        "kid": ""
+        "kid": "121G57mIHVo"
     },
     {
         "id": 17116,
         "artist": "五月天",
-        "title": "任性",
+        "title": "the first frost",
         "vid": "Aa_5gqwz9D4",
         "surname": "五",
         "kid": "X_RbUH6qJv4"
@@ -66077,7 +66077,7 @@ const mvDB = [
         "title": "任性",
         "vid": "d9ktAt-Gg2k",
         "surname": "五",
-        "kid": "X_RbUH6qJv4"
+        "kid": "iRBjgh1D3Zw"
     },
     {
         "id": 17118,
@@ -66125,7 +66125,7 @@ const mvDB = [
         "title": "星空",
         "vid": "RTUwaCImChM",
         "surname": "五",
-        "kid": ""
+        "kid": "HCRkft9rykk"
     },
     {
         "id": 17124,
@@ -66133,7 +66133,7 @@ const mvDB = [
         "title": "突然好想你",
         "vid": "GtDRcXtDg-4",
         "surname": "五",
-        "kid": "DxpcZ_UwwPo"
+        "kid": "GtDRcXtDg-4"
     },
     {
         "id": 17125,
@@ -66149,7 +66149,7 @@ const mvDB = [
         "title": "倉頡",
         "vid": "hiKYufVEUtI",
         "surname": "五",
-        "kid": ""
+        "kid": "DJfHqPJHKiA"
     },
     {
         "id": 17127,
@@ -66189,7 +66189,7 @@ const mvDB = [
         "title": "離開地球表面",
         "vid": "d3JVkes8o4k",
         "surname": "五",
-        "kid": ""
+        "kid": "BG6-6-o7Rko"
     },
     {
         "id": 17132,
@@ -66205,7 +66205,7 @@ const mvDB = [
         "title": "洋蔥",
         "vid": "6Duo89XuYIM",
         "surname": "五",
-        "kid": "zIE-GpY2eAE"
+        "kid": "u7b8QSO8Nng"
     },
     {
         "id": 17134,
@@ -66221,7 +66221,7 @@ const mvDB = [
         "title": "不想長大",
         "vid": "KV17QLB2BJs",
         "surname": "S",
-        "kid": "fW_2jsGk_aQ"
+        "kid": "iUoAJcYbFMw"
     },
     {
         "id": 17136,
@@ -66245,7 +66245,7 @@ const mvDB = [
         "title": "愛我的資格",
         "vid": "oz2L-0OMFaI",
         "surname": "S",
-        "kid": ""
+        "kid": "bFXhhv5vuzM"
     },
     {
         "id": 17139,
@@ -66269,7 +66269,7 @@ const mvDB = [
         "title": "說你愛我",
         "vid": "LaiZQ1z_nRQ",
         "surname": "S",
-        "kid": ""
+        "kid": "60Y8FU4dNTI"
     },
     {
         "id": 17142,
@@ -66322,7 +66322,7 @@ const mvDB = [
     {
         "id": 17148,
         "artist": "草蜢",
-        "title": "演唱會2022",
+        "title": "忘情森巴舞",
         "vid": "E2QJCOtLr7E",
         "surname": "草",
         "kid": ""
@@ -66461,7 +66461,7 @@ const mvDB = [
         "title": "除了愛你還能愛誰",
         "vid": "MmB89uh_pnU",
         "surname": "動",
-        "kid": "xaSNH7haGtI"
+        "kid": "MmB89uh_pnU"
     },
     {
         "id": 17166,
@@ -66517,12 +66517,12 @@ const mvDB = [
         "title": "彩虹",
         "vid": "fYrBo8XEssE",
         "surname": "動",
-        "kid": "3wFekIHsajc"
+        "kid": "1COWE2P-Ed4"
     },
     {
         "id": 17173,
         "artist": "動力火車",
-        "title": "with us",
+        "title": "us",
         "vid": "zCf5eKjyTH4",
         "surname": "動",
         "kid": ""
@@ -66562,7 +66562,7 @@ const mvDB = [
     {
         "id": 17178,
         "artist": "小虎隊",
-        "title": "【 官方伴唱字幕 】小虎隊：愛 mv - 1080p",
+        "title": "愛",
         "vid": "NG5zTvFIOW0",
         "surname": "小",
         "kid": ""
@@ -66570,7 +66570,7 @@ const mvDB = [
     {
         "id": 17179,
         "artist": "小虎隊",
-        "title": "【 官方正式版 】小虎隊：紅蜻蜓 mv - 480p",
+        "title": "紅蜻蜓",
         "vid": "KVnkxF7VFTU",
         "surname": "小",
         "kid": ""
@@ -66594,7 +66594,7 @@ const mvDB = [
     {
         "id": 17182,
         "artist": "小虎隊",
-        "title": "愛+蝴蝶飛阿+青蘋果樂園組曲",
+        "title": "2010央視春晚",
         "vid": "RJgWOBt8UOY",
         "surname": "小",
         "kid": ""
@@ -66626,7 +66626,7 @@ const mvDB = [
     {
         "id": 17186,
         "artist": "小虎隊",
-        "title": "小虎隊：天堂海 mv - 480p",
+        "title": "天堂海",
         "vid": "GCWSZPLgXX0",
         "surname": "小",
         "kid": ""
@@ -66634,7 +66634,7 @@ const mvDB = [
     {
         "id": 17187,
         "artist": "小虎隊",
-        "title": "小虎隊、憂歡派對：新年快樂 - 480p",
+        "title": "新年快樂",
         "vid": "StEQv1d1-vA",
         "surname": "小",
         "kid": ""
@@ -66658,7 +66658,7 @@ const mvDB = [
     {
         "id": 17190,
         "artist": "小虎隊",
-        "title": "小虎隊",
+        "title": "青蘋果樂園（首演）",
         "vid": "avpmUD4iV2g",
         "surname": "小",
         "kid": ""
@@ -66829,7 +66829,7 @@ const mvDB = [
         "title": "亡命之徒",
         "vid": "YCElkzicjbY",
         "surname": "縱",
-        "kid": ""
+        "kid": "E4lsCCbik_I"
     },
     {
         "id": 17212,
@@ -67005,7 +67005,7 @@ const mvDB = [
         "title": "單身情歌",
         "vid": "QOPTkoK0MXI",
         "surname": "優",
-        "kid": ""
+        "kid": "g9cR2Ckz5VQ"
     },
     {
         "id": 17234,
@@ -67042,7 +67042,7 @@ const mvDB = [
     {
         "id": 17238,
         "artist": "南方二重唱",
-        "title": "【南方二重唱】相知相守",
+        "title": "【】相知相守",
         "vid": "l6KHthpgQFM",
         "surname": "南",
         "kid": ""
@@ -67138,7 +67138,7 @@ const mvDB = [
     {
         "id": 17250,
         "artist": "南方二重唱",
-        "title": "【南方二重唱】不要問我過得好不好",
+        "title": "【】不要問我過得好不好",
         "vid": "Ds9oVIdFajE",
         "surname": "南",
         "kid": ""
@@ -67146,7 +67146,7 @@ const mvDB = [
     {
         "id": 17251,
         "artist": "南方二重唱",
-        "title": "【南方二重唱】雪歌",
+        "title": "【】雪歌",
         "vid": "-4Wca5xyNNY",
         "surname": "南",
         "kid": ""
@@ -67154,7 +67154,7 @@ const mvDB = [
     {
         "id": 17252,
         "artist": "南方二重唱",
-        "title": "【南方二重唱】飛不到你的天",
+        "title": "【】飛不到你的天",
         "vid": "LhAHwuiuiD4",
         "surname": "南",
         "kid": ""
@@ -67325,7 +67325,7 @@ const mvDB = [
         "title": "給你一瓶魔法藥水",
         "vid": "lPKjHE6KjYY",
         "surname": "告",
-        "kid": ""
+        "kid": "uJ33WgSTF6o"
     },
     {
         "id": 17274,
@@ -67333,7 +67333,7 @@ const mvDB = [
         "title": "知足",
         "vid": "i76wv2lv1xI",
         "surname": "告",
-        "kid": ""
+        "kid": "i76wv2lv1xI"
     },
     {
         "id": 17275,
@@ -67341,7 +67341,7 @@ const mvDB = [
         "title": "唯一",
         "vid": "7OvoMlr5Sbs",
         "surname": "告",
-        "kid": ""
+        "kid": "gHyu_dDELBw"
     },
     {
         "id": 17276,
@@ -67357,7 +67357,7 @@ const mvDB = [
         "title": "癒合",
         "vid": "Y-O1P0ZdbNQ",
         "surname": "告",
-        "kid": "z3KS0HOGRoM"
+        "kid": "Y-O1P0ZdbNQ"
     },
     {
         "id": 17278,
@@ -67365,15 +67365,15 @@ const mvDB = [
         "title": "帶你飛",
         "vid": "BR09PGobYPk",
         "surname": "告",
-        "kid": ""
+        "kid": "BR09PGobYPk"
     },
     {
         "id": 17279,
         "artist": "告五人",
-        "title": "我想要佔據你的夜生活",
+        "title": "宇宙的有趣",
         "vid": "mIg7-EdBLKY",
         "surname": "告",
-        "kid": ""
+        "kid": "5cYb-rJhm6I"
     },
     {
         "id": 17280,
@@ -67389,7 +67389,7 @@ const mvDB = [
         "title": "在這座城市遺失了你",
         "vid": "2StwV7gdWpc",
         "surname": "告",
-        "kid": ""
+        "kid": "NuGSlx8vXRs"
     },
     {
         "id": 17282,
@@ -67437,7 +67437,7 @@ const mvDB = [
         "title": "我們的愛",
         "vid": "EqCmAYywrwI",
         "surname": "F",
-        "kid": "2GrMzdBKkBw"
+        "kid": "QmdyaSg6yf4"
     },
     {
         "id": 17288,
@@ -67477,7 +67477,7 @@ const mvDB = [
         "title": "我們的愛",
         "vid": "88D2-J_pk7A",
         "surname": "F",
-        "kid": "2GrMzdBKkBw"
+        "kid": "QmdyaSg6yf4"
     },
     {
         "id": 17293,
@@ -67485,7 +67485,7 @@ const mvDB = [
         "title": "千年之戀",
         "vid": "5fTrPL5b4Lg",
         "surname": "F",
-        "kid": "D4vc0nkUhXQ"
+        "kid": "gwEj6uu1m7g"
     },
     {
         "id": 17294,
@@ -67629,7 +67629,7 @@ const mvDB = [
         "title": "我怎麼哭了",
         "vid": "0TLhN3fPjk0",
         "surname": "八",
-        "kid": ""
+        "kid": "0TLhN3fPjk0"
     },
     {
         "id": 17312,
@@ -67949,7 +67949,7 @@ const mvDB = [
         "title": "love",
         "vid": "mRma6NkHwWU",
         "surname": "美",
-        "kid": ""
+        "kid": "mRma6NkHwWU"
     },
     {
         "id": 17352,
@@ -67981,7 +67981,7 @@ const mvDB = [
         "title": "būn",
         "vid": "k1YQE3YeMyw",
         "surname": "美",
-        "kid": ""
+        "kid": "k1YQE3YeMyw"
     },
     {
         "id": 17356,
@@ -67989,7 +67989,7 @@ const mvDB = [
         "title": "lovers",
         "vid": "U-bXx_4Nwx8",
         "surname": "美",
-        "kid": ""
+        "kid": "jdZB8zOP9L0"
     },
     {
         "id": 17357,
@@ -68013,12 +68013,12 @@ const mvDB = [
         "title": "lover",
         "vid": "ouQwJj1V2pE",
         "surname": "美",
-        "kid": ""
+        "kid": "jdZB8zOP9L0"
     },
     {
         "id": 17360,
         "artist": "美秀集團",
-        "title": "feat.鄭小韻",
+        "title": "鄭小韻",
         "vid": "nVjVpX3gRWk",
         "surname": "美",
         "kid": ""
@@ -68042,7 +68042,7 @@ const mvDB = [
     {
         "id": 17363,
         "artist": "美秀集團",
-        "title": ".aka kol",
+        "title": "light",
         "vid": "BuuIbTF0_b0",
         "surname": "美",
         "kid": ""
@@ -68069,7 +68069,7 @@ const mvDB = [
         "title": "捲菸",
         "vid": "Bk5l-hvguUc",
         "surname": "美",
-        "kid": ""
+        "kid": "3OQoNKr59QI"
     },
     {
         "id": 17367,
@@ -68162,7 +68162,7 @@ const mvDB = [
     {
         "id": 17378,
         "artist": "羽·泉",
-        "title": "這一生都只為你",
+        "title": "這一生只為你",
         "vid": "e9dE_iY_AWk",
         "surname": "羽",
         "kid": ""
@@ -68226,7 +68226,7 @@ const mvDB = [
     {
         "id": 17386,
         "artist": "城市少女",
-        "title": "年輕不要留白復刻電台",
+        "title": "年輕不要留白#復刻電台",
         "vid": "DY8n5gqSiiw",
         "surname": "城",
         "kid": ""
@@ -68237,7 +68237,7 @@ const mvDB = [
         "title": "年輕不要留白",
         "vid": "Bkp0sVx9_-s",
         "surname": "城",
-        "kid": ""
+        "kid": "w8vzjpWAx2o"
     },
     {
         "id": 17388,
@@ -68293,7 +68293,7 @@ const mvDB = [
         "title": "淅",
         "vid": "NLFERjIZVGg",
         "surname": "城",
-        "kid": ""
+        "kid": "NLFERjIZVGg"
     },
     {
         "id": 17395,
@@ -68309,7 +68309,7 @@ const mvDB = [
         "title": "就在今夜",
         "vid": "NUPOUgQxHHU",
         "surname": "丘",
-        "kid": ""
+        "kid": "1-BfPlxS-bc"
     },
     {
         "id": 17397,
@@ -68317,7 +68317,7 @@ const mvDB = [
         "title": "為何夢見他",
         "vid": "ysNcXcyMd48",
         "surname": "丘",
-        "kid": ""
+        "kid": "ysNcXcyMd48"
     },
     {
         "id": 17398,
@@ -68325,7 +68325,7 @@ const mvDB = [
         "title": "虎姑婆",
         "vid": "-Ms0Xq6hbHU",
         "surname": "丘",
-        "kid": ""
+        "kid": "-Ms0Xq6hbHU"
     },
     {
         "id": 17399,
@@ -68333,7 +68333,7 @@ const mvDB = [
         "title": "為何夢見他",
         "vid": "9TT8VHlcthk",
         "surname": "丘",
-        "kid": ""
+        "kid": "ysNcXcyMd48"
     },
     {
         "id": 17400,
@@ -68341,7 +68341,7 @@ const mvDB = [
         "title": "河堤上的傻瓜",
         "vid": "3lKqGU7SKic",
         "surname": "丘",
-        "kid": ""
+        "kid": "-rxmfqar9Gk"
     },
     {
         "id": 17401,
@@ -68357,7 +68357,7 @@ const mvDB = [
         "title": "大公雞",
         "vid": "s08HoeP1h2o",
         "surname": "丘",
-        "kid": ""
+        "kid": "c1WZJTqeKOQ"
     },
     {
         "id": 17403,
@@ -68365,7 +68365,7 @@ const mvDB = [
         "title": "搖搖搖",
         "vid": "BSZOeHaTpI8",
         "surname": "丘",
-        "kid": ""
+        "kid": "8iaqwehl2Pk"
     },
     {
         "id": 17404,
@@ -68506,7 +68506,7 @@ const mvDB = [
     {
         "id": 17421,
         "artist": "芒果醬 Mango Jump",
-        "title": "漫畫版",
+        "title": "我喜歡你",
         "vid": "0ZovJQwB8l0",
         "surname": "芒",
         "kid": ""
@@ -68562,7 +68562,7 @@ const mvDB = [
     {
         "id": 17428,
         "artist": "芒果醬 Mango Jump",
-        "title": "acoustic version",
+        "title": "月亮",
         "vid": "bWjidv37KSg",
         "surname": "芒",
         "kid": ""
@@ -68698,7 +68698,7 @@ const mvDB = [
     {
         "id": 17445,
         "artist": "怕胖團",
-        "title": "我想要macbook",
+        "title": "『",
         "vid": "6fNhj0SqS4g",
         "surname": "怕",
         "kid": ""
@@ -69234,7 +69234,7 @@ const mvDB = [
     {
         "id": 17512,
         "artist": "Tizzy Bac",
-        "title": "弦樂版",
+        "title": "youll see",
         "vid": "IO86No5Sts0",
         "surname": "T",
         "kid": ""
@@ -69306,7 +69306,7 @@ const mvDB = [
     {
         "id": 17521,
         "artist": "Billyrrom",
-        "title": "動態",
+        "title": "#新歌更新",
         "vid": "3Mr2HLOXceQ",
         "surname": "B",
         "kid": ""
@@ -69314,7 +69314,7 @@ const mvDB = [
     {
         "id": 17522,
         "artist": "Billyrrom",
-        "title": "take my breath away cantonese version",
+        "title": "激情",
         "vid": "qYlXDlKqI6c",
         "surname": "B",
         "kid": ""
@@ -69338,7 +69338,7 @@ const mvDB = [
     {
         "id": 17525,
         "artist": "咻比嘟嘩",
-        "title": "明星伴唱機",
+        "title": "明星機",
         "vid": "Bw5fSV8bbsk",
         "surname": "咻",
         "kid": ""
@@ -69402,7 +69402,7 @@ const mvDB = [
     {
         "id": 17533,
         "artist": "咻比嘟嘩",
-        "title": "版",
+        "title": "帶",
         "vid": "NlThuqBwMBY",
         "surname": "咻",
         "kid": ""
@@ -69522,7 +69522,7 @@ const mvDB = [
     {
         "id": 17548,
         "artist": "PINK FUN",
-        "title": "純享",
+        "title": "panic",
         "vid": "M14BAUEUsew",
         "surname": "P",
         "kid": ""
@@ -69578,7 +69578,7 @@ const mvDB = [
     {
         "id": 17555,
         "artist": "GENBLUE幻藍小熊",
-        "title": "genblue『1000次也不夠的想念』",
+        "title": "1000次也不夠的想念",
         "vid": "atXkFdA6mqU",
         "surname": "G",
         "kid": ""
@@ -69586,7 +69586,7 @@ const mvDB = [
     {
         "id": 17556,
         "artist": "GENBLUE幻藍小熊",
-        "title": "젠블루",
+        "title": "act like that",
         "vid": "69QCKEYOAZs",
         "surname": "G",
         "kid": ""
@@ -69618,7 +69618,7 @@ const mvDB = [
     {
         "id": 17560,
         "artist": "GENBLUE幻藍小熊",
-        "title": "來自未來的單曲",
+        "title": "來自未來的",
         "vid": "gAvXHHL1kmo",
         "surname": "G",
         "kid": ""
@@ -69834,7 +69834,7 @@ const mvDB = [
     {
         "id": 17587,
         "artist": "FEniX",
-        "title": "純享",
+        "title": "look at me",
         "vid": "YvxU-1RjUDk",
         "surname": "F",
         "kid": ""
@@ -70122,7 +70122,7 @@ const mvDB = [
     {
         "id": 17623,
         "artist": "張鎬哲",
-        "title": "【 官方３分鐘版 】張鎬哲 北風 mv - 480p",
+        "title": "北風",
         "vid": "nqGeciPF02U",
         "surname": "張",
         "kid": ""
@@ -70253,7 +70253,7 @@ const mvDB = [
         "title": "瞳をとじて",
         "vid": "EqVoCfSwfUY",
         "surname": "平",
-        "kid": ""
+        "kid": "EqVoCfSwfUY"
     },
     {
         "id": 17640,
@@ -70266,7 +70266,7 @@ const mvDB = [
     {
         "id": 17641,
         "artist": "平井堅",
-        "title": "youtube ver.",
+        "title": "ソレデモシタイ",
         "vid": "1krJijKL384",
         "surname": "平",
         "kid": ""
@@ -70317,7 +70317,7 @@ const mvDB = [
         "title": "大きな古時計",
         "vid": "E3hvxbM_ubw",
         "surname": "平",
-        "kid": ""
+        "kid": "E3hvxbM_ubw"
     },
     {
         "id": 17648,
@@ -70346,10 +70346,10 @@ const mvDB = [
     {
         "id": 17651,
         "artist": "平井堅",
-        "title": "life is... another story",
+        "title": "平井",
         "vid": "-nIV5ZPTldQ",
         "surname": "平",
-        "kid": ""
+        "kid": "QsFBDTSj3IA"
     },
     {
         "id": 17652,
@@ -70389,7 +70389,7 @@ const mvDB = [
         "title": "home sweet home",
         "vid": "fLi0EJfi_vg",
         "surname": "G",
-        "kid": ""
+        "kid": "ST8bg4GBiEk"
     },
     {
         "id": 17657,
@@ -70413,7 +70413,7 @@ const mvDB = [
         "title": "drama",
         "vid": "I8I51kSq448",
         "surname": "G",
-        "kid": ""
+        "kid": "VCZXHBXIUK0"
     },
     {
         "id": 17660,
@@ -70426,7 +70426,7 @@ const mvDB = [
     {
         "id": 17661,
         "artist": "G-Dragon",
-        "title": "dirty vibe with diplo, cl, &",
+        "title": "dirty vibe  diplo, cl, &",
         "vid": "Mq-aVCUs2Q0",
         "surname": "G",
         "kid": ""
@@ -70461,7 +70461,7 @@ const mvDB = [
         "title": "無題",
         "vid": "9kaCAbIXuyg",
         "surname": "G",
-        "kid": ""
+        "kid": "N6yOxqJWQnk"
     },
     {
         "id": 17666,
@@ -70517,7 +70517,7 @@ const mvDB = [
         "title": "coup detat",
         "vid": "C8T6771Sdj8",
         "surname": "G",
-        "kid": ""
+        "kid": "OFQn6pc4ows"
     },
     {
         "id": 17673,
@@ -70546,7 +70546,7 @@ const mvDB = [
     {
         "id": 17676,
         "artist": "IU",
-        "title": "李知恩아이유",
+        "title": "【4kmv中字】iu(李知恩/아이유) - strawberry moon 繁中字幕 [chinese lyrics]",
         "vid": "kuneKiDoK7I",
         "surname": "I",
         "kid": ""
@@ -70554,7 +70554,7 @@ const mvDB = [
     {
         "id": 17677,
         "artist": "IU",
-        "title": "純享",
+        "title": "·  ·",
         "vid": "ELdGbrqqCqo",
         "surname": "I",
         "kid": ""
@@ -70565,7 +70565,7 @@ const mvDB = [
         "title": "아이유",
         "vid": "DNw9144dfnA",
         "surname": "I",
-        "kid": "rgtKV7GSmW8"
+        "kid": "iqDBLSKmAQg"
     },
     {
         "id": 17679,
@@ -70578,7 +70578,7 @@ const mvDB = [
     {
         "id": 17680,
         "artist": "IU",
-        "title": "2017 iu tour concert 『palette’ in hong kong",
+        "title": "2017  tour concert 『",
         "vid": "NWQ3fIOlSO4",
         "surname": "I",
         "kid": ""
@@ -70605,7 +70605,7 @@ const mvDB = [
         "title": "你的意義너의",
         "vid": "8ss_U8UfQRI",
         "surname": "I",
-        "kid": ""
+        "kid": "8ss_U8UfQRI"
     },
     {
         "id": 17684,
@@ -70613,7 +70613,7 @@ const mvDB = [
         "title": "아이유",
         "vid": "irCc23OWM8Q",
         "surname": "I",
-        "kid": "rgtKV7GSmW8"
+        "kid": "iqDBLSKmAQg"
     },
     {
         "id": 17685,
@@ -70621,7 +70621,7 @@ const mvDB = [
         "title": "你的意義",
         "vid": "KbvlXbKc7g0",
         "surname": "I",
-        "kid": ""
+        "kid": "8ss_U8UfQRI"
     },
     {
         "id": 17686,
@@ -70629,7 +70629,7 @@ const mvDB = [
         "title": "dear name",
         "vid": "R_8CF1UmUKE",
         "surname": "I",
-        "kid": ""
+        "kid": "IsDy_UB0dS0"
     },
     {
         "id": 17687,
@@ -70685,12 +70685,12 @@ const mvDB = [
         "title": "아이유",
         "vid": "0kfrVjxchFU",
         "surname": "I",
-        "kid": "rgtKV7GSmW8"
+        "kid": "iqDBLSKmAQg"
     },
     {
         "id": 17694,
         "artist": "IU",
-        "title": "traditional  version",
+        "title": "traditional",
         "vid": "5-Jdtsp0aQ4",
         "surname": "I",
         "kid": ""
@@ -70706,15 +70706,15 @@ const mvDB = [
     {
         "id": 17696,
         "artist": "IU",
-        "title": "ganadara  | 박재범 | 가나다나  아이유)",
+        "title": "아이유",
         "vid": "aCir-hENFwk",
         "surname": "I",
-        "kid": ""
+        "kid": "iqDBLSKmAQg"
     },
     {
         "id": 17697,
         "artist": "IU",
-        "title": "8",
+        "title": "小幸運",
         "vid": "jFmWnrcRWTw",
         "surname": "I",
         "kid": ""
@@ -70722,7 +70722,7 @@ const mvDB = [
     {
         "id": 17698,
         "artist": "IU",
-        "title": "iu",
+        "title": "tfboys-young [iu]cover 中文歌詞",
         "vid": "muT80oG_XOE",
         "surname": "I",
         "kid": "rgtKV7GSmW8"
@@ -70741,7 +70741,7 @@ const mvDB = [
         "title": "m",
         "vid": "03y-KyezDS4",
         "surname": "浜",
-        "kid": ""
+        "kid": "7Eqxci0aKhA"
     },
     {
         "id": 17701,
@@ -70938,7 +70938,7 @@ const mvDB = [
     {
         "id": 17725,
         "artist": "宇多田ヒカル",
-        "title": "ballad version",
+        "title": "ballad",
         "vid": "iX4FRMcV88Y",
         "surname": "宇",
         "kid": ""
@@ -70965,7 +70965,7 @@ const mvDB = [
         "title": "first love",
         "vid": "o1sUaVJUeB0",
         "surname": "宇",
-        "kid": ""
+        "kid": "ft9YNKjCugo"
     },
     {
         "id": 17729,
@@ -71066,7 +71066,7 @@ const mvDB = [
     {
         "id": 17741,
         "artist": "小野リサ",
-        "title": "【小野リサ】sá marina（ サーマリーナ［プリティワールド］）　ニューアルバムbrasilより",
+        "title": "brasil",
         "vid": "kcAYxSHzle0",
         "surname": "小",
         "kid": ""
@@ -71165,12 +71165,12 @@ const mvDB = [
         "title": "渡月橋",
         "vid": "sG0QEILgqHA",
         "surname": "倉",
-        "kid": ""
+        "kid": "7BwFWrupSYE"
     },
     {
         "id": 17754,
         "artist": "倉木麻衣",
-        "title": "love, day after tomorrow feat.15directors",
+        "title": "love, day after tomorrow 15directors",
         "vid": "cZe2sVQugbk",
         "surname": "倉",
         "kid": ""
@@ -71194,7 +71194,7 @@ const mvDB = [
     {
         "id": 17757,
         "artist": "倉木麻衣",
-        "title": "少しの勇気",
+        "title": "～少しの勇気～",
         "vid": "_p-DXgSITW0",
         "surname": "倉",
         "kid": ""
@@ -71266,7 +71266,7 @@ const mvDB = [
     {
         "id": 17766,
         "artist": "BoA",
-        "title": "繁中韓字",
+        "title": "寶兒보아",
         "vid": "lGupi9H3TiY",
         "surname": "B",
         "kid": ""
@@ -71298,7 +71298,7 @@ const mvDB = [
     {
         "id": 17770,
         "artist": "BoA",
-        "title": "精緻",
+        "title": "回憶與現實的抉擇",
         "vid": "nm-N-hTvssY",
         "surname": "B",
         "kid": ""
@@ -71306,7 +71306,7 @@ const mvDB = [
     {
         "id": 17771,
         "artist": "BoA",
-        "title": "sweet impact  boa",
+        "title": "sweet impact",
         "vid": "RIw3MeLMRmY",
         "surname": "B",
         "kid": ""
@@ -71317,7 +71317,7 @@ const mvDB = [
         "title": "hurricane venus",
         "vid": "mK7z9GpmhMw",
         "surname": "B",
-        "kid": ""
+        "kid": "oVr0yub2Qo4"
     },
     {
         "id": 17773,
@@ -71354,7 +71354,7 @@ const mvDB = [
     {
         "id": 17777,
         "artist": "夏川りみ",
-        "title": "童神ヤマトグチ",
+        "title": "童神～ヤマトグチ～",
         "vid": "vWVvTNFo6Ao",
         "surname": "夏",
         "kid": ""
@@ -71381,7 +71381,7 @@ const mvDB = [
         "title": "涙そうそう",
         "vid": "5TR1wJCimyk",
         "surname": "夏",
-        "kid": ""
+        "kid": "vBtBGeyiDMM"
     },
     {
         "id": 17781,
@@ -71389,12 +71389,12 @@ const mvDB = [
         "title": "島唄",
         "vid": "8foQlu_yW70",
         "surname": "夏",
-        "kid": ""
+        "kid": "8foQlu_yW70"
     },
     {
         "id": 17782,
         "artist": "夏川りみ",
-        "title": "歌さがしの旅20072008",
+        "title": "『』",
         "vid": "ILOr8a4hIX0",
         "surname": "夏",
         "kid": ""
@@ -71405,7 +71405,7 @@ const mvDB = [
         "title": "入り",
         "vid": "43883tbDpbo",
         "surname": "夏",
-        "kid": ""
+        "kid": "43883tbDpbo"
     },
     {
         "id": 17784,
@@ -71421,7 +71421,7 @@ const mvDB = [
         "title": "愛よ愛よ",
         "vid": "_WUGDIRk8nk",
         "surname": "夏",
-        "kid": ""
+        "kid": "Vpx1zPsnl1w"
     },
     {
         "id": 17786,
@@ -71437,7 +71437,7 @@ const mvDB = [
         "title": "童神",
         "vid": "v6pYMFyPQlk",
         "surname": "夏",
-        "kid": ""
+        "kid": "E229aNgJr5s"
     },
     {
         "id": 17788,
@@ -71474,7 +71474,7 @@ const mvDB = [
     {
         "id": 17792,
         "artist": "藤田恵美",
-        "title": "headphone concert 2021",
+        "title": "emi fujita",
         "vid": "xi2V2frntpk",
         "surname": "藤",
         "kid": ""
@@ -71482,7 +71482,7 @@ const mvDB = [
     {
         "id": 17793,
         "artist": "藤田恵美",
-        "title": "camomile colors",
+        "title": "shape of my heart",
         "vid": "i-HttdsqCEU",
         "surname": "藤",
         "kid": ""
@@ -71546,7 +71546,7 @@ const mvDB = [
     {
         "id": 17801,
         "artist": "Ailee",
-        "title": "ailee",
+        "title": "에일리(ailee) - 가르치지마 (don’t teach me) mv",
         "vid": "MSZhVJsU-zo",
         "surname": "A",
         "kid": ""
@@ -71562,7 +71562,7 @@ const mvDB = [
     {
         "id": 17803,
         "artist": "Ailee",
-        "title": "繁中韓字",
+        "title": "에일리",
         "vid": "xG5MjHnUFec",
         "surname": "A",
         "kid": ""
@@ -71586,7 +71586,7 @@ const mvDB = [
     {
         "id": 17806,
         "artist": "Ailee",
-        "title": "繁中",
+        "title": "에일리",
         "vid": "nwHIVKWf9Ns",
         "surname": "A",
         "kid": ""
@@ -71642,7 +71642,7 @@ const mvDB = [
     {
         "id": 17813,
         "artist": "Ailee",
-        "title": "ailee bar",
+        "title": "bar",
         "vid": "fGBbLotNDOo",
         "surname": "A",
         "kid": ""
@@ -71690,10 +71690,10 @@ const mvDB = [
     {
         "id": 17819,
         "artist": "J.Fla",
-        "title": "cover by j.fla",
+        "title": "cover by",
         "vid": "MhQKe-aERsU",
         "surname": "J",
-        "kid": ""
+        "kid": "d_elXY2Lcfk"
     },
     {
         "id": 17820,
@@ -71866,7 +71866,7 @@ const mvDB = [
     {
         "id": 17841,
         "artist": "朴春",
-        "title": "hyori lee ft. park bom and lee junki",
+        "title": "hyori lee  park bom and lee junki",
         "vid": "Y3fwtRPP3s8",
         "surname": "朴",
         "kid": ""
@@ -71898,7 +71898,7 @@ const mvDB = [
     {
         "id": 17845,
         "artist": "劉逸雲 Amber Liu",
-        "title": "neon feat. peniel",
+        "title": "neon  peniel",
         "vid": "SBWhk4SJhak",
         "surname": "劉",
         "kid": ""
@@ -72130,7 +72130,7 @@ const mvDB = [
     {
         "id": 17874,
         "artist": "大原櫻子",
-        "title": "short ver.",
+        "title": "瞳",
         "vid": "uJbNrDZ-3uw",
         "surname": "大",
         "kid": ""
@@ -72186,7 +72186,7 @@ const mvDB = [
     {
         "id": 17881,
         "artist": "LISA",
-        "title": "new woman feat. rosalía",
+        "title": "new woman  rosalía",
         "vid": "UxXY_hR_wzo",
         "surname": "L",
         "kid": ""
@@ -72202,7 +72202,7 @@ const mvDB = [
     {
         "id": 17883,
         "artist": "LISA",
-        "title": "born again feat. doja cat & raye",
+        "title": "born again  doja cat & raye",
         "vid": "kbEC-AGr9n0",
         "surname": "L",
         "kid": ""
@@ -72213,12 +72213,12 @@ const mvDB = [
         "title": "moonlit floor",
         "vid": "pxGM_TOgHuM",
         "surname": "L",
-        "kid": ""
+        "kid": "zk0zgspJjX0"
     },
     {
         "id": 17885,
         "artist": "LISA",
-        "title": "hope 『mona lisa』",
+        "title": "mona",
         "vid": "ECqGCH1TfLY",
         "surname": "L",
         "kid": ""
@@ -72226,7 +72226,7 @@ const mvDB = [
     {
         "id": 17886,
         "artist": "LISA",
-        "title": "vixi solo version",
+        "title": "futw",
         "vid": "r5VRqWkFpEQ",
         "surname": "L",
         "kid": ""
@@ -72234,7 +72234,7 @@ const mvDB = [
     {
         "id": 17887,
         "artist": "LISA",
-        "title": "dream feat. kentaro sakaguchi",
+        "title": "dream  kentaro sakaguchi",
         "vid": "FMX98ROVRCE",
         "surname": "L",
         "kid": ""
@@ -72250,7 +72250,7 @@ const mvDB = [
     {
         "id": 17889,
         "artist": "LISA",
-        "title": "when im with you feat. tyla",
+        "title": "when im  you  tyla",
         "vid": "wM--5vGraQQ",
         "surname": "L",
         "kid": ""
@@ -72293,7 +72293,7 @@ const mvDB = [
         "title": "rockstar",
         "vid": "hbcGx4MGUMg",
         "surname": "L",
-        "kid": ""
+        "kid": "DZJwCm_8fK0"
     },
     {
         "id": 17895,
@@ -72314,7 +72314,7 @@ const mvDB = [
     {
         "id": 17897,
         "artist": "LISA",
-        "title": "lisa performing rockstar  from the victoria’s secret fashion show 2024",
+        "title": "performing rockstar  from the victoria’s secret fashion show 2024",
         "vid": "mOLAtBo3mHk",
         "surname": "L",
         "kid": ""
@@ -72346,7 +72346,7 @@ const mvDB = [
     {
         "id": 17901,
         "artist": "JENNIE",
-        "title": "too bad  with riehata",
+        "title": "too badriehata",
         "vid": "c3jK48Hy3u0",
         "surname": "J",
         "kid": ""
@@ -72413,12 +72413,12 @@ const mvDB = [
         "title": "apt.",
         "vid": "K1uuK4QdvGY",
         "surname": "R",
-        "kid": ""
+        "kid": "d3TPwaqOBvY"
     },
     {
         "id": 17910,
         "artist": "ROSÉ",
-        "title": "justin bieber & rosé — like this",
+        "title": "justin bieber &  — like this",
         "vid": "oLD-QFbrMOk",
         "surname": "R",
         "kid": ""
@@ -72437,7 +72437,7 @@ const mvDB = [
         "title": "rose",
         "vid": "hJPLOQv4oR0",
         "surname": "R",
-        "kid": ""
+        "kid": "RjRPgawoWv8"
     },
     {
         "id": 17913,
@@ -72458,7 +72458,7 @@ const mvDB = [
     {
         "id": 17915,
         "artist": "ROSÉ",
-        "title": "tss feat. wvc jazz",
+        "title": "tss  wvc jazz",
         "vid": "2F4FiTm-YDk",
         "surname": "R",
         "kid": ""
@@ -72485,7 +72485,7 @@ const mvDB = [
         "title": "flower",
         "vid": "98x73oyfHkg",
         "surname": "J",
-        "kid": ""
+        "kid": "Bn5n8R5MY1k"
     },
     {
         "id": 17919,
@@ -72493,7 +72493,7 @@ const mvDB = [
         "title": "flower",
         "vid": "na2Mq2gseaI",
         "surname": "J",
-        "kid": ""
+        "kid": "Bn5n8R5MY1k"
     },
     {
         "id": 17920,
@@ -72501,7 +72501,7 @@ const mvDB = [
         "title": "your love",
         "vid": "s8ixlyMtqDw",
         "surname": "J",
-        "kid": ""
+        "kid": "PQz2q9OXn4s"
     },
     {
         "id": 17921,
@@ -72546,10 +72546,10 @@ const mvDB = [
     {
         "id": 17926,
         "artist": "BLACKPINK",
-        "title": "jolin version",
+        "title": "布拉格廣場",
         "vid": "b7rGJMEEO2Q",
         "surname": "B",
-        "kid": ""
+        "kid": "b7rGJMEEO2Q"
     },
     {
         "id": 17927,
@@ -72557,15 +72557,15 @@ const mvDB = [
         "title": "日不落",
         "vid": "1GA8z-Wliew",
         "surname": "B",
-        "kid": ""
+        "kid": "1GA8z-Wliew"
     },
     {
         "id": 17928,
         "artist": "BLACKPINK",
-        "title": "street ver.",
+        "title": "fire",
         "vid": "49AfuuRbgGo",
         "surname": "B",
-        "kid": ""
+        "kid": "2E3RzqUcg5s"
     },
     {
         "id": 17929,
@@ -72581,7 +72581,7 @@ const mvDB = [
         "title": "블랙핑크",
         "vid": "GM1IlKppFYU",
         "surname": "B",
-        "kid": "Ww0MKCSvIeo"
+        "kid": "kpzZykaH_5o"
     },
     {
         "id": 17931,
@@ -72613,12 +72613,12 @@ const mvDB = [
         "title": "shut down",
         "vid": "TZokfs2RWq4",
         "surname": "B",
-        "kid": ""
+        "kid": "u0XVZwf1l9Q"
     },
     {
         "id": 17935,
         "artist": "BLACKPINK",
-        "title": "blackpink",
+        "title": "lisa (blackpink) /. money",
         "vid": "tVRVccqfG1c",
         "surname": "B",
         "kid": "Z7ovil3wFuo"
@@ -72637,7 +72637,7 @@ const mvDB = [
         "title": "lovesick girls",
         "vid": "Po8BqUsgxtc",
         "surname": "B",
-        "kid": ""
+        "kid": "V4WDQmZd2VE"
     },
     {
         "id": 17938,
@@ -72714,7 +72714,7 @@ const mvDB = [
     {
         "id": 17947,
         "artist": "BIGBANG",
-        "title": "f",
+        "title": "if you",
         "vid": "MBcPYVtKVeU",
         "surname": "B",
         "kid": ""
@@ -72730,7 +72730,7 @@ const mvDB = [
     {
         "id": 17949,
         "artist": "BIGBANG",
-        "title": "好吃好記版",
+        "title": "冰冰冰",
         "vid": "ILBDZFDwfDk",
         "surname": "B",
         "kid": ""
@@ -72754,7 +72754,7 @@ const mvDB = [
     {
         "id": 17952,
         "artist": "BIGBANG",
-        "title": "2025mama",
+        "title": "無題",
         "vid": "x0Pf5ItOtQI",
         "surname": "B",
         "kid": ""
@@ -72762,7 +72762,7 @@ const mvDB = [
     {
         "id": 17953,
         "artist": "EXO",
-        "title": "exo 엑소 tempo",
+        "title": "tempo",
         "vid": "iwd8N6K-sLk",
         "surname": "E",
         "kid": ""
@@ -72770,7 +72770,7 @@ const mvDB = [
     {
         "id": 17954,
         "artist": "EXO",
-        "title": "exo 엑소 obsession",
+        "title": "obsession",
         "vid": "uxmP4b2a0uY",
         "surname": "E",
         "kid": ""
@@ -72778,7 +72778,7 @@ const mvDB = [
     {
         "id": 17955,
         "artist": "EXO",
-        "title": "exo 엑소 dont fight the feeling",
+        "title": "dont fight the feeling",
         "vid": "2IkoKhr6Tss",
         "surname": "E",
         "kid": ""
@@ -72794,7 +72794,7 @@ const mvDB = [
     {
         "id": 17957,
         "artist": "EXO",
-        "title": "exo 엑소 crown",
+        "title": "crown",
         "vid": "BWfKkqo1Mk8",
         "surname": "E",
         "kid": ""
@@ -72802,7 +72802,7 @@ const mvDB = [
     {
         "id": 17958,
         "artist": "EXO",
-        "title": "exo 엑소 love shot",
+        "title": "love shot",
         "vid": "pSudEWBAYRE",
         "surname": "E",
         "kid": ""
@@ -72810,15 +72810,15 @@ const mvDB = [
     {
         "id": 17959,
         "artist": "EXO",
-        "title": "exo 엑소 monster",
+        "title": "monster",
         "vid": "KSH-FVVtTf0",
         "surname": "E",
-        "kid": ""
+        "kid": "S70vMKUyoU4"
     },
     {
         "id": 17960,
         "artist": "EXO",
-        "title": "exo 엑소 ko ko bop",
+        "title": "ko ko bop",
         "vid": "IdssuxDdqKk",
         "surname": "E",
         "kid": ""
@@ -72826,10 +72826,10 @@ const mvDB = [
     {
         "id": 17961,
         "artist": "EXO",
-        "title": "exo 엑소 call me baby",
+        "title": "call me baby",
         "vid": "yWfsla_Uh80",
         "surname": "E",
-        "kid": ""
+        "kid": "irSPxC-oX5E"
     },
     {
         "id": 17962,
@@ -72837,7 +72837,7 @@ const mvDB = [
         "title": "growl",
         "vid": "I3dezFzsNss",
         "surname": "E",
-        "kid": ""
+        "kid": "sp0sxlkzpOE"
     },
     {
         "id": 17963,
@@ -72850,7 +72850,7 @@ const mvDB = [
     {
         "id": 17964,
         "artist": "EXO",
-        "title": "exo 엑소 lotto",
+        "title": "lotto",
         "vid": "tbe3pe2BtwA",
         "surname": "E",
         "kid": ""
@@ -72866,7 +72866,7 @@ const mvDB = [
     {
         "id": 17966,
         "artist": "EXO",
-        "title": "exo 엑소 love me right",
+        "title": "love me right",
         "vid": "RuqaVryDRd0",
         "surname": "E",
         "kid": ""
@@ -72874,7 +72874,7 @@ const mvDB = [
     {
         "id": 17967,
         "artist": "EXO",
-        "title": "korean ver.",
+        "title": "k 엑소케이 mama",
         "vid": "KH6ZwnqZ7Wo",
         "surname": "E",
         "kid": ""
@@ -72882,7 +72882,7 @@ const mvDB = [
     {
         "id": 17968,
         "artist": "EXO",
-        "title": "exo 엑소 power",
+        "title": "power",
         "vid": "sGRv8ZBLuW0",
         "surname": "E",
         "kid": ""
@@ -72890,7 +72890,7 @@ const mvDB = [
     {
         "id": 17969,
         "artist": "EXO",
-        "title": "exo 엑소 lucky one",
+        "title": "lucky one",
         "vid": "73QzQYN8FtE",
         "surname": "E",
         "kid": ""
@@ -72906,7 +72906,7 @@ const mvDB = [
     {
         "id": 17971,
         "artist": "EXO",
-        "title": "exo 엑소 universe",
+        "title": "universe",
         "vid": "leu-cTvMWTA",
         "surname": "E",
         "kid": ""
@@ -73021,7 +73021,7 @@ const mvDB = [
         "title": "the feels",
         "vid": "f5_wn8mexmM",
         "surname": "T",
-        "kid": ""
+        "kid": "9ZuRCB-3cmY"
     },
     {
         "id": 17986,
@@ -73034,7 +73034,7 @@ const mvDB = [
     {
         "id": 17987,
         "artist": "TWICE",
-        "title": "free",
+        "title": "twice \"alcohol-free\" m/v",
         "vid": "XA2YEHn-A8Q",
         "surname": "T",
         "kid": ""
@@ -73058,7 +73058,7 @@ const mvDB = [
     {
         "id": 17990,
         "artist": "TWICE",
-        "title": "twice 「scientist」",
+        "title": "scientist",
         "vid": "vPwaXytZcgI",
         "surname": "T",
         "kid": ""
@@ -73066,18 +73066,18 @@ const mvDB = [
     {
         "id": 17991,
         "artist": "TWICE",
-        "title": "moving ver.",
+        "title": "the feels",
         "vid": "9j6_KM-uzfY",
         "surname": "T",
-        "kid": ""
+        "kid": "9ZuRCB-3cmY"
     },
     {
         "id": 17992,
         "artist": "TWICE",
-        "title": "twice 「strategy 」",
+        "title": "strategy",
         "vid": "Sz_wWzgh-vQ",
         "surname": "T",
-        "kid": ""
+        "kid": "fmZ-20XCMTE"
     },
     {
         "id": 17993,
@@ -73085,7 +73085,7 @@ const mvDB = [
         "title": "moonlight sunrise",
         "vid": "cKlEE_EYuNM",
         "surname": "T",
-        "kid": ""
+        "kid": "_DKcib5BaLw"
     },
     {
         "id": 17994,
@@ -73093,7 +73093,7 @@ const mvDB = [
         "title": "this is for",
         "vid": "eHHQaoEW30Q",
         "surname": "T",
-        "kid": ""
+        "kid": "yiBO73hydPk"
     },
     {
         "id": 17995,
@@ -73157,7 +73157,7 @@ const mvDB = [
         "title": "what is love?",
         "vid": "i0p1bmr0EmE",
         "surname": "T",
-        "kid": ""
+        "kid": "Xv52OZsbO64"
     },
     {
         "id": 18003,
@@ -73165,7 +73165,7 @@ const mvDB = [
         "title": "tt",
         "vid": "ePpPVE-GGJw",
         "surname": "T",
-        "kid": "YhZZojf_YMo"
+        "kid": "jENSknGHDKg"
     },
     {
         "id": 18004,
@@ -73173,7 +73173,7 @@ const mvDB = [
         "title": "likey",
         "vid": "V2hlQkVJZhE",
         "surname": "T",
-        "kid": ""
+        "kid": "HYs5q8kKy0c"
     },
     {
         "id": 18005,
@@ -73197,7 +73197,7 @@ const mvDB = [
         "title": "heart shaker",
         "vid": "rRzxEiBLQCA",
         "surname": "T",
-        "kid": ""
+        "kid": "TjZxK7qEdeA"
     },
     {
         "id": 18008,
@@ -73221,7 +73221,7 @@ const mvDB = [
         "title": "signal",
         "vid": "VQtonf1fv_s",
         "surname": "T",
-        "kid": ""
+        "kid": "OBguLpoBxi4"
     },
     {
         "id": 18011,
@@ -73229,7 +73229,7 @@ const mvDB = [
         "title": "knock knock",
         "vid": "8A2t_tAjMz8",
         "surname": "T",
-        "kid": ""
+        "kid": "tuE7FWPOkGg"
     },
     {
         "id": 18012,
@@ -73250,7 +73250,7 @@ const mvDB = [
     {
         "id": 18014,
         "artist": "少女時代",
-        "title": "korean ver.",
+        "title": "girls generation 소녀시대 catch me if you can",
         "vid": "b09U0KLv6I4",
         "surname": "少",
         "kid": ""
@@ -73266,7 +73266,7 @@ const mvDB = [
     {
         "id": 18016,
         "artist": "AKB48",
-        "title": "full",
+        "title": "公式",
         "vid": "dFf4AgBNR1E",
         "surname": "A",
         "kid": ""
@@ -73290,7 +73290,7 @@ const mvDB = [
     {
         "id": 18019,
         "artist": "Apink",
-        "title": "apink",
+        "title": "러브",
         "vid": "rWpf7wDw0xE",
         "surname": "A",
         "kid": "GHW88jp0uT0"
@@ -73314,7 +73314,7 @@ const mvDB = [
     {
         "id": 18022,
         "artist": "Apink",
-        "title": "認人版",
+        "title": "remember",
         "vid": "DjFfyRITuSs",
         "surname": "A",
         "kid": ""
@@ -73362,7 +73362,7 @@ const mvDB = [
     {
         "id": 18028,
         "artist": "Apink",
-        "title": "繁中",
+        "title": "no no no",
         "vid": "x00zcRFWzn8",
         "surname": "A",
         "kid": ""
@@ -73386,7 +73386,7 @@ const mvDB = [
     {
         "id": 18031,
         "artist": "Apink",
-        "title": "幕",
+        "title": "dilemma",
         "vid": "if-57DCUtP0",
         "surname": "A",
         "kid": ""
@@ -73426,7 +73426,7 @@ const mvDB = [
     {
         "id": 18036,
         "artist": "AOA",
-        "title": "aoa _ excuse me",
+        "title": "excuse me",
         "vid": "NRlDo3JuzfI",
         "surname": "A",
         "kid": ""
@@ -73450,7 +73450,7 @@ const mvDB = [
     {
         "id": 18039,
         "artist": "AOA",
-        "title": "dance version",
+        "title": "ai wo choudai",
         "vid": "x3kx5OV1zXo",
         "surname": "A",
         "kid": ""
@@ -73461,7 +73461,7 @@ const mvDB = [
         "title": "miniskirt",
         "vid": "56hGcCt0NuU",
         "surname": "A",
-        "kid": ""
+        "kid": "5hcI9008O-Y"
     },
     {
         "id": 18041,
@@ -73514,7 +73514,7 @@ const mvDB = [
     {
         "id": 18047,
         "artist": "miss A",
-        "title": "未眠版",
+        "title": "想你的夜",
         "vid": "j3AW1uKj2aE",
         "surname": "m",
         "kid": ""
@@ -73602,10 +73602,10 @@ const mvDB = [
     {
         "id": 18058,
         "artist": "BTS(防彈少年團)",
-        "title": "『swim』",
+        "title": "swim",
         "vid": "b4iVv91Z6lY",
         "surname": "B",
-        "kid": "B-caU5nVQys"
+        "kid": "NoeCBDAkKEQ"
     },
     {
         "id": 18059,
@@ -73626,7 +73626,7 @@ const mvDB = [
     {
         "id": 18061,
         "artist": "IVE",
-        "title": "ive 아이브 bang bang",
+        "title": "아이브 bang bang",
         "vid": "9qkpcLK422o",
         "surname": "I",
         "kid": ""
@@ -73634,7 +73634,7 @@ const mvDB = [
     {
         "id": 18062,
         "artist": "IVE",
-        "title": "ive 아이브 blackhole",
+        "title": "아이브 blackhole",
         "vid": "1Lmy7qwmSMc",
         "surname": "I",
         "kid": ""
@@ -73642,7 +73642,7 @@ const mvDB = [
     {
         "id": 18063,
         "artist": "FIFTY FIFTY",
-        "title": "ot4twin ver.",
+        "title": "피프티피프티",
         "vid": "jgCVkQhlScc",
         "surname": "F",
         "kid": ""
@@ -73666,7 +73666,7 @@ const mvDB = [
     {
         "id": 18066,
         "artist": "FIFTY FIFTY",
-        "title": "fifty fifty ft @tenor237",
+        "title": "ft @tenor237",
         "vid": "QJrOq4TFB7s",
         "surname": "F",
         "kid": ""
@@ -73690,15 +73690,15 @@ const mvDB = [
     {
         "id": 18069,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 next level",
+        "title": "next level",
         "vid": "4TWR90KJl84",
         "surname": "a",
-        "kid": ""
+        "kid": "yzUcdnFyIwU"
     },
     {
         "id": 18070,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 whiplash",
+        "title": "whiplash",
         "vid": "jWQx2f-CErU",
         "surname": "a",
         "kid": ""
@@ -73706,15 +73706,15 @@ const mvDB = [
     {
         "id": 18071,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 black mamba",
+        "title": "black mamba",
         "vid": "ZeerrnuLi5E",
         "surname": "a",
-        "kid": ""
+        "kid": "-neU2-oGZVo"
     },
     {
         "id": 18072,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 savage",
+        "title": "savage",
         "vid": "WPdWvnAAurg",
         "surname": "a",
         "kid": ""
@@ -73722,15 +73722,15 @@ const mvDB = [
     {
         "id": 18073,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 supernova",
+        "title": "supernova",
         "vid": "phuiiNCxRMg",
         "surname": "a",
-        "kid": ""
+        "kid": "MTYMLke5mlQ"
     },
     {
         "id": 18074,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 spicy",
+        "title": "spicy",
         "vid": "Os_heh8vPfs",
         "surname": "a",
         "kid": ""
@@ -73738,7 +73738,7 @@ const mvDB = [
     {
         "id": 18075,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 armageddon",
+        "title": "armageddon",
         "vid": "nFYwcndNuOY",
         "surname": "a",
         "kid": ""
@@ -73746,7 +73746,7 @@ const mvDB = [
     {
         "id": 18076,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 girls",
+        "title": "girls",
         "vid": "dYRITmpFbJ4",
         "surname": "a",
         "kid": ""
@@ -73762,15 +73762,15 @@ const mvDB = [
     {
         "id": 18078,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 dirty work",
+        "title": "dirty work",
         "vid": "M2WTUoy4y6E",
         "surname": "a",
-        "kid": ""
+        "kid": "TR_JgG0BpDs"
     },
     {
         "id": 18079,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 better things",
+        "title": "better things",
         "vid": "gfk3QLU1x0E",
         "surname": "a",
         "kid": ""
@@ -73778,7 +73778,7 @@ const mvDB = [
     {
         "id": 18080,
         "artist": "aespa (에스파)",
-        "title": "english ver.",
+        "title": "lifes too short",
         "vid": "z2ZjutyxmjA",
         "surname": "a",
         "kid": ""
@@ -73786,7 +73786,7 @@ const mvDB = [
     {
         "id": 18081,
         "artist": "aespa (에스파)",
-        "title": "ver.",
+        "title": "armageddon",
         "vid": "0nPniUvUBfU",
         "surname": "a",
         "kid": ""
@@ -73794,7 +73794,7 @@ const mvDB = [
     {
         "id": 18082,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 rich man",
+        "title": "rich man",
         "vid": "5oQVTnq-UKk",
         "surname": "a",
         "kid": ""
@@ -73810,18 +73810,18 @@ const mvDB = [
     {
         "id": 18084,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 drama",
+        "title": "drama",
         "vid": "3CvJKTChsl4",
         "surname": "a",
-        "kid": ""
+        "kid": "r5RDSeoITBo"
     },
     {
         "id": 18085,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 lemonade",
+        "title": "lemonade",
         "vid": "83C3TZ4Zm_o",
         "surname": "a",
-        "kid": ""
+        "kid": "h2zBEQ1FLGY"
     },
     {
         "id": 18086,
@@ -73834,7 +73834,7 @@ const mvDB = [
     {
         "id": 18087,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 savage camerawork guide",
+        "title": "savage camerawork guide",
         "vid": "kZlLTnE1y1Q",
         "surname": "a",
         "kid": ""
@@ -73850,7 +73850,7 @@ const mvDB = [
     {
         "id": 18089,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 welcome to my world",
+        "title": "welcome to my world",
         "vid": "0xdB_vo4r2c",
         "surname": "a",
         "kid": ""
@@ -73858,10 +73858,10 @@ const mvDB = [
     {
         "id": 18090,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파  my life",
+        "title": "my life",
         "vid": "YEA1ROHi0Eg",
         "surname": "a",
-        "kid": ""
+        "kid": "YEA1ROHi0Eg"
     },
     {
         "id": 18091,
@@ -73882,7 +73882,7 @@ const mvDB = [
     {
         "id": 18093,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 thirsty track",
+        "title": "thirsty track",
         "vid": "i0RCcSBPjuU",
         "surname": "a",
         "kid": ""
@@ -73898,7 +73898,7 @@ const mvDB = [
     {
         "id": 18095,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 im unhappy track",
+        "title": "im unhappy track",
         "vid": "CC7OrEx5H4U",
         "surname": "a",
         "kid": ""
@@ -73914,7 +73914,7 @@ const mvDB = [
     {
         "id": 18097,
         "artist": "aespa (에스파)",
-        "title": "aespa 에스파 lemonade  visualizer",
+        "title": "lemonade  visualizer",
         "vid": "9eQpTdEeZcE",
         "surname": "a",
         "kid": ""
@@ -73922,7 +73922,7 @@ const mvDB = [
     {
         "id": 18098,
         "artist": "aespa (에스파)",
-        "title": "aespa hold on tight  | tetris motion picture soundtrack",
+        "title": "aespa hold on tight mv | tetris motion picture soundtrack",
         "vid": "1XZRhrt1Tkg",
         "surname": "a",
         "kid": ""
@@ -73933,15 +73933,15 @@ const mvDB = [
         "title": "에스파",
         "vid": "V0OAgnHSo9Y",
         "surname": "a",
-        "kid": "qAYcwClZxA0"
+        "kid": "YEA1ROHi0Eg"
     },
     {
         "id": 18100,
         "artist": "ILLIT",
-        "title": "아일릿",
+        "title": "magnetic",
         "vid": "Vk5-c_v4gMU",
         "surname": "I",
-        "kid": ""
+        "kid": "tYglJFtvhR4"
     },
     {
         "id": 18101,
@@ -73970,18 +73970,18 @@ const mvDB = [
     {
         "id": 18104,
         "artist": "BABYMONSTER",
-        "title": "『sheesh』",
+        "title": "sheesh",
         "vid": "kOanBE5Wg24",
         "surname": "B",
-        "kid": ""
+        "kid": "oywVOcD-bo0"
     },
     {
         "id": 18105,
         "artist": "BABYMONSTER",
-        "title": "『drip』",
+        "title": "drip",
         "vid": "cxhqqpVk65Q",
         "surname": "B",
-        "kid": ""
+        "kid": "3gO5laSon44"
     },
     {
         "id": 18106,
@@ -73997,7 +73997,7 @@ const mvDB = [
         "title": "choom",
         "vid": "x3eqqoZPV_E",
         "surname": "B",
-        "kid": ""
+        "kid": "AkYxV6hWDaU"
     },
     {
         "id": 18108,
@@ -74013,7 +74013,7 @@ const mvDB = [
         "title": "psycho",
         "vid": "yAXnEHFKKaY",
         "surname": "B",
-        "kid": ""
+        "kid": "7qMb5A11sWE"
     },
     {
         "id": 18110,
@@ -74042,7 +74042,7 @@ const mvDB = [
     {
         "id": 18113,
         "artist": "Seventeen",
-        "title": "seventeen",
+        "title": "부석순 (seventeen) 파이팅 해야지 (feat. 이영지) official mv",
         "vid": "mBXBOLG06Wc",
         "surname": "S",
         "kid": ""
@@ -74058,7 +74058,7 @@ const mvDB = [
     {
         "id": 18115,
         "artist": "NewJeans (뉴진스)",
-        "title": "more ft. madison beer, , lexie liu, jaira burns, seraphine",
+        "title": "more  madison beer, , lexie liu, jaira burns, seraphine",
         "vid": "3VTkBuxU4yk",
         "surname": "N",
         "kid": ""
@@ -74077,7 +74077,7 @@ const mvDB = [
         "title": "gods",
         "vid": "yUWjUX78SzI",
         "surname": "N",
-        "kid": ""
+        "kid": "_03-NQCb-qw"
     },
     {
         "id": 18118,
@@ -74093,7 +74093,7 @@ const mvDB = [
         "title": "ditto",
         "vid": "OSJRBpttH9Q",
         "surname": "N",
-        "kid": "OVwHRL3IUi8"
+        "kid": "EXfULdbfL7U"
     },
     {
         "id": 18120,
@@ -74101,7 +74101,7 @@ const mvDB = [
         "title": "뉴진스",
         "vid": "ur1M2A_hGzI",
         "surname": "N",
-        "kid": "Ld003FgxC34"
+        "kid": "hacpa75fU4k"
     },
     {
         "id": 18121,
@@ -74125,7 +74125,7 @@ const mvDB = [
         "title": "newjeans",
         "vid": "MgOSUo92NVI",
         "surname": "N",
-        "kid": "hFQGMKFIpJw"
+        "kid": "uA90nXf0M8E"
     },
     {
         "id": 18124,
@@ -74138,7 +74138,7 @@ const mvDB = [
     {
         "id": 18125,
         "artist": "NewJeans (뉴진스)",
-        "title": "jiafei remix",
+        "title": "jiafei",
         "vid": "JeCr4PbnEio",
         "surname": "N",
         "kid": ""
@@ -74213,7 +74213,7 @@ const mvDB = [
         "title": "dle",
         "vid": "HJ33FbHxsH0",
         "surname": "G",
-        "kid": "7fI4WcxbdII"
+        "kid": "ATK7gAaZTOM"
     },
     {
         "id": 18135,
@@ -74242,7 +74242,7 @@ const mvDB = [
     {
         "id": 18138,
         "artist": "(G)I-DLE ((여자)아이들)",
-        "title": "version",
+        "title": "brown eyed girls abracadabra",
         "vid": "o4wJGWcHzVA",
         "surname": "G",
         "kid": ""
@@ -74266,7 +74266,7 @@ const mvDB = [
     {
         "id": 18141,
         "artist": "OH MY GIRL",
-        "title": "etoile korean version",
+        "title": "etoile korean",
         "vid": "s5xYfrjhuno",
         "surname": "O",
         "kid": ""
@@ -74306,7 +74306,7 @@ const mvDB = [
     {
         "id": 18146,
         "artist": "OH MY GIRL",
-        "title": "韓中",
+        "title": "학교 2021",
         "vid": "1vUrF40EfFs",
         "surname": "O",
         "kid": ""
@@ -74322,7 +74322,7 @@ const mvDB = [
     {
         "id": 18148,
         "artist": "OH MY GIRL",
-        "title": "oh my girl",
+        "title": "yooa(oh my girl) - bon voyage(숲의 아이) (music bank) | kbs world tv 200918",
         "vid": "md9fWL8Fvno",
         "surname": "O",
         "kid": ""
@@ -74338,7 +74338,7 @@ const mvDB = [
     {
         "id": 18150,
         "artist": "OH MY GIRL",
-        "title": "中韓認聲",
+        "title": "dolphin",
         "vid": "Anu0AssTrAI",
         "surname": "O",
         "kid": ""
@@ -74362,7 +74362,7 @@ const mvDB = [
     {
         "id": 18153,
         "artist": "2am",
-        "title": "calls",
+        "title": "abigail",
         "vid": "LF4VMUTGNns",
         "surname": "2",
         "kid": ""
@@ -74386,7 +74386,7 @@ const mvDB = [
     {
         "id": 18156,
         "artist": "2am",
-        "title": "《 hd 中字 》2am - no.1",
+        "title": "no.1",
         "vid": "uNeT2qo7GM0",
         "surname": "2",
         "kid": ""
@@ -74466,7 +74466,7 @@ const mvDB = [
     {
         "id": 18166,
         "artist": "2am",
-        "title": "全惠彬",
+        "title": "性感",
         "vid": "s74Fumxh3j8",
         "surname": "2",
         "kid": ""
@@ -74482,7 +74482,7 @@ const mvDB = [
     {
         "id": 18168,
         "artist": "LE SSERAFIM",
-        "title": "le sserafim fearless",
+        "title": "fearless",
         "vid": "4vbDFu0PUew",
         "surname": "L",
         "kid": ""
@@ -74573,12 +74573,12 @@ const mvDB = [
         "title": "not you",
         "vid": "vjexVOf-s2Y",
         "surname": "A",
-        "kid": ""
+        "kid": "4rbcZR-WvCk"
     },
     {
         "id": 18180,
         "artist": "Alan Walker",
-        "title": "lily ft. k",
+        "title": "lily  k",
         "vid": "hdonNbzHHXE",
         "surname": "A",
         "kid": ""
@@ -74589,12 +74589,12 @@ const mvDB = [
         "title": "on my way",
         "vid": "6Htn1x-_-is",
         "surname": "A",
-        "kid": ""
+        "kid": "9oNDMiyLm4U"
     },
     {
         "id": 18182,
         "artist": "Alan Walker",
-        "title": "391, alan walker & ahrix",
+        "title": "391,  & ahrix",
         "vid": "Oj18EikZMuU",
         "surname": "A",
         "kid": ""
@@ -74634,7 +74634,7 @@ const mvDB = [
     {
         "id": 18187,
         "artist": "Alan Walker",
-        "title": "vertical",
+        "title": "different world  sofia carson, k",
         "vid": "44VBVj7n91s",
         "surname": "A",
         "kid": ""
@@ -74642,7 +74642,7 @@ const mvDB = [
     {
         "id": 18188,
         "artist": "Alan Walker",
-        "title": "391 & alan walker",
+        "title": "391 &",
         "vid": "Az-mGR-CehY",
         "surname": "A",
         "kid": ""
@@ -74653,7 +74653,7 @@ const mvDB = [
         "title": "faded",
         "vid": "mIxlvVlOIS0",
         "surname": "A",
-        "kid": ""
+        "kid": "xf5rgfur4gw"
     },
     {
         "id": 18190,
@@ -74666,7 +74666,7 @@ const mvDB = [
     {
         "id": 18191,
         "artist": "Alan Walker",
-        "title": "different world feat. sofia carson, k",
+        "title": "different world  sofia carson, k",
         "vid": "m-PJmmvyP10",
         "surname": "A",
         "kid": ""
@@ -74674,7 +74674,7 @@ const mvDB = [
     {
         "id": 18192,
         "artist": "Alan Walker",
-        "title": "restrung",
+        "title": "who i am",
         "vid": "tl_1unb5Asc",
         "surname": "A",
         "kid": ""
@@ -74706,7 +74706,7 @@ const mvDB = [
     {
         "id": 18196,
         "artist": "Justin Bieber",
-        "title": "baby ft. ludacris",
+        "title": "baby  ludacris",
         "vid": "kffacxfA7G4",
         "surname": "J",
         "kid": ""
@@ -74722,7 +74722,7 @@ const mvDB = [
     {
         "id": 18198,
         "artist": "Justin Bieber",
-        "title": "beauty and a beat  ft. nicki minaj",
+        "title": "beauty and a beatnicki minaj",
         "vid": "Ys7-6_t7OEQ",
         "surname": "J",
         "kid": ""
@@ -74730,7 +74730,7 @@ const mvDB = [
     {
         "id": 18199,
         "artist": "Justin Bieber",
-        "title": "intentions ) ft. quavo",
+        "title": "intentionsquavo",
         "vid": "3AyMjyHu1bA",
         "surname": "J",
         "kid": ""
@@ -74770,7 +74770,7 @@ const mvDB = [
     {
         "id": 18204,
         "artist": "Justin Bieber",
-        "title": "im the one ft. justin bieber, quavo, chance the rapper, lil wayne",
+        "title": "im the one  , quavo, chance the rapper, lil wayne",
         "vid": "weeI1G46q0o",
         "surname": "J",
         "kid": ""
@@ -74786,7 +74786,7 @@ const mvDB = [
     {
         "id": 18206,
         "artist": "Justin Bieber",
-        "title": "never say never ft. jaden",
+        "title": "never say never  jaden",
         "vid": "_Z5-P9v3F8w",
         "surname": "J",
         "kid": ""
@@ -74802,7 +74802,7 @@ const mvDB = [
     {
         "id": 18208,
         "artist": "Justin Bieber",
-        "title": "peaches ft. daniel caesar, giveon",
+        "title": "peaches  daniel caesar, giveon",
         "vid": "tQ0yjYUFKAE",
         "surname": "J",
         "kid": ""
@@ -74890,7 +74890,7 @@ const mvDB = [
     {
         "id": 18219,
         "artist": "Ed Sheeran",
-        "title": "pink heart",
+        "title": "azizam",
         "vid": "q_48vyHWls4",
         "surname": "E",
         "kid": ""
@@ -74997,7 +74997,7 @@ const mvDB = [
         "title": "此情可待",
         "vid": "8VE1vlBoypo",
         "surname": "R",
-        "kid": ""
+        "kid": "KaJcwtw90PA"
     },
     {
         "id": 18233,
@@ -75005,7 +75005,7 @@ const mvDB = [
         "title": "right here waiting",
         "vid": "gBbeXT5ufok",
         "surname": "R",
-        "kid": ""
+        "kid": "3O9Hiq2ZxRo"
     },
     {
         "id": 18234,
@@ -75026,7 +75026,7 @@ const mvDB = [
     {
         "id": 18236,
         "artist": "Richard Marx",
-        "title": "the distance & igi remix",
+        "title": "the distance & igi",
         "vid": "pY_GHchNoGw",
         "surname": "R",
         "kid": ""
@@ -75045,7 +75045,7 @@ const mvDB = [
         "title": "waiting for you",
         "vid": "bVqIeMBUy0M",
         "surname": "R",
-        "kid": ""
+        "kid": "pip1MPwD85Y"
     },
     {
         "id": 18239,
@@ -75058,7 +75058,7 @@ const mvDB = [
     {
         "id": 18240,
         "artist": "Richard Marx",
-        "title": "version 1",
+        "title": "1",
         "vid": "rh8kKjDEbvM",
         "surname": "R",
         "kid": ""
@@ -75138,7 +75138,7 @@ const mvDB = [
     {
         "id": 18250,
         "artist": "Richard Marx",
-        "title": "right here waiting full  with  🎧",
+        "title": "right here waiting full 🎧",
         "vid": "xhAkp36xaX0",
         "surname": "R",
         "kid": ""
@@ -75170,7 +75170,7 @@ const mvDB = [
     {
         "id": 18254,
         "artist": "Richard Marx",
-        "title": "with",
+        "title": "這首歌傳唱不衰，頌揚真情的永恆",
         "vid": "xBDumpCIkfY",
         "surname": "R",
         "kid": ""
@@ -75186,15 +75186,15 @@ const mvDB = [
     {
         "id": 18256,
         "artist": "Richard Marx",
-        "title": "♫♫",
+        "title": "在此等候",
         "vid": "uz3QIfpqaz4",
         "surname": "R",
-        "kid": ""
+        "kid": "XCMGLnt_pTw"
     },
     {
         "id": 18257,
         "artist": "Richard Marx",
-        "title": "{帶走我的呼吸}",
+        "title": "帶走我的呼吸",
         "vid": "L1nmYhBvZAY",
         "surname": "R",
         "kid": ""
@@ -75202,7 +75202,7 @@ const mvDB = [
     {
         "id": 18258,
         "artist": "Richard Marx",
-        "title": "right here waiting ♥ richard marx ♥ cover songs",
+        "title": "right here waiting ♥  ♥ cover songs",
         "vid": "byCewcZ-JLE",
         "surname": "R",
         "kid": ""
@@ -75221,7 +75221,7 @@ const mvDB = [
         "title": "now and forever",
         "vid": "hqXa6kQs3G4",
         "surname": "R",
-        "kid": ""
+        "kid": "3W26Dr5XFdg"
     },
     {
         "id": 18261,
@@ -75229,7 +75229,7 @@ const mvDB = [
         "title": "無心的呢喃",
         "vid": "ELXI7WKiGpw",
         "surname": "G",
-        "kid": ""
+        "kid": "ELXI7WKiGpw"
     },
     {
         "id": 18262,
@@ -75253,7 +75253,7 @@ const mvDB = [
         "title": "careless whisper",
         "vid": "hilSIzOPVU4",
         "surname": "G",
-        "kid": ""
+        "kid": "uzj5VHxHi7M"
     },
     {
         "id": 18265,
@@ -75277,7 +75277,7 @@ const mvDB = [
         "title": "careless whisper",
         "vid": "z-xiPIrDiTA",
         "surname": "G",
-        "kid": ""
+        "kid": "uzj5VHxHi7M"
     },
     {
         "id": 18268,
@@ -75290,7 +75290,7 @@ const mvDB = [
     {
         "id": 18269,
         "artist": "George Michael",
-        "title": "george michael brother can you spare a dime  symphonica dvd",
+        "title": "brother can you spare a dime  symphonica dvd",
         "vid": "uW33O4TZ5SU",
         "surname": "G",
         "kid": ""
@@ -75298,7 +75298,7 @@ const mvDB = [
     {
         "id": 18270,
         "artist": "George Michael",
-        "title": "george michael_wham!!",
+        "title": "wham!!",
         "vid": "3TtLwsu0Pb8",
         "surname": "G",
         "kid": ""
@@ -75309,7 +75309,7 @@ const mvDB = [
         "title": "careless whisper",
         "vid": "Zci9-F99dlE",
         "surname": "G",
-        "kid": ""
+        "kid": "uzj5VHxHi7M"
     },
     {
         "id": 18272,
@@ -75357,7 +75357,7 @@ const mvDB = [
         "title": "hello",
         "vid": "mHONNcZbwDY",
         "surname": "L",
-        "kid": ""
+        "kid": "5bQi9w9uCbk"
     },
     {
         "id": 18278,
@@ -75378,7 +75378,7 @@ const mvDB = [
     {
         "id": 18280,
         "artist": "Lionel Richie",
-        "title": "white nights • say you, say me • lionel richie",
+        "title": "white nights • say you, say me •",
         "vid": "CFz26Pe9v7s",
         "surname": "L",
         "kid": ""
@@ -75394,7 +75394,7 @@ const mvDB = [
     {
         "id": 18282,
         "artist": "Lionel Richie",
-        "title": "endless love ft. shania twain",
+        "title": "endless love  shania twain",
         "vid": "bAqz0AwLRjk",
         "surname": "L",
         "kid": ""
@@ -75405,7 +75405,7 @@ const mvDB = [
         "title": "stuck on you",
         "vid": "eEjbcOe9hsc",
         "surname": "L",
-        "kid": ""
+        "kid": "s8CszZUic4w"
     },
     {
         "id": 18284,
@@ -75426,7 +75426,7 @@ const mvDB = [
     {
         "id": 18286,
         "artist": "Lionel Richie",
-        "title": "to love a woman ft. enrique iglesias",
+        "title": "to love a woman  enrique iglesias",
         "vid": "36Dp1L8Fgh4",
         "surname": "L",
         "kid": ""
@@ -75458,7 +75458,7 @@ const mvDB = [
     {
         "id": 18290,
         "artist": "Lionel Richie",
-        "title": "you are ft. blake shelton",
+        "title": "you are  blake shelton",
         "vid": "0353jrboqOc",
         "surname": "L",
         "kid": ""
@@ -75469,7 +75469,7 @@ const mvDB = [
         "title": "say you say me",
         "vid": "we0mk_J0zyc",
         "surname": "L",
-        "kid": ""
+        "kid": "CNPyHY1RUZA"
     },
     {
         "id": 18292,
@@ -75477,7 +75477,7 @@ const mvDB = [
         "title": "truly",
         "vid": "kX-uh1MqAI4",
         "surname": "L",
-        "kid": ""
+        "kid": "jXveNm55i_w"
     },
     {
         "id": 18293,
@@ -75501,7 +75501,7 @@ const mvDB = [
         "title": "please forgive me",
         "vid": "9EHAo6rEuas",
         "surname": "B",
-        "kid": ""
+        "kid": "2GQncCmSJ1I"
     },
     {
         "id": 18296,
@@ -75517,12 +75517,12 @@ const mvDB = [
         "title": "everything i do",
         "vid": "Y0pdQU87dc8",
         "surname": "B",
-        "kid": ""
+        "kid": "4LiVxS-wqzY"
     },
     {
         "id": 18298,
         "artist": "Bryan Adams",
-        "title": "film version",
+        "title": "all for love",
         "vid": "ofA3URC1wyk",
         "surname": "B",
         "kid": ""
@@ -75546,7 +75546,7 @@ const mvDB = [
     {
         "id": 18301,
         "artist": "Bryan Adams",
-        "title": "when youre gone ft. melanie c",
+        "title": "when youre gone  melanie c",
         "vid": "_W2jONIjrM0",
         "surname": "B",
         "kid": ""
@@ -75562,7 +75562,7 @@ const mvDB = [
     {
         "id": 18303,
         "artist": "Bryan Adams",
-        "title": "classic version",
+        "title": "have you ever really loved a woman?",
         "vid": "diKIYv8tMC8",
         "surname": "B",
         "kid": ""
@@ -75634,7 +75634,7 @@ const mvDB = [
     {
         "id": 18312,
         "artist": "Michael Bolton",
-        "title": "enhanced  version",
+        "title": "enhanced",
         "vid": "182f6dTagkU",
         "surname": "M",
         "kid": ""
@@ -75650,7 +75650,7 @@ const mvDB = [
     {
         "id": 18314,
         "artist": "Michael Bolton",
-        "title": "how am i supposed to  without you",
+        "title": "how am i supposed to  out you",
         "vid": "IkwYEBKrb8g",
         "surname": "M",
         "kid": ""
@@ -75682,7 +75682,7 @@ const mvDB = [
     {
         "id": 18318,
         "artist": "Michael Bolton",
-        "title": "西洋歌曲中英",
+        "title": "micheal bolton",
         "vid": "6P_JvzvCXFM",
         "surname": "M",
         "kid": ""
@@ -75722,7 +75722,7 @@ const mvDB = [
     {
         "id": 18323,
         "artist": "Michael Bolton",
-        "title": "the lonely island michael bolton",
+        "title": "the lonely island",
         "vid": "RzEniIYo_8o",
         "surname": "M",
         "kid": ""
@@ -75730,7 +75730,7 @@ const mvDB = [
     {
         "id": 18324,
         "artist": "Michael Bolton",
-        "title": "how do i  without youtube?",
+        "title": "how do i  out youtube?",
         "vid": "If9YXbjWXpQ",
         "surname": "M",
         "kid": ""
@@ -75762,7 +75762,7 @@ const mvDB = [
     {
         "id": 18328,
         "artist": "Martin Garrix",
-        "title": "so far away  feat. jamie scott & romy dya",
+        "title": "so far awayjamie scott & romy dya",
         "vid": "o7iL2KzDh38",
         "surname": "M",
         "kid": ""
@@ -75773,7 +75773,7 @@ const mvDB = [
         "title": "high on life",
         "vid": "Lpjcm1F8tY8",
         "surname": "M",
-        "kid": ""
+        "kid": "U399h9BI06g"
     },
     {
         "id": 18330,
@@ -75845,7 +75845,7 @@ const mvDB = [
         "title": "in the name of love",
         "vid": "RnBT9uUYb1w",
         "surname": "M",
-        "kid": ""
+        "kid": "sZWsmGUTscU"
     },
     {
         "id": 18339,
@@ -75853,7 +75853,7 @@ const mvDB = [
         "title": "scared to be lonely",
         "vid": "e2vBLd5Egnk",
         "surname": "M",
-        "kid": ""
+        "kid": "Wqi7jYhNh8M"
     },
     {
         "id": 18340,
@@ -75874,7 +75874,7 @@ const mvDB = [
     {
         "id": 18342,
         "artist": "Martin Garrix",
-        "title": "burn out  feat. dewain whitmore",
+        "title": "burn outdewain whitmore",
         "vid": "DylzGXE_ibU",
         "surname": "M",
         "kid": ""
@@ -75906,7 +75906,7 @@ const mvDB = [
     {
         "id": 18346,
         "artist": "Olly Murs",
-        "title": "up  ft. demi lovato",
+        "title": "updemi lovato",
         "vid": "29GWMT0GB6s",
         "surname": "O",
         "kid": ""
@@ -75914,7 +75914,7 @@ const mvDB = [
     {
         "id": 18347,
         "artist": "Olly Murs",
-        "title": "dance with me tonight",
+        "title": "dance  me tonight",
         "vid": "F3EG4olrFjY",
         "surname": "O",
         "kid": ""
@@ -75922,7 +75922,7 @@ const mvDB = [
     {
         "id": 18348,
         "artist": "Olly Murs",
-        "title": "wrapped up  ft. travie mccoy",
+        "title": "wrapped uptravie mccoy",
         "vid": "niLMQsD9ZG4",
         "surname": "O",
         "kid": ""
@@ -75970,7 +75970,7 @@ const mvDB = [
     {
         "id": 18354,
         "artist": "Olly Murs",
-        "title": "moves  ft. snoop dogg",
+        "title": "movessnoop dogg",
         "vid": "wogS2WPp-0g",
         "surname": "O",
         "kid": ""
@@ -75978,7 +75978,7 @@ const mvDB = [
     {
         "id": 18355,
         "artist": "Olly Murs",
-        "title": "troublemaker ft. flo rida",
+        "title": "troublemaker  flo rida",
         "vid": "4aQDOUbErNg",
         "surname": "O",
         "kid": ""
@@ -75997,12 +75997,12 @@ const mvDB = [
         "title": "that girl",
         "vid": "3q2IXr6fjh0",
         "surname": "O",
-        "kid": ""
+        "kid": "KnZisAx1SFk"
     },
     {
         "id": 18358,
         "artist": "Olly Murs",
-        "title": "heart skips a beat ft. rizzle kicks",
+        "title": "heart skips a beat  rizzle kicks",
         "vid": "j5dFe-WKuPs",
         "surname": "O",
         "kid": ""
@@ -76010,7 +76010,7 @@ const mvDB = [
     {
         "id": 18359,
         "artist": "Olly Murs",
-        "title": "us version",
+        "title": "heart skips a beatchiddy bang",
         "vid": "R4rKvWA6w20",
         "surname": "O",
         "kid": ""
@@ -76066,7 +76066,7 @@ const mvDB = [
     {
         "id": 18366,
         "artist": "Richard Clayderman",
-        "title": "richard clayderman & zade dirani",
+        "title": "& zade dirani",
         "vid": "D3XCQvDZHUc",
         "surname": "R",
         "kid": ""
@@ -76090,7 +76090,7 @@ const mvDB = [
     {
         "id": 18369,
         "artist": "Richard Clayderman",
-        "title": "2023 version",
+        "title": "love is blue",
         "vid": "zoQJExAbu94",
         "surname": "R",
         "kid": ""
@@ -76114,7 +76114,7 @@ const mvDB = [
     {
         "id": 18372,
         "artist": "Richard Clayderman",
-        "title": "richard clayderman e penso a te",
+        "title": "e penso a te",
         "vid": "h223ReX7Ox0",
         "surname": "R",
         "kid": ""
@@ -76178,7 +76178,7 @@ const mvDB = [
     {
         "id": 18380,
         "artist": "Eminem",
-        "title": "heavy is the crown ft. linkin park  | league of legends worlds 2024 anthem",
+        "title": "heavy is the crown  linkin park  | league of legends worlds 2024 anthem",
         "vid": "5FrhtahQiRc",
         "surname": "E",
         "kid": ""
@@ -76186,7 +76186,7 @@ const mvDB = [
     {
         "id": 18381,
         "artist": "Eminem",
-        "title": "饒舌之神",
+        "title": "houdini",
         "vid": "7xOXxGSHTq0",
         "surname": "E",
         "kid": ""
@@ -76218,7 +76218,7 @@ const mvDB = [
     {
         "id": 18385,
         "artist": "Eminem",
-        "title": "eminem",
+        "title": "阿姆(eminem)-lose yourself cc中文字幕",
         "vid": "e83meNywaCA",
         "surname": "E",
         "kid": ""
@@ -76226,7 +76226,7 @@ const mvDB = [
     {
         "id": 18386,
         "artist": "Eminem",
-        "title": "中英",
+        "title": "阿姆這嘴速又破世界紀錄啦！",
         "vid": "fGvaBbMB5V8",
         "surname": "E",
         "kid": ""
@@ -76258,7 +76258,7 @@ const mvDB = [
     {
         "id": 18390,
         "artist": "Eminem",
-        "title": "venom  by fan",
+        "title": "venom mv by fan",
         "vid": "xfFzcTCdhc0",
         "surname": "E",
         "kid": ""
@@ -76282,7 +76282,7 @@ const mvDB = [
     {
         "id": 18393,
         "artist": "Eminem",
-        "title": "eminem",
+        "title": "阿姆(eminem) 新歌 - survival (生存) [中文歌詞]",
         "vid": "MJ4I4ycawd8",
         "surname": "E",
         "kid": ""
@@ -76394,7 +76394,7 @@ const mvDB = [
     {
         "id": 18407,
         "artist": "XXXTENTACION",
-        "title": "post malone & xxxtentacion— l fall apart & changes",
+        "title": "post malone & — l fall apart & changes",
         "vid": "CJpCFtvLXYM",
         "surname": "X",
         "kid": ""
@@ -76426,7 +76426,7 @@ const mvDB = [
     {
         "id": 18411,
         "artist": "XXXTENTACION",
-        "title": "anbroski remix",
+        "title": "anbroski",
         "vid": "BI6bm5TDHkU",
         "surname": "X",
         "kid": ""
@@ -76442,7 +76442,7 @@ const mvDB = [
     {
         "id": 18413,
         "artist": "XXXTENTACION",
-        "title": "and every single year",
+        "title": "numb『』",
         "vid": "hM3MAfbAaYU",
         "surname": "X",
         "kid": ""
@@ -76450,7 +76450,7 @@ const mvDB = [
     {
         "id": 18414,
         "artist": "XXXTENTACION",
-        "title": "love翻譯",
+        "title": "fuck love",
         "vid": "UfyPTnY9-mQ",
         "surname": "X",
         "kid": ""
@@ -76458,7 +76458,7 @@ const mvDB = [
     {
         "id": 18415,
         "artist": "XXXTENTACION",
-        "title": "歌詞",
+        "title": "ex bitch - xxxtentacion 「歌詞」 - 中文翻譯",
         "vid": "5uN7ZtLFr2I",
         "surname": "X",
         "kid": ""
@@ -76562,7 +76562,7 @@ const mvDB = [
     {
         "id": 18428,
         "artist": "JVKE",
-        "title": "worlds most dangerous",
+        "title": "this is what heartbreak feels like",
         "vid": "OsrJf_a5170",
         "surname": "J",
         "kid": ""
@@ -76674,7 +76674,7 @@ const mvDB = [
     {
         "id": 18442,
         "artist": "Troye Sivan",
-        "title": "ariana grande 亞莉安娜 & troye sivan 特洛伊 /. supernatural 超自然【中文字幕/歌詞翻譯 chinese lyrics】",
+        "title": "超自然",
         "vid": "PYndqQhe7qc",
         "surname": "T",
         "kid": ""
@@ -76754,7 +76754,7 @@ const mvDB = [
     {
         "id": 18452,
         "artist": "Metro Boomin",
-        "title": "take me thru dere ft. quavo, breskii, yk niece, & dj spinz",
+        "title": "take me thru dere  quavo, breskii, yk niece, & dj spinz",
         "vid": "iUZyn_w6Y1Q",
         "surname": "M",
         "kid": ""
@@ -76802,7 +76802,7 @@ const mvDB = [
     {
         "id": 18458,
         "artist": "Metro Boomin",
-        "title": "remix",
+        "title": "creepin",
         "vid": "6DWjiWEmxME",
         "surname": "M",
         "kid": ""
@@ -76826,7 +76826,7 @@ const mvDB = [
     {
         "id": 18461,
         "artist": "Metro Boomin",
-        "title": "space cadet ft. gunna",
+        "title": "space cadet  gunna",
         "vid": "qBWhc4qbsjo",
         "surname": "M",
         "kid": ""
@@ -76850,7 +76850,7 @@ const mvDB = [
     {
         "id": 18464,
         "artist": "Dan Hill",
-        "title": "dan hill",
+        "title": "sometimes when we touch - dan hill - official video 1994",
         "vid": "IATz8ZVTALo",
         "surname": "D",
         "kid": ""
@@ -76858,7 +76858,7 @@ const mvDB = [
     {
         "id": 18465,
         "artist": "Dan Hill",
-        "title": "dan hill w",
+        "title": "w",
         "vid": "4fm6J0NmrHo",
         "surname": "D",
         "kid": ""
@@ -76898,7 +76898,7 @@ const mvDB = [
     {
         "id": 18470,
         "artist": "Dan Hill",
-        "title": "cant we try | by dan hill and vonda shepard | @keirgee",
+        "title": "cant we try | by  and vonda shepard | @keirgee",
         "vid": "gh4kkX_7UO8",
         "surname": "D",
         "kid": ""
@@ -76914,7 +76914,7 @@ const mvDB = [
     {
         "id": 18472,
         "artist": "Dan Hill",
-        "title": "sometimes when we touch sung by manny pacquiao and dan hill",
+        "title": "sometimes when we touch sung by manny pacquiao and",
         "vid": "HPIVczZGm74",
         "surname": "D",
         "kid": ""
@@ -76938,7 +76938,7 @@ const mvDB = [
     {
         "id": 18475,
         "artist": "Dan Hill",
-        "title": "i fall all over againdan hill",
+        "title": "i fall all over again",
         "vid": "bkIgi0ccxgE",
         "surname": "D",
         "kid": ""
@@ -76949,7 +76949,7 @@ const mvDB = [
         "title": "everytime you go away",
         "vid": "nfk6sCzRTbM",
         "surname": "P",
-        "kid": ""
+        "kid": "F2Bmiamkj84"
     },
     {
         "id": 18477,
@@ -76957,7 +76957,7 @@ const mvDB = [
         "title": "love is in the air",
         "vid": "TInrBuCcuFY",
         "surname": "P",
-        "kid": ""
+        "kid": "FfE6Azy8Gcg"
     },
     {
         "id": 18478,
@@ -76973,15 +76973,15 @@ const mvDB = [
         "title": "love",
         "vid": "0XbnGOGvmCA",
         "surname": "P",
-        "kid": ""
+        "kid": "FfE6Azy8Gcg"
     },
     {
         "id": 18480,
         "artist": "Paul Young",
-        "title": "us version",
+        "title": "us",
         "vid": "KdSieF8hn08",
         "surname": "P",
-        "kid": ""
+        "kid": "oSO07s89S5k"
     },
     {
         "id": 18481,
@@ -77002,7 +77002,7 @@ const mvDB = [
     {
         "id": 18483,
         "artist": "Paul Young",
-        "title": "uk version",
+        "title": "oh girl",
         "vid": "16Z73aXuZQw",
         "surname": "P",
         "kid": ""
@@ -77034,7 +77034,7 @@ const mvDB = [
     {
         "id": 18487,
         "artist": "Paul Young",
-        "title": "black & white version",
+        "title": "softly whispering i love you",
         "vid": "q_OjG4fBSB4",
         "surname": "P",
         "kid": ""
@@ -77066,10 +77066,10 @@ const mvDB = [
     {
         "id": 18491,
         "artist": "Paul Young",
-        "title": "strictly ballroom",
+        "title": "love is in the air",
         "vid": "dOxMylotEZM",
         "surname": "P",
-        "kid": ""
+        "kid": "FfE6Azy8Gcg"
     },
     {
         "id": 18492,
@@ -77130,7 +77130,7 @@ const mvDB = [
     {
         "id": 18499,
         "artist": "Billy Ocean",
-        "title": "the jewel of the nile version",
+        "title": "when the going gets tough, the tough get going",
         "vid": "lIxUKbV0UEM",
         "surname": "B",
         "kid": ""
@@ -77245,7 +77245,7 @@ const mvDB = [
         "title": "footloose",
         "vid": "ltrMfT4Qz5Y",
         "surname": "K",
-        "kid": ""
+        "kid": "5LgFU24ff8c"
     },
     {
         "id": 18514,
@@ -77253,7 +77253,7 @@ const mvDB = [
         "title": "danger zone",
         "vid": "siwpn14IE7E",
         "surname": "K",
-        "kid": ""
+        "kid": "86-YOQjW3wE"
     },
     {
         "id": 18515,
@@ -77322,7 +77322,7 @@ const mvDB = [
     {
         "id": 18523,
         "artist": "Kenny Loggins",
-        "title": "top gun • danger zone • kenny loggins",
+        "title": "top gun • danger zone •",
         "vid": "lzXbTfgoMac",
         "surname": "K",
         "kid": ""
@@ -77330,7 +77330,7 @@ const mvDB = [
     {
         "id": 18524,
         "artist": "Kenny Loggins",
-        "title": "kenny loggins",
+        "title": "footloose - kenny loggins",
         "vid": "wFWDGTVYqE8",
         "surname": "K",
         "kid": ""
@@ -77346,7 +77346,7 @@ const mvDB = [
     {
         "id": 18526,
         "artist": "Kenny Loggins",
-        "title": "kenny loggins 1984",
+        "title": "1984",
         "vid": "KOmKWhesq9k",
         "surname": "K",
         "kid": ""
@@ -77498,7 +77498,7 @@ const mvDB = [
     {
         "id": 18545,
         "artist": "Shawn Mendes",
-        "title": "original + remix",
+        "title": "original +",
         "vid": "SAWzXkV3hHo",
         "surname": "S",
         "kid": ""
@@ -77554,7 +77554,7 @@ const mvDB = [
     {
         "id": 18552,
         "artist": "Elton John",
-        "title": "中英",
+        "title": "goodbye yellow brick road -- elton john (lyrics)【中英歌詞】",
         "vid": "Cm5F7lKzuTA",
         "surname": "E",
         "kid": ""
@@ -77594,7 +77594,7 @@ const mvDB = [
     {
         "id": 18557,
         "artist": "Elton John",
-        "title": "with",
+        "title": "中英",
         "vid": "Tp8pT89BbrQ",
         "surname": "E",
         "kid": ""
@@ -77666,7 +77666,7 @@ const mvDB = [
     {
         "id": 18566,
         "artist": "Bradley Cooper",
-        "title": "lady gaga & bradley cooper",
+        "title": "lady gaga &",
         "vid": "eWupm_cePX8",
         "surname": "B",
         "kid": ""
@@ -77674,7 +77674,7 @@ const mvDB = [
     {
         "id": 18567,
         "artist": "Bradley Cooper",
-        "title": "shallow  with bradley cooper",
+        "title": "shallow",
         "vid": "zfeHACNRs20",
         "surname": "B",
         "kid": ""
@@ -77690,7 +77690,7 @@ const mvDB = [
     {
         "id": 18569,
         "artist": "Bradley Cooper",
-        "title": "shallow  | movies coming soon",
+        "title": "shallow  |  coming soon",
         "vid": "Anp6lGHKZw0",
         "surname": "B",
         "kid": ""
@@ -77722,7 +77722,7 @@ const mvDB = [
     {
         "id": 18573,
         "artist": "Bradley Cooper",
-        "title": "lady gaga & bradley cooper | secret love song",
+        "title": "lady gaga &  | secret love song",
         "vid": "WpU6cENFlMo",
         "surname": "B",
         "kid": ""
@@ -77738,7 +77738,7 @@ const mvDB = [
     {
         "id": 18575,
         "artist": "Bradley Cooper",
-        "title": "a star is born film version",
+        "title": "shallow",
         "vid": "7hiVIixor_Q",
         "surname": "B",
         "kid": ""
@@ -77826,7 +77826,7 @@ const mvDB = [
     {
         "id": 18586,
         "artist": "Grey",
-        "title": "grey wolf",
+        "title": "wolf",
         "vid": "T27BgCWTOq4",
         "surname": "G",
         "kid": ""
@@ -77834,7 +77834,7 @@ const mvDB = [
     {
         "id": 18587,
         "artist": "Grey",
-        "title": "最後一條告別妳沒有回，早安晚安我應該發給誰",
+        "title": "劉思達lofthestar",
         "vid": "8O2wrIz1qQY",
         "surname": "G",
         "kid": ""
@@ -77898,7 +77898,7 @@ const mvDB = [
     {
         "id": 18595,
         "artist": "Calvin Harris",
-        "title": "party rock anthem ft. lauren bennett, goonrock",
+        "title": "party rock anthem  lauren bennett, goonrock",
         "vid": "KQ6zr6kCPj8",
         "surname": "C",
         "kid": ""
@@ -77922,7 +77922,7 @@ const mvDB = [
     {
         "id": 18598,
         "artist": "Calvin Harris",
-        "title": "全曲",
+        "title": "電音金童",
         "vid": "Sa3yetLBvrE",
         "surname": "C",
         "kid": ""
@@ -77978,7 +77978,7 @@ const mvDB = [
     {
         "id": 18605,
         "artist": "Flo Rida",
-        "title": "where them girls at ft. nicki minaj, flo rida",
+        "title": "where them girls at  nicki minaj,",
         "vid": "p4kVWCSzfK4",
         "surname": "F",
         "kid": ""
@@ -78002,7 +78002,7 @@ const mvDB = [
     {
         "id": 18608,
         "artist": "Flo Rida",
-        "title": "greenlight  ft. flo rida, lunchmoney lewis",
+        "title": "greenlight, lunchmoney lewis",
         "vid": "R7xbhKIiw4Y",
         "surname": "F",
         "kid": ""
@@ -78106,7 +78106,7 @@ const mvDB = [
     {
         "id": 18621,
         "artist": "Flo Rida",
-        "title": "keith apicary",
+        "title": "let it roll",
         "vid": "honzPhGqcE4",
         "surname": "F",
         "kid": ""
@@ -78130,7 +78130,7 @@ const mvDB = [
     {
         "id": 18624,
         "artist": "Jason Derulo",
-        "title": "wiggle feat. snoop dogg",
+        "title": "wiggle  snoop dogg",
         "vid": "hiP14ED28CA",
         "surname": "J",
         "kid": ""
@@ -78146,7 +78146,7 @@ const mvDB = [
     {
         "id": 18626,
         "artist": "Jason Derulo",
-        "title": "secret love song  ft. jason derulo",
+        "title": "secret love song",
         "vid": "qgy7vEje5-w",
         "surname": "J",
         "kid": ""
@@ -78154,7 +78154,7 @@ const mvDB = [
     {
         "id": 18627,
         "artist": "Jason Derulo",
-        "title": "talk dirty feat. 2 chainz",
+        "title": "talk dirty  2 chainz",
         "vid": "RbtPXFlZlHg",
         "surname": "J",
         "kid": ""
@@ -78298,7 +78298,7 @@ const mvDB = [
     {
         "id": 18645,
         "artist": "KAYTRANADA",
-        "title": "need it  ft. masego",
+        "title": "need itmasego",
         "vid": "iRr6e27CVqs",
         "surname": "K",
         "kid": ""
@@ -78306,7 +78306,7 @@ const mvDB = [
     {
         "id": 18646,
         "artist": "KAYTRANADA",
-        "title": "girl  ft. kaytranada",
+        "title": "girl",
         "vid": "zmY8mG4_3j4",
         "surname": "K",
         "kid": ""
@@ -78314,7 +78314,7 @@ const mvDB = [
     {
         "id": 18647,
         "artist": "KAYTRANADA",
-        "title": "intimidated  ft. h.e.r.",
+        "title": "intimidatedh.e.r.",
         "vid": "MK9hxakQMN8",
         "surname": "K",
         "kid": ""
@@ -78330,7 +78330,7 @@ const mvDB = [
     {
         "id": 18649,
         "artist": "KAYTRANADA",
-        "title": "the worst in me  ft. tinashe",
+        "title": "the worst in metinashe",
         "vid": "p6hrlF0W0ig",
         "surname": "K",
         "kid": ""
@@ -78410,7 +78410,7 @@ const mvDB = [
     {
         "id": 18659,
         "artist": "KAYTRANADA",
-        "title": "kaytradamus remix",
+        "title": "kaytradamus",
         "vid": "9Jkne-qg5no",
         "surname": "K",
         "kid": ""
@@ -78434,7 +78434,7 @@ const mvDB = [
     {
         "id": 18662,
         "artist": "Ben Pearce",
-        "title": "fireproof  ft. tayla",
+        "title": "fireprooftayla",
         "vid": "wxwv2Bina24",
         "surname": "B",
         "kid": ""
@@ -78442,7 +78442,7 @@ const mvDB = [
     {
         "id": 18663,
         "artist": "Ben Pearce",
-        "title": "ben pearce remix",
+        "title": "sailor & i - tough love (ben pearce remix)",
         "vid": "4mfnLDa9J_U",
         "surname": "B",
         "kid": ""
@@ -78458,7 +78458,7 @@ const mvDB = [
     {
         "id": 18665,
         "artist": "Ben Pearce",
-        "title": "ben pearce re edit",
+        "title": "re edit",
         "vid": "XNSnn0bEcUs",
         "surname": "B",
         "kid": ""
@@ -78474,7 +78474,7 @@ const mvDB = [
     {
         "id": 18667,
         "artist": "Ben Pearce",
-        "title": "karma kid remix",
+        "title": "karma kid",
         "vid": "nDlZYOroiX8",
         "surname": "B",
         "kid": ""
@@ -78506,7 +78506,7 @@ const mvDB = [
     {
         "id": 18671,
         "artist": "Lauv",
-        "title": "lauv",
+        "title": "連自己都還在迷失的年紀，只要有你就好：i like me better - lauv 中文歌詞",
         "vid": "C8ftpidFAsM",
         "surname": "L",
         "kid": ""
@@ -78586,7 +78586,7 @@ const mvDB = [
     {
         "id": 18681,
         "artist": "Lauv",
-        "title": "🐻西音男子 s.h.e.：jeremy zucker, lauv & alexander 23 /. cozy 舒適【中文字幕/歌詞翻譯 chinese lyrics】",
+        "title": "舒適",
         "vid": "7ECaGtfnc-Q",
         "surname": "L",
         "kid": ""
@@ -78597,7 +78597,7 @@ const mvDB = [
         "title": "the fate of ophelia",
         "vid": "ko70cExuzZM",
         "surname": "T",
-        "kid": ""
+        "kid": "4RiRGBsdx3E"
     },
     {
         "id": 18683,
@@ -78674,7 +78674,7 @@ const mvDB = [
     {
         "id": 18692,
         "artist": "Taylor Swift",
-        "title": "end game ft. ed sheeran, future",
+        "title": "end game  ed sheeran, future",
         "vid": "dfnCAmr569k",
         "surname": "T",
         "kid": ""
@@ -78685,7 +78685,7 @@ const mvDB = [
         "title": "cardigan",
         "vid": "K-a8s8OLBSE",
         "surname": "T",
-        "kid": ""
+        "kid": "J5N_ybjNN8Y"
     },
     {
         "id": 18694,
@@ -78717,7 +78717,7 @@ const mvDB = [
         "title": "love story",
         "vid": "8xg3vE8Ie_E",
         "surname": "T",
-        "kid": "bO7A1ktM8DQ"
+        "kid": "xor3sfFCdIk"
     },
     {
         "id": 18698,
@@ -78725,7 +78725,7 @@ const mvDB = [
         "title": "back to december",
         "vid": "QUwxKWT6m7U",
         "surname": "T",
-        "kid": "MoYzy60Jye0"
+        "kid": "AJbcV6GUPro"
     },
     {
         "id": 18699,
@@ -78746,7 +78746,7 @@ const mvDB = [
     {
         "id": 18701,
         "artist": "Mariah Carey",
-        "title": "mariah carey - anytime you need a friend (extended version - official lyric video)",
+        "title": "anytime you need a friend",
         "vid": "Zugaa9y_cPU",
         "surname": "M",
         "kid": ""
@@ -78805,7 +78805,7 @@ const mvDB = [
         "title": "hero",
         "vid": "8zTcD6CDG3c",
         "surname": "M",
-        "kid": ""
+        "kid": "K8px4D91CYw"
     },
     {
         "id": 18709,
@@ -78829,7 +78829,7 @@ const mvDB = [
         "title": "瑪麗亞凱莉",
         "vid": "D7g5yjEe3bw",
         "surname": "M",
-        "kid": ""
+        "kid": "VXrNbNUEwbo"
     },
     {
         "id": 18712,
@@ -78853,7 +78853,7 @@ const mvDB = [
         "title": "ill be there",
         "vid": "E-lNTaf6tno",
         "surname": "M",
-        "kid": ""
+        "kid": "4YtkNDX_cjs"
     },
     {
         "id": 18715,
@@ -78861,7 +78861,7 @@ const mvDB = [
         "title": "this is for my people who just lost somebody",
         "vid": "2SVUIWSwOrc",
         "surname": "M",
-        "kid": ""
+        "kid": "gjsbHh9EEmg"
     },
     {
         "id": 18716,
@@ -78890,7 +78890,7 @@ const mvDB = [
     {
         "id": 18719,
         "artist": "Mariah Carey",
-        "title": "instrumental w playback & whistles",
+        "title": "w playback & whistles",
         "vid": "h9y56HEfV3Y",
         "surname": "M",
         "kid": ""
@@ -78906,7 +78906,7 @@ const mvDB = [
     {
         "id": 18721,
         "artist": "Mariah Carey",
-        "title": "mariah carey idol  2013",
+        "title": "idol  2013",
         "vid": "-4ArltSq5V4",
         "surname": "M",
         "kid": ""
@@ -78914,7 +78914,7 @@ const mvDB = [
     {
         "id": 18722,
         "artist": "Mariah Carey",
-        "title": "mariah carey idol",
+        "title": "idol",
         "vid": "MgBmqk_UnPY",
         "surname": "M",
         "kid": ""
@@ -78922,7 +78922,7 @@ const mvDB = [
     {
         "id": 18723,
         "artist": "Mariah Carey",
-        "title": "i want to know what love is extended with additional ending",
+        "title": "i want to know what love is extended  additional ending",
         "vid": "VVJiY-l2j7k",
         "surname": "M",
         "kid": ""
@@ -78933,7 +78933,7 @@ const mvDB = [
         "title": "bye bye",
         "vid": "EDiK423C4Bs",
         "surname": "M",
-        "kid": ""
+        "kid": "YbmVUDMJWKU"
     },
     {
         "id": 18725,
@@ -78941,7 +78941,7 @@ const mvDB = [
         "title": "ill be there",
         "vid": "0l53KwDCLw4",
         "surname": "M",
-        "kid": ""
+        "kid": "4YtkNDX_cjs"
     },
     {
         "id": 18726,
@@ -78965,7 +78965,7 @@ const mvDB = [
         "title": "toxic",
         "vid": "LOZuxwVk7TU",
         "surname": "B",
-        "kid": ""
+        "kid": "prgoLEZTit0"
     },
     {
         "id": 18729,
@@ -78973,7 +78973,7 @@ const mvDB = [
         "title": "sometimes",
         "vid": "t0bPrt69rag",
         "surname": "B",
-        "kid": ""
+        "kid": "Mh55IOvHpr0"
     },
     {
         "id": 18730,
@@ -79037,7 +79037,7 @@ const mvDB = [
         "title": "im not a girl, not yet a woman",
         "vid": "IlV7RhT6zHs",
         "surname": "B",
-        "kid": ""
+        "kid": "V99LdiJpzwI"
     },
     {
         "id": 18738,
@@ -79061,7 +79061,7 @@ const mvDB = [
         "title": "everytime",
         "vid": "8YzabSdk7ZA",
         "surname": "B",
-        "kid": ""
+        "kid": "2EaDDg5tVUg"
     },
     {
         "id": 18741,
@@ -79106,7 +79106,7 @@ const mvDB = [
     {
         "id": 18746,
         "artist": "Britney Spears",
-        "title": "slumber party ft. tinashe",
+        "title": "slumber party  tinashe",
         "vid": "2RRY3OVqtwc",
         "surname": "B",
         "kid": ""
@@ -79122,7 +79122,7 @@ const mvDB = [
     {
         "id": 18748,
         "artist": "Britney Spears",
-        "title": "make me... ft. g",
+        "title": "make me...  g",
         "vid": "etfJCm0nfr4",
         "surname": "B",
         "kid": ""
@@ -79173,7 +79173,7 @@ const mvDB = [
         "title": "oops!...i did it again",
         "vid": "CduA0TULnow",
         "surname": "B",
-        "kid": ""
+        "kid": "OJorUj0JA3w"
     },
     {
         "id": 18755,
@@ -79205,7 +79205,7 @@ const mvDB = [
         "title": "lucky",
         "vid": "4vvBAONkYwI",
         "surname": "B",
-        "kid": ""
+        "kid": "hzR9lRaiJMI"
     },
     {
         "id": 18759,
@@ -79221,7 +79221,7 @@ const mvDB = [
         "title": "born to make you happy",
         "vid": "Yy5cKX4jBkQ",
         "surname": "B",
-        "kid": ""
+        "kid": "AxS44Q1G4v0"
     },
     {
         "id": 18761,
@@ -79234,7 +79234,7 @@ const mvDB = [
     {
         "id": 18762,
         "artist": "Britney Spears",
-        "title": "album version",
+        "title": "boys",
         "vid": "s25OMP4Ww6Y",
         "surname": "B",
         "kid": ""
@@ -79250,7 +79250,7 @@ const mvDB = [
     {
         "id": 18764,
         "artist": "Britney Spears",
-        "title": "scream & shout ft. britney spears",
+        "title": "scream & shout",
         "vid": "kYtGl1dX5qI",
         "surname": "B",
         "kid": ""
@@ -79258,7 +79258,7 @@ const mvDB = [
     {
         "id": 18765,
         "artist": "Britney Spears",
-        "title": "international version",
+        "title": "piece of me",
         "vid": "b7t8l_lm-SI",
         "surname": "B",
         "kid": ""
@@ -79277,12 +79277,12 @@ const mvDB = [
         "title": "birds of a feather",
         "vid": "V9PVRfjEBTI",
         "surname": "B",
-        "kid": ""
+        "kid": "J_yZFlbnHxU"
     },
     {
         "id": 18768,
         "artist": "Billie Eilish",
-        "title": "guess featuring billie eilish",
+        "title": "guess featuring",
         "vid": "huGd4efgdPA",
         "surname": "B",
         "kid": ""
@@ -79301,7 +79301,7 @@ const mvDB = [
         "title": "wildflower",
         "vid": "l08Zw-RY__Q",
         "surname": "B",
-        "kid": ""
+        "kid": "KrjkhyJwVmE"
     },
     {
         "id": 18771,
@@ -79309,7 +79309,7 @@ const mvDB = [
         "title": "chihiro",
         "vid": "BY_XwvKogC8",
         "surname": "B",
-        "kid": ""
+        "kid": "R7hRQUYStJM"
     },
     {
         "id": 18772,
@@ -79325,7 +79325,7 @@ const mvDB = [
         "title": "lunch",
         "vid": "MB3VkzPdgLA",
         "surname": "B",
-        "kid": ""
+        "kid": "vHW6G8C7xW4"
     },
     {
         "id": 18774,
@@ -79378,7 +79378,7 @@ const mvDB = [
     {
         "id": 18780,
         "artist": "Katy Perry",
-        "title": "feels  ft. pharrell williams, katy perry, big sean",
+        "title": "feelspharrell williams, , big sean",
         "vid": "ozv4q2ov3Mk",
         "surname": "K",
         "kid": ""
@@ -79402,7 +79402,7 @@ const mvDB = [
     {
         "id": 18783,
         "artist": "Katy Perry",
-        "title": "swish swish  ft. nicki minaj",
+        "title": "swish swishnicki minaj",
         "vid": "Z18eMqK9BMM",
         "surname": "K",
         "kid": ""
@@ -79429,7 +79429,7 @@ const mvDB = [
         "title": "the one that got away",
         "vid": "ePQe5E69INg",
         "surname": "K",
-        "kid": ""
+        "kid": "zxjFe42SA8I"
     },
     {
         "id": 18787,
@@ -79442,7 +79442,7 @@ const mvDB = [
     {
         "id": 18788,
         "artist": "Katy Perry",
-        "title": "if we ever meet again ft. katy perry",
+        "title": "if we ever meet again",
         "vid": "KDKva-s_khY",
         "surname": "K",
         "kid": ""
@@ -79453,7 +79453,7 @@ const mvDB = [
         "title": "i will always love you",
         "vid": "3JWTaaS7LdU",
         "surname": "W",
-        "kid": ""
+        "kid": "obXXv9riK8o"
     },
     {
         "id": 18790,
@@ -79469,7 +79469,7 @@ const mvDB = [
         "title": "greatest love of all",
         "vid": "IYzlVDlE72w",
         "surname": "W",
-        "kid": ""
+        "kid": "OjfZsmHlIvE"
     },
     {
         "id": 18792,
@@ -79477,7 +79477,7 @@ const mvDB = [
         "title": "i have nothing",
         "vid": "FxYw0XPEoKE",
         "surname": "W",
-        "kid": ""
+        "kid": "CS1Xf9hfUCk"
     },
     {
         "id": 18793,
@@ -79485,7 +79485,7 @@ const mvDB = [
         "title": "i look to you",
         "vid": "5Pze_mdbOK8",
         "surname": "W",
-        "kid": ""
+        "kid": "bYDO59955Uw"
     },
     {
         "id": 18794,
@@ -79493,7 +79493,7 @@ const mvDB = [
         "title": "run to you",
         "vid": "h9rCobRl-ng",
         "surname": "W",
-        "kid": ""
+        "kid": "Fus6jCD8VqA"
     },
     {
         "id": 18795,
@@ -79541,7 +79541,7 @@ const mvDB = [
         "title": "saving all my love for you",
         "vid": "ewxmv2tyeRs",
         "surname": "W",
-        "kid": ""
+        "kid": "PAgFxlwSZA0"
     },
     {
         "id": 18801,
@@ -79562,7 +79562,7 @@ const mvDB = [
     {
         "id": 18803,
         "artist": "Whitney Houston",
-        "title": "heartbreak hotel  ft. faith evans, kelly price",
+        "title": "heartbreak hotelfaith evans, kelly price",
         "vid": "xEmdW3_bi4c",
         "surname": "W",
         "kid": ""
@@ -79589,7 +79589,7 @@ const mvDB = [
         "title": "one moment in time",
         "vid": "96aAx0kxVSA",
         "surname": "W",
-        "kid": ""
+        "kid": "TPl0fZ5lK20"
     },
     {
         "id": 18807,
@@ -79626,7 +79626,7 @@ const mvDB = [
     {
         "id": 18811,
         "artist": "Whitney Houston",
-        "title": "something in common  ft. whitney houston",
+        "title": "something in common",
         "vid": "QlgFvYQMEBY",
         "surname": "W",
         "kid": ""
@@ -79645,12 +79645,12 @@ const mvDB = [
         "title": "all at once",
         "vid": "De-c6pT1biQ",
         "surname": "W",
-        "kid": ""
+        "kid": "C59DpP2dW3o"
     },
     {
         "id": 18814,
         "artist": "Whitney Houston",
-        "title": "european version",
+        "title": "im your baby tonight",
         "vid": "0H-jLOoz-YY",
         "surname": "W",
         "kid": ""
@@ -79714,7 +79714,7 @@ const mvDB = [
     {
         "id": 18822,
         "artist": "Whitney Houston",
-        "title": "from welcome home heroes with whitney houston",
+        "title": "from welcome home heroes",
         "vid": "m3-hY-hlhBg",
         "surname": "W",
         "kid": ""
@@ -79722,7 +79722,7 @@ const mvDB = [
     {
         "id": 18823,
         "artist": "Whitney Houston",
-        "title": "the bodyguard • i have nothing • whitney houston",
+        "title": "the bodyguard • i have nothing •",
         "vid": "Pl1qeaXm56o",
         "surname": "W",
         "kid": ""
@@ -79813,15 +79813,15 @@ const mvDB = [
         "title": "if i were a boy",
         "vid": "opAG0kW_LdE",
         "surname": "B",
-        "kid": ""
+        "kid": "56kZ5BYfO6E"
     },
     {
         "id": 18835,
         "artist": "Beyoncé",
-        "title": "ed sheeran ft. beyoncé",
+        "title": "ed sheeran",
         "vid": "K54URhtfcSQ",
         "surname": "B",
-        "kid": ""
+        "kid": "qegLWI99Wg0"
     },
     {
         "id": 18836,
@@ -79842,15 +79842,15 @@ const mvDB = [
     {
         "id": 18838,
         "artist": "Beyoncé",
-        "title": "2021billboard破億神曲",
+        "title": "halo",
         "vid": "r9UdCurXSHE",
         "surname": "B",
-        "kid": ""
+        "kid": "xs-hqTHMjJY"
     },
     {
         "id": 18839,
         "artist": "Beyoncé",
-        "title": "天命真女到碧昂絲beyonce走出自己的風格之路︱女神的誕生7",
+        "title": "天命真女到碧昂絲beyonce走出自己的風格之路︱女神的誕生#7",
         "vid": "TzKIUbYucn4",
         "surname": "B",
         "kid": ""
@@ -79898,10 +79898,10 @@ const mvDB = [
     {
         "id": 18845,
         "artist": "Beyoncé",
-        "title": "beyonce remix",
+        "title": "beyonce",
         "vid": "LQU28iG56JU",
         "surname": "B",
-        "kid": ""
+        "kid": "-0LMEPvp3GM"
     },
     {
         "id": 18846,
@@ -79914,7 +79914,7 @@ const mvDB = [
     {
         "id": 18847,
         "artist": "Beyoncé",
-        "title": "beyoncélove on top em",
+        "title": "love on top em",
         "vid": "kCyMLgSyl-Y",
         "surname": "B",
         "kid": ""
@@ -79930,7 +79930,7 @@ const mvDB = [
     {
         "id": 18849,
         "artist": "Beyoncé",
-        "title": "全曲",
+        "title": "碧昂絲",
         "vid": "l3bLnle7vBc",
         "surname": "B",
         "kid": ""
@@ -79938,7 +79938,7 @@ const mvDB = [
     {
         "id": 18850,
         "artist": "Madonna",
-        "title": "4 minutes feat. justin timberlake & timbaland",
+        "title": "4 minutes  justin timberlake & timbaland",
         "vid": "aAQZPBwz2CI",
         "surname": "M",
         "kid": ""
@@ -79949,7 +79949,7 @@ const mvDB = [
         "title": "take a bow",
         "vid": "XDeiovnCv1o",
         "surname": "M",
-        "kid": ""
+        "kid": "U4FL0X0eGII"
     },
     {
         "id": 18852,
@@ -79957,7 +79957,7 @@ const mvDB = [
         "title": "la isla bonita",
         "vid": "zpzdgmqIHOQ",
         "surname": "M",
-        "kid": ""
+        "kid": "GyKUbCo3CCg"
     },
     {
         "id": 18853,
@@ -79965,7 +79965,7 @@ const mvDB = [
         "title": "hung up",
         "vid": "EDwb9jOVRtU",
         "surname": "M",
-        "kid": ""
+        "kid": "OsY--OOsIZA"
     },
     {
         "id": 18854,
@@ -79989,7 +79989,7 @@ const mvDB = [
         "title": "material girl",
         "vid": "6p-lDYPR2P8",
         "surname": "M",
-        "kid": ""
+        "kid": "m1KYmH701oY"
     },
     {
         "id": 18857,
@@ -80149,7 +80149,7 @@ const mvDB = [
         "title": "dont cry for me argentina",
         "vid": "KD_1Z8iUDho",
         "surname": "M",
-        "kid": ""
+        "kid": "pu8qJRJmf-E"
     },
     {
         "id": 18877,
@@ -80181,7 +80181,7 @@ const mvDB = [
         "title": "like a prayer",
         "vid": "79fzeNUqQbQ",
         "surname": "M",
-        "kid": ""
+        "kid": "mTW-Ut83PPU"
     },
     {
         "id": 18881,
@@ -80194,7 +80194,7 @@ const mvDB = [
     {
         "id": 18882,
         "artist": "Madonna",
-        "title": "give it 2 me feat. pharrell",
+        "title": "give it 2 me  pharrell",
         "vid": "aQRLSBUNupg",
         "surname": "M",
         "kid": ""
@@ -80250,7 +80250,7 @@ const mvDB = [
     {
         "id": 18889,
         "artist": "Diana Ross",
-        "title": "boyce avenue ft. connie talbot cover",
+        "title": "boyce avenue  connie talbot cover",
         "vid": "Sv8XHiTkDYg",
         "surname": "D",
         "kid": ""
@@ -80293,15 +80293,15 @@ const mvDB = [
         "title": "if we hold on together",
         "vid": "G2dm1RF5RmA",
         "surname": "D",
-        "kid": ""
+        "kid": "QWUnq-ULS6E"
     },
     {
         "id": 18895,
         "artist": "Diana Ross",
-        "title": "when you tell me that you love me  with diana ross ft. diana ross",
+        "title": "when you tell me that you love me",
         "vid": "MwSL-57pNqM",
         "surname": "D",
-        "kid": ""
+        "kid": "dprZmTKPbR0"
     },
     {
         "id": 18896,
@@ -80370,7 +80370,7 @@ const mvDB = [
     {
         "id": 18904,
         "artist": "Diana Ross",
-        "title": "song by diana ross with .",
+        "title": "song by   .",
         "vid": "zHML4e4LlSY",
         "surname": "D",
         "kid": ""
@@ -80381,7 +80381,7 @@ const mvDB = [
         "title": "endless love",
         "vid": "eUziaLN7xDc",
         "surname": "D",
-        "kid": ""
+        "kid": "Mjgc_4indaA"
     },
     {
         "id": 18906,
@@ -80402,7 +80402,7 @@ const mvDB = [
     {
         "id": 18908,
         "artist": "Diana Ross",
-        "title": "diana ross and lionel richie endless love",
+        "title": "and lionel richie endless love",
         "vid": "Y2RyCCC0_Lk",
         "surname": "D",
         "kid": ""
@@ -80450,7 +80450,7 @@ const mvDB = [
     {
         "id": 18914,
         "artist": "Diana Ross",
-        "title": "endless love • theme song • diana ross & lionel richie",
+        "title": "endless love • theme song •  & lionel richie",
         "vid": "YRMxYfuzX20",
         "surname": "D",
         "kid": ""
@@ -80490,7 +80490,7 @@ const mvDB = [
     {
         "id": 18919,
         "artist": "Diana Ross",
-        "title": "diana ross he s in you",
+        "title": "he s in you",
         "vid": "UvJsJ7XxjRw",
         "surname": "D",
         "kid": ""
@@ -80498,7 +80498,7 @@ const mvDB = [
     {
         "id": 18920,
         "artist": "Diana Ross",
-        "title": "diana ross & brandy",
+        "title": "& brandy",
         "vid": "dwliF7qFYG8",
         "surname": "D",
         "kid": ""
@@ -80530,7 +80530,7 @@ const mvDB = [
     {
         "id": 18924,
         "artist": "Katharine Mcphee",
-        "title": "terrified  ft. zachary levi",
+        "title": "terrifiedzachary levi",
         "vid": "un60RISzE-A",
         "surname": "K",
         "kid": ""
@@ -80554,7 +80554,7 @@ const mvDB = [
     {
         "id": 18927,
         "artist": "Katharine Mcphee",
-        "title": "「connected」",
+        "title": "connected",
         "vid": "YQ0e-S6VzRo",
         "surname": "K",
         "kid": ""
@@ -80581,7 +80581,7 @@ const mvDB = [
         "title": "terrified",
         "vid": "y5DUWAQ1tUI",
         "surname": "K",
-        "kid": ""
+        "kid": "JRDm0ZLPOQg"
     },
     {
         "id": 18931,
@@ -80610,10 +80610,10 @@ const mvDB = [
     {
         "id": 18934,
         "artist": "Katharine Mcphee",
-        "title": "version",
+        "title": "terrified",
         "vid": "Sg_9m6flh78",
         "surname": "K",
-        "kid": ""
+        "kid": "JRDm0ZLPOQg"
     },
     {
         "id": 18935,
@@ -80626,7 +80626,7 @@ const mvDB = [
     {
         "id": 18936,
         "artist": "Katharine Mcphee",
-        "title": "acoustic version",
+        "title": "only one",
         "vid": "zmuivUxA90Y",
         "surname": "K",
         "kid": ""
@@ -80650,7 +80650,7 @@ const mvDB = [
     {
         "id": 18939,
         "artist": "Katharine Mcphee",
-        "title": "katharine mcphee and megan hilty",
+        "title": "and megan hilty",
         "vid": "RyFPwBVeDz8",
         "surname": "K",
         "kid": ""
@@ -80666,7 +80666,7 @@ const mvDB = [
     {
         "id": 18941,
         "artist": "Katharine Mcphee",
-        "title": "katharine mcphee",
+        "title": "shake it out (katharine mcphee) | smash (tv series) | tune",
         "vid": "uDKtZLPQQvQ",
         "surname": "K",
         "kid": ""
@@ -80690,7 +80690,7 @@ const mvDB = [
     {
         "id": 18944,
         "artist": "Katharine Mcphee",
-        "title": "its not christmas without you",
+        "title": "its not christmas out you",
         "vid": "U1XgSio_15k",
         "surname": "K",
         "kid": ""
@@ -80706,7 +80706,7 @@ const mvDB = [
     {
         "id": 18946,
         "artist": "Katharine Mcphee",
-        "title": "a beautiful stranger by katharine mcphee",
+        "title": "a beautiful stranger by",
         "vid": "vvSVWhDFcDI",
         "surname": "K",
         "kid": ""
@@ -80757,7 +80757,7 @@ const mvDB = [
         "title": "my destiny",
         "vid": "2z77Jp_UcfM",
         "surname": "K",
-        "kid": ""
+        "kid": "fTAqP4QhF-E"
     },
     {
         "id": 18953,
@@ -80805,12 +80805,12 @@ const mvDB = [
         "title": "fight song",
         "vid": "gdC97btOPUQ",
         "surname": "R",
-        "kid": ""
+        "kid": "698_U2rwiQI"
     },
     {
         "id": 18959,
         "artist": "Rachel Platten",
-        "title": "version 2",
+        "title": "2",
         "vid": "t9XYh51uo9Q",
         "surname": "R",
         "kid": ""
@@ -80861,7 +80861,7 @@ const mvDB = [
         "title": "戰歌",
         "vid": "n1ZzBO8YpV0",
         "surname": "R",
-        "kid": ""
+        "kid": "n1ZzBO8YpV0"
     },
     {
         "id": 18966,
@@ -80882,10 +80882,10 @@ const mvDB = [
     {
         "id": 18968,
         "artist": "Rachel Platten",
-        "title": "917",
+        "title": "fight song",
         "vid": "1eFgp36T-xs",
         "surname": "R",
-        "kid": ""
+        "kid": "698_U2rwiQI"
     },
     {
         "id": 18969,
@@ -80965,7 +80965,7 @@ const mvDB = [
         "title": "中英",
         "vid": "TQt1ApE7zAk",
         "surname": "S",
-        "kid": ""
+        "kid": "0hiGT_tqSiY"
     },
     {
         "id": 18979,
@@ -80989,7 +80989,7 @@ const mvDB = [
         "title": "英",
         "vid": "ndHufw7bESE",
         "surname": "S",
-        "kid": ""
+        "kid": "0hiGT_tqSiY"
     },
     {
         "id": 18982,
@@ -80997,7 +80997,7 @@ const mvDB = [
         "title": "so am i",
         "vid": "SxGLPVvNjvY",
         "surname": "A",
-        "kid": ""
+        "kid": "xa17TPwdWZ0"
     },
     {
         "id": 18983,
@@ -81045,7 +81045,7 @@ const mvDB = [
         "title": "sweet but psycho",
         "vid": "WXBHCQYxwr0",
         "surname": "A",
-        "kid": ""
+        "kid": "DKN8sskhsrk"
     },
     {
         "id": 18989,
@@ -81053,7 +81053,7 @@ const mvDB = [
         "title": "kings & queens",
         "vid": "jH1RNk8954Q",
         "surname": "A",
-        "kid": ""
+        "kid": "jMuskp-xIb0"
     },
     {
         "id": 18990,
@@ -81093,7 +81093,7 @@ const mvDB = [
         "title": "salt",
         "vid": "PKWHYLtmAGA",
         "surname": "A",
-        "kid": ""
+        "kid": "WxUWleDnsXI"
     },
     {
         "id": 18995,
@@ -81189,7 +81189,7 @@ const mvDB = [
         "title": "不露臉天后",
         "vid": "iJl4XHE6ShM",
         "surname": "S",
-        "kid": ""
+        "kid": "4ek783oYZiE"
     },
     {
         "id": 19007,
@@ -81229,7 +81229,7 @@ const mvDB = [
         "title": "what doesnt kill you",
         "vid": "Xn676-fLq7I",
         "surname": "K",
-        "kid": ""
+        "kid": "jqpVztRB7RA"
     },
     {
         "id": 19012,
@@ -81266,7 +81266,7 @@ const mvDB = [
     {
         "id": 19016,
         "artist": "Kelly Clarkson",
-        "title": "second hand heart  ft. kelly clarkson",
+        "title": "second hand heart",
         "vid": "zAnSr5N3c8E",
         "surname": "K",
         "kid": ""
@@ -81317,7 +81317,7 @@ const mvDB = [
         "title": "because of you",
         "vid": "Ra-Om7UMSJc",
         "surname": "K",
-        "kid": ""
+        "kid": "P61rQ_pKtUQ"
     },
     {
         "id": 19023,
@@ -81325,7 +81325,7 @@ const mvDB = [
         "title": "breakaway",
         "vid": "c-3vPxKdj6o",
         "surname": "K",
-        "kid": ""
+        "kid": "5BE5EBpQWBg"
     },
     {
         "id": 19024,
@@ -81333,12 +81333,12 @@ const mvDB = [
         "title": "since u been gone",
         "vid": "R7UrFYvl5TE",
         "surname": "K",
-        "kid": ""
+        "kid": "B8S0l--gHgA"
     },
     {
         "id": 19025,
         "artist": "Kelly Clarkson",
-        "title": "my life would suck without you",
+        "title": "my life would suck out you",
         "vid": "cRM70Jw7F4M",
         "surname": "K",
         "kid": ""
@@ -81450,7 +81450,7 @@ const mvDB = [
     {
         "id": 19039,
         "artist": "Selena Gomez",
-        "title": "fareoh remix",
+        "title": "fareoh",
         "vid": "fYvAWjcp43w",
         "surname": "S",
         "kid": ""
@@ -81474,7 +81474,7 @@ const mvDB = [
     {
         "id": 19042,
         "artist": "Selena Gomez",
-        "title": "selena gomez",
+        "title": "this is my fight song  -  selena gomez",
         "vid": "59HAI92-FYA",
         "surname": "S",
         "kid": ""
@@ -81490,7 +81490,7 @@ const mvDB = [
     {
         "id": 19044,
         "artist": "Rihanna",
-        "title": "just dance  ft. colby odonis",
+        "title": "just dancecolby odonis",
         "vid": "2Abk1jAONjw",
         "surname": "R",
         "kid": ""
@@ -81509,15 +81509,15 @@ const mvDB = [
         "title": "umbrella",
         "vid": "r6_xMMWe-Vo",
         "surname": "R",
-        "kid": ""
+        "kid": "xCJtwKRysQU"
     },
     {
         "id": 19047,
         "artist": "Rihanna",
-        "title": "中英",
+        "title": "diamonds",
         "vid": "ESTf58AYhp0",
         "surname": "R",
-        "kid": ""
+        "kid": "klOc77QTXgo"
     },
     {
         "id": 19048,
@@ -81653,7 +81653,7 @@ const mvDB = [
         "title": "thank u, next",
         "vid": "SBfNRJIRgeQ",
         "surname": "A",
-        "kid": ""
+        "kid": "KqrDah9PD_c"
     },
     {
         "id": 19065,
@@ -81677,12 +81677,12 @@ const mvDB = [
         "title": "positions",
         "vid": "9FUUNHp2Cks",
         "surname": "A",
-        "kid": ""
+        "kid": "2gmzIHU_714"
     },
     {
         "id": 19068,
         "artist": "Ariana Grande",
-        "title": "ariana grande 亞莉安娜 /. eternal sunshine 永世陽光【中文字幕/歌詞翻譯 chinese lyrics】",
+        "title": "永世陽光",
         "vid": "LdEwAkImv6o",
         "surname": "A",
         "kid": ""
@@ -81690,7 +81690,7 @@ const mvDB = [
     {
         "id": 19069,
         "artist": "Ariana Grande",
-        "title": "remix",
+        "title": "die for you",
         "vid": "yrXRrS8VbT0",
         "surname": "A",
         "kid": ""
@@ -81706,7 +81706,7 @@ const mvDB = [
     {
         "id": 19071,
         "artist": "Coi Leray",
-        "title": "attachments  ft. coi leray",
+        "title": "attachments",
         "vid": "ZxGYS11DIdM",
         "surname": "C",
         "kid": ""
@@ -81714,7 +81714,7 @@ const mvDB = [
     {
         "id": 19072,
         "artist": "Coi Leray",
-        "title": "better than yours  ft. youngboy never broke again",
+        "title": "better than yoursyoungboy never broke again",
         "vid": "NqLe3mk__kg",
         "surname": "C",
         "kid": ""
@@ -81730,7 +81730,7 @@ const mvDB = [
     {
         "id": 19074,
         "artist": "Coi Leray",
-        "title": "edited by: coi leray",
+        "title": "edited by:",
         "vid": "Ts3vUE7D-v4",
         "surname": "C",
         "kid": ""
@@ -81746,7 +81746,7 @@ const mvDB = [
     {
         "id": 19076,
         "artist": "Coi Leray",
-        "title": "act like you know  ft. shoreline mafia",
+        "title": "act like you knowshoreline mafia",
         "vid": "3C2WlJaOihU",
         "surname": "C",
         "kid": ""
@@ -81757,12 +81757,12 @@ const mvDB = [
         "title": "players",
         "vid": "5gr755jYWQU",
         "surname": "C",
-        "kid": ""
+        "kid": "nPd9jZol1i0"
     },
     {
         "id": 19078,
         "artist": "Coi Leray",
-        "title": "flava ft. coi leray  ft. coi leray",
+        "title": "flava",
         "vid": "BvljmqGQ4iw",
         "surname": "C",
         "kid": ""
@@ -81778,7 +81778,7 @@ const mvDB = [
     {
         "id": 19080,
         "artist": "Coi Leray",
-        "title": "remix",
+        "title": "no more parties",
         "vid": "my2ZvqmPaco",
         "surname": "C",
         "kid": ""
@@ -81786,7 +81786,7 @@ const mvDB = [
     {
         "id": 19081,
         "artist": "Coi Leray",
-        "title": "impatient ft. coi leray",
+        "title": "impatient",
         "vid": "0BZgwzyocbA",
         "surname": "C",
         "kid": ""
@@ -81810,7 +81810,7 @@ const mvDB = [
     {
         "id": 19084,
         "artist": "Coi Leray",
-        "title": "contagious feat. coi leray",
+        "title": "contagious",
         "vid": "q7GibZ062AA",
         "surname": "C",
         "kid": ""
@@ -81826,7 +81826,7 @@ const mvDB = [
     {
         "id": 19086,
         "artist": "Coi Leray",
-        "title": "slide feat. gunna",
+        "title": "slide  gunna",
         "vid": "k14gCusW9j4",
         "surname": "C",
         "kid": ""
@@ -81858,7 +81858,7 @@ const mvDB = [
     {
         "id": 19090,
         "artist": "Ashley Alisha",
-        "title": "ashley alisha like i do",
+        "title": "like i do",
         "vid": "7bHUwptaZqY",
         "surname": "A",
         "kid": ""
@@ -81866,7 +81866,7 @@ const mvDB = [
     {
         "id": 19091,
         "artist": "Ashley Alisha",
-        "title": "ashley alisha, henry young",
+        "title": ", henry young",
         "vid": "gy9M_F6ZumM",
         "surname": "A",
         "kid": ""
@@ -81890,7 +81890,7 @@ const mvDB = [
     {
         "id": 19094,
         "artist": "Ashley Alisha",
-        "title": "ashley alisha stare",
+        "title": "stare",
         "vid": "45WHiBMimOQ",
         "surname": "A",
         "kid": ""
@@ -81898,7 +81898,7 @@ const mvDB = [
     {
         "id": 19095,
         "artist": "Ashley Alisha",
-        "title": "ashley alisha hopeless romantic",
+        "title": "hopeless romantic",
         "vid": "A5l2LnlAERg",
         "surname": "A",
         "kid": ""
@@ -81906,7 +81906,7 @@ const mvDB = [
     {
         "id": 19096,
         "artist": "Ashley Alisha",
-        "title": "ashley alisha clues",
+        "title": "clues",
         "vid": "FJF9wWW7CKI",
         "surname": "A",
         "kid": ""
@@ -81914,7 +81914,7 @@ const mvDB = [
     {
         "id": 19097,
         "artist": "Ashley Alisha",
-        "title": "ashley alisha amore",
+        "title": "amore",
         "vid": "DkbikwusEqE",
         "surname": "A",
         "kid": ""
@@ -81922,7 +81922,7 @@ const mvDB = [
     {
         "id": 19098,
         "artist": "Ashley Alisha",
-        "title": "ashley alisha city to city",
+        "title": "city to city",
         "vid": "9CfMyrxO5Xg",
         "surname": "A",
         "kid": ""
@@ -81930,7 +81930,7 @@ const mvDB = [
     {
         "id": 19099,
         "artist": "Ashley Alisha",
-        "title": "dept feat. ashley alisha | nhạc hot tiktok |",
+        "title": "dept   | nhạc hot tiktok |",
         "vid": "ayLxUY9Jsh0",
         "surname": "A",
         "kid": ""
@@ -81946,7 +81946,7 @@ const mvDB = [
     {
         "id": 19101,
         "artist": "Lady Gaga",
-        "title": "die with a smile",
+        "title": "die  a smile",
         "vid": "kPa7bsKwL-c",
         "surname": "L",
         "kid": ""
@@ -81954,10 +81954,10 @@ const mvDB = [
     {
         "id": 19102,
         "artist": "Lady Gaga",
-        "title": "from 「top gun: maverick」",
+        "title": "top gun: maverick",
         "vid": "O2CIAKVTOrc",
         "surname": "L",
-        "kid": ""
+        "kid": "XaaUt1KPaEY"
     },
     {
         "id": 19103,
@@ -81965,7 +81965,7 @@ const mvDB = [
         "title": "abracadabra",
         "vid": "vBynw9Isr28",
         "surname": "L",
-        "kid": ""
+        "kid": "ANXnoJStI-g"
     },
     {
         "id": 19104,
@@ -81981,7 +81981,7 @@ const mvDB = [
         "title": "disease",
         "vid": "fmC6b6_ovZY",
         "surname": "L",
-        "kid": ""
+        "kid": "4P3f9_uHxeI"
     },
     {
         "id": 19106,
@@ -81997,7 +81997,7 @@ const mvDB = [
         "title": "poker face",
         "vid": "bESGLojNYSo",
         "surname": "L",
-        "kid": ""
+        "kid": "OcE0lKreLNE"
     },
     {
         "id": 19108,
@@ -82021,12 +82021,12 @@ const mvDB = [
         "title": "judas",
         "vid": "wagn8Wrmzuc",
         "surname": "L",
-        "kid": ""
+        "kid": "JZhTjaXH4z4"
     },
     {
         "id": 19111,
         "artist": "Lady Gaga",
-        "title": "telephone ft. beyoncé  ft. beyoncé",
+        "title": "telephone  beyoncébeyoncé",
         "vid": "EVBsypHzF3U",
         "surname": "L",
         "kid": ""
@@ -82037,7 +82037,7 @@ const mvDB = [
         "title": "rain on me",
         "vid": "AoAm4om0wTs",
         "surname": "L",
-        "kid": ""
+        "kid": "rL3Qqn3D-_g"
     },
     {
         "id": 19113,
@@ -82045,7 +82045,7 @@ const mvDB = [
         "title": "million reasons",
         "vid": "en2D_5TzXCA",
         "surname": "L",
-        "kid": ""
+        "kid": "BliQLvRf2EI"
     },
     {
         "id": 19114,
@@ -82165,7 +82165,7 @@ const mvDB = [
         "title": "bloody mary",
         "vid": "63zSjR_nhNI",
         "surname": "L",
-        "kid": ""
+        "kid": "ECpCDK-2rkg"
     },
     {
         "id": 19129,
@@ -82178,7 +82178,7 @@ const mvDB = [
     {
         "id": 19130,
         "artist": "Lady Gaga",
-        "title": "extended remix featuring lady gaga",
+        "title": "extended  featuring",
         "vid": "CGkvXp0vdng",
         "surname": "L",
         "kid": ""
@@ -82250,7 +82250,7 @@ const mvDB = [
     {
         "id": 19139,
         "artist": "Sabrina Carpenter",
-        "title": "洗腦單曲",
+        "title": "洗腦",
         "vid": "ciDLTWLvXCQ",
         "surname": "S",
         "kid": ""
@@ -82258,7 +82258,7 @@ const mvDB = [
     {
         "id": 19140,
         "artist": "Sabrina Carpenter",
-        "title": "sabrina carpenter",
+        "title": "喻言 yuyan looking at me (sabrina carpenter) 明潮千帆音樂節 20240916",
         "vid": "dAQh0lUZO-A",
         "surname": "S",
         "kid": "jup9zwbLNuc"
@@ -82285,7 +82285,7 @@ const mvDB = [
         "title": "taste",
         "vid": "UqxCQSlisyk",
         "surname": "S",
-        "kid": "FeYTKXIP9ck"
+        "kid": "JO9dHGu-ayA"
     },
     {
         "id": 19144,
@@ -82322,7 +82322,7 @@ const mvDB = [
     {
         "id": 19148,
         "artist": "Sabrina Carpenter",
-        "title": "sabrina carpenter /. bet u wanna 賭你想要【中文字幕/歌詞翻譯 chinese lyrics】",
+        "title": "賭你想要",
         "vid": "b8cQaDSMRbs",
         "surname": "S",
         "kid": ""
@@ -82330,7 +82330,7 @@ const mvDB = [
     {
         "id": 19149,
         "artist": "Sabrina Carpenter",
-        "title": "竄紅單曲",
+        "title": "竄紅",
         "vid": "4qk4KVqS37U",
         "surname": "S",
         "kid": ""
@@ -82373,7 +82373,7 @@ const mvDB = [
         "title": "espresso",
         "vid": "Vp4xmwyQTjE",
         "surname": "S",
-        "kid": ""
+        "kid": "dJa-R_Pdyo0"
     },
     {
         "id": 19155,
@@ -82410,7 +82410,7 @@ const mvDB = [
     {
         "id": 19159,
         "artist": "Sabrina Carpenter",
-        "title": "lost kings ft . sabrina carpenter",
+        "title": "lost kings ft .",
         "vid": "ZoWgZjiYItI",
         "surname": "S",
         "kid": ""
@@ -82429,7 +82429,7 @@ const mvDB = [
         "title": "im a",
         "vid": "NJsa6-y4sDs",
         "surname": "C",
-        "kid": ""
+        "kid": "6-poLZPb7q0"
     },
     {
         "id": 19162,
@@ -82477,7 +82477,7 @@ const mvDB = [
         "title": "yo",
         "vid": "QvO5z5tx4ZA",
         "surname": "C",
-        "kid": ""
+        "kid": "YzuYNcCkLD0"
     },
     {
         "id": 19168,
@@ -82514,7 +82514,7 @@ const mvDB = [
     {
         "id": 19172,
         "artist": "Céline Dion",
-        "title": "aux jeux olympiques de paris 2024from the olympic games",
+        "title": "aux jeux olympiques de paris 2024   from the olympic games",
         "vid": "9wQ-GYnKPYM",
         "surname": "C",
         "kid": ""
@@ -82546,7 +82546,7 @@ const mvDB = [
     {
         "id": 19176,
         "artist": "Tiffany",
-        "title": "runaway feat. babyface",
+        "title": "runaway  babyface",
         "vid": "kWQPEHlsgtc",
         "surname": "T",
         "kid": ""
@@ -82618,7 +82618,7 @@ const mvDB = [
     {
         "id": 19185,
         "artist": "Tiffany",
-        "title": "my tiffany",
+        "title": "my",
         "vid": "8lGYUDGUSys",
         "surname": "T",
         "kid": ""
@@ -82669,12 +82669,12 @@ const mvDB = [
         "title": "少年",
         "vid": "efKva-XmV48",
         "surname": "M",
-        "kid": ""
+        "kid": "g798xaWtYwo"
     },
     {
         "id": 19192,
         "artist": "MIRA",
-        "title": "mira",
+        "title": "matthew ho,  andy lai - mira (official lyrics video)",
         "vid": "aLVpBqGzGe8",
         "surname": "M",
         "kid": ""
@@ -82690,7 +82690,7 @@ const mvDB = [
     {
         "id": 19194,
         "artist": "MIRA",
-        "title": "ch5",
+        "title": "微笑的理由",
         "vid": "zoMqANpyAnI",
         "surname": "M",
         "kid": ""
@@ -82714,7 +82714,7 @@ const mvDB = [
     {
         "id": 19197,
         "artist": "MIRA",
-        "title": "ch2",
+        "title": "high這一刻",
         "vid": "4bPtZaPymnQ",
         "surname": "M",
         "kid": ""
@@ -82738,7 +82738,7 @@ const mvDB = [
     {
         "id": 19200,
         "artist": "MIRA",
-        "title": "cover5",
+        "title": "cover#5",
         "vid": "8NOLmfu93uc",
         "surname": "M",
         "kid": ""
@@ -82762,7 +82762,7 @@ const mvDB = [
     {
         "id": 19203,
         "artist": "MIRA",
-        "title": "ch3",
+        "title": "還好有你",
         "vid": "klKGkNbb_Js",
         "surname": "M",
         "kid": ""
@@ -82770,7 +82770,7 @@ const mvDB = [
     {
         "id": 19204,
         "artist": "MIRA",
-        "title": "ch4",
+        "title": "熱愛無限",
         "vid": "TJJFYxqM70E",
         "surname": "M",
         "kid": ""
@@ -82786,7 +82786,7 @@ const mvDB = [
     {
         "id": 19206,
         "artist": "MIRA",
-        "title": "ch8",
+        "title": "心跳密碼",
         "vid": "CreCdSBTBso",
         "surname": "M",
         "kid": ""
@@ -82794,7 +82794,7 @@ const mvDB = [
     {
         "id": 19207,
         "artist": "MIRA",
-        "title": "❤️mira mira beautiful ❤️  song",
+        "title": "❤️  beautiful ❤️  song",
         "vid": "nZxoVSGuO7Y",
         "surname": "M",
         "kid": ""
@@ -82829,7 +82829,7 @@ const mvDB = [
         "title": "electric youth",
         "vid": "lqAOB143KqY",
         "surname": "D",
-        "kid": ""
+        "kid": "y-kZKyjvO14"
     },
     {
         "id": 19212,
@@ -82861,7 +82861,7 @@ const mvDB = [
         "title": "lost in your eyes",
         "vid": "8Ms3mJFkSeg",
         "surname": "D",
-        "kid": ""
+        "kid": "SEGaufBGkUs"
     },
     {
         "id": 19216,
@@ -82933,7 +82933,7 @@ const mvDB = [
         "title": "lost in your eyes",
         "vid": "Vij0877LoG4",
         "surname": "D",
-        "kid": ""
+        "kid": "SEGaufBGkUs"
     },
     {
         "id": 19225,
@@ -82962,10 +82962,10 @@ const mvDB = [
     {
         "id": 19228,
         "artist": "Bonnie Tyler",
-        "title": "story behind the",
+        "title": "total ese of the heart",
         "vid": "J_klri7Bt-Y",
         "surname": "B",
-        "kid": ""
+        "kid": "-dLeErrD9Oo"
     },
     {
         "id": 19229,
@@ -82973,7 +82973,7 @@ const mvDB = [
         "title": "holding out for a hero",
         "vid": "bWcASV2sey0",
         "surname": "B",
-        "kid": ""
+        "kid": "O52enkT7pFE"
     },
     {
         "id": 19230,
@@ -82981,7 +82981,7 @@ const mvDB = [
         "title": "its a heartache",
         "vid": "bEOl38y8Nj8",
         "surname": "B",
-        "kid": ""
+        "kid": "idRREHyhyso"
     },
     {
         "id": 19231,
@@ -82989,7 +82989,7 @@ const mvDB = [
         "title": "total ese of the heart",
         "vid": "9z-Mh9Qeinw",
         "surname": "B",
-        "kid": ""
+        "kid": "-dLeErrD9Oo"
     },
     {
         "id": 19232,
@@ -83037,7 +83037,7 @@ const mvDB = [
         "title": "and i was a man",
         "vid": "rJOo67DtZAY",
         "surname": "B",
-        "kid": ""
+        "kid": "VhbzG6E5CQU"
     },
     {
         "id": 19238,
@@ -83125,7 +83125,7 @@ const mvDB = [
         "title": "luka",
         "vid": "VZt7J0iaUD0",
         "surname": "S",
-        "kid": ""
+        "kid": "h6GfWSJMsVw"
     },
     {
         "id": 19249,
@@ -83133,12 +83133,12 @@ const mvDB = [
         "title": "toms diner",
         "vid": "j4jtIDaeaWI",
         "surname": "S",
-        "kid": ""
+        "kid": "mto47BMT3yA"
     },
     {
         "id": 19250,
         "artist": "Suzanne Vega",
-        "title": "long version",
+        "title": "long",
         "vid": "32ZTjFW2RYo",
         "surname": "S",
         "kid": ""
@@ -83154,15 +83154,15 @@ const mvDB = [
     {
         "id": 19252,
         "artist": "Suzanne Vega",
-        "title": "acapella version",
+        "title": "toms diner",
         "vid": "mto47BMT3yA",
         "surname": "S",
-        "kid": ""
+        "kid": "mto47BMT3yA"
     },
     {
         "id": 19253,
         "artist": "Suzanne Vega",
-        "title": "how a suzanne vega song helped create the mp3",
+        "title": "how a  song helped create the mp3",
         "vid": "OeE5t7aJVsI",
         "surname": "S",
         "kid": ""
@@ -83242,10 +83242,10 @@ const mvDB = [
     {
         "id": 19263,
         "artist": "Suzanne Vega",
-        "title": "suzanne vega toms diner",
+        "title": "toms diner",
         "vid": "qbHgEmlXLpw",
         "surname": "S",
-        "kid": ""
+        "kid": "mto47BMT3yA"
     },
     {
         "id": 19264,
@@ -83253,7 +83253,7 @@ const mvDB = [
         "title": "girls just want to have fun",
         "vid": "PIb6AZdTr-A",
         "surname": "C",
-        "kid": ""
+        "kid": "i0TS0hlYYYw"
     },
     {
         "id": 19265,
@@ -83261,7 +83261,7 @@ const mvDB = [
         "title": "time after time",
         "vid": "VdQY7BusJNU",
         "surname": "C",
-        "kid": ""
+        "kid": "iv24nWgjZtk"
     },
     {
         "id": 19266,
@@ -83269,7 +83269,7 @@ const mvDB = [
         "title": "true colors",
         "vid": "LPn0KFlbqX8",
         "surname": "C",
-        "kid": ""
+        "kid": "LQLxMTKJux0"
     },
     {
         "id": 19267,
@@ -83362,7 +83362,7 @@ const mvDB = [
     {
         "id": 19278,
         "artist": "Cyndi Lauper",
-        "title": "my first night without you",
+        "title": "my first night out you",
         "vid": "OY5oh9h3YTw",
         "surname": "C",
         "kid": ""
@@ -83498,7 +83498,7 @@ const mvDB = [
     {
         "id": 19295,
         "artist": "Dua Lipa",
-        "title": "electricity  ft. diplo, mark ronson",
+        "title": "electricitydiplo, mark ronson",
         "vid": "Q4-jOuHO-z4",
         "surname": "D",
         "kid": ""
@@ -83506,7 +83506,7 @@ const mvDB = [
     {
         "id": 19296,
         "artist": "Dua Lipa",
-        "title": "prisoner  ft. dua lipa",
+        "title": "prisoner",
         "vid": "0ir1qkPXPVM",
         "surname": "D",
         "kid": ""
@@ -83570,7 +83570,7 @@ const mvDB = [
     {
         "id": 19304,
         "artist": "Meghan Trainor",
-        "title": "made you look (a cappella - official music video)",
+        "title": "made you look",
         "vid": "VQbQgdLopd4",
         "surname": "M",
         "kid": ""
@@ -83586,7 +83586,7 @@ const mvDB = [
     {
         "id": 19306,
         "artist": "Meghan Trainor",
-        "title": "bad for me  ft. teddy swims",
+        "title": "bad for meteddy swims",
         "vid": "SDZ3r8pG9QM",
         "surname": "M",
         "kid": ""
@@ -83610,7 +83610,7 @@ const mvDB = [
     {
         "id": 19309,
         "artist": "Meghan Trainor",
-        "title": "like im gonna lose you  ft. john legend",
+        "title": "like im gonna lose youjohn legend",
         "vid": "2-MBfn8XjIU",
         "surname": "M",
         "kid": ""
@@ -83626,7 +83626,7 @@ const mvDB = [
     {
         "id": 19311,
         "artist": "Meghan Trainor",
-        "title": "marvin gaye ft. meghan trainor",
+        "title": "marvin gaye",
         "vid": "igNVdlXhKcI",
         "surname": "M",
         "kid": ""
@@ -83714,7 +83714,7 @@ const mvDB = [
     {
         "id": 19322,
         "artist": "Gwen Stefani",
-        "title": "let me blow ya mind  ft. gwen stefani",
+        "title": "let me blow ya mind",
         "vid": "Wt88GMJmVk0",
         "surname": "G",
         "kid": ""
@@ -83738,7 +83738,7 @@ const mvDB = [
     {
         "id": 19325,
         "artist": "Gwen Stefani",
-        "title": "rich girl  ft. eve",
+        "title": "rich girleve",
         "vid": "9rlNpWYQunY",
         "surname": "G",
         "kid": ""
@@ -83746,7 +83746,7 @@ const mvDB = [
     {
         "id": 19326,
         "artist": "Gwen Stefani",
-        "title": "duet with gwen stefani",
+        "title": "duet",
         "vid": "4h9o0Gujuoc",
         "surname": "G",
         "kid": ""
@@ -83754,7 +83754,7 @@ const mvDB = [
     {
         "id": 19327,
         "artist": "Gwen Stefani",
-        "title": "clean version",
+        "title": "what you waiting for?",
         "vid": "f5qICl3Fr3w",
         "surname": "G",
         "kid": ""
@@ -83770,7 +83770,7 @@ const mvDB = [
     {
         "id": 19329,
         "artist": "Gwen Stefani",
-        "title": "the sweet escape ft. akon",
+        "title": "the sweet escape  akon",
         "vid": "O0lf_fE3HwA",
         "surname": "G",
         "kid": ""
@@ -83810,7 +83810,7 @@ const mvDB = [
     {
         "id": 19334,
         "artist": "Gwen Stefani",
-        "title": "remix version",
+        "title": "luxuriousslim thug",
         "vid": "mXFXwenVJg4",
         "surname": "G",
         "kid": ""
@@ -83858,7 +83858,7 @@ const mvDB = [
     {
         "id": 19340,
         "artist": "Gwen Stefani",
-        "title": "dirty version",
+        "title": "hollaback girl",
         "vid": "gZHjRQjbHrE",
         "surname": "G",
         "kid": ""
@@ -83914,7 +83914,7 @@ const mvDB = [
     {
         "id": 19347,
         "artist": "Carly Rae Jepsen",
-        "title": "run away with me",
+        "title": "run away  me",
         "vid": "TeccAtqd5K8",
         "surname": "C",
         "kid": ""
@@ -83970,7 +83970,7 @@ const mvDB = [
     {
         "id": 19354,
         "artist": "Carly Rae Jepsen",
-        "title": "sour candy ft. josh ramsay",
+        "title": "sour candy  josh ramsay",
         "vid": "egA-UEDoN_M",
         "surname": "C",
         "kid": ""
@@ -84050,7 +84050,7 @@ const mvDB = [
     {
         "id": 19364,
         "artist": "Miley Cyrus",
-        "title": "nothing breaks like a heart  ft. miley cyrus",
+        "title": "nothing breaks like a heart",
         "vid": "A9hcJgtnm6Q",
         "surname": "M",
         "kid": ""
@@ -84434,7 +84434,7 @@ const mvDB = [
     {
         "id": 19412,
         "artist": "Tate McRae",
-        "title": "i know love  ft. the kid laroi",
+        "title": "i know lovethe kid laroi",
         "vid": "cVG807Biok4",
         "surname": "T",
         "kid": ""
@@ -84562,7 +84562,7 @@ const mvDB = [
     {
         "id": 19428,
         "artist": "Camila Cabello",
-        "title": "havana  ft. young thug",
+        "title": "havanayoung thug",
         "vid": "BQ0mxQXmLsk",
         "surname": "C",
         "kid": ""
@@ -84602,7 +84602,7 @@ const mvDB = [
     {
         "id": 19433,
         "artist": "Camila Cabello",
-        "title": "my oh my  ft. dababy",
+        "title": "my oh mydababy",
         "vid": "6fd2kkLmSDQ",
         "surname": "C",
         "kid": ""
@@ -84642,7 +84642,7 @@ const mvDB = [
     {
         "id": 19438,
         "artist": "Camila Cabello",
-        "title": "i luv it feat. playboi carti",
+        "title": "i luv it  playboi carti",
         "vid": "rDG-6Ue_Qbw",
         "surname": "C",
         "kid": ""
@@ -84658,7 +84658,7 @@ const mvDB = [
     {
         "id": 19440,
         "artist": "Camila Cabello",
-        "title": "bam bam  ft. ed sheeran",
+        "title": "bam bamed sheeran",
         "vid": "-8VfKZCOo_I",
         "surname": "C",
         "kid": ""
@@ -84690,7 +84690,7 @@ const mvDB = [
     {
         "id": 19444,
         "artist": "BENEE",
-        "title": "feat.馬思唯psy.pmelo",
+        "title": "馬思唯psy.pmelo",
         "vid": "ZkgyS6VyWjA",
         "surname": "B",
         "kid": ""
@@ -84762,7 +84762,7 @@ const mvDB = [
     {
         "id": 19453,
         "artist": "BENEE",
-        "title": "sub urban, benee",
+        "title": "sub urban,",
         "vid": "o05_Vhqc61E",
         "surname": "B",
         "kid": ""
@@ -84802,7 +84802,7 @@ const mvDB = [
     {
         "id": 19458,
         "artist": "BENEE",
-        "title": "harry potter ver.",
+        "title": "mild high club",
         "vid": "3KATHDp6thA",
         "surname": "B",
         "kid": ""
@@ -84826,7 +84826,7 @@ const mvDB = [
     {
         "id": 19461,
         "artist": "Nelly Furtado",
-        "title": "kiss me right now feat. airy",
+        "title": "kiss me right now  airy",
         "vid": "dxjnmZw_7I0",
         "surname": "N",
         "kid": ""
@@ -84858,7 +84858,7 @@ const mvDB = [
     {
         "id": 19465,
         "artist": "Nelly Furtado",
-        "title": "florida  ft nelly furtado",
+        "title": "florida  ft",
         "vid": "K88WG3EcgHE",
         "surname": "N",
         "kid": ""
@@ -84906,7 +84906,7 @@ const mvDB = [
     {
         "id": 19471,
         "artist": "Nelly Furtado",
-        "title": "nelly furtado.do it",
+        "title": ".do it",
         "vid": "ylfNr2MPGxg",
         "surname": "N",
         "kid": ""
@@ -84922,7 +84922,7 @@ const mvDB = [
     {
         "id": 19473,
         "artist": "Nelly Furtado",
-        "title": "just a dream ft. andy nguyen",
+        "title": "just a dream  andy nguyen",
         "vid": "3j9rFvltUvs",
         "surname": "N",
         "kid": ""
@@ -84938,7 +84938,7 @@ const mvDB = [
     {
         "id": 19475,
         "artist": "Iggy Azalea",
-        "title": "f*ck it up  ft. kash doll",
+        "title": "f*ck it upkash doll",
         "vid": "3kkZWKSvG2s",
         "surname": "I",
         "kid": ""
@@ -84954,7 +84954,7 @@ const mvDB = [
     {
         "id": 19477,
         "artist": "Iggy Azalea",
-        "title": "kream ft. tyga",
+        "title": "kream  tyga",
         "vid": "t7lM7Bn16Zg",
         "surname": "I",
         "kid": ""
@@ -84970,7 +84970,7 @@ const mvDB = [
     {
         "id": 19479,
         "artist": "Iggy Azalea",
-        "title": "change your life ft. t.i.",
+        "title": "change your life  t.i.",
         "vid": "rre0sFHlfBc",
         "surname": "I",
         "kid": ""
@@ -85010,7 +85010,7 @@ const mvDB = [
     {
         "id": 19484,
         "artist": "Iggy Azalea",
-        "title": "problem ft. iggy azalea",
+        "title": "problem",
         "vid": "iS1g8G_njx8",
         "surname": "I",
         "kid": ""
@@ -85018,7 +85018,7 @@ const mvDB = [
     {
         "id": 19485,
         "artist": "Iggy Azalea",
-        "title": "fancy ft. charli xcx",
+        "title": "fancy  charli xcx",
         "vid": "O-zpOMYRi0w",
         "surname": "I",
         "kid": ""
@@ -85026,7 +85026,7 @@ const mvDB = [
     {
         "id": 19486,
         "artist": "Iggy Azalea",
-        "title": "black widow ft. rita ora",
+        "title": "black widow  rita ora",
         "vid": "u3u22OYqFGo",
         "surname": "I",
         "kid": ""
@@ -85034,7 +85034,7 @@ const mvDB = [
     {
         "id": 19487,
         "artist": "Iggy Azalea",
-        "title": "no mediocre ft. iggy azalea",
+        "title": "no mediocre",
         "vid": "qdsTUfDTEhQ",
         "surname": "I",
         "kid": ""
@@ -85042,7 +85042,7 @@ const mvDB = [
     {
         "id": 19488,
         "artist": "Iggy Azalea",
-        "title": "booty ft. iggy azalea",
+        "title": "booty",
         "vid": "nxtIRArhVD4",
         "surname": "I",
         "kid": ""
@@ -85058,7 +85058,7 @@ const mvDB = [
     {
         "id": 19490,
         "artist": "Iggy Azalea",
-        "title": "trouble ft. jennifer hudson",
+        "title": "trouble  jennifer hudson",
         "vid": "UGLx4zzMdRA",
         "surname": "I",
         "kid": ""
@@ -85066,7 +85066,7 @@ const mvDB = [
     {
         "id": 19491,
         "artist": "Iggy Azalea",
-        "title": "dance",
+        "title": "team",
         "vid": "dSTRTv0xVlU",
         "surname": "I",
         "kid": ""
@@ -85074,7 +85074,7 @@ const mvDB = [
     {
         "id": 19492,
         "artist": "Iggy Azalea",
-        "title": "savior ft. quavo",
+        "title": "savior  quavo",
         "vid": "T3hXC5yNZOc",
         "surname": "I",
         "kid": ""
@@ -85082,7 +85082,7 @@ const mvDB = [
     {
         "id": 19493,
         "artist": "Jessie J",
-        "title": "heaven bound ft. jessie j",
+        "title": "heaven bound",
         "vid": "HSP_WgKOhA0",
         "surname": "J",
         "kid": ""
@@ -85090,7 +85090,7 @@ const mvDB = [
     {
         "id": 19494,
         "artist": "Jessie J",
-        "title": "歌手頻道",
+        "title": "purple rain",
         "vid": "pJH1-JeinWU",
         "surname": "J",
         "kid": ""
@@ -85130,7 +85130,7 @@ const mvDB = [
     {
         "id": 19499,
         "artist": "Jessie J",
-        "title": "jessie j covers michael jacksons rock with you",
+        "title": "covers michael jacksons rock  you",
         "vid": "XMRUxguvrt0",
         "surname": "J",
         "kid": ""
@@ -85218,7 +85218,7 @@ const mvDB = [
     {
         "id": 19510,
         "artist": "Kesha",
-        "title": "版",
+        "title": "blow",
         "vid": "hBnkbYli6cA",
         "surname": "K",
         "kid": ""
@@ -85242,7 +85242,7 @@ const mvDB = [
     {
         "id": 19513,
         "artist": "Kesha",
-        "title": "gangnam style  tik tok mashup of psy & kesha!",
+        "title": "gangnam style  tik tok mashup of psy & !",
         "vid": "TKH0-1RffJA",
         "surname": "K",
         "kid": ""
@@ -85282,7 +85282,7 @@ const mvDB = [
     {
         "id": 19518,
         "artist": "Kesha",
-        "title": "kesha claudia, laurie, lou 005",
+        "title": "claudia, laurie, lou 005",
         "vid": "94sGtDAkmVA",
         "surname": "K",
         "kid": ""
@@ -85290,7 +85290,7 @@ const mvDB = [
     {
         "id": 19519,
         "artist": "Kesha",
-        "title": "new ke$ha: slow motion ft. three 6 mafia",
+        "title": "new ke$ha: slow motion  three 6 mafia",
         "vid": "PzpoecvORdE",
         "surname": "K",
         "kid": ""
@@ -85314,7 +85314,7 @@ const mvDB = [
     {
         "id": 19522,
         "artist": "Hailee Steinfeld",
-        "title": "woke up late ft. hailee steinfeld  starring liza koshy",
+        "title": "woke up late    starring liza koshy",
         "vid": "Mc-v9NPveU4",
         "surname": "H",
         "kid": ""
@@ -85330,7 +85330,7 @@ const mvDB = [
     {
         "id": 19524,
         "artist": "Hailee Steinfeld",
-        "title": "starving ft. zedd  ft. zedd",
+        "title": "starving  zeddzedd",
         "vid": "xwjwCFZpdns",
         "surname": "H",
         "kid": ""
@@ -85354,7 +85354,7 @@ const mvDB = [
     {
         "id": 19527,
         "artist": "Hailee Steinfeld",
-        "title": "rock bottom ft. dnce",
+        "title": "rock bottom  dnce",
         "vid": "liwCttfeJ7E",
         "surname": "H",
         "kid": ""
@@ -85362,7 +85362,7 @@ const mvDB = [
     {
         "id": 19528,
         "artist": "Hailee Steinfeld",
-        "title": "let me go ft. florida georgia line, watt",
+        "title": "let me go  florida georgia line, watt",
         "vid": "BQ_0QLL2gqI",
         "surname": "H",
         "kid": ""
@@ -85370,7 +85370,7 @@ const mvDB = [
     {
         "id": 19529,
         "artist": "Hailee Steinfeld",
-        "title": "stitches  ft. hailee steinfeld",
+        "title": "stitches",
         "vid": "TObtwHlfLFk",
         "surname": "H",
         "kid": ""
@@ -85378,7 +85378,7 @@ const mvDB = [
     {
         "id": 19530,
         "artist": "Hailee Steinfeld",
-        "title": "at my best ft. hailee steinfeld",
+        "title": "at my best",
         "vid": "tgvbhxb9yk8",
         "surname": "H",
         "kid": ""
@@ -85386,7 +85386,7 @@ const mvDB = [
     {
         "id": 19531,
         "artist": "Hailee Steinfeld",
-        "title": "colour  ft. hailee steinfeld",
+        "title": "colour",
         "vid": "ZMmwDy-27AM",
         "surname": "H",
         "kid": ""
@@ -85394,7 +85394,7 @@ const mvDB = [
     {
         "id": 19532,
         "artist": "Hailee Steinfeld",
-        "title": "hailee steinfeld - back to life (from bumblebee - official lyric video)",
+        "title": "back to life",
         "vid": "4Z1Gx3DYVqs",
         "surname": "H",
         "kid": ""
@@ -85418,7 +85418,7 @@ const mvDB = [
     {
         "id": 19535,
         "artist": "Hailee Steinfeld",
-        "title": "hailee steinfelds 「the way you make me feel」 | lip sync battle : a michael jackson celebration",
+        "title": "the way you make me feel",
         "vid": "YhY6vONpSlQ",
         "surname": "H",
         "kid": ""
@@ -85442,7 +85442,7 @@ const mvDB = [
     {
         "id": 19538,
         "artist": "Hailee Steinfeld",
-        "title": "hailee steinfeld, bloodpop® - capital letters (lyrics / lyrics video)",
+        "title": "capital letters",
         "vid": "dW1bkAR1UC4",
         "surname": "H",
         "kid": ""
@@ -85466,7 +85466,7 @@ const mvDB = [
     {
         "id": 19541,
         "artist": "Dove Cameron",
-        "title": "taste of you  ft. dove cameron",
+        "title": "taste of you",
         "vid": "VNn8lEGF2OE",
         "surname": "D",
         "kid": ""
@@ -85578,7 +85578,7 @@ const mvDB = [
     {
         "id": 19555,
         "artist": "Dove Cameron",
-        "title": "from 「marvel rising」",
+        "title": "marvel rising",
         "vid": "GX3OEfjbw4Y",
         "surname": "D",
         "kid": ""
@@ -85602,7 +85602,7 @@ const mvDB = [
     {
         "id": 19558,
         "artist": "Julia Michaels",
-        "title": "版",
+        "title": "michaels",
         "vid": "FFjfyVvI3Vk",
         "surname": "J",
         "kid": ""
@@ -85618,7 +85618,7 @@ const mvDB = [
     {
         "id": 19560,
         "artist": "Julia Michaels",
-        "title": "julia michaels | jimmy levy cover",
+        "title": "| jimmy levy cover",
         "vid": "u5ejdKAlVCA",
         "surname": "J",
         "kid": ""
@@ -85698,7 +85698,7 @@ const mvDB = [
     {
         "id": 19570,
         "artist": "Julia Michaels",
-        "title": "i miss you ft. julia michaels",
+        "title": "i miss you",
         "vid": "h5bLg0zhEt8",
         "surname": "J",
         "kid": ""
@@ -85858,7 +85858,7 @@ const mvDB = [
     {
         "id": 19590,
         "artist": "Victoria Monét",
-        "title": "party girls  ft. buju banton",
+        "title": "party girlsbuju banton",
         "vid": "a_DuSbMvOQs",
         "surname": "V",
         "kid": ""
@@ -85866,7 +85866,7 @@ const mvDB = [
     {
         "id": 19591,
         "artist": "Victoria Monét",
-        "title": "smoke  ft. lucky daye",
+        "title": "smokelucky daye",
         "vid": "cD0dy_1FsT0",
         "surname": "V",
         "kid": ""
@@ -85890,7 +85890,7 @@ const mvDB = [
     {
         "id": 19594,
         "artist": "Victoria Monét",
-        "title": "remix",
+        "title": "touch me",
         "vid": "KcoBgdBP-4c",
         "surname": "V",
         "kid": ""
@@ -85978,7 +85978,7 @@ const mvDB = [
     {
         "id": 19605,
         "artist": "Tyla",
-        "title": "cooped up  ft. roddy ricch",
+        "title": "cooped uproddy ricch",
         "vid": "WABOrIYhR94",
         "surname": "T",
         "kid": ""
@@ -86101,7 +86101,7 @@ const mvDB = [
         "title": "bones",
         "vid": "TO-_3tck2tg",
         "surname": "I",
-        "kid": ""
+        "kid": "TuPIFD7PYWI"
     },
     {
         "id": 19621,
@@ -86125,7 +86125,7 @@ const mvDB = [
         "title": "believer",
         "vid": "7wtfhZwyrcc",
         "surname": "I",
-        "kid": ""
+        "kid": "sfbCZw_c2Zs"
     },
     {
         "id": 19624,
@@ -86133,7 +86133,7 @@ const mvDB = [
         "title": "demons",
         "vid": "mWRsgZuwf_8",
         "surname": "I",
-        "kid": ""
+        "kid": "TsCPrboDunw"
     },
     {
         "id": 19625,
@@ -86141,7 +86141,7 @@ const mvDB = [
         "title": "whatever it takes",
         "vid": "gOsM-DYAEhY",
         "surname": "I",
-        "kid": ""
+        "kid": "TaTWOBxwkhA"
     },
     {
         "id": 19626,
@@ -86165,7 +86165,7 @@ const mvDB = [
         "title": "on top of the world",
         "vid": "w5tWYmIOWGk",
         "surname": "I",
-        "kid": ""
+        "kid": "Rvo_tZPcC1A"
     },
     {
         "id": 19629,
@@ -86189,7 +86189,7 @@ const mvDB = [
         "title": "thunder",
         "vid": "fKopy74weus",
         "surname": "I",
-        "kid": ""
+        "kid": "zelLqyeP7_M"
     },
     {
         "id": 19632,
@@ -86197,7 +86197,7 @@ const mvDB = [
         "title": "radioactive",
         "vid": "ktvTqknDobU",
         "surname": "I",
-        "kid": ""
+        "kid": "eGpM33XHyoE"
     },
     {
         "id": 19633,
@@ -86226,10 +86226,10 @@ const mvDB = [
     {
         "id": 19636,
         "artist": "Imagine Dragons",
-        "title": "animated",
+        "title": "birds",
         "vid": "vOXZkm9p_zY",
         "surname": "I",
-        "kid": ""
+        "kid": "ZeNTUURv4PA"
     },
     {
         "id": 19637,
@@ -86258,7 +86258,7 @@ const mvDB = [
     {
         "id": 19640,
         "artist": "The Chainsmokers",
-        "title": "hope ft. winona oak",
+        "title": "hope  winona oak",
         "vid": "SJOgTMP8cs4",
         "surname": "T",
         "kid": ""
@@ -86269,12 +86269,12 @@ const mvDB = [
         "title": "something just like this",
         "vid": "FM7MFYoylVs",
         "surname": "T",
-        "kid": ""
+        "kid": "M5rwANtb8Zw"
     },
     {
         "id": 19642,
         "artist": "The Chainsmokers",
-        "title": "dont let me down  ft. daya",
+        "title": "dont let me downdaya",
         "vid": "Io0fBr1XBUA",
         "surname": "T",
         "kid": ""
@@ -86282,7 +86282,7 @@ const mvDB = [
     {
         "id": 19643,
         "artist": "The Chainsmokers",
-        "title": "the chainsmokers",
+        "title": "#selfie (official music video) - the chainsmokers",
         "vid": "kdemFfbS5H0",
         "surname": "T",
         "kid": ""
@@ -86290,7 +86290,7 @@ const mvDB = [
     {
         "id": 19644,
         "artist": "The Chainsmokers",
-        "title": "closer  ft. halsey",
+        "title": "closerhalsey",
         "vid": "0zGcUoRlhmw",
         "surname": "T",
         "kid": ""
@@ -86309,12 +86309,12 @@ const mvDB = [
         "title": "sick boy",
         "vid": "eACohWVwTOc",
         "surname": "T",
-        "kid": ""
+        "kid": "0cJkE05cKts"
     },
     {
         "id": 19647,
         "artist": "The Chainsmokers",
-        "title": "takeaway  ft. lennon stella",
+        "title": "takeawaylennon stella",
         "vid": "lzkKzZmRZk8",
         "surname": "T",
         "kid": ""
@@ -86322,7 +86322,7 @@ const mvDB = [
     {
         "id": 19648,
         "artist": "The Chainsmokers",
-        "title": "roses  ft. rozes",
+        "title": "rosesrozes",
         "vid": "mBZdHuZCfic",
         "surname": "T",
         "kid": ""
@@ -86330,7 +86330,7 @@ const mvDB = [
     {
         "id": 19649,
         "artist": "The Chainsmokers",
-        "title": "side effects  ft. emily warren",
+        "title": "side effectsemily warren",
         "vid": "nuckTcoZG4Q",
         "surname": "T",
         "kid": ""
@@ -86338,7 +86338,7 @@ const mvDB = [
     {
         "id": 19650,
         "artist": "The Chainsmokers",
-        "title": "all we know  ft. phoebe ryan",
+        "title": "all we knowphoebe ryan",
         "vid": "7mWQ38SpEf8",
         "surname": "T",
         "kid": ""
@@ -86354,7 +86354,7 @@ const mvDB = [
     {
         "id": 19652,
         "artist": "The Chainsmokers",
-        "title": "call you mine  ft. bebe rexha",
+        "title": "call you minebebe rexha",
         "vid": "3XCVM3G3pns",
         "surname": "T",
         "kid": ""
@@ -86370,7 +86370,7 @@ const mvDB = [
     {
         "id": 19654,
         "artist": "The Chainsmokers",
-        "title": "this feeling  ft. kelsea ballerini",
+        "title": "this feelingkelsea ballerini",
         "vid": "fKtY_37r1VI",
         "surname": "T",
         "kid": ""
@@ -86378,7 +86378,7 @@ const mvDB = [
     {
         "id": 19655,
         "artist": "The Chainsmokers",
-        "title": "who do you love  ft. 5 seconds of summer",
+        "title": "who do you love5 seconds of summer",
         "vid": "U0V1y2p1sgs",
         "surname": "T",
         "kid": ""
@@ -86394,7 +86394,7 @@ const mvDB = [
     {
         "id": 19657,
         "artist": "Linkin Park",
-        "title": "linkin park",
+        "title": "papercut [official hd music video] - linkin park",
         "vid": "vjVkXlxsO8Q",
         "surname": "L",
         "kid": ""
@@ -86402,7 +86402,7 @@ const mvDB = [
     {
         "id": 19658,
         "artist": "Linkin Park",
-        "title": "linkin park",
+        "title": "one step closer [official hd music video] - linkin park",
         "vid": "4qlCC1GOwFw",
         "surname": "L",
         "kid": ""
@@ -86410,7 +86410,7 @@ const mvDB = [
     {
         "id": 19659,
         "artist": "Linkin Park",
-        "title": "linkin park",
+        "title": "the emptiness machine (official music video) - linkin park",
         "vid": "SRXH9AbT280",
         "surname": "L",
         "kid": ""
@@ -86418,7 +86418,7 @@ const mvDB = [
     {
         "id": 19660,
         "artist": "Linkin Park",
-        "title": "linkin park",
+        "title": "crawling [official hd music video] - linkin park",
         "vid": "Gd9OhYroLN0",
         "surname": "L",
         "kid": ""
@@ -86426,7 +86426,7 @@ const mvDB = [
     {
         "id": 19661,
         "artist": "Linkin Park",
-        "title": "linkin park",
+        "title": "in the end [official hd music video] - linkin park",
         "vid": "eVTXPUF4Oz4",
         "surname": "L",
         "kid": ""
@@ -86490,7 +86490,7 @@ const mvDB = [
     {
         "id": 19669,
         "artist": "Bon Jovi",
-        "title": "santana ft. rob thomas  bon jovi",
+        "title": "santana  rob thomas",
         "vid": "7TajpMR4Mh0",
         "surname": "B",
         "kid": ""
@@ -86498,7 +86498,7 @@ const mvDB = [
     {
         "id": 19670,
         "artist": "Bon Jovi",
-        "title": "its my life (a&e home video - live audio)",
+        "title": "a&e home",
         "vid": "dEGoUAig4GE",
         "surname": "B",
         "kid": ""
@@ -86522,7 +86522,7 @@ const mvDB = [
     {
         "id": 19673,
         "artist": "Bon Jovi",
-        "title": "remix",
+        "title": "its my lie",
         "vid": "agLbiO9ZvlU",
         "surname": "B",
         "kid": ""
@@ -86538,7 +86538,7 @@ const mvDB = [
     {
         "id": 19675,
         "artist": "Bon Jovi",
-        "title": "jon bon jovii dont want to miss a thing",
+        "title": "jon i dont want to miss a thing",
         "vid": "h4-GLkTqmpg",
         "surname": "B",
         "kid": ""
@@ -86554,7 +86554,7 @@ const mvDB = [
     {
         "id": 19677,
         "artist": "Bon Jovi",
-        "title": "taiwanese boybon joviits my life",
+        "title": "taiwanese boyits my life",
         "vid": "VNHNFOrqOJQ",
         "surname": "B",
         "kid": ""
@@ -86626,7 +86626,7 @@ const mvDB = [
     {
         "id": 19686,
         "artist": "The Police",
-        "title": "大",
+        "title": "春花望露",
         "vid": "-7XET04-jzw",
         "surname": "T",
         "kid": ""
@@ -86666,7 +86666,7 @@ const mvDB = [
     {
         "id": 19691,
         "artist": "Starship",
-        "title": "2017年starship家族聖誕單曲",
+        "title": "christmas day",
         "vid": "kLO7WwCOKI8",
         "surname": "S",
         "kid": ""
@@ -86773,7 +86773,7 @@ const mvDB = [
         "title": "lost in love",
         "vid": "fKTQVBnXrZs",
         "surname": "A",
-        "kid": ""
+        "kid": "lOPR5O31ahw"
     },
     {
         "id": 19705,
@@ -86781,7 +86781,7 @@ const mvDB = [
         "title": "making love out of nothing at all",
         "vid": "ogoIxkPjRts",
         "surname": "A",
-        "kid": ""
+        "kid": "r7vCIdg5gdI"
     },
     {
         "id": 19706,
@@ -86789,7 +86789,7 @@ const mvDB = [
         "title": "all out of love",
         "vid": "JWdZEumNRmI",
         "surname": "A",
-        "kid": ""
+        "kid": "FBQeaKYmZtA"
     },
     {
         "id": 19707,
@@ -86805,7 +86805,7 @@ const mvDB = [
         "title": "even the nights are better",
         "vid": "BRx58DgOxeg",
         "surname": "A",
-        "kid": ""
+        "kid": "mszM6TkVWKg"
     },
     {
         "id": 19709,
@@ -86813,7 +86813,7 @@ const mvDB = [
         "title": "the one that you love",
         "vid": "nY31ZH6hAFI",
         "surname": "A",
-        "kid": ""
+        "kid": "WLGzdCndIlE"
     },
     {
         "id": 19710,
@@ -86861,7 +86861,7 @@ const mvDB = [
         "title": "goodbye",
         "vid": "TGyLsf7PRpU",
         "surname": "A",
-        "kid": ""
+        "kid": "bw3GEacmjqU"
     },
     {
         "id": 19716,
@@ -86874,31 +86874,15 @@ const mvDB = [
     {
         "id": 19717,
         "artist": "ABBA",
-        "title": "abba",
+        "title": "the winner takes it all",
         "vid": "j7JmPeukhZ0",
         "surname": "A",
-        "kid": ""
-    },
-    {
-        "id": 19718,
-        "artist": "ABBA",
-        "title": "阿爸這就是禰",
-        "vid": "M5p_fKpBQDs",
-        "surname": "A",
-        "kid": ""
-    },
-    {
-        "id": 19719,
-        "artist": "ABBA",
-        "title": "天父",
-        "vid": "VsojhU-Jyy8",
-        "surname": "A",
-        "kid": ""
+        "kid": "FZqeU0TnNRM"
     },
     {
         "id": 19720,
-        "artist": "ABBA",
-        "title": "]",
+        "artist": "孫惠玲",
+        "title": "阿爸的疼",
         "vid": "PZZ97xmnCac",
         "surname": "A",
         "kid": ""
@@ -86906,7 +86890,7 @@ const mvDB = [
     {
         "id": 19721,
         "artist": "ABBA",
-        "title": "abba : thank you for the swedish tv 1982",
+        "title": "thank you for the swedish tv 1982",
         "vid": "XMXIM5tYz6g",
         "surname": "A",
         "kid": ""
@@ -86916,14 +86900,6 @@ const mvDB = [
         "artist": "ABBA",
         "title": "瑞典國寶abba阿巴合唱團復出",
         "vid": "BFF7SpVBnI8",
-        "surname": "A",
-        "kid": ""
-    },
-    {
-        "id": 19723,
-        "artist": "ABBA",
-        "title": "中英+",
-        "vid": "XC1MR9ZEsUk",
         "surname": "A",
         "kid": ""
     },
@@ -86938,7 +86914,7 @@ const mvDB = [
     {
         "id": 19725,
         "artist": "ABBA",
-        "title": "abba ♬",
+        "title": "gimme gimme gimme",
         "vid": "w4q_r8fH_GI",
         "surname": "A",
         "kid": ""
@@ -86946,32 +86922,16 @@ const mvDB = [
     {
         "id": 19726,
         "artist": "ABBA",
-        "title": "天使般的眼睛",
+        "title": "angeleyes",
         "vid": "cEo633THYqc",
-        "surname": "A",
-        "kid": ""
-    },
-    {
-        "id": 19727,
-        "artist": "ABBA",
-        "title": "阿爸父abba",
-        "vid": "p_DTPtS5i_0",
         "surname": "A",
         "kid": ""
     },
     {
         "id": 19728,
         "artist": "ABBA",
-        "title": "經典節慶歌曲",
+        "title": "happy new year",
         "vid": "G0DqZIi4pio",
-        "surname": "A",
-        "kid": ""
-    },
-    {
-        "id": 19729,
-        "artist": "ABBA",
-        "title": "已絕版",
-        "vid": "w4aj87j5eP8",
         "surname": "A",
         "kid": ""
     },
@@ -86994,7 +86954,7 @@ const mvDB = [
     {
         "id": 19732,
         "artist": "Roxette",
-        "title": "it must have been love | roxette",
+        "title": "it must have been love |",
         "vid": "rZR1oLd9ZkE",
         "surname": "R",
         "kid": ""
@@ -87018,7 +86978,7 @@ const mvDB = [
     {
         "id": 19735,
         "artist": "Roxette",
-        "title": "加長混音版",
+        "title": "the look  1988",
         "vid": "k0M7ClI755Y",
         "surname": "R",
         "kid": ""
@@ -87026,7 +86986,7 @@ const mvDB = [
     {
         "id": 19736,
         "artist": "Roxette",
-        "title": "♫❤",
+        "title": "傾聽你的心",
         "vid": "cct5AKIhBdo",
         "surname": "R",
         "kid": ""
@@ -87098,7 +87058,7 @@ const mvDB = [
     {
         "id": 19745,
         "artist": "Roxette",
-        "title": "roxettetribute",
+        "title": "tribute",
         "vid": "V6QQ-CxVNJ4",
         "surname": "R",
         "kid": ""
@@ -87218,7 +87178,7 @@ const mvDB = [
     {
         "id": 19760,
         "artist": "Europe",
-        "title": "spice of europe",
+        "title": "spice of",
         "vid": "5x0g1uSX7nc",
         "surname": "E",
         "kid": ""
@@ -87226,7 +87186,7 @@ const mvDB = [
     {
         "id": 19761,
         "artist": "Europe",
-        "title": "hivatalos klip",
+        "title": "európa 2020",
         "vid": "M0YZTOqtHbY",
         "surname": "E",
         "kid": ""
@@ -87242,7 +87202,7 @@ const mvDB = [
     {
         "id": 19763,
         "artist": "Europe",
-        "title": "european version",
+        "title": "an",
         "vid": "-kTpYs5m-Gs",
         "surname": "E",
         "kid": ""
@@ -87290,7 +87250,7 @@ const mvDB = [
     {
         "id": 19769,
         "artist": "Berlin",
-        "title": "die for you ft. grabbitz valorant champions 2021",
+        "title": "die for you  grabbitz    valorant champions 2021",
         "vid": "h7MYJghRWt0",
         "surname": "B",
         "kid": ""
@@ -87322,7 +87282,7 @@ const mvDB = [
     {
         "id": 19773,
         "artist": "Berlin",
-        "title": "berlin",
+        "title": "valentina ploy - berlin (official music video)",
         "vid": "PFiGSM1Q5sg",
         "surname": "B",
         "kid": ""
@@ -87338,7 +87298,7 @@ const mvDB = [
     {
         "id": 19775,
         "artist": "Berlin",
-        "title": "berlin",
+        "title": "瓦倫緹娜 valentina ploy - berlin (華納官方中字版)",
         "vid": "Ye1CDB0c_v0",
         "surname": "B",
         "kid": ""
@@ -87354,7 +87314,7 @@ const mvDB = [
     {
         "id": 19777,
         "artist": "Berlin",
-        "title": "栢林",
+        "title": "金曲專輯",
         "vid": "ZfIkezOWpMc",
         "surname": "B",
         "kid": ""
@@ -87362,7 +87322,7 @@ const mvDB = [
     {
         "id": 19778,
         "artist": "Berlin",
-        "title": "explore historic berlin in world of tanks!",
+        "title": "explore historic  in world of tanks!",
         "vid": "xT6B7TAN_q4",
         "surname": "B",
         "kid": ""
@@ -87421,7 +87381,7 @@ const mvDB = [
         "title": "last christmas",
         "vid": "yUPahNaVr9I",
         "surname": "W",
-        "kid": ""
+        "kid": "h0eUW73q0DQ"
     },
     {
         "id": 19786,
@@ -87442,7 +87402,7 @@ const mvDB = [
     {
         "id": 19788,
         "artist": "Wham!",
-        "title": "去年聖誕節影片",
+        "title": "去年聖誕節",
         "vid": "GxGccP4r9S8",
         "surname": "W",
         "kid": ""
@@ -87450,7 +87410,7 @@ const mvDB = [
     {
         "id": 19789,
         "artist": "Wham!",
-        "title": "林憶蓮",
+        "title": "破曉",
         "vid": "YQwYsz3rU-4",
         "surname": "W",
         "kid": ""
@@ -87461,12 +87421,12 @@ const mvDB = [
         "title": "Last Christmas",
         "vid": "I8BOKsTdK9U",
         "surname": "W",
-        "kid": ""
+        "kid": "h0eUW73q0DQ"
     },
     {
         "id": 19791,
         "artist": "Chicago",
-        "title": "chicago",
+        "title": "michael jackson - chicago (official audio)",
         "vid": "Y_8mUx4VOmo",
         "surname": "C",
         "kid": ""
@@ -87477,7 +87437,7 @@ const mvDB = [
         "title": "if you leave me now",
         "vid": "-9_d-sFhmRM",
         "surname": "C",
-        "kid": ""
+        "kid": "Kf60p5uQKwI"
     },
     {
         "id": 19793,
@@ -87533,7 +87493,7 @@ const mvDB = [
         "title": "hard to say im sorry",
         "vid": "1A0MPWseJIE",
         "surname": "C",
-        "kid": ""
+        "kid": "BN_PRww8RtA"
     },
     {
         "id": 19800,
@@ -87714,7 +87674,7 @@ const mvDB = [
     {
         "id": 19822,
         "artist": "Fifth Harmony",
-        "title": "work from home  ft. ty dolla $ign",
+        "title": "work from homety dolla $ign",
         "vid": "5GL9JoH4Sws",
         "surname": "F",
         "kid": ""
@@ -87722,7 +87682,7 @@ const mvDB = [
     {
         "id": 19823,
         "artist": "Fifth Harmony",
-        "title": "worth it  ft. kid ink",
+        "title": "worth itkid ink",
         "vid": "YBHQbu5rbdQ",
         "surname": "F",
         "kid": ""
@@ -87754,7 +87714,7 @@ const mvDB = [
     {
         "id": 19827,
         "artist": "Fifth Harmony",
-        "title": "fifth harmony - im in love with a monster (from hotel transylvania 2 - official video)",
+        "title": "im in love  a monster",
         "vid": "xlkFTxnizyk",
         "surname": "F",
         "kid": ""
@@ -87778,7 +87738,7 @@ const mvDB = [
     {
         "id": 19830,
         "artist": "Fifth Harmony",
-        "title": "down  ft. gucci mane",
+        "title": "downgucci mane",
         "vid": "XNWlrawfRAI",
         "surname": "F",
         "kid": ""
@@ -87842,7 +87802,7 @@ const mvDB = [
     {
         "id": 19838,
         "artist": "Fifth Harmony",
-        "title": "impossible",
+        "title": "judges houses",
         "vid": "OxT4aZsXkuY",
         "surname": "F",
         "kid": ""
@@ -87898,7 +87858,7 @@ const mvDB = [
     {
         "id": 19845,
         "artist": "Icona Pop",
-        "title": "cobra starship: never been in love ft. icona pop",
+        "title": "cobra starship: never been in love",
         "vid": "1nZkSeWF5G8",
         "surname": "I",
         "kid": ""
@@ -87922,7 +87882,7 @@ const mvDB = [
     {
         "id": 19848,
         "artist": "Icona Pop",
-        "title": "xs feat. icona pop",
+        "title": "xs",
         "vid": "uWv-D90eRU4",
         "surname": "I",
         "kid": ""
@@ -87986,7 +87946,7 @@ const mvDB = [
     {
         "id": 19856,
         "artist": "Icona Pop",
-        "title": "icona pop",
+        "title": "i dont care (i love it- icona pop)",
         "vid": "okPUhhiFgZ4",
         "surname": "I",
         "kid": ""
@@ -88082,7 +88042,7 @@ const mvDB = [
     {
         "id": 19868,
         "artist": "MKTO",
-        "title": "acoustic version",
+        "title": "classic",
         "vid": "Dmts2jxBlnQ",
         "surname": "M",
         "kid": ""
@@ -88106,7 +88066,7 @@ const mvDB = [
     {
         "id": 19871,
         "artist": "MKTO",
-        "title": "moon river so classic",
+        "title": "moon river mvso classic",
         "vid": "yJoZb7qNR9w",
         "surname": "M",
         "kid": ""
@@ -88186,7 +88146,7 @@ const mvDB = [
     {
         "id": 19881,
         "artist": "Foster The People",
-        "title": "blur  ft. foster the people",
+        "title": "blur",
         "vid": "qM5tNSHScY4",
         "surname": "F",
         "kid": ""
@@ -88317,7 +88277,7 @@ const mvDB = [
         "title": "靈異街11號",
         "vid": "RQQ-yWrOda4",
         "surname": "王",
-        "kid": ""
+        "kid": "RQQ-yWrOda4"
     },
     {
         "id": 19898,
@@ -88354,7 +88314,7 @@ const mvDB = [
     {
         "id": 19902,
         "artist": "承桓",
-        "title": "原來最痛",
+        "title": "讓位『』",
         "vid": "QmM87RTGiMg",
         "surname": "承",
         "kid": ""
@@ -88362,7 +88322,7 @@ const mvDB = [
     {
         "id": 19903,
         "artist": "承桓",
-        "title": "我會等枯樹生出芽",
+        "title": "我會等『",
         "vid": "NDe5zRLfvOU",
         "surname": "承",
         "kid": ""
@@ -88370,7 +88330,7 @@ const mvDB = [
     {
         "id": 19904,
         "artist": "承桓",
-        "title": "|",
+        "title": "我會等『』♫",
         "vid": "wukVNyIrtMc",
         "surname": "承",
         "kid": ""
@@ -88426,7 +88386,7 @@ const mvDB = [
     {
         "id": 19911,
         "artist": "姚曉棠",
-        "title": "2021中國好聲音",
+        "title": "晚婚",
         "vid": "rBoc5IHvmY8",
         "surname": "姚",
         "kid": ""
@@ -88530,7 +88490,7 @@ const mvDB = [
     {
         "id": 19924,
         "artist": "盧盧快閉嘴",
-        "title": "就讓這大雨全都落下，就讓你看不見我臉上的掙扎。",
+        "title": "就讓這大雨全都落下『』",
         "vid": "RySDNNHFII0",
         "surname": "盧",
         "kid": ""
@@ -88538,7 +88498,7 @@ const mvDB = [
     {
         "id": 19925,
         "artist": "盧盧快閉嘴",
-        "title": "我嫉妒你的愛氣勢如虹",
+        "title": "天后『』",
         "vid": "QXvY02SkA4U",
         "surname": "盧",
         "kid": ""
@@ -88546,7 +88506,7 @@ const mvDB = [
     {
         "id": 19926,
         "artist": "盧盧快閉嘴",
-        "title": "我明白要你愛是荒謬的要求，我明白有些默契我必須要遵守。",
+        "title": "最好的我『』",
         "vid": "iUBvfS7xgbI",
         "surname": "盧",
         "kid": ""
@@ -88554,7 +88514,7 @@ const mvDB = [
     {
         "id": 19927,
         "artist": "盧盧快閉嘴",
-        "title": "緊緊握著青花信物雕刻著寂寞，就好像我無主的魂魄，糾纏過往無端神傷摔碎誰也帶不走，你我一場喚不醒的夢。",
+        "title": "青花『』",
         "vid": "8VP_RkHUq9Q",
         "surname": "盧",
         "kid": ""
@@ -88562,7 +88522,7 @@ const mvDB = [
     {
         "id": 19928,
         "artist": "盧盧快閉嘴",
-        "title": "孤獨萬歲",
+        "title": "失戀無罪『』",
         "vid": "xW2J9l2Y2xQ",
         "surname": "盧",
         "kid": ""
@@ -88570,7 +88530,7 @@ const mvDB = [
     {
         "id": 19929,
         "artist": "盧盧快閉嘴",
-        "title": "我是傻子",
+        "title": "瘋子傻子『』",
         "vid": "Zx2Hsswtc1k",
         "surname": "盧",
         "kid": ""
@@ -88586,7 +88546,7 @@ const mvDB = [
     {
         "id": 19931,
         "artist": "盧盧快閉嘴",
-        "title": "他字字未提喜歡你",
+        "title": "字字句句『』",
         "vid": "N9XgnvGaZxk",
         "surname": "盧",
         "kid": ""
@@ -88626,7 +88586,7 @@ const mvDB = [
     {
         "id": 19936,
         "artist": "盧盧快閉嘴",
-        "title": "|",
+        "title": "只要有你『』♫",
         "vid": "ZYJom2QJqes",
         "surname": "盧",
         "kid": ""
@@ -88642,7 +88602,7 @@ const mvDB = [
     {
         "id": 19938,
         "artist": "盧盧快閉嘴",
-        "title": "是你讓我的心痛一天比一天深",
+        "title": "諾言",
         "vid": "MDvTNcHir2g",
         "surname": "盧",
         "kid": ""
@@ -88650,7 +88610,7 @@ const mvDB = [
     {
         "id": 19939,
         "artist": "溫奕心",
-        "title": "我希望許過的願望一路生花，護送那時的夢抵擋過風沙。",
+        "title": "一路生花『』",
         "vid": "kUSmrYaZiEA",
         "surname": "溫",
         "kid": ""
@@ -88666,7 +88626,7 @@ const mvDB = [
     {
         "id": 19941,
         "artist": "溫奕心",
-        "title": "我希望許過的願望",
+        "title": "一路生花『』",
         "vid": "pLstORwQGvA",
         "surname": "溫",
         "kid": ""
@@ -88682,7 +88642,7 @@ const mvDB = [
     {
         "id": 19943,
         "artist": "溫奕心",
-        "title": "動態歌詞",
+        "title": "八月新歌",
         "vid": "LW_E7h_dvyU",
         "surname": "溫",
         "kid": ""
@@ -88738,7 +88698,7 @@ const mvDB = [
     {
         "id": 19950,
         "artist": "溫奕心",
-        "title": "夜光超清動態大",
+        "title": "夜光超清大",
         "vid": "gFiSrr2o9-E",
         "surname": "溫",
         "kid": ""
@@ -88818,7 +88778,7 @@ const mvDB = [
     {
         "id": 19960,
         "artist": "夏婉安",
-        "title": "給你的愛過眼飄散，何苦糾纏愛沒愛過的答案。",
+        "title": "給你的愛『』",
         "vid": "F_0TBR6EFCE",
         "surname": "夏",
         "kid": ""
@@ -88826,7 +88786,7 @@ const mvDB = [
     {
         "id": 19961,
         "artist": "夏婉安",
-        "title": "我是愛得多深才會愚昧，甘願淪落今世的傀儡。",
+        "title": "追『』",
         "vid": "yzP0ovPMyB8",
         "surname": "夏",
         "kid": ""
@@ -88834,7 +88794,7 @@ const mvDB = [
     {
         "id": 19962,
         "artist": "夏婉安",
-        "title": "花下飲茶夢裡卻無他，不曾後悔相濡以沫過。",
+        "title": "紅塵『』",
         "vid": "Nk4Xrj7GPTQ",
         "surname": "夏",
         "kid": ""
@@ -88874,7 +88834,7 @@ const mvDB = [
     {
         "id": 19967,
         "artist": "賀敬軒",
-        "title": "你的眼淚",
+        "title": "封存的名字",
         "vid": "uRvTqG5q4J8",
         "surname": "賀",
         "kid": ""
@@ -88882,7 +88842,7 @@ const mvDB = [
     {
         "id": 19968,
         "artist": "賀敬軒",
-        "title": "音樂",
+        "title": "曾經愛多認真",
         "vid": "9YLvBvuoMJA",
         "surname": "賀",
         "kid": ""
@@ -88898,7 +88858,7 @@ const mvDB = [
     {
         "id": 19970,
         "artist": "賀敬軒",
-        "title": "合唱版",
+        "title": "我愛你不問歸期",
         "vid": "z8l850o6Yzk",
         "surname": "賀",
         "kid": ""
@@ -88938,7 +88898,7 @@ const mvDB = [
     {
         "id": 19975,
         "artist": "賀敬軒",
-        "title": "晚點遇見你都沒關係",
+        "title": "但願餘生都是你『』",
         "vid": "YN4ZhohRsXY",
         "surname": "賀",
         "kid": ""
@@ -88954,7 +88914,7 @@ const mvDB = [
     {
         "id": 19977,
         "artist": "賀敬軒",
-        "title": "太過愛你是我致命的弱點，我在分手之前就已經棄權。",
+        "title": "弱點『』",
         "vid": "_bYLvzZnoTE",
         "surname": "賀",
         "kid": ""
@@ -88970,7 +88930,7 @@ const mvDB = [
     {
         "id": 19979,
         "artist": "賀敬軒",
-        "title": "原唱",
+        "title": "讓全世界知道我愛你",
         "vid": "5MafcsbQZZ0",
         "surname": "賀",
         "kid": ""
@@ -89026,7 +88986,7 @@ const mvDB = [
     {
         "id": 19986,
         "artist": "周思涵",
-        "title": "直播收音,",
+        "title": "過客",
         "vid": "FAaiaFNQdmo",
         "surname": "周",
         "kid": ""
@@ -89034,7 +88994,7 @@ const mvDB = [
     {
         "id": 19987,
         "artist": "周思涵",
-        "title": "你比我愛的自私",
+        "title": "我們都太自私『』",
         "vid": "PyfFiI78GgI",
         "surname": "周",
         "kid": ""
@@ -89050,7 +89010,7 @@ const mvDB = [
     {
         "id": 19989,
         "artist": "周思涵",
-        "title": "你只是一個過客",
+        "title": "過客",
         "vid": "-tzwnaa0TD8",
         "surname": "周",
         "kid": ""
@@ -89082,7 +89042,7 @@ const mvDB = [
     {
         "id": 19993,
         "artist": "周思涵",
-        "title": "他曾經讓你相信這一切",
+        "title": "走不出來",
         "vid": "mr4iFryT-5E",
         "surname": "周",
         "kid": ""
@@ -89098,7 +89058,7 @@ const mvDB = [
     {
         "id": 19995,
         "artist": "周思涵",
-        "title": "三更寫著情詩聽雨聲滴答，時光已把你名字刻下。",
+        "title": "三更情詩『』",
         "vid": "Xny2MNVlmv4",
         "surname": "周",
         "kid": ""
@@ -89106,7 +89066,7 @@ const mvDB = [
     {
         "id": 19996,
         "artist": "周思涵",
-        "title": "妳只是一個過客",
+        "title": "過客",
         "vid": "qj0w30XnxaQ",
         "surname": "周",
         "kid": ""
@@ -89130,7 +89090,7 @@ const mvDB = [
     {
         "id": 19999,
         "artist": "周思涵",
-        "title": "被丟掉的",
+        "title": "失而復得",
         "vid": "eXLKVIIlcAM",
         "surname": "周",
         "kid": ""
@@ -89154,7 +89114,7 @@ const mvDB = [
     {
         "id": 20002,
         "artist": "鞠文嫻",
-        "title": "女聲版",
+        "title": "bingbian病變deepain",
         "vid": "ZFw6rTEw1hA",
         "surname": "鞠",
         "kid": ""
@@ -89162,7 +89122,7 @@ const mvDB = [
     {
         "id": 20003,
         "artist": "鞠文嫻",
-        "title": "|",
+        "title": "心痕♫『』",
         "vid": "ikJp3Dw4BfU",
         "surname": "鞠",
         "kid": ""
@@ -89202,7 +89162,7 @@ const mvDB = [
     {
         "id": 20008,
         "artist": "鞠文嫻",
-        "title": "沒有你在好像什麼都不對",
+        "title": "還是想找你『』",
         "vid": "jXpbM09bBLs",
         "surname": "鞠",
         "kid": ""
@@ -89218,7 +89178,7 @@ const mvDB = [
     {
         "id": 20010,
         "artist": "鞠文嫻",
-        "title": "花開又花落終於已是空空,緣來緣散終究也已是空空。",
+        "title": "空空『",
         "vid": "Og-d1j1idSk",
         "surname": "鞠",
         "kid": ""
@@ -89234,7 +89194,7 @@ const mvDB = [
     {
         "id": 20012,
         "artist": "鞠文嫻",
-        "title": "歌詞",
+        "title": "ktv",
         "vid": "rJn2mOJvhvw",
         "surname": "鞠",
         "kid": ""
@@ -89250,7 +89210,7 @@ const mvDB = [
     {
         "id": 20014,
         "artist": "鞠文嫻",
-        "title": "鞠文嫻《空白》feat.deepain - 孤獨中醒來，你給的愛已不在【抖音熱門 - 動態歌詞版】",
+        "title": "空白",
         "vid": "9INyZRhbyGI",
         "surname": "鞠",
         "kid": ""
@@ -89258,7 +89218,7 @@ const mvDB = [
     {
         "id": 20015,
         "artist": "鞠文嫻",
-        "title": "2019抖音熱門歌曲",
+        "title": "bingbian病變",
         "vid": "6_ShW1Lr7kQ",
         "surname": "鞠",
         "kid": ""
@@ -89266,7 +89226,7 @@ const mvDB = [
     {
         "id": 20016,
         "artist": "鞠文嫻",
-        "title": "有天我睡醒看到我的身邊沒有你，在我的右邊是你曾經喜歡的玩具。",
+        "title": "bingbian病變『』",
         "vid": "MaCk4jKUhgM",
         "surname": "鞠",
         "kid": ""
@@ -89314,7 +89274,7 @@ const mvDB = [
     {
         "id": 20022,
         "artist": "丁芙妮",
-        "title": "我們的愛快要窒息",
+        "title": "只是太愛你『』",
         "vid": "EupWletn-Vo",
         "surname": "丁",
         "kid": ""
@@ -89362,7 +89322,7 @@ const mvDB = [
     {
         "id": 20028,
         "artist": "丁芙妮",
-        "title": "明明就等妳一句，我會放下行李，拋下所有情緒嚮妳狂奔而去",
+        "title": "等妳一句",
         "vid": "QEi-RooWIyc",
         "surname": "丁",
         "kid": ""
@@ -89410,7 +89370,7 @@ const mvDB = [
     {
         "id": 20034,
         "artist": "藍心羽",
-        "title": "記憶好像過了很久",
+        "title": "記憶停留『』",
         "vid": "rHQGyDrOztI",
         "surname": "藍",
         "kid": ""
@@ -89418,7 +89378,7 @@ const mvDB = [
     {
         "id": 20035,
         "artist": "藍心羽",
-        "title": "上天啊",
+        "title": "阿拉斯加海灣『』",
         "vid": "7pAuUYImimw",
         "surname": "藍",
         "kid": ""
@@ -89426,7 +89386,7 @@ const mvDB = [
     {
         "id": 20036,
         "artist": "藍心羽",
-        "title": "我曾經走過多遙遠的路，跨越過多少海洋去看你，孤單的黑夜途中",
+        "title": "寂寞煙火『』",
         "vid": "qu1nV0lCGpE",
         "surname": "藍",
         "kid": ""
@@ -89450,7 +89410,7 @@ const mvDB = [
     {
         "id": 20039,
         "artist": "藍心羽",
-        "title": "菲道爾",
+        "title": "上天啊",
         "vid": "9AHvMtDwu6M",
         "surname": "藍",
         "kid": ""
@@ -89458,7 +89418,7 @@ const mvDB = [
     {
         "id": 20040,
         "artist": "藍心羽",
-        "title": "我曾經走過多遙遠的路，跨越過多少海洋去看妳",
+        "title": "寂寞煙火",
         "vid": "cuVUv5qw5-c",
         "surname": "藍",
         "kid": ""
@@ -89474,7 +89434,7 @@ const mvDB = [
     {
         "id": 20042,
         "artist": "藍心羽",
-        "title": "願世間溫情化作一縷風，代替我擁抱她",
+        "title": "阿拉斯加海灣",
         "vid": "F1q7LBNqgMA",
         "surname": "藍",
         "kid": ""
@@ -89490,7 +89450,7 @@ const mvDB = [
     {
         "id": 20044,
         "artist": "藍心羽",
-        "title": "|",
+        "title": "聽說你『』♫",
         "vid": "BKn3-EYHlD8",
         "surname": "藍",
         "kid": ""
@@ -89522,7 +89482,7 @@ const mvDB = [
     {
         "id": 20048,
         "artist": "藍心羽",
-        "title": "我鼓起",
+        "title": "倒影",
         "vid": "UGVxpEwEG1M",
         "surname": "藍",
         "kid": ""
@@ -89530,7 +89490,7 @@ const mvDB = [
     {
         "id": 20049,
         "artist": "藍心羽",
-        "title": "每一次下雨就會想到妳，莫名的思念找不到原因",
+        "title": "突然一場雨",
         "vid": "8IJLSVSe0Sk",
         "surname": "藍",
         "kid": ""
@@ -89666,7 +89626,7 @@ const mvDB = [
     {
         "id": 20066,
         "artist": "季彥霖",
-        "title": "不希望我的未來不是你，只願意和你永遠不分離。",
+        "title": "可不可以",
         "vid": "pxE4hIm3P9U",
         "surname": "季",
         "kid": ""
@@ -89682,7 +89642,7 @@ const mvDB = [
     {
         "id": 20068,
         "artist": "季彥霖",
-        "title": "我以為你會為了我心痛，到頭來全部都是我做夢。",
+        "title": "是我太傻了『』",
         "vid": "PquGot8CyUw",
         "surname": "季",
         "kid": ""
@@ -89690,7 +89650,7 @@ const mvDB = [
     {
         "id": 20069,
         "artist": "季彥霖",
-        "title": "我以為這就是真愛，這不過只是依賴。",
+        "title": "習慣當作愛『』",
         "vid": "G6_QAfJKLCs",
         "surname": "季",
         "kid": ""
@@ -89930,7 +89890,7 @@ const mvDB = [
     {
         "id": 20099,
         "artist": "趙方婧",
-        "title": "完整",
+        "title": "芒種",
         "vid": "8L2ds1XxrvA",
         "surname": "趙",
         "kid": ""
@@ -89946,7 +89906,7 @@ const mvDB = [
     {
         "id": 20101,
         "artist": "趙方婧",
-        "title": "一想到你，我就恨情不壽總於苦海囚。",
+        "title": "芒種『』",
         "vid": "3uKERKML6A4",
         "surname": "趙",
         "kid": ""
@@ -90026,7 +89986,7 @@ const mvDB = [
     {
         "id": 20111,
         "artist": "趙方婧",
-        "title": "趙方婧",
+        "title": "芒種",
         "vid": "zkn-HFCg0Lw",
         "surname": "趙",
         "kid": ""
@@ -90090,7 +90050,7 @@ const mvDB = [
     {
         "id": 20119,
         "artist": "旺仔小喬",
-        "title": "|",
+        "title": "墮",
         "vid": "UrJsc7gNMDU",
         "surname": "旺",
         "kid": ""
@@ -90098,7 +90058,7 @@ const mvDB = [
     {
         "id": 20120,
         "artist": "旺仔小喬",
-        "title": "小喬版",
+        "title": "墮",
         "vid": "Y6dsswzgThI",
         "surname": "旺",
         "kid": ""
@@ -90114,7 +90074,7 @@ const mvDB = [
     {
         "id": 20122,
         "artist": "旺仔小喬",
-        "title": "xiaoqiaos version",
+        "title": "in the fog",
         "vid": "hh4JGLMUZCE",
         "surname": "旺",
         "kid": ""
@@ -90122,7 +90082,7 @@ const mvDB = [
     {
         "id": 20123,
         "artist": "旺仔小喬",
-        "title": "北鬥星在指著你的前方，在夜裏你也不會失去你的方向",
+        "title": "篝火旁（再啟程）",
         "vid": "qSIKdqWtrWs",
         "surname": "旺",
         "kid": ""
@@ -90130,7 +90090,7 @@ const mvDB = [
     {
         "id": 20124,
         "artist": "旺仔小喬",
-        "title": "你還坐在小時候的篝火旁，看天上的月亮還是那個模樣。",
+        "title": "篝火旁（再啟程）『』",
         "vid": "pi8PY48mEHk",
         "surname": "旺",
         "kid": ""
@@ -90186,7 +90146,7 @@ const mvDB = [
     {
         "id": 20131,
         "artist": "Joysaaaa",
-        "title": "漸漸你的風箏飛離我的海岸線，那些沒你回憶漸漸越來越遠。",
+        "title": "去見想見的人『』",
         "vid": "T5kxE_rGMg8",
         "surname": "J",
         "kid": ""
@@ -90194,7 +90154,7 @@ const mvDB = [
     {
         "id": 20132,
         "artist": "Joysaaaa",
-        "title": "|",
+        "title": "你不明白♫『』",
         "vid": "tyXxBP2R0ZY",
         "surname": "J",
         "kid": ""
@@ -90210,7 +90170,7 @@ const mvDB = [
     {
         "id": 20134,
         "artist": "Joysaaaa",
-        "title": "我走在妳給我的雨天像微光在我世界，照亮我的思念替我吻上妳的臉",
+        "title": "『』",
         "vid": "NPfmZFp39vA",
         "surname": "J",
         "kid": ""
@@ -90218,7 +90178,7 @@ const mvDB = [
     {
         "id": 20135,
         "artist": "Joysaaaa",
-        "title": "我終於學會接受和你分開的結局，可是你為何來到夢裏耗盡我悲喜",
+        "title": "『』",
         "vid": "DEcDKcu9hlc",
         "surname": "J",
         "kid": ""
@@ -90226,7 +90186,7 @@ const mvDB = [
     {
         "id": 20136,
         "artist": "Joysaaaa",
-        "title": "我不是故意偷聽到你們的對白，好像她也不是很在意我的存在。",
+        "title": "偷聽對白『』",
         "vid": "po4BRDZLRbQ",
         "surname": "J",
         "kid": ""
@@ -90258,7 +90218,7 @@ const mvDB = [
     {
         "id": 20140,
         "artist": "向思思",
-        "title": "我為你犯過那麼多傻結局是抱歉，換成你和她一家三口緣分已成全，某次在酒後失言聊起",
+        "title": "我為你『』",
         "vid": "uCGQfkKXkEI",
         "surname": "向",
         "kid": ""
@@ -90266,7 +90226,7 @@ const mvDB = [
     {
         "id": 20141,
         "artist": "向思思",
-        "title": "我把最對的愛",
+        "title": "最對的愛給了最錯的人『』",
         "vid": "8-ChDZm3fYU",
         "surname": "向",
         "kid": ""
@@ -90274,7 +90234,7 @@ const mvDB = [
     {
         "id": 20142,
         "artist": "向思思",
-        "title": "總會有人把你看得比自己更重要，會有人發現你身上所有的好。",
+        "title": "總會有人『』",
         "vid": "BdhZWffz0ZM",
         "surname": "向",
         "kid": ""
@@ -90306,7 +90266,7 @@ const mvDB = [
     {
         "id": 20146,
         "artist": "向思思",
-        "title": "|",
+        "title": "笑柄『』♫",
         "vid": "w3pOnz7Rocw",
         "surname": "向",
         "kid": ""
@@ -90362,7 +90322,7 @@ const mvDB = [
     {
         "id": 20153,
         "artist": "向思思",
-        "title": "版",
+        "title": "總會有人",
         "vid": "w564Ve4rLrU",
         "surname": "向",
         "kid": ""
@@ -90378,7 +90338,7 @@ const mvDB = [
     {
         "id": 20155,
         "artist": "蘇星婕",
-        "title": "這感情",
+        "title": "不值得『』",
         "vid": "qxjqjDVg76o",
         "surname": "蘇",
         "kid": ""
@@ -90394,7 +90354,7 @@ const mvDB = [
     {
         "id": 20157,
         "artist": "蘇星婕",
-        "title": "聽悲傷的情歌",
+        "title": "聽悲傷的情歌『』",
         "vid": "qxtUvs72uV0",
         "surname": "蘇",
         "kid": ""
@@ -90402,7 +90362,7 @@ const mvDB = [
     {
         "id": 20158,
         "artist": "蘇星婕",
-        "title": "我會等枯樹生出芽",
+        "title": "我會等",
         "vid": "D7OTbJI0nBk",
         "surname": "蘇",
         "kid": ""
@@ -90410,7 +90370,7 @@ const mvDB = [
     {
         "id": 20159,
         "artist": "蘇星婕",
-        "title": "|",
+        "title": "心似煙火『』♫",
         "vid": "eu3HrUosDv8",
         "surname": "蘇",
         "kid": ""
@@ -90442,7 +90402,7 @@ const mvDB = [
     {
         "id": 20163,
         "artist": "蘇星婕",
-        "title": "海鷗眷念著大海",
+        "title": "你聽『』",
         "vid": "J4RbOnbYDGk",
         "surname": "蘇",
         "kid": ""
@@ -90458,7 +90418,7 @@ const mvDB = [
     {
         "id": 20165,
         "artist": "蘇星婕",
-        "title": "可惜你是我抓不住的風，比起愛我你更愛自由。",
+        "title": "抓不住的風",
         "vid": "cxmHo7ZldRs",
         "surname": "蘇",
         "kid": ""
@@ -90466,7 +90426,7 @@ const mvDB = [
     {
         "id": 20166,
         "artist": "蘇星婕",
-        "title": "我決定不為妳而毀了心，放棄愛妳，這感情不值得我猶豫",
+        "title": "不值得",
         "vid": "CMhqpnvdfUY",
         "surname": "蘇",
         "kid": ""
@@ -90474,7 +90434,7 @@ const mvDB = [
     {
         "id": 20167,
         "artist": "歪歪超",
-        "title": "為什麼電話你又不接，明明都答應過的，你似乎又忘記了赴約。",
+        "title": "phone kisses 『』",
         "vid": "Q9OMyb8E_2o",
         "surname": "歪",
         "kid": ""
@@ -90482,7 +90442,7 @@ const mvDB = [
     {
         "id": 20168,
         "artist": "歪歪超",
-        "title": "在你眼中我是誰？你想我代替誰？彼此交換喜悲，愛的多的人總先掉眼淚。",
+        "title": "誰『』",
         "vid": "GuZDPEFh2oA",
         "surname": "歪",
         "kid": ""
@@ -90506,7 +90466,7 @@ const mvDB = [
     {
         "id": 20171,
         "artist": "歪歪超",
-        "title": "盼著你親吻我的眉頭",
+        "title": "天后『』",
         "vid": "BNZio9gheFg",
         "surname": "歪",
         "kid": ""
@@ -90530,7 +90490,7 @@ const mvDB = [
     {
         "id": 20174,
         "artist": "歪歪超",
-        "title": "如果可以我想和你回到那天相遇，讓時間停止那一場雨，只想擁抱你在身邊的證據吻你的呼吸。",
+        "title": "如果可以",
         "vid": "fPCzoSSbdQs",
         "surname": "歪",
         "kid": ""
@@ -90538,7 +90498,7 @@ const mvDB = [
     {
         "id": 20175,
         "artist": "歪歪超",
-        "title": "就讓我留在輪迴的邊緣",
+        "title": "我們的紀念『』",
         "vid": "hFVt1brP6RE",
         "surname": "歪",
         "kid": ""
@@ -90546,7 +90506,7 @@ const mvDB = [
     {
         "id": 20176,
         "artist": "歪歪超",
-        "title": "我怎麼做也做不好",
+        "title": "都怪我『』",
         "vid": "WeP0zhBOCbM",
         "surname": "歪",
         "kid": ""
@@ -90570,7 +90530,7 @@ const mvDB = [
     {
         "id": 20179,
         "artist": "歪歪超",
-        "title": "幻想過我們一起睡醒聆聽風鈴，幻想過和你旅行看最美的風景，在浮躁的年代也沒了耐心傾聽，我也想過把浪漫的宣言裝進一封信。",
+        "title": "來遲『』",
         "vid": "IYVq-33W6aw",
         "surname": "歪",
         "kid": ""
@@ -90578,7 +90538,7 @@ const mvDB = [
     {
         "id": 20180,
         "artist": "歪歪超",
-        "title": "太多的甜言蜜語我也不知道該怎麼去講，只能自言自語在腦袋裡面反覆的臆想。",
+        "title": "熱戀冰淇淋『』",
         "vid": "1co2zKdf-tI",
         "surname": "歪",
         "kid": ""
@@ -90610,7 +90570,7 @@ const mvDB = [
     {
         "id": 20184,
         "artist": "艾辰",
-        "title": "你計劃的未來",
+        "title": "不愛了『』",
         "vid": "bsiodFemPro",
         "surname": "艾",
         "kid": ""
@@ -90618,7 +90578,7 @@ const mvDB = [
     {
         "id": 20185,
         "artist": "艾辰",
-        "title": "我吹過你吹過的晚風，那我們算不算相擁。",
+        "title": "錯位時空『』",
         "vid": "mXf3Klcn-sM",
         "surname": "艾",
         "kid": ""
@@ -90642,7 +90602,7 @@ const mvDB = [
     {
         "id": 20188,
         "artist": "艾辰",
-        "title": "|",
+        "title": "不愛了『』♫",
         "vid": "Tuh1JKw__YI",
         "surname": "艾",
         "kid": ""
@@ -90658,7 +90618,7 @@ const mvDB = [
     {
         "id": 20190,
         "artist": "艾辰",
-        "title": "我吹過妳吹過的晚風，那我們算不算",
+        "title": "錯位時空",
         "vid": "CnFt-0bdWiE",
         "surname": "艾",
         "kid": ""
@@ -90674,7 +90634,7 @@ const mvDB = [
     {
         "id": 20192,
         "artist": "艾辰",
-        "title": "我比不上他他他他啊啊啊",
+        "title": "他他他『』",
         "vid": "jWooX3JtyUg",
         "surname": "艾",
         "kid": ""
@@ -90690,7 +90650,7 @@ const mvDB = [
     {
         "id": 20194,
         "artist": "艾辰",
-        "title": "都一樣",
+        "title": "靈柩『』",
         "vid": "IOGiejbqvgc",
         "surname": "艾",
         "kid": ""
@@ -90706,7 +90666,7 @@ const mvDB = [
     {
         "id": 20196,
         "artist": "艾辰",
-        "title": "你是千年萬載萬物故事淘汰",
+        "title": "時空銀河『』",
         "vid": "s_M4oS-1unE",
         "surname": "艾",
         "kid": ""
@@ -90746,7 +90706,7 @@ const mvDB = [
     {
         "id": 20201,
         "artist": "買辣椒也用券",
-        "title": "忘不掉的",
+        "title": "我只能離開",
         "vid": "x9UGzgWNfao",
         "surname": "買",
         "kid": ""
@@ -90754,7 +90714,7 @@ const mvDB = [
     {
         "id": 20202,
         "artist": "買辣椒也用券",
-        "title": "落葉跟著風藏進圍巾，當我讀過你的書籤，最後一卷膠片收回，寫好了離別的期限。",
+        "title": "最後一卷膠『』",
         "vid": "IdRCxo06qzI",
         "surname": "買",
         "kid": ""
@@ -90762,7 +90722,7 @@ const mvDB = [
     {
         "id": 20203,
         "artist": "買辣椒也用券",
-        "title": "新版",
+        "title": "起風了",
         "vid": "3tJUflhYIpo",
         "surname": "買",
         "kid": ""
@@ -90770,7 +90730,7 @@ const mvDB = [
     {
         "id": 20204,
         "artist": "買辣椒也用券",
-        "title": "我曾難自拔於世界之大，也沉溺於其中夢話。",
+        "title": "起風了『』",
         "vid": "6aPAXGhmML0",
         "surname": "買",
         "kid": ""
@@ -90778,7 +90738,7 @@ const mvDB = [
     {
         "id": 20205,
         "artist": "買辣椒也用券",
-        "title": "舊版",
+        "title": "起風了",
         "vid": "xGZBIpFo-e0",
         "surname": "買",
         "kid": ""
@@ -90786,7 +90746,7 @@ const mvDB = [
     {
         "id": 20206,
         "artist": "買辣椒也用券",
-        "title": "買辣椒也用券",
+        "title": "舊起風了",
         "vid": "NLNdoj_N_TY",
         "surname": "買",
         "kid": ""
@@ -90810,7 +90770,7 @@ const mvDB = [
     {
         "id": 20209,
         "artist": "買辣椒也用券",
-        "title": "起風了版",
+        "title": "起風了ktv",
         "vid": "ru5pYT_e7W4",
         "surname": "買",
         "kid": ""
@@ -90818,7 +90778,7 @@ const mvDB = [
     {
         "id": 20210,
         "artist": "買辣椒也用券",
-        "title": "花盛開",
+        "title": "有光『』",
         "vid": "cmlYLo9Kj2E",
         "surname": "買",
         "kid": ""
@@ -90834,7 +90794,7 @@ const mvDB = [
     {
         "id": 20212,
         "artist": "買辣椒也用券",
-        "title": "動態歌詞",
+        "title": "起風了",
         "vid": "8HtSyl8c0bs",
         "surname": "買",
         "kid": ""
@@ -90842,7 +90802,7 @@ const mvDB = [
     {
         "id": 20213,
         "artist": "買辣椒也用券",
-        "title": "動態歌詞pinyin",
+        "title": "簡言的夏冬",
         "vid": "5R1YtnYDDew",
         "surname": "買",
         "kid": ""
@@ -90874,7 +90834,7 @@ const mvDB = [
     {
         "id": 20217,
         "artist": "戴羽彤",
-        "title": "太久太久",
+        "title": "我們倆『』",
         "vid": "nCuveh5mNJY",
         "surname": "戴",
         "kid": ""
@@ -90898,7 +90858,7 @@ const mvDB = [
     {
         "id": 20220,
         "artist": "戴羽彤",
-        "title": "|",
+        "title": "騙子",
         "vid": "UoPRTkK5KG4",
         "surname": "戴",
         "kid": ""
@@ -90906,7 +90866,7 @@ const mvDB = [
     {
         "id": 20221,
         "artist": "戴羽彤",
-        "title": "你那蓄謀已久的重新開始",
+        "title": "騙子『』",
         "vid": "EnYd9IscpZU",
         "surname": "戴",
         "kid": ""
@@ -90938,7 +90898,7 @@ const mvDB = [
     {
         "id": 20225,
         "artist": "戴羽彤",
-        "title": "我這一次終究還是來得太遲，錯過了你此後所有的故事。",
+        "title": "來遲『』",
         "vid": "eGVWI54-NrE",
         "surname": "戴",
         "kid": ""
@@ -90946,7 +90906,7 @@ const mvDB = [
     {
         "id": 20226,
         "artist": "戴羽彤",
-        "title": "平庸的皮囊配上無趣的靈魂",
+        "title": "我認『』",
         "vid": "VqMLbcS88Kc",
         "surname": "戴",
         "kid": ""
@@ -90954,7 +90914,7 @@ const mvDB = [
     {
         "id": 20227,
         "artist": "戴羽彤",
-        "title": "我醞釀好久卻老得掉牙的詩",
+        "title": "來遲『』",
         "vid": "vs4trQ7ZWtQ",
         "surname": "戴",
         "kid": ""
@@ -90962,7 +90922,7 @@ const mvDB = [
     {
         "id": 20228,
         "artist": "戴羽彤",
-        "title": "我這一次終究還是來得太遲",
+        "title": "來遲『』",
         "vid": "iQe-HA6En70",
         "surname": "戴",
         "kid": ""
@@ -90970,7 +90930,7 @@ const mvDB = [
     {
         "id": 20229,
         "artist": "戴羽彤",
-        "title": "講不聽也偏要愛，更努力愛，讓你明白",
+        "title": "偏愛—『』",
         "vid": "1vWQ_FJFqNI",
         "surname": "戴",
         "kid": ""
@@ -90989,7 +90949,7 @@ const mvDB = [
         "title": "白夜",
         "vid": "2MUKRiqUv08",
         "surname": "美",
-        "kid": ""
+        "kid": "cjM4_nL8vgs"
     },
     {
         "id": 20232,
@@ -91005,7 +90965,7 @@ const mvDB = [
         "title": "一百種孤獨的理由",
         "vid": "Q5Nu6lkPieA",
         "surname": "美",
-        "kid": ""
+        "kid": "CMNOmbVsddU"
     },
     {
         "id": 20234,
@@ -91021,7 +90981,7 @@ const mvDB = [
         "title": "愛是你眼裡的一首情歌",
         "vid": "Ss6rKHAjE8c",
         "surname": "美",
-        "kid": ""
+        "kid": "UNha0DPBtZA"
     },
     {
         "id": 20236,
@@ -91029,7 +90989,7 @@ const mvDB = [
         "title": "不怕不怕",
         "vid": "Y34An9RTSgE",
         "surname": "美",
-        "kid": ""
+        "kid": "Y34An9RTSgE"
     },
     {
         "id": 20237,
@@ -91106,7 +91066,7 @@ const mvDB = [
     {
         "id": 20246,
         "artist": "美美jocie",
-        "title": "full",
+        "title": "愛情女神",
         "vid": "fZWWZg5HXyM",
         "surname": "美",
         "kid": ""
@@ -91117,15 +91077,15 @@ const mvDB = [
         "title": "郭美美",
         "vid": "SiiSVPEI5e8",
         "surname": "美",
-        "kid": ""
+        "kid": "pPg8Atqr9bY"
     },
     {
         "id": 20248,
         "artist": "美美jocie",
-        "title": "版",
+        "title": "和我來電",
         "vid": "gS2gKatzB08",
         "surname": "美",
-        "kid": ""
+        "kid": "gS2gKatzB08"
     },
     {
         "id": 20262,
@@ -91218,7 +91178,7 @@ const mvDB = [
     {
         "id": 20274,
         "artist": "Mikael de Cristo",
-        "title": "Mikael de Cristo & Mia Anjos",
+        "title": "Maranata, Vem Jesus",
         "vid": "6d8B5qgSpiE",
         "surname": "M",
         "kid": ""
@@ -91362,7 +91322,7 @@ const mvDB = [
     {
         "id": 20292,
         "artist": "Matthew’s Silent Chapter",
-        "title": "Matthew’s Silent Chapter",
+        "title": "I’m Not Leaving You – Matthew’s Silent Chapter",
         "vid": "P4wtbOC4POs",
         "surname": "M",
         "kid": ""
@@ -91426,7 +91386,7 @@ const mvDB = [
     {
         "id": 20300,
         "artist": "Kimo Sounds",
-        "title": "No Failure ✦ Kimo Sounds",
+        "title": "no failure ✦",
         "vid": "p7AA4XekGC0",
         "surname": "K",
         "kid": ""
@@ -91458,7 +91418,7 @@ const mvDB = [
     {
         "id": 20304,
         "artist": "AmeliaEx",
-        "title": "My Quiet Love 💎🎧  AmeliaEx",
+        "title": "my quiet love 💎🎧",
         "vid": "r7Hb4ZqU1xM",
         "surname": "A",
         "kid": ""
@@ -91530,7 +91490,7 @@ const mvDB = [
     {
         "id": 20313,
         "artist": "張遠",
-        "title": "|",
+        "title": "看著我的眼睛說『』♫",
         "vid": "IkZFVOcahnQ",
         "surname": "張",
         "kid": ""
@@ -91562,7 +91522,7 @@ const mvDB = [
     {
         "id": 20317,
         "artist": "Starlight Music",
-        "title": "我不知為何",
+        "title": "海嶼你『』",
         "vid": "aGlVMnvsSio",
         "surname": "S",
         "kid": ""
@@ -91573,7 +91533,7 @@ const mvDB = [
         "title": "Pleasure",
         "vid": "j1TTQREaZMg",
         "surname": "蔡",
-        "kid": "eArZQpj8oKQ"
+        "kid": "H_fOGPs6mtw"
     },
     {
         "id": 20319,
@@ -91581,7 +91541,7 @@ const mvDB = [
         "title": "難哄The",
         "vid": "flBsWg14Rgc",
         "surname": "汪",
-        "kid": ""
+        "kid": "flBsWg14Rgc"
     },
     {
         "id": 20320,
@@ -91597,7 +91557,7 @@ const mvDB = [
         "title": "如煙",
         "vid": "uzVdsZbYibQ",
         "surname": "五",
-        "kid": ""
+        "kid": "Skcm78Yu4as"
     },
     {
         "id": 20322,
@@ -91770,7 +91730,7 @@ const mvDB = [
     {
         "id": 20343,
         "artist": "Beyond",
-        "title": "Beyond you",
+        "title": "you",
         "vid": "PZd2uZLpm7w",
         "surname": "B",
         "kid": ""
@@ -91850,7 +91810,7 @@ const mvDB = [
     {
         "id": 20353,
         "artist": "ANGIE安吉",
-        "title": "98765 feat. PIZZALI",
+        "title": "98765  PIZZALI",
         "vid": "61oRJ7CrW94",
         "surname": "A",
         "kid": ""
@@ -91898,7 +91858,7 @@ const mvDB = [
     {
         "id": 20359,
         "artist": "DIOR大穎",
-        "title": "荒唐random",
+        "title": "她已不再是那個女孩",
         "vid": "lpPccyGOPOU",
         "surname": "D",
         "kid": ""
@@ -91954,7 +91914,7 @@ const mvDB = [
     {
         "id": 20368,
         "artist": "周予天",
-        "title": "A Heaven Away（From The Series 「A Controversial Entertainer」）",
+        "title": "A Controversial Entertainer",
         "vid": "tsv1wLUfnRY",
         "surname": "周",
         "kid": ""
@@ -92069,7 +92029,7 @@ const mvDB = [
         "title": "珊瑚海",
         "vid": "8Q9SVzhwjus",
         "surname": "周",
-        "kid": ""
+        "kid": "kYhh1PpsOg4"
     },
     {
         "id": 20383,
@@ -92085,7 +92045,7 @@ const mvDB = [
         "title": "Kiss Goodbye",
         "vid": "Clf30eGO5Eg",
         "surname": "王",
-        "kid": ""
+        "kid": "gYoU1dXa6KI"
     },
     {
         "id": 20385,
@@ -92101,7 +92061,7 @@ const mvDB = [
         "title": "約定",
         "vid": "tvOg47wf0GQ",
         "surname": "光",
-        "kid": ""
+        "kid": "nlBza7QRAqU"
     },
     {
         "id": 20387,
@@ -92117,7 +92077,7 @@ const mvDB = [
         "title": "假裝",
         "vid": "_34cgR4oUw4",
         "surname": "蔡",
-        "kid": ""
+        "kid": "R8rzAWM5YLA"
     },
     {
         "id": 20389,
@@ -92125,7 +92085,7 @@ const mvDB = [
         "title": "一個像夏天一個像秋天",
         "vid": "IhWjeCI7v_g",
         "surname": "范",
-        "kid": ""
+        "kid": "T01IAUY12qY"
     },
     {
         "id": 20390,
@@ -92157,7 +92117,7 @@ const mvDB = [
         "title": "精舞門",
         "vid": "3WAgjt-cDQg",
         "surname": "羅",
-        "kid": ""
+        "kid": "frkmOb-fn8I"
     },
     {
         "id": 20394,
@@ -92197,7 +92157,7 @@ const mvDB = [
         "title": "淘汰",
         "vid": "d5rsn0Yl0Ns",
         "surname": "陳",
-        "kid": "OlSRNgnWCdE"
+        "kid": "-p56ceISmnQ"
     },
     {
         "id": 20399,
@@ -92205,7 +92165,7 @@ const mvDB = [
         "title": "愛情轉移",
         "vid": "71IQ60O0xV4",
         "surname": "陳",
-        "kid": ""
+        "kid": "VP6y0MvHE8A"
     },
     {
         "id": 20400,
@@ -92213,7 +92173,7 @@ const mvDB = [
         "title": "特務J",
         "vid": "gG6q90HXSkw",
         "surname": "蔡",
-        "kid": "9PPBp5Lyp_M"
+        "kid": "yigNq-k6WIM"
     },
     {
         "id": 20401,
@@ -92221,7 +92181,7 @@ const mvDB = [
         "title": "愛",
         "vid": "HF4VdAebmng",
         "surname": "楊",
-        "kid": ""
+        "kid": "qjZ3IuPIwU8"
     },
     {
         "id": 20402,
@@ -92245,7 +92205,7 @@ const mvDB = [
         "title": "我不會唱歌",
         "vid": "0-40QqcRAFU",
         "surname": "羅",
-        "kid": ""
+        "kid": "KAzNRp8Cb24"
     },
     {
         "id": 20405,
@@ -92253,7 +92213,7 @@ const mvDB = [
         "title": "為你寫詩",
         "vid": "ayWNab6dQaY",
         "surname": "吳",
-        "kid": ""
+        "kid": "zL6SRnQXlno"
     },
     {
         "id": 20406,
@@ -92285,7 +92245,7 @@ const mvDB = [
         "title": "沒有如果",
         "vid": "O4qcGzWfDsE",
         "surname": "梁",
-        "kid": ""
+        "kid": "CWf_jpic3Mk"
     },
     {
         "id": 20410,
@@ -92293,7 +92253,7 @@ const mvDB = [
         "title": "妥協",
         "vid": "M00rcJ9gMEc",
         "surname": "蔡",
-        "kid": "5vFAHdF5fxc"
+        "kid": "M00rcJ9gMEc"
     },
     {
         "id": 20411,
@@ -92309,7 +92269,7 @@ const mvDB = [
         "title": "王妃",
         "vid": "qnDlH_S4Fak",
         "surname": "蕭",
-        "kid": ""
+        "kid": "QywRAU__Fjc"
     },
     {
         "id": 20413,
@@ -92349,7 +92309,7 @@ const mvDB = [
         "title": "愛不單行",
         "vid": "iBrOFd1wDuQ",
         "surname": "羅",
-        "kid": ""
+        "kid": "yuHEL-t1Sj8"
     },
     {
         "id": 20418,
@@ -92373,7 +92333,7 @@ const mvDB = [
         "title": "聊天",
         "vid": "u-mMRBrSl2Q",
         "surname": "郭",
-        "kid": ""
+        "kid": "yF2lJU7U3Hc"
     },
     {
         "id": 20421,
@@ -92453,7 +92413,7 @@ const mvDB = [
         "title": "私奔到月球",
         "vid": "IFTZtuXKzFs",
         "surname": "五",
-        "kid": ""
+        "kid": "RrprMYsIJVg"
     },
     {
         "id": 20431,
@@ -92501,7 +92461,7 @@ const mvDB = [
         "title": "愛在西元前",
         "vid": "5XK2C9w6oVk",
         "surname": "周",
-        "kid": ""
+        "kid": "hVDBd1ba7Gw"
     },
     {
         "id": 20437,
@@ -92578,7 +92538,7 @@ const mvDB = [
     {
         "id": 20446,
         "artist": "陳芳語",
-        "title": "Kimberley Chen  | Subsessions",
+        "title": "你是不是有點動心",
         "vid": "T18wjAz4LxU",
         "surname": "陳",
         "kid": ""
@@ -92602,7 +92562,7 @@ const mvDB = [
     {
         "id": 20449,
         "artist": "Kimberley Chen",
-        "title": "A Cappella Version",
+        "title": "Ai Ni",
         "vid": "gnA3E_E3SNA",
         "surname": "K",
         "kid": ""
@@ -92722,7 +92682,7 @@ const mvDB = [
     {
         "id": 20464,
         "artist": "蔡依林",
-        "title": "「都沒差」",
+        "title": "都沒差",
         "vid": "PpIlruokg5s",
         "surname": "蔡",
         "kid": ""
@@ -92757,7 +92717,7 @@ const mvDB = [
         "title": "三天三夜",
         "vid": "7XR7qp4UQpw",
         "surname": "張",
-        "kid": ""
+        "kid": "uHx_lmVwjyo"
     },
     {
         "id": 20470,
@@ -92789,7 +92749,7 @@ const mvDB = [
         "title": "跳進來",
         "vid": "CNwlcQIVltk",
         "surname": "a",
-        "kid": ""
+        "kid": "k5TfzuQzGv4"
     },
     {
         "id": 20474,
@@ -92869,7 +92829,7 @@ const mvDB = [
         "title": "聽說愛情回來過",
         "vid": "59NRbqOQCrE",
         "surname": "林",
-        "kid": "Ubciw1o4pJc"
+        "kid": "bSWuZGOcmRk"
     },
     {
         "id": 20484,
@@ -92877,7 +92837,7 @@ const mvDB = [
         "title": "有沒有一首歌會讓你想起我",
         "vid": "MRX_bmmmjZs",
         "surname": "周",
-        "kid": ""
+        "kid": "uabuBFUzRdo"
     },
     {
         "id": 20485,
@@ -92949,7 +92909,7 @@ const mvDB = [
         "title": "傷痕",
         "vid": "U2PjKOaijJA",
         "surname": "林",
-        "kid": "kSz7sGsjvMo"
+        "kid": "lsEn5_dNqw4"
     },
     {
         "id": 20494,
@@ -93005,7 +92965,7 @@ const mvDB = [
         "title": "約定",
         "vid": "bD9dVpME6xA",
         "surname": "周",
-        "kid": "WaXrgQF0VBg"
+        "kid": "7tHGICvzlGM"
     },
     {
         "id": 20501,
@@ -93053,7 +93013,7 @@ const mvDB = [
         "title": "第一次",
         "vid": "SWOZeJYOf0U",
         "surname": "光",
-        "kid": "sFTYy2DvxqE"
+        "kid": "rFsn1tzhcHk"
     },
     {
         "id": 20507,
@@ -93117,7 +93077,7 @@ const mvDB = [
         "title": "寂寞的戀人啊",
         "vid": "HF6GB7b5N-E",
         "surname": "莫",
-        "kid": ""
+        "kid": "f2NgLv7L7h8"
     },
     {
         "id": 20515,
@@ -93141,7 +93101,7 @@ const mvDB = [
         "title": "你最珍貴",
         "vid": "CP9rE05I4lU",
         "surname": "張",
-        "kid": ""
+        "kid": "_SODktUwNYo"
     },
     {
         "id": 20518,
@@ -93301,7 +93261,7 @@ const mvDB = [
         "title": "Superwoman",
         "vid": "qj2_y35XApk",
         "surname": "曹",
-        "kid": ""
+        "kid": "e-zw2EV2_Oc"
     },
     {
         "id": 20538,
@@ -93349,7 +93309,7 @@ const mvDB = [
         "title": "電台情歌",
         "vid": "jHg2rV_FaTA",
         "surname": "莫",
-        "kid": ""
+        "kid": "YCJOsXAYlrY"
     },
     {
         "id": 20544,
@@ -93365,7 +93325,7 @@ const mvDB = [
         "title": "眼淚知道",
         "vid": "0V2oChlaoCg",
         "surname": "溫",
-        "kid": ""
+        "kid": "nWumfYKYnVs"
     },
     {
         "id": 20546,
@@ -93402,7 +93362,7 @@ const mvDB = [
     {
         "id": 20550,
         "artist": "Sony Pictures Animation",
-        "title": "「Golden」  | KPop Demon Hunters | Sony Animation",
+        "title": "Golden",
         "vid": "yebNIHKAC4A",
         "surname": "S",
         "kid": ""
@@ -93466,7 +93426,7 @@ const mvDB = [
     {
         "id": 20558,
         "artist": "W Sound",
-        "title": "LA PLENA",
+        "title": "Beéle, Westcol, Ovy On The Drums",
         "vid": "F1_aOX0acbY",
         "surname": "W",
         "kid": ""
@@ -93498,7 +93458,7 @@ const mvDB = [
     {
         "id": 20562,
         "artist": "DAREYES DE LA SIERRA",
-        "title": "Dareyes de la Sierra",
+        "title": "Frecuencia - Dareyes de la Sierra (Video Oficial)",
         "vid": "ebXEaHEYYng",
         "surname": "D",
         "kid": ""
@@ -93514,7 +93474,7 @@ const mvDB = [
     {
         "id": 20565,
         "artist": "KATSEYE",
-        "title": "「Gabriela」 Performance  | KATSEYE",
+        "title": "Gabriela",
         "vid": "co-TFLbaZAE",
         "surname": "K",
         "kid": ""
@@ -93538,7 +93498,7 @@ const mvDB = [
     {
         "id": 20568,
         "artist": "Gabito Ballesteros",
-        "title": "Gabito Ballesteros, Natanael Cano, Luis R Conriquez, Netón Vega",
+        "title": "PRESIDENTE",
         "vid": "x6UvVnZ-VBE",
         "surname": "G",
         "kid": ""
@@ -93581,7 +93541,7 @@ const mvDB = [
         "title": "Manchild",
         "vid": "aSugSGCC12I",
         "surname": "S",
-        "kid": "jup9zwbLNuc"
+        "kid": "pHYTV6g29G8"
     },
     {
         "id": 20574,
@@ -93602,7 +93562,7 @@ const mvDB = [
     {
         "id": 20576,
         "artist": "KATSEYE",
-        "title": "Choreography Ver.",
+        "title": "mv  |",
         "vid": "PkMKJEkE8Mo",
         "surname": "K",
         "kid": ""
@@ -93666,7 +93626,7 @@ const mvDB = [
     {
         "id": 20584,
         "artist": "8Uno",
-        "title": "Pelotero A La Bola Feat. Airam Páez  warnermexico",
+        "title": "Pelotero A La Bola Feat. Airam Páez  #warnermexico",
         "vid": "rEUOTboDmBQ",
         "surname": "8",
         "kid": ""
@@ -93818,7 +93778,7 @@ const mvDB = [
     {
         "id": 20603,
         "artist": "BigXthaPlug",
-        "title": "All The Way feat. Bailey Zimmerman",
+        "title": "All The Way  Bailey Zimmerman",
         "vid": "7kyHvPNbugk",
         "surname": "B",
         "kid": ""
@@ -93834,7 +93794,7 @@ const mvDB = [
     {
         "id": 20605,
         "artist": "IVE",
-        "title": "DENIAL IS A RIVER",
+        "title": "Doechii",
         "vid": "F0cdbR5ognY",
         "surname": "I",
         "kid": ""
@@ -93874,7 +93834,7 @@ const mvDB = [
     {
         "id": 20610,
         "artist": "Republic Records",
-        "title": "Soundtrack from the Netflix Film",
+        "title": "Takedown",
         "vid": "Ve_a9CXjlQc",
         "surname": "R",
         "kid": ""
@@ -93890,7 +93850,7 @@ const mvDB = [
     {
         "id": 20612,
         "artist": "Netflix Philippines",
-        "title": "Free  | KPop Demon Hunters | Netflix Philippines",
+        "title": "Rumi & Jinu",
         "vid": "-ymi6hZahlo",
         "surname": "N",
         "kid": ""
@@ -94114,7 +94074,7 @@ const mvDB = [
     {
         "id": 20640,
         "artist": "SZA",
-        "title": "30 For 30 feat. Kendrick Lamar",
+        "title": "30 For 30  Kendrick Lamar",
         "vid": "NEnephbahLA",
         "surname": "S",
         "kid": ""
@@ -94181,7 +94141,7 @@ const mvDB = [
         "title": "難哄",
         "vid": "mghMddhSOdY",
         "surname": "汪",
-        "kid": "XeFJltjVgUo"
+        "kid": "h04eLLSCgzU"
     },
     {
         "id": 20649,
@@ -94197,12 +94157,12 @@ const mvDB = [
         "title": "看著我的眼睛說",
         "vid": "8H1I9VT6lYQ",
         "surname": "張",
-        "kid": ""
+        "kid": "8_zOm1I512Q"
     },
     {
         "id": 20651,
         "artist": "DIOR大穎",
-        "title": "過了幾天（合唱版)",
+        "title": "過了幾天（合唱)",
         "vid": "OkTlYjO6SNY",
         "surname": "D",
         "kid": ""
@@ -94237,7 +94197,7 @@ const mvDB = [
         "title": "偷偷愛",
         "vid": "LM9uN7IlKSI",
         "surname": "美",
-        "kid": ""
+        "kid": "qIEnLGECock"
     },
     {
         "id": 20656,
@@ -94282,7 +94242,7 @@ const mvDB = [
     {
         "id": 20661,
         "artist": "Boba Beats",
-        "title": "不想時間停擺",
+        "title": "小孩『』",
         "vid": "e4K5DmyEHqE",
         "surname": "B",
         "kid": ""
@@ -94293,7 +94253,7 @@ const mvDB = [
         "title": "NONO",
         "vid": "RC0Dkh-sx7o",
         "surname": "頑",
-        "kid": ""
+        "kid": "mWUl96yUsTU"
     },
     {
         "id": 20663,
@@ -94306,7 +94266,7 @@ const mvDB = [
     {
         "id": 20664,
         "artist": "YunShang-Music",
-        "title": "我想裝作我從來都沒有愛過，就當我沒遇見只是不小心錯過。",
+        "title": "就當他沒來過『』",
         "vid": "Oko1fYsbyTU",
         "surname": "Y",
         "kid": ""
@@ -94333,12 +94293,12 @@ const mvDB = [
         "title": "我把我留在那了",
         "vid": "McVtu7BW5qY",
         "surname": "陳",
-        "kid": ""
+        "kid": "nIzTM9xeyg8"
     },
     {
         "id": 20668,
         "artist": "Music in the Air",
-        "title": "先說愛的人為什麼先離開",
+        "title": "先說愛的人為什麼先離開『』",
         "vid": "p7_ZaKnRicw",
         "surname": "M",
         "kid": ""
@@ -94394,7 +94354,7 @@ const mvDB = [
     {
         "id": 20675,
         "artist": "LBI利比",
-        "title": "你每次假象的溫柔",
+        "title": "走向我是為了離開我『』",
         "vid": "Y680Pk-63VU",
         "surname": "L",
         "kid": ""
@@ -94413,12 +94373,12 @@ const mvDB = [
         "title": "愛我還是他",
         "vid": "A6g2NPROeYY",
         "surname": "陶",
-        "kid": "P27X4jW9QUU"
+        "kid": "R7sPdU4036A"
     },
     {
         "id": 20678,
         "artist": "HWASA",
-        "title": "HWASA",
+        "title": "Good Goodbye",
         "vid": "Qe8fa4b5xNU",
         "surname": "H",
         "kid": ""
@@ -94450,7 +94410,7 @@ const mvDB = [
     {
         "id": 20682,
         "artist": "HYBE LABELS",
-        "title": "Solo Version",
+        "title": "Killin' It Girl",
         "vid": "HK3LjI2InOg",
         "surname": "H",
         "kid": ""
@@ -94458,7 +94418,7 @@ const mvDB = [
     {
         "id": 20683,
         "artist": "TREASURE (트레저)",
-        "title": "『PARADISE』",
+        "title": "PARADISE",
         "vid": "gZNQs3jA7aE",
         "surname": "T",
         "kid": ""
@@ -94490,7 +94450,7 @@ const mvDB = [
     {
         "id": 20687,
         "artist": "THEBLACKLABEL",
-        "title": "미야오",
+        "title": "HANDS UP",
         "vid": "sL0pCS6K9bc",
         "surname": "T",
         "kid": ""
@@ -94498,7 +94458,7 @@ const mvDB = [
     {
         "id": 20688,
         "artist": "Hearts2Hearts",
-        "title": "Hearts2Hearts 하츠투하츠 'STYLE'",
+        "title": "하츠투하츠 'style'",
         "vid": "n7kFRxFIPrI",
         "surname": "H",
         "kid": ""
@@ -94522,7 +94482,7 @@ const mvDB = [
     {
         "id": 20691,
         "artist": "JYP Entertainment",
-        "title": "「Blue Valentine」",
+        "title": "Blue Valentine",
         "vid": "EmeW6li6bbo",
         "surname": "J",
         "kid": ""
@@ -94549,12 +94509,12 @@ const mvDB = [
         "title": "Do the Dance",
         "vid": "negtrQu5mTA",
         "surname": "I",
-        "kid": ""
+        "kid": "Vw8HDjyF2kw"
     },
     {
         "id": 20695,
         "artist": "TREASURE (트레저)",
-        "title": "『YELLOW』",
+        "title": "YELLOW",
         "vid": "R55VGD7aYUI",
         "surname": "T",
         "kid": ""
@@ -94597,7 +94557,7 @@ const mvDB = [
         "title": "Handlebars",
         "vid": "seARsMwjbEU",
         "surname": "J",
-        "kid": ""
+        "kid": "KO4aHmpEM2o"
     },
     {
         "id": 20701,
@@ -94626,7 +94586,7 @@ const mvDB = [
     {
         "id": 20704,
         "artist": "JYP Entertainment",
-        "title": "「KNOW ABOUT ME」",
+        "title": "KNOW ABOUT ME",
         "vid": "aFrQIJ5cbRc",
         "surname": "J",
         "kid": ""
@@ -94634,7 +94594,7 @@ const mvDB = [
     {
         "id": 20705,
         "artist": "BIBI",
-        "title": "BIBI",
+        "title": "비비 (BIBI) - 종말의 사과나무 (Apocalypse) Official M/V",
         "vid": "GWL1Tzl0YdY",
         "surname": "B",
         "kid": ""
@@ -94650,7 +94610,7 @@ const mvDB = [
     {
         "id": 20707,
         "artist": "Hearts2Hearts",
-        "title": "Hearts2Hearts 하츠투하츠 'The Chase'",
+        "title": "하츠투하츠 'the chase'",
         "vid": "kxUA2wwYiME",
         "surname": "H",
         "kid": ""
@@ -94666,7 +94626,7 @@ const mvDB = [
     {
         "id": 20709,
         "artist": "THEBLACKLABEL",
-        "title": "전소미",
+        "title": "CLOSER",
         "vid": "5C5lcn1GYfM",
         "surname": "T",
         "kid": ""
@@ -94717,7 +94677,7 @@ const mvDB = [
         "title": "way up",
         "vid": "qzE9tNcUUss",
         "surname": "J",
-        "kid": ""
+        "kid": "p0VLhZmbgFw"
     },
     {
         "id": 20716,
@@ -94730,7 +94690,7 @@ const mvDB = [
     {
         "id": 20717,
         "artist": "STAYC",
-        "title": "스테이씨",
+        "title": "I WANT IT",
         "vid": "W8ml4ryPwic",
         "surname": "S",
         "kid": ""
@@ -94749,7 +94709,7 @@ const mvDB = [
         "title": "stay a little longer",
         "vid": "vHvOYQ0hbBA",
         "surname": "R",
-        "kid": ""
+        "kid": "S_lcgS5s2K0"
     },
     {
         "id": 20720,
@@ -94794,7 +94754,7 @@ const mvDB = [
     {
         "id": 20725,
         "artist": "LE SSERAFIM",
-        "title": "Come Over  with Android",
+        "title": "Come OverAndroid",
         "vid": "z_uqieM8VGM",
         "surname": "L",
         "kid": ""
@@ -94802,7 +94762,7 @@ const mvDB = [
     {
         "id": 20726,
         "artist": "JYP Entertainment",
-        "title": "Blue Valentine Core: 「SPINNIN』 ON IT」",
+        "title": "SPINNIN』 ON IT",
         "vid": "RblIsNFR1j4",
         "surname": "J",
         "kid": ""
@@ -94810,7 +94770,7 @@ const mvDB = [
     {
         "id": 20727,
         "artist": "RESCENE",
-        "title": "리센느",
+        "title": "LOVE ATTACK",
         "vid": "9XttLI0oH0I",
         "surname": "R",
         "kid": ""
@@ -94893,12 +94853,12 @@ const mvDB = [
         "title": "dance all night",
         "vid": "h7HP9aiIFfc",
         "surname": "R",
-        "kid": ""
+        "kid": "Sa61NWN-8MI"
     },
     {
         "id": 20738,
         "artist": "DAESUNG",
-        "title": "DAESUNG",
+        "title": "대성(DAESUNG) 'Universe' Official MV",
         "vid": "PHToFdx20ac",
         "surname": "D",
         "kid": ""
@@ -94906,7 +94866,7 @@ const mvDB = [
     {
         "id": 20739,
         "artist": "CHUNG HA 청하",
-        "title": "CHUNG HA 청하 | 'STRESS'",
+        "title": "| 'stress'",
         "vid": "OLK0iePvZeY",
         "surname": "C",
         "kid": ""
@@ -94946,7 +94906,7 @@ const mvDB = [
     {
         "id": 20744,
         "artist": "MEOVV",
-        "title": "미야오",
+        "title": "DROP TOP",
         "vid": "FxIV87NcSH4",
         "surname": "M",
         "kid": ""
@@ -94970,7 +94930,7 @@ const mvDB = [
     {
         "id": 20747,
         "artist": "Naughty Boy",
-        "title": "La la la ft. Sam Smith",
+        "title": "La la la  Sam Smith",
         "vid": "3O1_3zBUKM8",
         "surname": "N",
         "kid": ""
@@ -95005,7 +94965,7 @@ const mvDB = [
         "title": "Opalite",
         "vid": "3PJC6uPIekc",
         "surname": "T",
-        "kid": ""
+        "kid": "FTfDviAepBE"
     },
     {
         "id": 20752,
@@ -95061,7 +95021,7 @@ const mvDB = [
         "title": "Busy Woman",
         "vid": "3m6NBnqLc-g",
         "surname": "S",
-        "kid": ""
+        "kid": "m3wVeAJNFzA"
     },
     {
         "id": 20759,
@@ -95098,7 +95058,7 @@ const mvDB = [
     {
         "id": 20763,
         "artist": "Marco Antonio Solís",
-        "title": "Feat Marco Antonio Solís",
+        "title": "Colleccionando Heridas Karol G",
         "vid": "Zf21-IpYDUU",
         "surname": "M",
         "kid": ""
@@ -95114,7 +95074,7 @@ const mvDB = [
     {
         "id": 20765,
         "artist": "Jade LeMac",
-        "title": "Piano Version",
+        "title": "Constellations",
         "vid": "ZLkCUhmwLdw",
         "surname": "J",
         "kid": ""
@@ -95138,7 +95098,7 @@ const mvDB = [
     {
         "id": 20768,
         "artist": "Thomas Rhett",
-        "title": "Somethin' 'Bout A Woman  ft. Teddy Swims",
+        "title": "Somethin' 'Bout A WomanTeddy Swims",
         "vid": "65aNPjAwGnw",
         "surname": "T",
         "kid": ""
@@ -95322,7 +95282,7 @@ const mvDB = [
     {
         "id": 20791,
         "artist": "Skrilla",
-        "title": "6 7",
+        "title": "Doot Doot",
         "vid": "XnygT6ANLzQ",
         "surname": "S",
         "kid": ""
@@ -95354,7 +95314,7 @@ const mvDB = [
     {
         "id": 20795,
         "artist": "BigXthaPlug",
-        "title": "Holy Ground feat. Jessie Murph",
+        "title": "Holy Ground  Jessie Murph",
         "vid": "QPmGzXoXYW8",
         "surname": "B",
         "kid": ""
@@ -95586,7 +95546,7 @@ const mvDB = [
     {
         "id": 20824,
         "artist": "Jack White",
-        "title": "Archbishop Harold Holmes",
+        "title": "archbishop harold holmes",
         "vid": "ru5afNNSPeU",
         "surname": "J",
         "kid": ""
@@ -95594,7 +95554,7 @@ const mvDB = [
     {
         "id": 20825,
         "artist": "Mammoth",
-        "title": "Mammoth: The End",
+        "title": "the end",
         "vid": "7w7rAEnMXDI",
         "surname": "M",
         "kid": ""
@@ -95778,7 +95738,7 @@ const mvDB = [
     {
         "id": 20848,
         "artist": "Chris Brown",
-        "title": "It Depends  ft. Bryson Tiller",
+        "title": "It DependsBryson Tiller",
         "vid": "Kjof9tYTqD0",
         "surname": "C",
         "kid": ""
@@ -95810,7 +95770,7 @@ const mvDB = [
     {
         "id": 20852,
         "artist": "Lloyd",
-        "title": "You  ft. Lil Wayne",
+        "title": "YouLil Wayne",
         "vid": "YVLHaqeJzEk",
         "surname": "L",
         "kid": ""
@@ -95874,7 +95834,7 @@ const mvDB = [
     {
         "id": 20860,
         "artist": "kwn",
-        "title": "worst behaviour  ft. Kehlani",
+        "title": "worst behaviourKehlani",
         "vid": "VHsJCGh4gr4",
         "surname": "k",
         "kid": ""
@@ -95922,7 +95882,7 @@ const mvDB = [
     {
         "id": 20866,
         "artist": "Akon",
-        "title": "Never Really Mattered  ft. SIMIEN",
+        "title": "Never Really MatteredSIMIEN",
         "vid": "4S0_Xj4L4mo",
         "surname": "A",
         "kid": ""
@@ -96026,7 +95986,7 @@ const mvDB = [
     {
         "id": 20879,
         "artist": "Mariah Carey",
-        "title": "Sugar Sweet feat. Shenseea & Kehlani",
+        "title": "Sugar Sweet  Shenseea & Kehlani",
         "vid": "LbRb0YYIh-M",
         "surname": "M",
         "kid": ""
@@ -96213,7 +96173,7 @@ const mvDB = [
         "title": "你我經歷的一刻",
         "vid": "e-eV0luGwZw",
         "surname": "王",
-        "kid": ""
+        "kid": "gFQkKWu47mo"
     },
     {
         "id": 20903,
@@ -96338,7 +96298,7 @@ const mvDB = [
     {
         "id": 20918,
         "artist": "周予天",
-        "title": "From The Series 「A Controversial Entertainer」",
+        "title": "A Controversial Entertainer",
         "vid": "x_0TBGJ9MhY",
         "surname": "周",
         "kid": ""
@@ -96722,7 +96682,7 @@ const mvDB = [
     {
         "id": 20966,
         "artist": "黃霄雲",
-        "title": "黃霄雲",
+        "title": "愛如蟬翼",
         "vid": "Dt18eT5mrLs",
         "surname": "黃",
         "kid": ""
@@ -96770,7 +96730,7 @@ const mvDB = [
     {
         "id": 20972,
         "artist": "Dena - Topic",
-        "title": "Chinese Version",
+        "title": "StoryTime",
         "vid": "CyKb5Hhoesg",
         "surname": "D",
         "kid": ""
@@ -96797,7 +96757,7 @@ const mvDB = [
         "title": "Billie Jean",
         "vid": "Zi_XLOBDo_Y",
         "surname": "M",
-        "kid": ""
+        "kid": "KusZ6gjfm6U"
     },
     {
         "id": 20976,
@@ -96821,7 +96781,7 @@ const mvDB = [
         "title": "Careless Whisper",
         "vid": "izGwDsrQ1eQ",
         "surname": "G",
-        "kid": ""
+        "kid": "uzj5VHxHi7M"
     },
     {
         "id": 20979,
@@ -96861,7 +96821,7 @@ const mvDB = [
         "title": "Dancing Queen",
         "vid": "xFrGuyw1V8s",
         "surname": "A",
-        "kid": ""
+        "kid": "7fCMws3U2zE"
     },
     {
         "id": 20984,
@@ -96869,7 +96829,7 @@ const mvDB = [
         "title": "Last Christmas",
         "vid": "E8gmARGvPlI",
         "surname": "W",
-        "kid": ""
+        "kid": "h0eUW73q0DQ"
     },
     {
         "id": 20985,
@@ -96893,7 +96853,7 @@ const mvDB = [
         "title": "Right Here Waiting",
         "vid": "S_E2EHVxNAE",
         "surname": "R",
-        "kid": ""
+        "kid": "3O9Hiq2ZxRo"
     },
     {
         "id": 20988,
@@ -96922,10 +96882,10 @@ const mvDB = [
     {
         "id": 20991,
         "artist": "Michael Jackson",
-        "title": "Shortened Version",
+        "title": "Bad",
         "vid": "dsUXAEzaC3Q",
         "surname": "M",
-        "kid": ""
+        "kid": "b25iHW3E8Qs"
     },
     {
         "id": 20992,
@@ -97005,7 +96965,7 @@ const mvDB = [
         "title": "Mamma Mia",
         "vid": "unfzfe8f9NI",
         "surname": "A",
-        "kid": ""
+        "kid": "kh_nVWMy1Kk"
     },
     {
         "id": 21002,
@@ -97026,7 +96986,7 @@ const mvDB = [
     {
         "id": 21004,
         "artist": "PatrickSwayzeVEVO",
-        "title": "She's Like The Wind  ft. Wendy Fraser",
+        "title": "She's Like The WindWendy Fraser",
         "vid": "lU9p1WRfA9w",
         "surname": "P",
         "kid": ""
@@ -97085,12 +97045,12 @@ const mvDB = [
         "title": "The Winner Takes It All",
         "vid": "92cwKCU8Z5c",
         "surname": "A",
-        "kid": ""
+        "kid": "FZqeU0TnNRM"
     },
     {
         "id": 21012,
         "artist": "Mariah Carey",
-        "title": "From Mariah Carey",
+        "title": "from",
         "vid": "s7PvYLtKynM",
         "surname": "M",
         "kid": ""
@@ -97141,7 +97101,7 @@ const mvDB = [
         "title": "Fernando",
         "vid": "dQsjAbZDx-4",
         "surname": "A",
-        "kid": ""
+        "kid": "BcpOsRLTBZA"
     },
     {
         "id": 21019,
@@ -97165,7 +97125,7 @@ const mvDB = [
         "title": "Money, Money, Money",
         "vid": "ETxmCCsMoD0",
         "surname": "A",
-        "kid": ""
+        "kid": "DAg-IibCqrs"
     },
     {
         "id": 21022,
@@ -97197,7 +97157,7 @@ const mvDB = [
         "title": "Like A Virgin",
         "vid": "s__rX_WL100",
         "surname": "M",
-        "kid": ""
+        "kid": "3XKP4ffgXLE"
     },
     {
         "id": 21026,
@@ -97274,7 +97234,7 @@ const mvDB = [
     {
         "id": 21035,
         "artist": "REO Speedwagon",
-        "title": "Version",
+        "title": "Keep on Loving You",
         "vid": "wJzNZ1c5C9c",
         "surname": "R",
         "kid": ""
@@ -97285,7 +97245,7 @@ const mvDB = [
         "title": "All By Myself",
         "vid": "NGrLb6W5YOM",
         "surname": "C",
-        "kid": ""
+        "kid": "eiTOcxAmyLA"
     },
     {
         "id": 21037,
@@ -97522,7 +97482,7 @@ const mvDB = [
     {
         "id": 21066,
         "artist": "miss A",
-        "title": "Love Again",
+        "title": "love again",
         "vid": "hY8ZPvupO14",
         "surname": "m",
         "kid": ""
@@ -97658,7 +97618,7 @@ const mvDB = [
     {
         "id": 21083,
         "artist": "wahwah0000",
-        "title": "Japanese Version",
+        "title": "Mach",
         "vid": "v3kzhNX2jz0",
         "surname": "w",
         "kid": ""
@@ -97701,7 +97661,7 @@ const mvDB = [
         "title": "看著我的眼睛說",
         "vid": "-OV0fHQ_tUE",
         "surname": "張",
-        "kid": ""
+        "kid": "8_zOm1I512Q"
     },
     {
         "id": 21089,
@@ -97717,7 +97677,7 @@ const mvDB = [
         "title": "溫柔",
         "vid": "nWb_X3ZJQjw",
         "surname": "五",
-        "kid": ""
+        "kid": "EN0O6wJSSFc"
     },
     {
         "id": 21091,
@@ -97725,7 +97685,7 @@ const mvDB = [
         "title": "沿海地帶",
         "vid": "tm0jDoUDPFo",
         "surname": "弦",
-        "kid": ""
+        "kid": "vnfuTpHj2Q8"
     },
     {
         "id": 21092,
@@ -97741,7 +97701,7 @@ const mvDB = [
         "title": "說愛你",
         "vid": "cOBQgUZnceg",
         "surname": "蔡",
-        "kid": "MGVPu_JgE0U"
+        "kid": "hwXgZ8dx8yE"
     },
     {
         "id": 21094,
@@ -97789,7 +97749,7 @@ const mvDB = [
         "title": "Zi",
         "vid": "m4nu_F_9dWU",
         "surname": "孫",
-        "kid": "4n8KJ8nRSEk"
+        "kid": "JCqJcK3v4q0"
     },
     {
         "id": 21100,
@@ -97797,7 +97757,7 @@ const mvDB = [
         "title": "K歌之王",
         "vid": "Iw3WgP8A18I",
         "surname": "陳",
-        "kid": ""
+        "kid": "KpnTkgRQtGY"
     },
     {
         "id": 21101,
@@ -97821,7 +97781,7 @@ const mvDB = [
         "title": "心中無別人",
         "vid": "EitgfC3gg7M",
         "surname": "五",
-        "kid": ""
+        "kid": "EitgfC3gg7M"
     },
     {
         "id": 21104,
@@ -97834,7 +97794,7 @@ const mvDB = [
     {
         "id": 21105,
         "artist": "張惠妹",
-        "title": "相愛的情歌你聽不厭",
+        "title": "別在傷口上撒鹽『』",
         "vid": "TmSxHrMN8-I",
         "surname": "張",
         "kid": ""
@@ -97845,7 +97805,7 @@ const mvDB = [
         "title": "Mei",
         "vid": "IQROCKF_7bU",
         "surname": "張",
-        "kid": "hrohMUIU0YI"
+        "kid": "pfVDJtphU3o"
     },
     {
         "id": 21107,
@@ -97901,7 +97861,7 @@ const mvDB = [
         "title": "把悲傷留給自己",
         "vid": "7f6305MkDsI",
         "surname": "陳",
-        "kid": "Ff1qFMGygeE"
+        "kid": "oUgX6Zkks7A"
     },
     {
         "id": 21114,
@@ -97917,7 +97877,7 @@ const mvDB = [
         "title": "特別的愛給特別的你",
         "vid": "Hb_0IKqdqsw",
         "surname": "伍",
-        "kid": "W87WIcGcqy8"
+        "kid": "0L59BZg4Kpg"
     },
     {
         "id": 21116,
@@ -97925,7 +97885,7 @@ const mvDB = [
         "title": "愛如潮水",
         "vid": "LPl420bwG8c",
         "surname": "張",
-        "kid": "Jsp5UFV65qM"
+        "kid": "s7WbuVIRNcc"
     },
     {
         "id": 21117,
@@ -97989,7 +97949,7 @@ const mvDB = [
         "title": "向前走",
         "vid": "_VzoY4dEdTk",
         "surname": "林",
-        "kid": ""
+        "kid": "VIU6t-Nn4WY"
     },
     {
         "id": 21125,
@@ -98069,7 +98029,7 @@ const mvDB = [
         "title": "鹿港小鎮",
         "vid": "O_XfwvAgn0w",
         "surname": "羅",
-        "kid": "FUp7b-V3MEA"
+        "kid": "4eKr7n0HyRc"
     },
     {
         "id": 21135,
@@ -98085,7 +98045,7 @@ const mvDB = [
         "title": "我是真的付出我的愛",
         "vid": "1FfhCRozKJc",
         "surname": "周",
-        "kid": "2FWo2b3u6EM"
+        "kid": "1FfhCRozKJc"
     },
     {
         "id": 21137,
@@ -98106,10 +98066,10 @@ const mvDB = [
     {
         "id": 21139,
         "artist": "張洪量",
-        "title": "KTV導唱",
+        "title": "你知道我在等你嗎",
         "vid": "V8Q27bQgM7w",
         "surname": "張",
-        "kid": ""
+        "kid": "kMVPYhbw1Ck"
     },
     {
         "id": 21140,
@@ -98221,7 +98181,7 @@ const mvDB = [
         "title": "中國娃娃",
         "vid": "KZHD1pjBJR0",
         "surname": "蔡",
-        "kid": ""
+        "kid": "e9YwUneFbP0"
     },
     {
         "id": 21154,
@@ -98514,7 +98474,7 @@ const mvDB = [
     {
         "id": 21190,
         "artist": "老王樂隊",
-        "title": "Chaos",
+        "title": "記憶紊亂",
         "vid": "zzUAnzTG_Jc",
         "surname": "老",
         "kid": ""
@@ -98554,7 +98514,7 @@ const mvDB = [
     {
         "id": 21195,
         "artist": "蕭煌奇",
-        "title": "2026 CTBC Brothers Song of the Year",
+        "title": "STRIKE BACK",
         "vid": "EeWCaN_LZPE",
         "surname": "蕭",
         "kid": ""
