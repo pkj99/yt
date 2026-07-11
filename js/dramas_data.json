@@ -1722,7 +1722,7 @@
             "id": "PLk2gvyPpHLRfUIrJyynqj38hHO4khQ7GT",
             "title": "後宮甄嬛傳",
             "overview": "講述主角甄嬛從不諳世事的善良女子，成長為善於謀權的深宮婦人故事。",
-            "poster": "https://image.tmdb.org/t/p/w500/iOMoMkDAAS2lJ1p5yCnKhrToWqc.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/2ucGJSsqgQ1XNKJiv7D3cFwir1r.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/oaEIYMBx3IEtjWzyDyHu9MTtuv8.jpg",
             "rating": 8.6,
             "release_date": "2011-11-17",
@@ -4629,7 +4629,7 @@
             "overview": "這是個關於禁忌的愛與社會習俗變化的美麗故事，描述身為警察的湯姆（哈利斯泰爾斯/萊納斯洛區飾演）與教師瑪莉安（艾瑪科林/吉娜麥吉飾演）以及美術館館長派翠克（大衛道森/魯伯特艾瑞特飾演）之間一段相隔四十年的三角戀情。",
             "poster": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
-            "rating": 7.594,
+            "rating": 7.578,
             "release_date": "2022-10-20",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -4667,664 +4667,12 @@
             ]
         },
         {
-            "id": "PLk2gvyPpHLRdV-Sy4Yepbro76RTcBf9Xv",
-            "title": "惡作劇2吻",
-            "overview": "袁湘琴鼓起勇氣向暗戀兩年的超級天才少年江直樹告白，卻慘遭無情拒絕，更成了全校的笑柄。然而屋漏偏逢連夜雨，就在湘琴告白被拒後，剛遷入的新家竟然被地震震垮了！幸好父親的好友邀請父女兩人到他家中暫住，但是湘琴萬萬沒有想到，他竟然就是江直樹的父親！於是兩人同在一個屋簷下的全新生活就此展開…",
-            "poster": "https://image.tmdb.org/t/p/w500/jCEQsrf5Nil2VOELzmg4yAvsSH.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/8TaF9XqltZl24bemfMRacaZnnxd.jpg",
-            "rating": 7.521,
-            "release_date": "2005-09-25",
-            "total": 31,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "nDUp8UU6x7Q",
-                    "ep": 1,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=nDUp8UU6x7Q"
-                },
-                {
-                    "id": "oGrMBXNmikg",
-                    "ep": 2,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=oGrMBXNmikg"
-                },
-                {
-                    "id": "1Pt0CMxSY-M",
-                    "ep": 3,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=1Pt0CMxSY-M"
-                },
-                {
-                    "id": "6AANhxinTEs",
-                    "ep": 4,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=6AANhxinTEs"
-                },
-                {
-                    "id": "z0TIA7ICZ_w",
-                    "ep": 5,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=z0TIA7ICZ_w"
-                },
-                {
-                    "id": "pGLqZdWqebA",
-                    "ep": 6,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=pGLqZdWqebA"
-                },
-                {
-                    "id": "2ZX_KCtaCnA",
-                    "ep": 7,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=2ZX_KCtaCnA"
-                },
-                {
-                    "id": "Fae6yz6nwlM",
-                    "ep": 8,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=Fae6yz6nwlM"
-                },
-                {
-                    "id": "9HGN1E10jJs",
-                    "ep": 9,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=9HGN1E10jJs"
-                },
-                {
-                    "id": "KqqpVzhAPd4",
-                    "ep": 10,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=KqqpVzhAPd4"
-                },
-                {
-                    "id": "mCSyRbkqAgo",
-                    "ep": 11,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=mCSyRbkqAgo"
-                },
-                {
-                    "id": "KlvaZqmCb38",
-                    "ep": 12,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=KlvaZqmCb38"
-                },
-                {
-                    "id": "3oCOReNn7sA",
-                    "ep": 13,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=3oCOReNn7sA"
-                },
-                {
-                    "id": "8x4Yr9f25ts",
-                    "ep": 14,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=8x4Yr9f25ts"
-                },
-                {
-                    "id": "zJNb1XS8lA0",
-                    "ep": 15,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=zJNb1XS8lA0"
-                },
-                {
-                    "id": "bhCULhcwjWQ",
-                    "ep": 16,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=bhCULhcwjWQ"
-                },
-                {
-                    "id": "O4KttLuTwQA",
-                    "ep": 17,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=O4KttLuTwQA"
-                },
-                {
-                    "id": "NZvw9dxMyzM",
-                    "ep": 18,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=NZvw9dxMyzM"
-                },
-                {
-                    "id": "E191dVkPcdE",
-                    "ep": 19,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=E191dVkPcdE"
-                },
-                {
-                    "id": "xDm115WMh4k",
-                    "ep": 20,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=xDm115WMh4k"
-                },
-                {
-                    "id": "TrBV0DReovo",
-                    "ep": 21,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=TrBV0DReovo"
-                },
-                {
-                    "id": "RKHpAMtChjw",
-                    "ep": 22,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=RKHpAMtChjw"
-                },
-                {
-                    "id": "hzbaXbt8iu4",
-                    "ep": 23,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=hzbaXbt8iu4"
-                },
-                {
-                    "id": "nllfrcxcm-4",
-                    "ep": 24,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=nllfrcxcm-4"
-                },
-                {
-                    "id": "H1ThnffSKjI",
-                    "ep": 25,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=H1ThnffSKjI"
-                },
-                {
-                    "id": "5hNiR5tEQJg",
-                    "ep": 26,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=5hNiR5tEQJg"
-                },
-                {
-                    "id": "CDCp_HllOls",
-                    "ep": 27,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=CDCp_HllOls"
-                },
-                {
-                    "id": "LVGEAKihUK4",
-                    "ep": 28,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=LVGEAKihUK4"
-                },
-                {
-                    "id": "csliPnZjsQQ",
-                    "ep": 29,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=csliPnZjsQQ"
-                },
-                {
-                    "id": "rDtzHQutZvY",
-                    "ep": 30,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=rDtzHQutZvY"
-                },
-                {
-                    "id": "mWv9n4YuW3s",
-                    "ep": 31,
-                    "title": "惡作劇2吻",
-                    "url": "https://www.youtube.com/watch?v=mWv9n4YuW3s"
-                }
-            ]
-        },
-        {
-            "id": "PLk2gvyPpHLRdiOHkxD-uGavrWYtoFfhRx",
-            "title": "惡作劇之吻",
-            "overview": "袁湘琴鼓起勇氣向暗戀兩年的超級天才少年江直樹告白，卻慘遭無情拒絕，更成了全校的笑柄。然而屋漏偏逢連夜雨，就在湘琴告白被拒後，剛遷入的新家竟然被地震震垮了！幸好父親的好友邀請父女兩人到他家中暫住，但是湘琴萬萬沒有想到，他竟然就是江直樹的父親！於是兩人同在一個屋簷下的全新生活就此展開…",
-            "poster": "https://image.tmdb.org/t/p/w500/jCEQsrf5Nil2VOELzmg4yAvsSH.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/8TaF9XqltZl24bemfMRacaZnnxd.jpg",
-            "rating": 7.521,
-            "release_date": "2005-09-25",
-            "total": 32,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "DWh5_g23mjc",
-                    "ep": 1,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=DWh5_g23mjc"
-                },
-                {
-                    "id": "0C9nGqpGt34",
-                    "ep": 2,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=0C9nGqpGt34"
-                },
-                {
-                    "id": "ctRWYTqALx4",
-                    "ep": 3,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=ctRWYTqALx4"
-                },
-                {
-                    "id": "PGlZL53-JDA",
-                    "ep": 4,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=PGlZL53-JDA"
-                },
-                {
-                    "id": "QcOEuhehQwY",
-                    "ep": 5,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=QcOEuhehQwY"
-                },
-                {
-                    "id": "K7BweOyj3w8",
-                    "ep": 6,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=K7BweOyj3w8"
-                },
-                {
-                    "id": "fyKz6KDrnaA",
-                    "ep": 7,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=fyKz6KDrnaA"
-                },
-                {
-                    "id": "VBZ_TCFEdvc",
-                    "ep": 8,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=VBZ_TCFEdvc"
-                },
-                {
-                    "id": "u1N84zQSgXA",
-                    "ep": 9,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=u1N84zQSgXA"
-                },
-                {
-                    "id": "t_C_TXbLIFc",
-                    "ep": 10,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=t_C_TXbLIFc"
-                },
-                {
-                    "id": "SyKqeDCJ-yc",
-                    "ep": 11,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=SyKqeDCJ-yc"
-                },
-                {
-                    "id": "vl7KqKt6l-w",
-                    "ep": 12,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=vl7KqKt6l-w"
-                },
-                {
-                    "id": "JhH6NHPDPZQ",
-                    "ep": 13,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=JhH6NHPDPZQ"
-                },
-                {
-                    "id": "mMsBlOcz2gY",
-                    "ep": 14,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=mMsBlOcz2gY"
-                },
-                {
-                    "id": "tmJJLFBO2_c",
-                    "ep": 15,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=tmJJLFBO2_c"
-                },
-                {
-                    "id": "FqNnseWWwa8",
-                    "ep": 16,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=FqNnseWWwa8"
-                },
-                {
-                    "id": "0-2kuXZY1Ck",
-                    "ep": 17,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=0-2kuXZY1Ck"
-                },
-                {
-                    "id": "UGctcB27A34",
-                    "ep": 18,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=UGctcB27A34"
-                },
-                {
-                    "id": "RSkaEilTcLs",
-                    "ep": 19,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=RSkaEilTcLs"
-                },
-                {
-                    "id": "7N04bZkDYac",
-                    "ep": 20,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=7N04bZkDYac"
-                },
-                {
-                    "id": "LHD-xJe_GLc",
-                    "ep": 21,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=LHD-xJe_GLc"
-                },
-                {
-                    "id": "Bq8ar10iB58",
-                    "ep": 22,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=Bq8ar10iB58"
-                },
-                {
-                    "id": "MW5DAAsL6QE",
-                    "ep": 23,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=MW5DAAsL6QE"
-                },
-                {
-                    "id": "39qTAOUOBKY",
-                    "ep": 24,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=39qTAOUOBKY"
-                },
-                {
-                    "id": "Se8sjD-JdG0",
-                    "ep": 25,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=Se8sjD-JdG0"
-                },
-                {
-                    "id": "57r3YhvcnVE",
-                    "ep": 26,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=57r3YhvcnVE"
-                },
-                {
-                    "id": "5ulZVpA8l7o",
-                    "ep": 27,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=5ulZVpA8l7o"
-                },
-                {
-                    "id": "ZD4b3oIUDjc",
-                    "ep": 28,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=ZD4b3oIUDjc"
-                },
-                {
-                    "id": "8AU-jaoBUuA",
-                    "ep": 29,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=8AU-jaoBUuA"
-                },
-                {
-                    "id": "y0rv8w1pe10",
-                    "ep": 30,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=y0rv8w1pe10"
-                },
-                {
-                    "id": "nAYj1uTHgA4",
-                    "ep": 31,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=nAYj1uTHgA4"
-                },
-                {
-                    "id": "PoxcWR84tNU",
-                    "ep": 32,
-                    "title": "惡作劇之吻",
-                    "url": "https://www.youtube.com/watch?v=PoxcWR84tNU"
-                }
-            ]
-        },
-        {
-            "id": "PLk2gvyPpHLRdEY_dK_B-MsHk5TSkBSf36",
-            "title": "星河璀璨的我們",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/eWdHuZZ5OxOlfET3diadgf2Sx1u.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/jgeJnJKfZRwS3t2Okk91d2LIyxE.jpg",
-            "rating": 7.5,
-            "release_date": "2022-06-24",
-            "total": 24,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "ORHx7hls01M",
-                    "ep": 1,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=ORHx7hls01M"
-                },
-                {
-                    "id": "-GM4ZYI3WUs",
-                    "ep": 2,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=-GM4ZYI3WUs"
-                },
-                {
-                    "id": "-wRgLRG-WZ8",
-                    "ep": 3,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=-wRgLRG-WZ8"
-                },
-                {
-                    "id": "Cfoer9e6F-E",
-                    "ep": 4,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=Cfoer9e6F-E"
-                },
-                {
-                    "id": "xlYWmcZ-Xis",
-                    "ep": 5,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=xlYWmcZ-Xis"
-                },
-                {
-                    "id": "AbIGYUGVdPc",
-                    "ep": 6,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=AbIGYUGVdPc"
-                },
-                {
-                    "id": "4OUsfjT4XH0",
-                    "ep": 7,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=4OUsfjT4XH0"
-                },
-                {
-                    "id": "dWYnwC3u8jw",
-                    "ep": 8,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=dWYnwC3u8jw"
-                },
-                {
-                    "id": "To6yZlbAFUc",
-                    "ep": 9,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=To6yZlbAFUc"
-                },
-                {
-                    "id": "uwx3Qhtpm14",
-                    "ep": 10,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=uwx3Qhtpm14"
-                },
-                {
-                    "id": "xpXZ2O5nii8",
-                    "ep": 11,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=xpXZ2O5nii8"
-                },
-                {
-                    "id": "c8eNudu_hjw",
-                    "ep": 12,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=c8eNudu_hjw"
-                },
-                {
-                    "id": "SR1X2dMK4S8",
-                    "ep": 13,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=SR1X2dMK4S8"
-                },
-                {
-                    "id": "CV3PlxvElhs",
-                    "ep": 14,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=CV3PlxvElhs"
-                },
-                {
-                    "id": "Yp2JDmZiAPQ",
-                    "ep": 15,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=Yp2JDmZiAPQ"
-                },
-                {
-                    "id": "F79-RCziFY4",
-                    "ep": 16,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=F79-RCziFY4"
-                },
-                {
-                    "id": "5559QT5rD6s",
-                    "ep": 17,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=5559QT5rD6s"
-                },
-                {
-                    "id": "t8rm517Vhi8",
-                    "ep": 18,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=t8rm517Vhi8"
-                },
-                {
-                    "id": "tKi2wS4PuAM",
-                    "ep": 19,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=tKi2wS4PuAM"
-                },
-                {
-                    "id": "xLMnqjKW6PA",
-                    "ep": 20,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=xLMnqjKW6PA"
-                },
-                {
-                    "id": "FxbHdRjPyow",
-                    "ep": 21,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=FxbHdRjPyow"
-                },
-                {
-                    "id": "eI7pwfsqGuA",
-                    "ep": 22,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=eI7pwfsqGuA"
-                },
-                {
-                    "id": "HuXeWk1L1O0",
-                    "ep": 23,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=HuXeWk1L1O0"
-                },
-                {
-                    "id": "-s5UHFg9VF4",
-                    "ep": 24,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=-s5UHFg9VF4"
-                }
-            ]
-        },
-        {
-            "id": "PLk2gvyPpHLRe-7g5gqj4Q7w8VDnP08sH2",
-            "title": "雙夭記",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/nGjEuPXSF7wm9CVs4hDsLWGy5ol.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/wSBmTXpS08bz5h2tM1fYigtD5rG.jpg",
-            "rating": 7.5,
-            "release_date": "2020-11-09",
-            "total": 13,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "FswlEnTjtfA",
-                    "ep": 1,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=FswlEnTjtfA"
-                },
-                {
-                    "id": "zOUSv8Msh70",
-                    "ep": 2,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=zOUSv8Msh70"
-                },
-                {
-                    "id": "hpWhZ9nWaSM",
-                    "ep": 3,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=hpWhZ9nWaSM"
-                },
-                {
-                    "id": "0Bguo0T7BuM",
-                    "ep": 4,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=0Bguo0T7BuM"
-                },
-                {
-                    "id": "gObiHOA-yzw",
-                    "ep": 5,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=gObiHOA-yzw"
-                },
-                {
-                    "id": "IEOMe2wQAQQ",
-                    "ep": 6,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=IEOMe2wQAQQ"
-                },
-                {
-                    "id": "KbiDtOiKo6A",
-                    "ep": 7,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=KbiDtOiKo6A"
-                },
-                {
-                    "id": "deYuDKrc7fY",
-                    "ep": 8,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=deYuDKrc7fY"
-                },
-                {
-                    "id": "k3WQ5mVweAo",
-                    "ep": 9,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=k3WQ5mVweAo"
-                },
-                {
-                    "id": "j9cl73QLuwc",
-                    "ep": 10,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=j9cl73QLuwc"
-                },
-                {
-                    "id": "E8lBC9gDb50",
-                    "ep": 11,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=E8lBC9gDb50"
-                },
-                {
-                    "id": "SF9QSrhdrTk",
-                    "ep": 12,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=SF9QSrhdrTk"
-                },
-                {
-                    "id": "3Ej3gtINtz4",
-                    "ep": 13,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=3Ej3gtINtz4"
-                }
-            ]
-        },
-        {
             "id": "PLk2gvyPpHLRfjbwjfV7HYZ89E-WRfuYD4",
             "title": "知否知否應是綠肥紅瘦",
             "overview": "故事發生在大宋年間。揚州通判盛紘的女兒明蘭（趙麗穎 飾）蕙質蘭心，聰穎可人，可惜母親偏為側室，因此倍遭嫡母及其爪牙的忌恨。明蘭聽從母親的臨終囑託，收斂鋒芒，投靠盛老太太羽翼呵護。而在此期間，她與寧遠侯府二公子顧廷燁（馮紹峰 飾）從陌生到相知，後者更成為她人生中不可多得的貴人。母親的離開並未讓明蘭從此安然，即使有老太太的呵護，盛府上下依然遍佈明槍暗箭，隨時威脅著她的安全。在這一過程中，明蘭猶如浴火鳳凰，忍辱負重，一步步闖過人生重重考驗，用自己的力量追尋著人間公正和屬於自己的幸福……",
             "poster": "https://image.tmdb.org/t/p/w500/5R1YSPffQWEOwlXVAwxPYUmRH4z.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/64YigOkGkBVUvWo9WpR45y4zjuf.jpg",
-            "rating": 7.5,
+            "rating": 7.524,
             "release_date": "2018-12-23",
             "total": 73,
             "uploader": "@gtv-drama",
@@ -5770,6 +5118,833 @@
             ]
         },
         {
+            "id": "PLk2gvyPpHLRdV-Sy4Yepbro76RTcBf9Xv",
+            "title": "惡作劇2吻",
+            "overview": "袁湘琴鼓起勇氣向暗戀兩年的超級天才少年江直樹告白，卻慘遭無情拒絕，更成了全校的笑柄。然而屋漏偏逢連夜雨，就在湘琴告白被拒後，剛遷入的新家竟然被地震震垮了！幸好父親的好友邀請父女兩人到他家中暫住，但是湘琴萬萬沒有想到，他竟然就是江直樹的父親！於是兩人同在一個屋簷下的全新生活就此展開…",
+            "poster": "https://image.tmdb.org/t/p/w500/jCEQsrf5Nil2VOELzmg4yAvsSH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/8TaF9XqltZl24bemfMRacaZnnxd.jpg",
+            "rating": 7.521,
+            "release_date": "2005-09-25",
+            "total": 31,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "nDUp8UU6x7Q",
+                    "ep": 1,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=nDUp8UU6x7Q"
+                },
+                {
+                    "id": "oGrMBXNmikg",
+                    "ep": 2,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=oGrMBXNmikg"
+                },
+                {
+                    "id": "1Pt0CMxSY-M",
+                    "ep": 3,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=1Pt0CMxSY-M"
+                },
+                {
+                    "id": "6AANhxinTEs",
+                    "ep": 4,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=6AANhxinTEs"
+                },
+                {
+                    "id": "z0TIA7ICZ_w",
+                    "ep": 5,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=z0TIA7ICZ_w"
+                },
+                {
+                    "id": "pGLqZdWqebA",
+                    "ep": 6,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=pGLqZdWqebA"
+                },
+                {
+                    "id": "2ZX_KCtaCnA",
+                    "ep": 7,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=2ZX_KCtaCnA"
+                },
+                {
+                    "id": "Fae6yz6nwlM",
+                    "ep": 8,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=Fae6yz6nwlM"
+                },
+                {
+                    "id": "9HGN1E10jJs",
+                    "ep": 9,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=9HGN1E10jJs"
+                },
+                {
+                    "id": "KqqpVzhAPd4",
+                    "ep": 10,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=KqqpVzhAPd4"
+                },
+                {
+                    "id": "mCSyRbkqAgo",
+                    "ep": 11,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=mCSyRbkqAgo"
+                },
+                {
+                    "id": "KlvaZqmCb38",
+                    "ep": 12,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=KlvaZqmCb38"
+                },
+                {
+                    "id": "3oCOReNn7sA",
+                    "ep": 13,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=3oCOReNn7sA"
+                },
+                {
+                    "id": "8x4Yr9f25ts",
+                    "ep": 14,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=8x4Yr9f25ts"
+                },
+                {
+                    "id": "zJNb1XS8lA0",
+                    "ep": 15,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=zJNb1XS8lA0"
+                },
+                {
+                    "id": "bhCULhcwjWQ",
+                    "ep": 16,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=bhCULhcwjWQ"
+                },
+                {
+                    "id": "O4KttLuTwQA",
+                    "ep": 17,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=O4KttLuTwQA"
+                },
+                {
+                    "id": "NZvw9dxMyzM",
+                    "ep": 18,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=NZvw9dxMyzM"
+                },
+                {
+                    "id": "E191dVkPcdE",
+                    "ep": 19,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=E191dVkPcdE"
+                },
+                {
+                    "id": "xDm115WMh4k",
+                    "ep": 20,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=xDm115WMh4k"
+                },
+                {
+                    "id": "TrBV0DReovo",
+                    "ep": 21,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=TrBV0DReovo"
+                },
+                {
+                    "id": "RKHpAMtChjw",
+                    "ep": 22,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=RKHpAMtChjw"
+                },
+                {
+                    "id": "hzbaXbt8iu4",
+                    "ep": 23,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=hzbaXbt8iu4"
+                },
+                {
+                    "id": "nllfrcxcm-4",
+                    "ep": 24,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=nllfrcxcm-4"
+                },
+                {
+                    "id": "H1ThnffSKjI",
+                    "ep": 25,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=H1ThnffSKjI"
+                },
+                {
+                    "id": "5hNiR5tEQJg",
+                    "ep": 26,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=5hNiR5tEQJg"
+                },
+                {
+                    "id": "CDCp_HllOls",
+                    "ep": 27,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=CDCp_HllOls"
+                },
+                {
+                    "id": "LVGEAKihUK4",
+                    "ep": 28,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=LVGEAKihUK4"
+                },
+                {
+                    "id": "csliPnZjsQQ",
+                    "ep": 29,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=csliPnZjsQQ"
+                },
+                {
+                    "id": "rDtzHQutZvY",
+                    "ep": 30,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=rDtzHQutZvY"
+                },
+                {
+                    "id": "mWv9n4YuW3s",
+                    "ep": 31,
+                    "title": "惡作劇2吻",
+                    "url": "https://www.youtube.com/watch?v=mWv9n4YuW3s"
+                }
+            ]
+        },
+        {
+            "id": "PLk2gvyPpHLRdiOHkxD-uGavrWYtoFfhRx",
+            "title": "惡作劇之吻",
+            "overview": "袁湘琴鼓起勇氣向暗戀兩年的超級天才少年江直樹告白，卻慘遭無情拒絕，更成了全校的笑柄。然而屋漏偏逢連夜雨，就在湘琴告白被拒後，剛遷入的新家竟然被地震震垮了！幸好父親的好友邀請父女兩人到他家中暫住，但是湘琴萬萬沒有想到，他竟然就是江直樹的父親！於是兩人同在一個屋簷下的全新生活就此展開…",
+            "poster": "https://image.tmdb.org/t/p/w500/jCEQsrf5Nil2VOELzmg4yAvsSH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/8TaF9XqltZl24bemfMRacaZnnxd.jpg",
+            "rating": 7.521,
+            "release_date": "2005-09-25",
+            "total": 32,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "DWh5_g23mjc",
+                    "ep": 1,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=DWh5_g23mjc"
+                },
+                {
+                    "id": "0C9nGqpGt34",
+                    "ep": 2,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=0C9nGqpGt34"
+                },
+                {
+                    "id": "ctRWYTqALx4",
+                    "ep": 3,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=ctRWYTqALx4"
+                },
+                {
+                    "id": "PGlZL53-JDA",
+                    "ep": 4,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=PGlZL53-JDA"
+                },
+                {
+                    "id": "QcOEuhehQwY",
+                    "ep": 5,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=QcOEuhehQwY"
+                },
+                {
+                    "id": "K7BweOyj3w8",
+                    "ep": 6,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=K7BweOyj3w8"
+                },
+                {
+                    "id": "fyKz6KDrnaA",
+                    "ep": 7,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=fyKz6KDrnaA"
+                },
+                {
+                    "id": "VBZ_TCFEdvc",
+                    "ep": 8,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=VBZ_TCFEdvc"
+                },
+                {
+                    "id": "u1N84zQSgXA",
+                    "ep": 9,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=u1N84zQSgXA"
+                },
+                {
+                    "id": "t_C_TXbLIFc",
+                    "ep": 10,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=t_C_TXbLIFc"
+                },
+                {
+                    "id": "SyKqeDCJ-yc",
+                    "ep": 11,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=SyKqeDCJ-yc"
+                },
+                {
+                    "id": "vl7KqKt6l-w",
+                    "ep": 12,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=vl7KqKt6l-w"
+                },
+                {
+                    "id": "JhH6NHPDPZQ",
+                    "ep": 13,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=JhH6NHPDPZQ"
+                },
+                {
+                    "id": "mMsBlOcz2gY",
+                    "ep": 14,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=mMsBlOcz2gY"
+                },
+                {
+                    "id": "tmJJLFBO2_c",
+                    "ep": 15,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=tmJJLFBO2_c"
+                },
+                {
+                    "id": "FqNnseWWwa8",
+                    "ep": 16,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=FqNnseWWwa8"
+                },
+                {
+                    "id": "0-2kuXZY1Ck",
+                    "ep": 17,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=0-2kuXZY1Ck"
+                },
+                {
+                    "id": "UGctcB27A34",
+                    "ep": 18,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=UGctcB27A34"
+                },
+                {
+                    "id": "RSkaEilTcLs",
+                    "ep": 19,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=RSkaEilTcLs"
+                },
+                {
+                    "id": "7N04bZkDYac",
+                    "ep": 20,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=7N04bZkDYac"
+                },
+                {
+                    "id": "LHD-xJe_GLc",
+                    "ep": 21,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=LHD-xJe_GLc"
+                },
+                {
+                    "id": "Bq8ar10iB58",
+                    "ep": 22,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=Bq8ar10iB58"
+                },
+                {
+                    "id": "MW5DAAsL6QE",
+                    "ep": 23,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=MW5DAAsL6QE"
+                },
+                {
+                    "id": "39qTAOUOBKY",
+                    "ep": 24,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=39qTAOUOBKY"
+                },
+                {
+                    "id": "Se8sjD-JdG0",
+                    "ep": 25,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=Se8sjD-JdG0"
+                },
+                {
+                    "id": "57r3YhvcnVE",
+                    "ep": 26,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=57r3YhvcnVE"
+                },
+                {
+                    "id": "5ulZVpA8l7o",
+                    "ep": 27,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=5ulZVpA8l7o"
+                },
+                {
+                    "id": "ZD4b3oIUDjc",
+                    "ep": 28,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=ZD4b3oIUDjc"
+                },
+                {
+                    "id": "8AU-jaoBUuA",
+                    "ep": 29,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=8AU-jaoBUuA"
+                },
+                {
+                    "id": "y0rv8w1pe10",
+                    "ep": 30,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=y0rv8w1pe10"
+                },
+                {
+                    "id": "nAYj1uTHgA4",
+                    "ep": 31,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=nAYj1uTHgA4"
+                },
+                {
+                    "id": "PoxcWR84tNU",
+                    "ep": 32,
+                    "title": "惡作劇之吻",
+                    "url": "https://www.youtube.com/watch?v=PoxcWR84tNU"
+                }
+            ]
+        },
+        {
+            "id": "PLk2gvyPpHLRcUaVJS-u9ik_B1uaOVcifX",
+            "title": "花樣少年少女",
+            "overview": "居住在美國的少女蘆屋瑞稀，因憧憬日本跳高選手佐野泉，不惜女扮男裝轉入全住宿制男校，並幸運成為泉的室友。然而，瑞稀入學後卻發現泉已因傷放棄跳高。為了鼓勵偶像重返賽場，她一面在充滿男性的校園中辛苦隱藏性別，一面與不知情的同學中津秀一等人，展開了笑料百出又甜蜜的校園三角戀愛喜劇。",
+            "poster": "https://image.tmdb.org/t/p/w500/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
+            "rating": 7.5,
+            "release_date": "2026-01-04",
+            "total": 27,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "RiqqQ0_VayY",
+                    "ep": 1,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=RiqqQ0_VayY"
+                },
+                {
+                    "id": "R3MrZsciogE",
+                    "ep": 2,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=R3MrZsciogE"
+                },
+                {
+                    "id": "eZWDzstQWaM",
+                    "ep": 3,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=eZWDzstQWaM"
+                },
+                {
+                    "id": "TCz8zCXkmEg",
+                    "ep": 4,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=TCz8zCXkmEg"
+                },
+                {
+                    "id": "tz-tg5BL4m8",
+                    "ep": 5,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=tz-tg5BL4m8"
+                },
+                {
+                    "id": "Wyphh1--qck",
+                    "ep": 6,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=Wyphh1--qck"
+                },
+                {
+                    "id": "8MBKsOCQN40",
+                    "ep": 7,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=8MBKsOCQN40"
+                },
+                {
+                    "id": "8GmR4_wdYWg",
+                    "ep": 8,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=8GmR4_wdYWg"
+                },
+                {
+                    "id": "1HX_JUtnBd4",
+                    "ep": 9,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=1HX_JUtnBd4"
+                },
+                {
+                    "id": "oB_INls7Jwk",
+                    "ep": 10,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=oB_INls7Jwk"
+                },
+                {
+                    "id": "j-B1a-lVxwI",
+                    "ep": 11,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=j-B1a-lVxwI"
+                },
+                {
+                    "id": "RZWG2NzhiPU",
+                    "ep": 12,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=RZWG2NzhiPU"
+                },
+                {
+                    "id": "5X6aQyVjBvk",
+                    "ep": 13,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=5X6aQyVjBvk"
+                },
+                {
+                    "id": "6Z4NbePJM8E",
+                    "ep": 14,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=6Z4NbePJM8E"
+                },
+                {
+                    "id": "rTXHhBjmgnY",
+                    "ep": 15,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=rTXHhBjmgnY"
+                },
+                {
+                    "id": "H3S0-UP_-Ls",
+                    "ep": 16,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=H3S0-UP_-Ls"
+                },
+                {
+                    "id": "TR0T1NSX41A",
+                    "ep": 17,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=TR0T1NSX41A"
+                },
+                {
+                    "id": "0NhnPQBmvAE",
+                    "ep": 18,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=0NhnPQBmvAE"
+                },
+                {
+                    "id": "qHPIWEzuUQE",
+                    "ep": 19,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=qHPIWEzuUQE"
+                },
+                {
+                    "id": "MHLga0eUkvo",
+                    "ep": 20,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=MHLga0eUkvo"
+                },
+                {
+                    "id": "Wpo67riAbU0",
+                    "ep": 21,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=Wpo67riAbU0"
+                },
+                {
+                    "id": "LHLc9e8wwRA",
+                    "ep": 22,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=LHLc9e8wwRA"
+                },
+                {
+                    "id": "hLffkw7r1DU",
+                    "ep": 23,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=hLffkw7r1DU"
+                },
+                {
+                    "id": "Udjnroc2AT0",
+                    "ep": 24,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=Udjnroc2AT0"
+                },
+                {
+                    "id": "QRO8s2NPZzU",
+                    "ep": 25,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=QRO8s2NPZzU"
+                },
+                {
+                    "id": "i89_WfR0jNA",
+                    "ep": 26,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=i89_WfR0jNA"
+                },
+                {
+                    "id": "t8SW6A09bhA",
+                    "ep": 27,
+                    "title": "花樣少年少女",
+                    "url": "https://www.youtube.com/watch?v=t8SW6A09bhA"
+                }
+            ]
+        },
+        {
+            "id": "PLk2gvyPpHLRdEY_dK_B-MsHk5TSkBSf36",
+            "title": "星河璀璨的我們",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/eWdHuZZ5OxOlfET3diadgf2Sx1u.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/jgeJnJKfZRwS3t2Okk91d2LIyxE.jpg",
+            "rating": 7.5,
+            "release_date": "2022-06-24",
+            "total": 24,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "ORHx7hls01M",
+                    "ep": 1,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=ORHx7hls01M"
+                },
+                {
+                    "id": "-GM4ZYI3WUs",
+                    "ep": 2,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=-GM4ZYI3WUs"
+                },
+                {
+                    "id": "-wRgLRG-WZ8",
+                    "ep": 3,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=-wRgLRG-WZ8"
+                },
+                {
+                    "id": "Cfoer9e6F-E",
+                    "ep": 4,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=Cfoer9e6F-E"
+                },
+                {
+                    "id": "xlYWmcZ-Xis",
+                    "ep": 5,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=xlYWmcZ-Xis"
+                },
+                {
+                    "id": "AbIGYUGVdPc",
+                    "ep": 6,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=AbIGYUGVdPc"
+                },
+                {
+                    "id": "4OUsfjT4XH0",
+                    "ep": 7,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=4OUsfjT4XH0"
+                },
+                {
+                    "id": "dWYnwC3u8jw",
+                    "ep": 8,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=dWYnwC3u8jw"
+                },
+                {
+                    "id": "To6yZlbAFUc",
+                    "ep": 9,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=To6yZlbAFUc"
+                },
+                {
+                    "id": "uwx3Qhtpm14",
+                    "ep": 10,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=uwx3Qhtpm14"
+                },
+                {
+                    "id": "xpXZ2O5nii8",
+                    "ep": 11,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=xpXZ2O5nii8"
+                },
+                {
+                    "id": "c8eNudu_hjw",
+                    "ep": 12,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=c8eNudu_hjw"
+                },
+                {
+                    "id": "SR1X2dMK4S8",
+                    "ep": 13,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=SR1X2dMK4S8"
+                },
+                {
+                    "id": "CV3PlxvElhs",
+                    "ep": 14,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=CV3PlxvElhs"
+                },
+                {
+                    "id": "Yp2JDmZiAPQ",
+                    "ep": 15,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=Yp2JDmZiAPQ"
+                },
+                {
+                    "id": "F79-RCziFY4",
+                    "ep": 16,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=F79-RCziFY4"
+                },
+                {
+                    "id": "5559QT5rD6s",
+                    "ep": 17,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=5559QT5rD6s"
+                },
+                {
+                    "id": "t8rm517Vhi8",
+                    "ep": 18,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=t8rm517Vhi8"
+                },
+                {
+                    "id": "tKi2wS4PuAM",
+                    "ep": 19,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=tKi2wS4PuAM"
+                },
+                {
+                    "id": "xLMnqjKW6PA",
+                    "ep": 20,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=xLMnqjKW6PA"
+                },
+                {
+                    "id": "FxbHdRjPyow",
+                    "ep": 21,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=FxbHdRjPyow"
+                },
+                {
+                    "id": "eI7pwfsqGuA",
+                    "ep": 22,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=eI7pwfsqGuA"
+                },
+                {
+                    "id": "HuXeWk1L1O0",
+                    "ep": 23,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=HuXeWk1L1O0"
+                },
+                {
+                    "id": "-s5UHFg9VF4",
+                    "ep": 24,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=-s5UHFg9VF4"
+                }
+            ]
+        },
+        {
+            "id": "PLk2gvyPpHLRe-7g5gqj4Q7w8VDnP08sH2",
+            "title": "雙夭記",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/nGjEuPXSF7wm9CVs4hDsLWGy5ol.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/wSBmTXpS08bz5h2tM1fYigtD5rG.jpg",
+            "rating": 7.5,
+            "release_date": "2020-11-09",
+            "total": 13,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "FswlEnTjtfA",
+                    "ep": 1,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=FswlEnTjtfA"
+                },
+                {
+                    "id": "zOUSv8Msh70",
+                    "ep": 2,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=zOUSv8Msh70"
+                },
+                {
+                    "id": "hpWhZ9nWaSM",
+                    "ep": 3,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=hpWhZ9nWaSM"
+                },
+                {
+                    "id": "0Bguo0T7BuM",
+                    "ep": 4,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=0Bguo0T7BuM"
+                },
+                {
+                    "id": "gObiHOA-yzw",
+                    "ep": 5,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=gObiHOA-yzw"
+                },
+                {
+                    "id": "IEOMe2wQAQQ",
+                    "ep": 6,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=IEOMe2wQAQQ"
+                },
+                {
+                    "id": "KbiDtOiKo6A",
+                    "ep": 7,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=KbiDtOiKo6A"
+                },
+                {
+                    "id": "deYuDKrc7fY",
+                    "ep": 8,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=deYuDKrc7fY"
+                },
+                {
+                    "id": "k3WQ5mVweAo",
+                    "ep": 9,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=k3WQ5mVweAo"
+                },
+                {
+                    "id": "j9cl73QLuwc",
+                    "ep": 10,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=j9cl73QLuwc"
+                },
+                {
+                    "id": "E8lBC9gDb50",
+                    "ep": 11,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=E8lBC9gDb50"
+                },
+                {
+                    "id": "SF9QSrhdrTk",
+                    "ep": 12,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=SF9QSrhdrTk"
+                },
+                {
+                    "id": "3Ej3gtINtz4",
+                    "ep": 13,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=3Ej3gtINtz4"
+                }
+            ]
+        },
+        {
             "id": "PLk2gvyPpHLRdVBh7a7oeOSyRgtajBN8vZ",
             "title": "三國機密之潛龍在淵",
             "overview": "東漢末年，靈帝寵妃王美人誕下雙生子，因遭何皇后迫害，對外稱只生一子劉協，另一個兒子劉平則被人偷偷帶出，密養宮外。十八年後，各路諸侯互相征伐，傀儡皇帝劉協重病沈痾，為挽救大廈將傾的漢室，他密詔劉平回宮，替代自己復興漢室。從來不知自己身世的劉平，與從小一起長大的司馬懿，踏入了不可知的戰場。在曹氏集團親信滿寵、郭嘉等人圍繞劉平的身世展開偵查時，劉平在皇后伏壽等人的幫助下化解了一輪又一輪的危機。最後關頭，劉平認清了一個時代的變更已不可改變，他用不戰的方式，取得了最大勝利。但與其政見不同、手段狠辣的司馬懿，卻與之走上了不同的道路。最後劉平在穩定了中原的和平局面後，與伏壽在民間行醫濟世，教授兒童。",
@@ -6107,177 +6282,255 @@
             ]
         },
         {
-            "id": "PLk2gvyPpHLRcUaVJS-u9ik_B1uaOVcifX",
-            "title": "花樣少年少女",
-            "overview": "居住在美國的少女蘆屋瑞稀，因憧憬日本跳高選手佐野泉，不惜女扮男裝轉入全住宿制男校，並幸運成為泉的室友。然而，瑞稀入學後卻發現泉已因傷放棄跳高。為了鼓勵偶像重返賽場，她一面在充滿男性的校園中辛苦隱藏性別，一面與不知情的同學中津秀一等人，展開了笑料百出又甜蜜的校園三角戀愛喜劇。",
-            "poster": "https://image.tmdb.org/t/p/w500/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-            "rating": 7.3,
-            "release_date": "2026-01-04",
-            "total": 27,
+            "id": "PLk2gvyPpHLRekyv11FMFggnzLOxVel9CI",
+            "title": "倩女幽魂",
+            "overview": "本片故事取材自中國古代小說「聊齋」，敘述一段不被接受的人鬼之戀，故事情節淒美，特效化妝亦有可觀之處...由張國榮、王祖賢、午馬主演，1987年上演時，香港和台灣都有十分可觀的票房，可以說是導演徐克的代表作之一。  寧采臣前往郭北縣收帳，大雨阻道，投宿蘭若寺，但被道士燕赤霞所拒，寧只有偷偷進入。夜半寧被美妙琴音吸引，邂逅彈琴少女聶小倩，小倩欲殺之，幸得燕出現救其一命，寧卻渾然不知。  小倩感寧之正直，漸生愛意。原來小倩乃是遊魂，屍骨被千年樹姥控制，每晚必須尋壯男讓姥姥吸取陽精，小倩不忍，兩人於是趁夜逃走……。  道士燕赤霞勸寧人鬼殊途，勿迷戀女鬼，但被兩人真情感動，決助二人脫離魔掌。姥姥發現倩生異心，逼她下嫁鬼王 。  寧、燕硬闖冥府，幾經艱苦把小倩骨灰奪回，讓她投胎轉世，無奈 有情人輪迴相隔，難續前緣。",
+            "poster": "https://image.tmdb.org/t/p/w500/8TIECjtBcQpLGuSCMauHYtmmQto.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/8qDJ594juzFixXFhDumgU1xhdbZ.jpg",
+            "rating": 7.323,
+            "release_date": "1987-07-18",
+            "total": 40,
             "uploader": "@gtv-drama",
             "episode": [
                 {
-                    "id": "RiqqQ0_VayY",
+                    "id": "K5kTMkRP7DI",
                     "ep": 1,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=RiqqQ0_VayY"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=K5kTMkRP7DI"
                 },
                 {
-                    "id": "R3MrZsciogE",
+                    "id": "Jzgi6aXNV_w",
                     "ep": 2,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=R3MrZsciogE"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=Jzgi6aXNV_w"
                 },
                 {
-                    "id": "eZWDzstQWaM",
+                    "id": "2s9hXX3_WWw",
                     "ep": 3,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=eZWDzstQWaM"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=2s9hXX3_WWw"
                 },
                 {
-                    "id": "TCz8zCXkmEg",
+                    "id": "MNSjuV3XLl0",
                     "ep": 4,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=TCz8zCXkmEg"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=MNSjuV3XLl0"
                 },
                 {
-                    "id": "tz-tg5BL4m8",
+                    "id": "-SZJwAXJ6vs",
                     "ep": 5,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=tz-tg5BL4m8"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=-SZJwAXJ6vs"
                 },
                 {
-                    "id": "Wyphh1--qck",
+                    "id": "BPDDahA9AEw",
                     "ep": 6,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=Wyphh1--qck"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=BPDDahA9AEw"
                 },
                 {
-                    "id": "8MBKsOCQN40",
+                    "id": "A7QFelhl0Kc",
                     "ep": 7,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=8MBKsOCQN40"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=A7QFelhl0Kc"
                 },
                 {
-                    "id": "8GmR4_wdYWg",
+                    "id": "uwx2bdDYtI4",
                     "ep": 8,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=8GmR4_wdYWg"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=uwx2bdDYtI4"
                 },
                 {
-                    "id": "1HX_JUtnBd4",
+                    "id": "ok_KLWztLsA",
                     "ep": 9,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=1HX_JUtnBd4"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=ok_KLWztLsA"
                 },
                 {
-                    "id": "oB_INls7Jwk",
+                    "id": "9wnO8BhXC4w",
                     "ep": 10,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=oB_INls7Jwk"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=9wnO8BhXC4w"
                 },
                 {
-                    "id": "j-B1a-lVxwI",
+                    "id": "-l3O1EVbu5Y",
                     "ep": 11,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=j-B1a-lVxwI"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=-l3O1EVbu5Y"
                 },
                 {
-                    "id": "RZWG2NzhiPU",
+                    "id": "U64U8BInQ70",
                     "ep": 12,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=RZWG2NzhiPU"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=U64U8BInQ70"
                 },
                 {
-                    "id": "5X6aQyVjBvk",
+                    "id": "T4yRAKUrNAE",
                     "ep": 13,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=5X6aQyVjBvk"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=T4yRAKUrNAE"
                 },
                 {
-                    "id": "6Z4NbePJM8E",
+                    "id": "AwiKpJBnYIc",
                     "ep": 14,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=6Z4NbePJM8E"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=AwiKpJBnYIc"
                 },
                 {
-                    "id": "rTXHhBjmgnY",
+                    "id": "mUqhq9VkMv0",
                     "ep": 15,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=rTXHhBjmgnY"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=mUqhq9VkMv0"
                 },
                 {
-                    "id": "H3S0-UP_-Ls",
+                    "id": "f6oeaFWBWr4",
                     "ep": 16,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=H3S0-UP_-Ls"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=f6oeaFWBWr4"
                 },
                 {
-                    "id": "TR0T1NSX41A",
+                    "id": "11uHo-tfcvc",
                     "ep": 17,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=TR0T1NSX41A"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=11uHo-tfcvc"
                 },
                 {
-                    "id": "0NhnPQBmvAE",
+                    "id": "VeGubDAnVqE",
                     "ep": 18,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=0NhnPQBmvAE"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=VeGubDAnVqE"
                 },
                 {
-                    "id": "qHPIWEzuUQE",
+                    "id": "NNxkmCN-BA4",
                     "ep": 19,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=qHPIWEzuUQE"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=NNxkmCN-BA4"
                 },
                 {
-                    "id": "MHLga0eUkvo",
+                    "id": "d_kL_vgZMcs",
                     "ep": 20,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=MHLga0eUkvo"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=d_kL_vgZMcs"
                 },
                 {
-                    "id": "Wpo67riAbU0",
+                    "id": "KSTI28DiJJM",
                     "ep": 21,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=Wpo67riAbU0"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=KSTI28DiJJM"
                 },
                 {
-                    "id": "LHLc9e8wwRA",
+                    "id": "HhwtmomacJo",
                     "ep": 22,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=LHLc9e8wwRA"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=HhwtmomacJo"
                 },
                 {
-                    "id": "hLffkw7r1DU",
+                    "id": "dLJqULUVwcA",
                     "ep": 23,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=hLffkw7r1DU"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=dLJqULUVwcA"
                 },
                 {
-                    "id": "Udjnroc2AT0",
+                    "id": "1wZkQWKFQzo",
                     "ep": 24,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=Udjnroc2AT0"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=1wZkQWKFQzo"
                 },
                 {
-                    "id": "QRO8s2NPZzU",
+                    "id": "92HDjGXMxag",
                     "ep": 25,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=QRO8s2NPZzU"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=92HDjGXMxag"
                 },
                 {
-                    "id": "i89_WfR0jNA",
+                    "id": "E1LZiLltYDE",
                     "ep": 26,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=i89_WfR0jNA"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=E1LZiLltYDE"
                 },
                 {
-                    "id": "t8SW6A09bhA",
+                    "id": "45GkVEOeEi0",
                     "ep": 27,
-                    "title": "花樣少年少女",
-                    "url": "https://www.youtube.com/watch?v=t8SW6A09bhA"
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=45GkVEOeEi0"
+                },
+                {
+                    "id": "ccEsqrrplZU",
+                    "ep": 28,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=ccEsqrrplZU"
+                },
+                {
+                    "id": "QQ74r8yf5qk",
+                    "ep": 29,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=QQ74r8yf5qk"
+                },
+                {
+                    "id": "i1WceLpc29k",
+                    "ep": 30,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=i1WceLpc29k"
+                },
+                {
+                    "id": "qn4RhAV1BmU",
+                    "ep": 31,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=qn4RhAV1BmU"
+                },
+                {
+                    "id": "-96Uglc3Jj4",
+                    "ep": 32,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=-96Uglc3Jj4"
+                },
+                {
+                    "id": "0j4z_d2JS8w",
+                    "ep": 33,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=0j4z_d2JS8w"
+                },
+                {
+                    "id": "AY82pFY69f0",
+                    "ep": 34,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=AY82pFY69f0"
+                },
+                {
+                    "id": "RV0c4r3yRNs",
+                    "ep": 35,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=RV0c4r3yRNs"
+                },
+                {
+                    "id": "-R9pLHbC5ms",
+                    "ep": 36,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=-R9pLHbC5ms"
+                },
+                {
+                    "id": "7GgJHMLLv2E",
+                    "ep": 37,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=7GgJHMLLv2E"
+                },
+                {
+                    "id": "Pn7XGdjWxR0",
+                    "ep": 38,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=Pn7XGdjWxR0"
+                },
+                {
+                    "id": "4ZisBExvRqI",
+                    "ep": 39,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=4ZisBExvRqI"
+                },
+                {
+                    "id": "Svmp4RuRVDs",
+                    "ep": 40,
+                    "title": "倩女幽魂",
+                    "url": "https://www.youtube.com/watch?v=Svmp4RuRVDs"
                 }
             ]
         },
@@ -6595,259 +6848,6 @@
             ]
         },
         {
-            "id": "PLk2gvyPpHLRekyv11FMFggnzLOxVel9CI",
-            "title": "倩女幽魂",
-            "overview": "本片故事取材自中國古代小說「聊齋」，敘述一段不被接受的人鬼之戀，故事情節淒美，特效化妝亦有可觀之處...由張國榮、王祖賢、午馬主演，1987年上演時，香港和台灣都有十分可觀的票房，可以說是導演徐克的代表作之一。  寧采臣前往郭北縣收帳，大雨阻道，投宿蘭若寺，但被道士燕赤霞所拒，寧只有偷偷進入。夜半寧被美妙琴音吸引，邂逅彈琴少女聶小倩，小倩欲殺之，幸得燕出現救其一命，寧卻渾然不知。  小倩感寧之正直，漸生愛意。原來小倩乃是遊魂，屍骨被千年樹姥控制，每晚必須尋壯男讓姥姥吸取陽精，小倩不忍，兩人於是趁夜逃走……。  道士燕赤霞勸寧人鬼殊途，勿迷戀女鬼，但被兩人真情感動，決助二人脫離魔掌。姥姥發現倩生異心，逼她下嫁鬼王 。  寧、燕硬闖冥府，幾經艱苦把小倩骨灰奪回，讓她投胎轉世，無奈 有情人輪迴相隔，難續前緣。",
-            "poster": "https://image.tmdb.org/t/p/w500/8TIECjtBcQpLGuSCMauHYtmmQto.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/8qDJ594juzFixXFhDumgU1xhdbZ.jpg",
-            "rating": 7.3,
-            "release_date": "1987-07-18",
-            "total": 40,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "K5kTMkRP7DI",
-                    "ep": 1,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=K5kTMkRP7DI"
-                },
-                {
-                    "id": "Jzgi6aXNV_w",
-                    "ep": 2,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=Jzgi6aXNV_w"
-                },
-                {
-                    "id": "2s9hXX3_WWw",
-                    "ep": 3,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=2s9hXX3_WWw"
-                },
-                {
-                    "id": "MNSjuV3XLl0",
-                    "ep": 4,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=MNSjuV3XLl0"
-                },
-                {
-                    "id": "-SZJwAXJ6vs",
-                    "ep": 5,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=-SZJwAXJ6vs"
-                },
-                {
-                    "id": "BPDDahA9AEw",
-                    "ep": 6,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=BPDDahA9AEw"
-                },
-                {
-                    "id": "A7QFelhl0Kc",
-                    "ep": 7,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=A7QFelhl0Kc"
-                },
-                {
-                    "id": "uwx2bdDYtI4",
-                    "ep": 8,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=uwx2bdDYtI4"
-                },
-                {
-                    "id": "ok_KLWztLsA",
-                    "ep": 9,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=ok_KLWztLsA"
-                },
-                {
-                    "id": "9wnO8BhXC4w",
-                    "ep": 10,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=9wnO8BhXC4w"
-                },
-                {
-                    "id": "-l3O1EVbu5Y",
-                    "ep": 11,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=-l3O1EVbu5Y"
-                },
-                {
-                    "id": "U64U8BInQ70",
-                    "ep": 12,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=U64U8BInQ70"
-                },
-                {
-                    "id": "T4yRAKUrNAE",
-                    "ep": 13,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=T4yRAKUrNAE"
-                },
-                {
-                    "id": "AwiKpJBnYIc",
-                    "ep": 14,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=AwiKpJBnYIc"
-                },
-                {
-                    "id": "mUqhq9VkMv0",
-                    "ep": 15,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=mUqhq9VkMv0"
-                },
-                {
-                    "id": "f6oeaFWBWr4",
-                    "ep": 16,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=f6oeaFWBWr4"
-                },
-                {
-                    "id": "11uHo-tfcvc",
-                    "ep": 17,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=11uHo-tfcvc"
-                },
-                {
-                    "id": "VeGubDAnVqE",
-                    "ep": 18,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=VeGubDAnVqE"
-                },
-                {
-                    "id": "NNxkmCN-BA4",
-                    "ep": 19,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=NNxkmCN-BA4"
-                },
-                {
-                    "id": "d_kL_vgZMcs",
-                    "ep": 20,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=d_kL_vgZMcs"
-                },
-                {
-                    "id": "KSTI28DiJJM",
-                    "ep": 21,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=KSTI28DiJJM"
-                },
-                {
-                    "id": "HhwtmomacJo",
-                    "ep": 22,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=HhwtmomacJo"
-                },
-                {
-                    "id": "dLJqULUVwcA",
-                    "ep": 23,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=dLJqULUVwcA"
-                },
-                {
-                    "id": "1wZkQWKFQzo",
-                    "ep": 24,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=1wZkQWKFQzo"
-                },
-                {
-                    "id": "92HDjGXMxag",
-                    "ep": 25,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=92HDjGXMxag"
-                },
-                {
-                    "id": "E1LZiLltYDE",
-                    "ep": 26,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=E1LZiLltYDE"
-                },
-                {
-                    "id": "45GkVEOeEi0",
-                    "ep": 27,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=45GkVEOeEi0"
-                },
-                {
-                    "id": "ccEsqrrplZU",
-                    "ep": 28,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=ccEsqrrplZU"
-                },
-                {
-                    "id": "QQ74r8yf5qk",
-                    "ep": 29,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=QQ74r8yf5qk"
-                },
-                {
-                    "id": "i1WceLpc29k",
-                    "ep": 30,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=i1WceLpc29k"
-                },
-                {
-                    "id": "qn4RhAV1BmU",
-                    "ep": 31,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=qn4RhAV1BmU"
-                },
-                {
-                    "id": "-96Uglc3Jj4",
-                    "ep": 32,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=-96Uglc3Jj4"
-                },
-                {
-                    "id": "0j4z_d2JS8w",
-                    "ep": 33,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=0j4z_d2JS8w"
-                },
-                {
-                    "id": "AY82pFY69f0",
-                    "ep": 34,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=AY82pFY69f0"
-                },
-                {
-                    "id": "RV0c4r3yRNs",
-                    "ep": 35,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=RV0c4r3yRNs"
-                },
-                {
-                    "id": "-R9pLHbC5ms",
-                    "ep": 36,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=-R9pLHbC5ms"
-                },
-                {
-                    "id": "7GgJHMLLv2E",
-                    "ep": 37,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=7GgJHMLLv2E"
-                },
-                {
-                    "id": "Pn7XGdjWxR0",
-                    "ep": 38,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=Pn7XGdjWxR0"
-                },
-                {
-                    "id": "4ZisBExvRqI",
-                    "ep": 39,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=4ZisBExvRqI"
-                },
-                {
-                    "id": "Svmp4RuRVDs",
-                    "ep": 40,
-                    "title": "倩女幽魂",
-                    "url": "https://www.youtube.com/watch?v=Svmp4RuRVDs"
-                }
-            ]
-        },
-        {
             "id": "PLk2gvyPpHLRdgy9jFCkovTC6LX3M1dyKL",
             "title": "原來你還在這裡",
             "overview": "",
@@ -7073,6 +7073,103 @@
                     "ep": 36,
                     "title": "原來你還在這裡",
                     "url": "https://www.youtube.com/watch?v=J0R4AYtNcQA"
+                }
+            ]
+        },
+        {
+            "id": "PLk2gvyPpHLRfpyBmdMhePR2ntRNk3GqGs",
+            "title": "奇蹟",
+            "overview": "　　青年郭振華（成龍飾）赴港謀求發展，路見不平之下捲入兩派黑幫爭鬥，卻陰差陽錯做了幫派大哥，郭振華反思此一段奇遇，發覺是街邊賣花的玫瑰夫人（歸亞蕾飾）將好運帶給了自己，自此談判、出門前總要購買玫瑰夫人的玫瑰以求心安。郭振華將幫派所屬麗池飯店改為夜總會經營，飯店前任老闆之女楊露明（梅艷芳飾）出於還債在夜總會表演結果大紅大紫，郭楊二人更發展出了一段戀情。覬覦夜總會生意多時的福建幫頻頻向郭振華髮難，郭一如既往向玫瑰夫人求運，意外發現玫瑰夫人正身陷更大的麻煩，原來她為使外地的女兒安心讀書編造了自己堂皇的身份，而眼下終於面臨戳穿，郭出於感激幫助玫瑰夫人圓謊，由此引發了連環笑料……\r 　　本片根據Frank Capra的作品《一日貴婦》改編，大量香港明星在本片中客串演出。",
+            "poster": "https://image.tmdb.org/t/p/w500/1L0wGNuCKbrQ9wxvqFaMNKYgelz.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/onJcliYmFoGM8NrAWs6sZl8mpCB.jpg",
+            "rating": 7.128,
+            "release_date": "1989-06-15",
+            "total": 14,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "cVc9ectGoBw",
+                    "ep": 1,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=cVc9ectGoBw"
+                },
+                {
+                    "id": "0PioJ862GHs",
+                    "ep": 2,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=0PioJ862GHs"
+                },
+                {
+                    "id": "JmvFTkjM1kI",
+                    "ep": 3,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=JmvFTkjM1kI"
+                },
+                {
+                    "id": "Blewi-oHmGc",
+                    "ep": 4,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=Blewi-oHmGc"
+                },
+                {
+                    "id": "mLpwv7icQg4",
+                    "ep": 5,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=mLpwv7icQg4"
+                },
+                {
+                    "id": "S-07DenpXF8",
+                    "ep": 6,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=S-07DenpXF8"
+                },
+                {
+                    "id": "6rkI9n6YmqA",
+                    "ep": 7,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=6rkI9n6YmqA"
+                },
+                {
+                    "id": "l23KBA1mvXM",
+                    "ep": 8,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=l23KBA1mvXM"
+                },
+                {
+                    "id": "xlQhRxZ8jjo",
+                    "ep": 9,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=xlQhRxZ8jjo"
+                },
+                {
+                    "id": "qjgscVTGUv0",
+                    "ep": 10,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=qjgscVTGUv0"
+                },
+                {
+                    "id": "TFW1-VNXp_Q",
+                    "ep": 11,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=TFW1-VNXp_Q"
+                },
+                {
+                    "id": "nvUQ9gZprHQ",
+                    "ep": 12,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=nvUQ9gZprHQ"
+                },
+                {
+                    "id": "ZHGv4Lsc4BI",
+                    "ep": 13,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=ZHGv4Lsc4BI"
+                },
+                {
+                    "id": "GfNkQ1dQ5K4",
+                    "ep": 14,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=GfNkQ1dQ5K4"
                 }
             ]
         },
@@ -7451,109 +7548,12 @@
             ]
         },
         {
-            "id": "PLk2gvyPpHLRfpyBmdMhePR2ntRNk3GqGs",
-            "title": "奇蹟",
-            "overview": "　　青年郭振華（成龍飾）赴港謀求發展，路見不平之下捲入兩派黑幫爭鬥，卻陰差陽錯做了幫派大哥，郭振華反思此一段奇遇，發覺是街邊賣花的玫瑰夫人（歸亞蕾飾）將好運帶給了自己，自此談判、出門前總要購買玫瑰夫人的玫瑰以求心安。郭振華將幫派所屬麗池飯店改為夜總會經營，飯店前任老闆之女楊露明（梅艷芳飾）出於還債在夜總會表演結果大紅大紫，郭楊二人更發展出了一段戀情。覬覦夜總會生意多時的福建幫頻頻向郭振華髮難，郭一如既往向玫瑰夫人求運，意外發現玫瑰夫人正身陷更大的麻煩，原來她為使外地的女兒安心讀書編造了自己堂皇的身份，而眼下終於面臨戳穿，郭出於感激幫助玫瑰夫人圓謊，由此引發了連環笑料……\r 　　本片根據Frank Capra的作品《一日貴婦》改編，大量香港明星在本片中客串演出。",
-            "poster": "https://image.tmdb.org/t/p/w500/1L0wGNuCKbrQ9wxvqFaMNKYgelz.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/onJcliYmFoGM8NrAWs6sZl8mpCB.jpg",
-            "rating": 7.1,
-            "release_date": "1989-06-15",
-            "total": 14,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "cVc9ectGoBw",
-                    "ep": 1,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=cVc9ectGoBw"
-                },
-                {
-                    "id": "0PioJ862GHs",
-                    "ep": 2,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=0PioJ862GHs"
-                },
-                {
-                    "id": "JmvFTkjM1kI",
-                    "ep": 3,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=JmvFTkjM1kI"
-                },
-                {
-                    "id": "Blewi-oHmGc",
-                    "ep": 4,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=Blewi-oHmGc"
-                },
-                {
-                    "id": "mLpwv7icQg4",
-                    "ep": 5,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=mLpwv7icQg4"
-                },
-                {
-                    "id": "S-07DenpXF8",
-                    "ep": 6,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=S-07DenpXF8"
-                },
-                {
-                    "id": "6rkI9n6YmqA",
-                    "ep": 7,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=6rkI9n6YmqA"
-                },
-                {
-                    "id": "l23KBA1mvXM",
-                    "ep": 8,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=l23KBA1mvXM"
-                },
-                {
-                    "id": "xlQhRxZ8jjo",
-                    "ep": 9,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=xlQhRxZ8jjo"
-                },
-                {
-                    "id": "qjgscVTGUv0",
-                    "ep": 10,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=qjgscVTGUv0"
-                },
-                {
-                    "id": "TFW1-VNXp_Q",
-                    "ep": 11,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=TFW1-VNXp_Q"
-                },
-                {
-                    "id": "nvUQ9gZprHQ",
-                    "ep": 12,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=nvUQ9gZprHQ"
-                },
-                {
-                    "id": "ZHGv4Lsc4BI",
-                    "ep": 13,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=ZHGv4Lsc4BI"
-                },
-                {
-                    "id": "GfNkQ1dQ5K4",
-                    "ep": 14,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=GfNkQ1dQ5K4"
-                }
-            ]
-        },
-        {
             "id": "PLc8M1wVJOpHzjXsz0-iaiju3OHNx-V26H",
             "title": "笑看人生",
             "overview": "名導賈法潘納希挑戰電影形式極限，把攝影機裝在計程車上，開著它穿梭德黑蘭大街小巷，讓形形色色百姓上車，一起鑽入這座流動的城市片廠。乘客包括販賣盜版光碟的男子、捧著魚缸的大嬸、還有賈法潘納希表現搶眼的親姪女，一幕幕和「司機」幽默風趣的互動譜寫鮮明的庶民風情，一探伊朗社會百態，更藉由這些角色與對話，對伊朗社會現狀進行了巧妙且深刻的批判。",
             "poster": "https://image.tmdb.org/t/p/w500/woykRyTNao03jvRfv3RNr1B1Luf.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/677ohgE1vEEMSIHZILT19z4rf58.jpg",
-            "rating": 7.047,
+            "rating": 7.05,
             "release_date": "2015-04-15",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -9503,7 +9503,7 @@
             "id": "PLk2gvyPpHLRcrXU1JZhk1f9E2G1h436Xl",
             "title": "杉杉來了",
             "overview": "天性善良的杉杉是因為自己有著稀有血型被招進風騰，不過杉杉不忘初心，一直奮鬥！為總裁妹妹輸血後杉杉被嘉獎吃豬肝飯，慢慢演變成了封騰的專屬挑菜工。封騰變著法子折磨善良的杉杉，而杉杉幾度反抗，卻每次都輸給技高一籌的封騰。之後封騰發小麗抒回國，對封騰表達心意展開攻勢，並且與杉杉展開了競爭，而封騰好哥們鄭棋因為愛上了麗抒而不得不幫襯著對付杉杉，這樣的情形下，反而更使得兩人堅定了在一起的決心，經歷種種，杉杉與封騰修成正果，幸福雖然姍姍來遲，也算終於來到！而杉杉在收穫愛情的同時，也因為自身的不斷努力，在事業上也取得了不小的成績，完成了自己的夢想！",
-            "poster": "https://image.tmdb.org/t/p/w500/7dgncLrj9AxeqHWzvApW919HNZU.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/iM1HoCVW5Y2WfrsJVjyQa7iDZVt.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/lvKkNRd5XSOMlA2fTGA8EwB9RrQ.jpg",
             "rating": 7,
             "release_date": "2014-07-08",
@@ -10536,7 +10536,7 @@
             "overview": "迪士尼首次取材於真實歷史人物的故事、再加上一些流傳於印第安人中，有關寶嘉康蒂的民間故事混合編輯而成的。其主要敘述了主角寶嘉康蒂和英國探險家約翰·史密斯相遇後發生的愛情故事、以及來自維吉尼亞公司的商人們踏上了印第安人的土地後對原住民的生活所帶來的變化。",
             "poster": "https://image.tmdb.org/t/p/w500/3jKOw0BtComHCqUHOSxiCWsu0k1.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
-            "rating": 6.914,
+            "rating": 6.916,
             "release_date": "1995-06-16",
             "total": 35,
             "uploader": "@gtv-drama",
@@ -12288,6 +12288,55 @@
     ],
     "drama": [
         {
+            "id": "PLaqAosCe1Lgg",
+            "title": "他的靈魂與他的書店",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/8Kw6JYzzCIUut3WPTdvVAM7KC3s.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/xTXSU0gRNS5Qks3hx88pzvxgwLi.jpg",
+            "rating": 0,
+            "release_date": "2026-07-06",
+            "total": 6,
+            "uploader": "@DaAiDrama",
+            "episode": [
+                {
+                    "id": "7t-7sr1zJOE",
+                    "ep": 1,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=7t-7sr1zJOE"
+                },
+                {
+                    "id": "TGaXwqAYXOE",
+                    "ep": 2,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=TGaXwqAYXOE"
+                },
+                {
+                    "id": "ijsLFCwxs4Y",
+                    "ep": 3,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=ijsLFCwxs4Y"
+                },
+                {
+                    "id": "DokYeHPygsA",
+                    "ep": 4,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=DokYeHPygsA"
+                },
+                {
+                    "id": "UtbG8zLUUE4",
+                    "ep": 5,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=UtbG8zLUUE4"
+                },
+                {
+                    "id": "6SufesiZFVQ",
+                    "ep": 6,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=6SufesiZFVQ"
+                }
+            ]
+        },
+        {
             "id": "PLc8M1wVJOpHwDPx-v0-NST4L_9Dj_2swc",
             "title": "臥龍好歲月",
             "overview": "劇情圍繞兩位情同父子的環保志工展開：一人歷經人生起伏，在繁華都會的一隅親手建立環保站；一人表面風光、事業有成，卻始終找不到內心的滿足。隨著形形色色的人走進環保站，從青絲到花髮，每個人都帶著各自的人生故事，在回收與陪伴之間，慢慢找回價值、連結彼此，也重新思考生活與環境的意義。",
@@ -12541,7 +12590,7 @@
             "overview": "居住在美國的少女蘆屋瑞稀，因憧憬日本跳高選手佐野泉，不惜女扮男裝轉入全住宿制男校，並幸運成為泉的室友。然而，瑞稀入學後卻發現泉已因傷放棄跳高。為了鼓勵偶像重返賽場，她一面在充滿男性的校園中辛苦隱藏性別，一面與不知情的同學中津秀一等人，展開了笑料百出又甜蜜的校園三角戀愛喜劇。",
             "poster": "https://image.tmdb.org/t/p/w500/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-            "rating": 7.3,
+            "rating": 7.5,
             "release_date": "2026-01-04",
             "total": 27,
             "uploader": "@gtv-drama",
@@ -19415,7 +19464,7 @@
             "overview": "這是個關於禁忌的愛與社會習俗變化的美麗故事，描述身為警察的湯姆（哈利斯泰爾斯/萊納斯洛區飾演）與教師瑪莉安（艾瑪科林/吉娜麥吉飾演）以及美術館館長派翠克（大衛道森/魯伯特艾瑞特飾演）之間一段相隔四十年的三角戀情。",
             "poster": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
-            "rating": 7.594,
+            "rating": 7.578,
             "release_date": "2022-10-20",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -21016,7 +21065,7 @@
             "overview": "故事講述了譚家軍少帥譚玹霖（陳星旭飾）與上海第一千金沐婉卿（張婧儀飾）意外結識，在多事之秋的上海灘，兩人從開始的鬥智鬥勇到結盟逆襲再到心動相愛，歷經重重磨難，命運深深地糾葛在一起，最終收穫了一段浪漫的愛情故事。",
             "poster": "https://image.tmdb.org/t/p/w500/78bLRRXGtqphOiHjSWorTGcsHwh.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/1Kp8TR2JK5ROjdpcP3x9GIdN4p8.jpg",
-            "rating": 6.3,
+            "rating": 6.429,
             "release_date": "2021-11-09",
             "total": 36,
             "uploader": "@gtv-drama",
@@ -25499,7 +25548,7 @@
             "overview": "故事發生在大宋年間。揚州通判盛紘的女兒明蘭（趙麗穎 飾）蕙質蘭心，聰穎可人，可惜母親偏為側室，因此倍遭嫡母及其爪牙的忌恨。明蘭聽從母親的臨終囑託，收斂鋒芒，投靠盛老太太羽翼呵護。而在此期間，她與寧遠侯府二公子顧廷燁（馮紹峰 飾）從陌生到相知，後者更成為她人生中不可多得的貴人。母親的離開並未讓明蘭從此安然，即使有老太太的呵護，盛府上下依然遍佈明槍暗箭，隨時威脅著她的安全。在這一過程中，明蘭猶如浴火鳳凰，忍辱負重，一步步闖過人生重重考驗，用自己的力量追尋著人間公正和屬於自己的幸福……",
             "poster": "https://image.tmdb.org/t/p/w500/5R1YSPffQWEOwlXVAwxPYUmRH4z.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/64YigOkGkBVUvWo9WpR45y4zjuf.jpg",
-            "rating": 7.5,
+            "rating": 7.524,
             "release_date": "2018-12-23",
             "total": 73,
             "uploader": "@gtv-drama",
@@ -30294,7 +30343,7 @@
             "overview": "名導賈法潘納希挑戰電影形式極限，把攝影機裝在計程車上，開著它穿梭德黑蘭大街小巷，讓形形色色百姓上車，一起鑽入這座流動的城市片廠。乘客包括販賣盜版光碟的男子、捧著魚缸的大嬸、還有賈法潘納希表現搶眼的親姪女，一幕幕和「司機」幽默風趣的互動譜寫鮮明的庶民風情，一探伊朗社會百態，更藉由這些角色與對話，對伊朗社會現狀進行了巧妙且深刻的批判。",
             "poster": "https://image.tmdb.org/t/p/w500/woykRyTNao03jvRfv3RNr1B1Luf.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/677ohgE1vEEMSIHZILT19z4rf58.jpg",
-            "rating": 7.047,
+            "rating": 7.05,
             "release_date": "2015-04-15",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -30334,10 +30383,10 @@
         {
             "id": "PLk2gvyPpHLRdExO4fWzwmL3_QDNZA76tQ",
             "title": "何以笙簫默",
-            "overview": "　　趙默笙一直暗戀著高材生何以琛，一段單純美麗的校園愛情眼看著就要在兩人之間展開，就在這個節骨眼上，和何以琛沒有血緣關係的妹妹以玫突然出現，讓一對有情人擦肩而過，之後，趙默笙負氣前往美國，兩人再無聯繫。\n\n　　一轉眼七年過去，如今已經成為一名出色攝影師的趙默笙再次遇見了何以琛，此時的趙默笙才發現，自己一直都沒有忘記這個自己最愛也是傷害自己最深的男人。可是，今非昔比，如今的趙默笙和何以琛都早已不是曾經的青蔥年少，接踵而至的意外，剪不斷理還亂的過往，在巨大的壓力和阻礙面前，這一對羅密歐朱麗葉式的情侶能否堅持他們的選擇，再度走到一起？",
-            "poster": "https://image.tmdb.org/t/p/w500/uhao6LSj7LCjxSZUb4vWDbgUAXZ.jpg",
+            "overview": "大學時代的趙默笙，對法學系大才子何以琛一見傾心，開朗直率的她“死纏爛打”地倒追，與眾不同的方式吸引了以琛的目光，一段純純的校園愛情悄悄滋生。 然而，以琛寄養家庭的妹妹以玫，鼓起勇氣向默笙宣戰。當默笙去找以琛證實，沒想到竟然得到以琛冷酷的回應。誤以為以琛和以玫在一起的默笙，落寞地服從父親的安排，前往美國深造。七年後，成為攝影師的默笙回來了，再次遇到那個無法忘卻的男人。",
+            "poster": "https://image.tmdb.org/t/p/w500/2zk9yo2PP4sfKxiQ1XyffT1Ovda.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/9Jrx6VOKDnn8BOdWC9rWWe36mmZ.jpg",
-            "rating": 6.365,
+            "rating": 6.4,
             "release_date": "2015-01-10",
             "total": 32,
             "uploader": "@gtv-drama",
@@ -31100,7 +31149,7 @@
             "id": "PLk2gvyPpHLRcrXU1JZhk1f9E2G1h436Xl",
             "title": "杉杉來了",
             "overview": "天性善良的杉杉是因為自己有著稀有血型被招進風騰，不過杉杉不忘初心，一直奮鬥！為總裁妹妹輸血後杉杉被嘉獎吃豬肝飯，慢慢演變成了封騰的專屬挑菜工。封騰變著法子折磨善良的杉杉，而杉杉幾度反抗，卻每次都輸給技高一籌的封騰。之後封騰發小麗抒回國，對封騰表達心意展開攻勢，並且與杉杉展開了競爭，而封騰好哥們鄭棋因為愛上了麗抒而不得不幫襯著對付杉杉，這樣的情形下，反而更使得兩人堅定了在一起的決心，經歷種種，杉杉與封騰修成正果，幸福雖然姍姍來遲，也算終於來到！而杉杉在收穫愛情的同時，也因為自身的不斷努力，在事業上也取得了不小的成績，完成了自己的夢想！",
-            "poster": "https://image.tmdb.org/t/p/w500/7dgncLrj9AxeqHWzvApW919HNZU.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/iM1HoCVW5Y2WfrsJVjyQa7iDZVt.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/lvKkNRd5XSOMlA2fTGA8EwB9RrQ.jpg",
             "rating": 7,
             "release_date": "2014-07-08",
@@ -32355,7 +32404,7 @@
             "id": "PLk2gvyPpHLRfUIrJyynqj38hHO4khQ7GT",
             "title": "後宮甄嬛傳",
             "overview": "講述主角甄嬛從不諳世事的善良女子，成長為善於謀權的深宮婦人故事。",
-            "poster": "https://image.tmdb.org/t/p/w500/iOMoMkDAAS2lJ1p5yCnKhrToWqc.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/2ucGJSsqgQ1XNKJiv7D3cFwir1r.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/oaEIYMBx3IEtjWzyDyHu9MTtuv8.jpg",
             "rating": 8.6,
             "release_date": "2011-11-17",
@@ -38232,7 +38281,7 @@
             "overview": "迪士尼首次取材於真實歷史人物的故事、再加上一些流傳於印第安人中，有關寶嘉康蒂的民間故事混合編輯而成的。其主要敘述了主角寶嘉康蒂和英國探險家約翰·史密斯相遇後發生的愛情故事、以及來自維吉尼亞公司的商人們踏上了印第安人的土地後對原住民的生活所帶來的變化。",
             "poster": "https://image.tmdb.org/t/p/w500/3jKOw0BtComHCqUHOSxiCWsu0k1.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
-            "rating": 6.914,
+            "rating": 6.916,
             "release_date": "1995-06-16",
             "total": 35,
             "uploader": "@gtv-drama",
@@ -38455,7 +38504,7 @@
             "overview": "　　青年郭振華（成龍飾）赴港謀求發展，路見不平之下捲入兩派黑幫爭鬥，卻陰差陽錯做了幫派大哥，郭振華反思此一段奇遇，發覺是街邊賣花的玫瑰夫人（歸亞蕾飾）將好運帶給了自己，自此談判、出門前總要購買玫瑰夫人的玫瑰以求心安。郭振華將幫派所屬麗池飯店改為夜總會經營，飯店前任老闆之女楊露明（梅艷芳飾）出於還債在夜總會表演結果大紅大紫，郭楊二人更發展出了一段戀情。覬覦夜總會生意多時的福建幫頻頻向郭振華髮難，郭一如既往向玫瑰夫人求運，意外發現玫瑰夫人正身陷更大的麻煩，原來她為使外地的女兒安心讀書編造了自己堂皇的身份，而眼下終於面臨戳穿，郭出於感激幫助玫瑰夫人圓謊，由此引發了連環笑料……\r 　　本片根據Frank Capra的作品《一日貴婦》改編，大量香港明星在本片中客串演出。",
             "poster": "https://image.tmdb.org/t/p/w500/1L0wGNuCKbrQ9wxvqFaMNKYgelz.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/onJcliYmFoGM8NrAWs6sZl8mpCB.jpg",
-            "rating": 7.1,
+            "rating": 7.128,
             "release_date": "1989-06-15",
             "total": 14,
             "uploader": "@gtv-drama",
@@ -38661,7 +38710,7 @@
             "overview": "本片故事取材自中國古代小說「聊齋」，敘述一段不被接受的人鬼之戀，故事情節淒美，特效化妝亦有可觀之處...由張國榮、王祖賢、午馬主演，1987年上演時，香港和台灣都有十分可觀的票房，可以說是導演徐克的代表作之一。  寧采臣前往郭北縣收帳，大雨阻道，投宿蘭若寺，但被道士燕赤霞所拒，寧只有偷偷進入。夜半寧被美妙琴音吸引，邂逅彈琴少女聶小倩，小倩欲殺之，幸得燕出現救其一命，寧卻渾然不知。  小倩感寧之正直，漸生愛意。原來小倩乃是遊魂，屍骨被千年樹姥控制，每晚必須尋壯男讓姥姥吸取陽精，小倩不忍，兩人於是趁夜逃走……。  道士燕赤霞勸寧人鬼殊途，勿迷戀女鬼，但被兩人真情感動，決助二人脫離魔掌。姥姥發現倩生異心，逼她下嫁鬼王 。  寧、燕硬闖冥府，幾經艱苦把小倩骨灰奪回，讓她投胎轉世，無奈 有情人輪迴相隔，難續前緣。",
             "poster": "https://image.tmdb.org/t/p/w500/8TIECjtBcQpLGuSCMauHYtmmQto.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/8qDJ594juzFixXFhDumgU1xhdbZ.jpg",
-            "rating": 7.3,
+            "rating": 7.323,
             "release_date": "1987-07-18",
             "total": 40,
             "uploader": "@gtv-drama",
@@ -40563,7 +40612,7 @@
             "overview": "居住在美國的少女蘆屋瑞稀，因憧憬日本跳高選手佐野泉，不惜女扮男裝轉入全住宿制男校，並幸運成為泉的室友。然而，瑞稀入學後卻發現泉已因傷放棄跳高。為了鼓勵偶像重返賽場，她一面在充滿男性的校園中辛苦隱藏性別，一面與不知情的同學中津秀一等人，展開了笑料百出又甜蜜的校園三角戀愛喜劇。",
             "poster": "https://image.tmdb.org/t/p/w500/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-            "rating": 7.3,
+            "rating": 7.5,
             "release_date": "2026-01-04",
             "total": 27,
             "uploader": "@gtv-drama",
@@ -46486,7 +46535,7 @@
             "overview": "故事講述了譚家軍少帥譚玹霖（陳星旭飾）與上海第一千金沐婉卿（張婧儀飾）意外結識，在多事之秋的上海灘，兩人從開始的鬥智鬥勇到結盟逆襲再到心動相愛，歷經重重磨難，命運深深地糾葛在一起，最終收穫了一段浪漫的愛情故事。",
             "poster": "https://image.tmdb.org/t/p/w500/78bLRRXGtqphOiHjSWorTGcsHwh.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/1Kp8TR2JK5ROjdpcP3x9GIdN4p8.jpg",
-            "rating": 6.3,
+            "rating": 6.429,
             "release_date": "2021-11-09",
             "total": 36,
             "uploader": "@gtv-drama",
@@ -50077,7 +50126,7 @@
             "overview": "故事發生在大宋年間。揚州通判盛紘的女兒明蘭（趙麗穎 飾）蕙質蘭心，聰穎可人，可惜母親偏為側室，因此倍遭嫡母及其爪牙的忌恨。明蘭聽從母親的臨終囑託，收斂鋒芒，投靠盛老太太羽翼呵護。而在此期間，她與寧遠侯府二公子顧廷燁（馮紹峰 飾）從陌生到相知，後者更成為她人生中不可多得的貴人。母親的離開並未讓明蘭從此安然，即使有老太太的呵護，盛府上下依然遍佈明槍暗箭，隨時威脅著她的安全。在這一過程中，明蘭猶如浴火鳳凰，忍辱負重，一步步闖過人生重重考驗，用自己的力量追尋著人間公正和屬於自己的幸福……",
             "poster": "https://image.tmdb.org/t/p/w500/5R1YSPffQWEOwlXVAwxPYUmRH4z.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/64YigOkGkBVUvWo9WpR45y4zjuf.jpg",
-            "rating": 7.5,
+            "rating": 7.524,
             "release_date": "2018-12-23",
             "total": 73,
             "uploader": "@gtv-drama",
@@ -54549,10 +54598,10 @@
         {
             "id": "PLk2gvyPpHLRdExO4fWzwmL3_QDNZA76tQ",
             "title": "何以笙簫默",
-            "overview": "　　趙默笙一直暗戀著高材生何以琛，一段單純美麗的校園愛情眼看著就要在兩人之間展開，就在這個節骨眼上，和何以琛沒有血緣關係的妹妹以玫突然出現，讓一對有情人擦肩而過，之後，趙默笙負氣前往美國，兩人再無聯繫。\n\n　　一轉眼七年過去，如今已經成為一名出色攝影師的趙默笙再次遇見了何以琛，此時的趙默笙才發現，自己一直都沒有忘記這個自己最愛也是傷害自己最深的男人。可是，今非昔比，如今的趙默笙和何以琛都早已不是曾經的青蔥年少，接踵而至的意外，剪不斷理還亂的過往，在巨大的壓力和阻礙面前，這一對羅密歐朱麗葉式的情侶能否堅持他們的選擇，再度走到一起？",
-            "poster": "https://image.tmdb.org/t/p/w500/uhao6LSj7LCjxSZUb4vWDbgUAXZ.jpg",
+            "overview": "大學時代的趙默笙，對法學系大才子何以琛一見傾心，開朗直率的她“死纏爛打”地倒追，與眾不同的方式吸引了以琛的目光，一段純純的校園愛情悄悄滋生。 然而，以琛寄養家庭的妹妹以玫，鼓起勇氣向默笙宣戰。當默笙去找以琛證實，沒想到竟然得到以琛冷酷的回應。誤以為以琛和以玫在一起的默笙，落寞地服從父親的安排，前往美國深造。七年後，成為攝影師的默笙回來了，再次遇到那個無法忘卻的男人。",
+            "poster": "https://image.tmdb.org/t/p/w500/2zk9yo2PP4sfKxiQ1XyffT1Ovda.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/9Jrx6VOKDnn8BOdWC9rWWe36mmZ.jpg",
-            "rating": 6.365,
+            "rating": 6.4,
             "release_date": "2015-01-10",
             "total": 32,
             "uploader": "@gtv-drama",
@@ -55315,7 +55364,7 @@
             "id": "PLk2gvyPpHLRcrXU1JZhk1f9E2G1h436Xl",
             "title": "杉杉來了",
             "overview": "天性善良的杉杉是因為自己有著稀有血型被招進風騰，不過杉杉不忘初心，一直奮鬥！為總裁妹妹輸血後杉杉被嘉獎吃豬肝飯，慢慢演變成了封騰的專屬挑菜工。封騰變著法子折磨善良的杉杉，而杉杉幾度反抗，卻每次都輸給技高一籌的封騰。之後封騰發小麗抒回國，對封騰表達心意展開攻勢，並且與杉杉展開了競爭，而封騰好哥們鄭棋因為愛上了麗抒而不得不幫襯著對付杉杉，這樣的情形下，反而更使得兩人堅定了在一起的決心，經歷種種，杉杉與封騰修成正果，幸福雖然姍姍來遲，也算終於來到！而杉杉在收穫愛情的同時，也因為自身的不斷努力，在事業上也取得了不小的成績，完成了自己的夢想！",
-            "poster": "https://image.tmdb.org/t/p/w500/7dgncLrj9AxeqHWzvApW919HNZU.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/iM1HoCVW5Y2WfrsJVjyQa7iDZVt.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/lvKkNRd5XSOMlA2fTGA8EwB9RrQ.jpg",
             "rating": 7,
             "release_date": "2014-07-08",
@@ -56377,7 +56426,7 @@
             "id": "PLk2gvyPpHLRfUIrJyynqj38hHO4khQ7GT",
             "title": "後宮甄嬛傳",
             "overview": "講述主角甄嬛從不諳世事的善良女子，成長為善於謀權的深宮婦人故事。",
-            "poster": "https://image.tmdb.org/t/p/w500/iOMoMkDAAS2lJ1p5yCnKhrToWqc.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/2ucGJSsqgQ1XNKJiv7D3cFwir1r.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/oaEIYMBx3IEtjWzyDyHu9MTtuv8.jpg",
             "rating": 8.6,
             "release_date": "2011-11-17",
@@ -62109,7 +62158,7 @@
             "overview": "迪士尼首次取材於真實歷史人物的故事、再加上一些流傳於印第安人中，有關寶嘉康蒂的民間故事混合編輯而成的。其主要敘述了主角寶嘉康蒂和英國探險家約翰·史密斯相遇後發生的愛情故事、以及來自維吉尼亞公司的商人們踏上了印第安人的土地後對原住民的生活所帶來的變化。",
             "poster": "https://image.tmdb.org/t/p/w500/3jKOw0BtComHCqUHOSxiCWsu0k1.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
-            "rating": 6.914,
+            "rating": 6.916,
             "release_date": "1995-06-16",
             "total": 35,
             "uploader": "@gtv-drama",
@@ -62332,7 +62381,7 @@
             "overview": "　　青年郭振華（成龍飾）赴港謀求發展，路見不平之下捲入兩派黑幫爭鬥，卻陰差陽錯做了幫派大哥，郭振華反思此一段奇遇，發覺是街邊賣花的玫瑰夫人（歸亞蕾飾）將好運帶給了自己，自此談判、出門前總要購買玫瑰夫人的玫瑰以求心安。郭振華將幫派所屬麗池飯店改為夜總會經營，飯店前任老闆之女楊露明（梅艷芳飾）出於還債在夜總會表演結果大紅大紫，郭楊二人更發展出了一段戀情。覬覦夜總會生意多時的福建幫頻頻向郭振華髮難，郭一如既往向玫瑰夫人求運，意外發現玫瑰夫人正身陷更大的麻煩，原來她為使外地的女兒安心讀書編造了自己堂皇的身份，而眼下終於面臨戳穿，郭出於感激幫助玫瑰夫人圓謊，由此引發了連環笑料……\r 　　本片根據Frank Capra的作品《一日貴婦》改編，大量香港明星在本片中客串演出。",
             "poster": "https://image.tmdb.org/t/p/w500/1L0wGNuCKbrQ9wxvqFaMNKYgelz.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/onJcliYmFoGM8NrAWs6sZl8mpCB.jpg",
-            "rating": 7.1,
+            "rating": 7.128,
             "release_date": "1989-06-15",
             "total": 14,
             "uploader": "@gtv-drama",
@@ -62538,7 +62587,7 @@
             "overview": "本片故事取材自中國古代小說「聊齋」，敘述一段不被接受的人鬼之戀，故事情節淒美，特效化妝亦有可觀之處...由張國榮、王祖賢、午馬主演，1987年上演時，香港和台灣都有十分可觀的票房，可以說是導演徐克的代表作之一。  寧采臣前往郭北縣收帳，大雨阻道，投宿蘭若寺，但被道士燕赤霞所拒，寧只有偷偷進入。夜半寧被美妙琴音吸引，邂逅彈琴少女聶小倩，小倩欲殺之，幸得燕出現救其一命，寧卻渾然不知。  小倩感寧之正直，漸生愛意。原來小倩乃是遊魂，屍骨被千年樹姥控制，每晚必須尋壯男讓姥姥吸取陽精，小倩不忍，兩人於是趁夜逃走……。  道士燕赤霞勸寧人鬼殊途，勿迷戀女鬼，但被兩人真情感動，決助二人脫離魔掌。姥姥發現倩生異心，逼她下嫁鬼王 。  寧、燕硬闖冥府，幾經艱苦把小倩骨灰奪回，讓她投胎轉世，無奈 有情人輪迴相隔，難續前緣。",
             "poster": "https://image.tmdb.org/t/p/w500/8TIECjtBcQpLGuSCMauHYtmmQto.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/8qDJ594juzFixXFhDumgU1xhdbZ.jpg",
-            "rating": 7.3,
+            "rating": 7.323,
             "release_date": "1987-07-18",
             "total": 40,
             "uploader": "@gtv-drama",
@@ -64145,6 +64194,55 @@
         }
     ],
     "大愛": [
+        {
+            "id": "PLaqAosCe1Lgg",
+            "title": "他的靈魂與他的書店",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/8Kw6JYzzCIUut3WPTdvVAM7KC3s.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/xTXSU0gRNS5Qks3hx88pzvxgwLi.jpg",
+            "rating": 0,
+            "release_date": "2026-07-06",
+            "total": 6,
+            "uploader": "@DaAiDrama",
+            "episode": [
+                {
+                    "id": "7t-7sr1zJOE",
+                    "ep": 1,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=7t-7sr1zJOE"
+                },
+                {
+                    "id": "TGaXwqAYXOE",
+                    "ep": 2,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=TGaXwqAYXOE"
+                },
+                {
+                    "id": "ijsLFCwxs4Y",
+                    "ep": 3,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=ijsLFCwxs4Y"
+                },
+                {
+                    "id": "DokYeHPygsA",
+                    "ep": 4,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=DokYeHPygsA"
+                },
+                {
+                    "id": "UtbG8zLUUE4",
+                    "ep": 5,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=UtbG8zLUUE4"
+                },
+                {
+                    "id": "6SufesiZFVQ",
+                    "ep": 6,
+                    "title": "他的靈魂與他的書店",
+                    "url": "https://www.youtube.com/watch?v=6SufesiZFVQ"
+                }
+            ]
+        },
         {
             "id": "PLc8M1wVJOpHwDPx-v0-NST4L_9Dj_2swc",
             "title": "臥龍好歲月",
@@ -66052,7 +66150,7 @@
             "overview": "這是個關於禁忌的愛與社會習俗變化的美麗故事，描述身為警察的湯姆（哈利斯泰爾斯/萊納斯洛區飾演）與教師瑪莉安（艾瑪科林/吉娜麥吉飾演）以及美術館館長派翠克（大衛道森/魯伯特艾瑞特飾演）之間一段相隔四十年的三角戀情。",
             "poster": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
-            "rating": 7.594,
+            "rating": 7.578,
             "release_date": "2022-10-20",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -66675,7 +66773,7 @@
             "overview": "名導賈法潘納希挑戰電影形式極限，把攝影機裝在計程車上，開著它穿梭德黑蘭大街小巷，讓形形色色百姓上車，一起鑽入這座流動的城市片廠。乘客包括販賣盜版光碟的男子、捧著魚缸的大嬸、還有賈法潘納希表現搶眼的親姪女，一幕幕和「司機」幽默風趣的互動譜寫鮮明的庶民風情，一探伊朗社會百態，更藉由這些角色與對話，對伊朗社會現狀進行了巧妙且深刻的批判。",
             "poster": "https://image.tmdb.org/t/p/w500/woykRyTNao03jvRfv3RNr1B1Luf.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/677ohgE1vEEMSIHZILT19z4rf58.jpg",
-            "rating": 7.047,
+            "rating": 7.05,
             "release_date": "2015-04-15",
             "total": 5,
             "uploader": "@DaAiDrama",
