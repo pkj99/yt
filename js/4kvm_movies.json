@@ -884,6 +884,19 @@
         "country": "美國"
     },
     {
+        "id": 4780,
+        "title": "開放性邀請",
+        "m3u8_url": "http://192.168.1.249:4000/ch4i3fkev.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/fYvFr8hmabWNNMa7PXZSGMfA9gY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "2026-06-25",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 4350,
         "title": "諾曼第風暴",
         "m3u8_url": "http://192.168.1.249:4000/ch49lj02k.m3u8",
@@ -1543,6 +1556,19 @@
         "genre": "劇情片",
         "release_date": "2024-11-22",
         "rating": 7,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
+        "id": 4790,
+        "title": "老槍",
+        "m3u8_url": "http://192.168.1.249:4000/ch4gvqcd6.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/8a7Hg3b3dwf45TsEmQmewIvmbQ8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/h1JwhsRFDsUiCnMt8TWEX02OGl3.jpg",
+        "overview": "射擊運動員顧學兵（祖峰 飾）因故退役，成為工廠保衛科一名普通的幹事，發現同事監守自盜的他，在試圖阻止時卻發現愛慕對象金雨佳（秦海璐 飾）的兒子耿曉軍（周政傑 飾）也牽涉其中。隨著盜竊事件中突發的一場意外墜亡，深埋的罪惡浮出水面，所有人都被裹挾其中，一場避無可避的爆發即將到來。",
+        "genre": "劇情片",
+        "release_date": "2024-11-01",
+        "rating": 6,
         "quality": "BD",
         "country": "中國"
     },
@@ -2234,6 +2260,19 @@
         "rating": 0,
         "quality": "BD",
         "country": "菲律賓"
+    },
+    {
+        "id": 4793,
+        "title": "神選之地",
+        "m3u8_url": "http://192.168.1.249:4000/ch4hx6tjw.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/zHJD5iltNRzS62Ba7jm1JcuXfqE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/sKBB1Fh9YMiLMsUUCPvdcbpVTfo.jpg",
+        "overview": "《接近無限的白》冰島名導海納爾帕瑪頌第三部長片作品。一場壯闊殘酷的冰島冒險之旅。肩負著神之諭，踏上未知的冷酷異境；熾熱的生之慾，顯影前轉瞬化作永恆。19世紀末，一名丹麥牧師為了在蠻荒異土蓋教堂、拍下異鄉人的照片，而泊旅至遙遠的屬地冰島。他們跋山涉水、旅途艱辛，還被疾病襲擊、遇見死亡，大自然的力量漸漸侵蝕牧師的信念與理想。即便在陌生的小鎮展開傳教任務，與居民親近並為他們拍肖像、蓋教堂，不料越深入當地生活，伴隨而來的人性和慾望，卻如同暗箱中顛倒的幻象，越令他偏離初衷而感到迷惘。眼看寒冬就要逼近，這趟旅程終將帶他去向何方？",
+        "genre": "劇情片",
+        "release_date": "2022-12-01",
+        "rating": 7,
+        "quality": "BD",
+        "country": "丹麥"
     },
     {
         "id": 733,
@@ -4043,6 +4082,19 @@
         "country": "美國"
     },
     {
+        "id": 4795,
+        "title": "燈塔",
+        "m3u8_url": "http://192.168.1.249:4000/ch4hyfrq3.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/f5x5g6ShpLgj3mfRmZSlCIsK8Vo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+        "overview": "1890年代新英格蘭一座偏遠神祕的島嶼上，兩位燈塔看守人與世隔絕，處於孤獨的同時，開始逐漸失去理智，並受到噩夢的威脅……",
+        "genre": "劇情片",
+        "release_date": "2019-10-18",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 1467,
         "title": "國王",
         "m3u8_url": "http://192.168.1.249:4000/ch313l4bj.m3u8",
@@ -5380,6 +5432,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "中國"
+    },
+    {
+        "id": 4795,
+        "title": "燈塔",
+        "m3u8_url": "http://192.168.1.249:4000/ch4hyfrq3.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/aAmNV7yVR7O1iYlCrGJZDRJFwzU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/FhQaiNL13MSs71xMin0vBqNjXJ.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "2016-07-08",
+        "rating": 7,
+        "quality": "BD",
+        "country": "英國"
     },
     {
         "id": 2020,
@@ -6760,6 +6825,19 @@
         "country": "美國"
     },
     {
+        "id": 4800,
+        "title": "惡棍特工",
+        "m3u8_url": "http://192.168.1.249:4000/ch4hfpj4q.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/rCp8EiIAbuzWWfHC1JutxQWhvWv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+        "overview": "二次世界大戰展開後，納粹佔領法國的第一年，蘇珊娜德瑞芙斯（梅蘭妮羅蘭飾演）親眼目睹她的家人慘遭納粹中校漢斯藍達（克里斯多福沃茲飾演）下令處決，蘇珊娜則驚險地逃過一劫，偷渡到巴黎，改名換姓之後成為一家電影院的老闆及經營者。同時，在歐洲的別處，艾多雷恩中尉（布萊德彼特飾演）則組織了一群美籍猶太特種部隊，專門以迅速殘酷的手法向納粹士兵報仇。他們後來被敵人稱為「惡棍特工」，而後來雷恩的特種部隊則加入德裔女演員兼臥底幹員布莉姬范海慕絲瑪克（戴安克魯格飾演）的行列，執行一項刺殺第三帝國領導人的任務。這些人的命運把他們都帶到蘇珊娜經營的電影院，而蘇珊娜自己也準備執行一場復仇計劃…",
+        "genre": "劇情片",
+        "release_date": "2009-08-02",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2545,
         "title": "女神的報酬",
         "m3u8_url": "http://192.168.1.249:4000/ch37l2mms.m3u8",
@@ -7122,6 +7200,19 @@
         "rating": 8,
         "quality": "BD",
         "country": "韓國"
+    },
+    {
+        "id": 4802,
+        "title": "雙面任務",
+        "m3u8_url": "http://192.168.1.249:4000/ch4hkpbti.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/rDOxXteqxALBaSa3V3zTjGJuyWB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/tUjgRaqoTPgQKfqDx8PjVbpPWrG.jpg",
+        "overview": "一個經驗老到從未失風的毒販，最大的夢想就是在退休後，過著平靜安穩的生活。\r 在他即將退休之際，突然接到兩項任務：一個是尋找黑幫大老艾迪失蹤的女兒，另一個則是向代號為「伯爵」的進行大筆的毒品交易。\r 沒想到看似簡單的任務卻頻頻失控，也讓想金盆洗手的他因此被捲入了一場殺戮風暴...",
+        "genre": "劇情片",
+        "release_date": "2004-09-30",
+        "rating": 7,
+        "quality": "BD",
+        "country": "英國"
     },
     {
         "id": 2689,
@@ -7852,6 +7943,19 @@
         "country": "中國"
     },
     {
+        "id": 4807,
+        "title": "鋼琴師和她的情人",
+        "m3u8_url": "http://192.168.1.249:4000/ch4hzopwa.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/udSvOHlG6CuuNX6x1n2PZcVzQ2b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/c2O99arhWcuLexMHiuRfSuDMpYm.jpg",
+        "overview": "導演珍康萍獲獎無數的經典作品，憑此片成為唯一獲得坎城金棕櫚獎的女導演；荷莉杭特的精湛演出，橫掃坎城影展、金球獎、奧斯卡影后獎項；安娜帕昆更成為奧斯卡史上最年輕的最佳女配角得主之一！蘇格蘭啞女艾達帶著私生女和一架鋼琴，遠渡重洋到紐西蘭嫁給墾戶史都華；然而，史都華不顧艾達感受，將笨重的鋼琴遺棄在海邊。粗獷的鄰居班斯提議用土地向史都華換取鋼琴，代價是艾達必須教班斯彈琴。一段剪不斷理還亂的琴緣就此展開…",
+        "genre": "劇情片",
+        "release_date": "1993-05-18",
+        "rating": 7,
+        "quality": "BD",
+        "country": "澳洲"
+    },
+    {
         "id": 2907,
         "title": "霸王別姬",
         "m3u8_url": "http://192.168.1.249:4000/ch2grwv15.m3u8",
@@ -8047,6 +8151,19 @@
         "country": "義大利"
     },
     {
+        "id": 4808,
+        "title": "慾望之翼",
+        "m3u8_url": "http://192.168.1.249:4000/ch4htfz1b.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/xgPuxj2BHLQ4tPyLwsBr1Jk3sBr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "1987-09-23",
+        "rating": 8,
+        "quality": "BD",
+        "country": "德國"
+    },
+    {
         "id": 4266,
         "title": "金甲部隊",
         "m3u8_url": "http://192.168.1.249:4000/ch44mz9cr.m3u8",
@@ -8125,6 +8242,19 @@
         "country": "法國"
     },
     {
+        "id": 4808,
+        "title": "慾望之翼",
+        "m3u8_url": "http://192.168.1.249:4000/ch4htfz1b.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/bnmudxmnY8iVdyaMEfZ9j8D9d17.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/bYbnlh6VXFRtcSX82UMDsBDLB5j.jpg",
+        "overview": "學者 娶了一個和自己年齡相差甚大的美艷妻子，因為擔心自己無法滿足年輕的妻子，學者感到十分的困擾。長久以來，學者有著記日記的習慣，在日記裡，學者詳細記錄了自己和妻子共享魚水之歡的過程，甚至意淫起了妻子與女婿的姦情，從中獲得嫉妒帶來的快感。 很快，學者的日記被妻子發現，在羞愧和憤怒中，妻子決定用實際行動來報復丈夫的愚蠢。於是，一個家庭裡，兩個人，兩本日記，記載了人性裡的慾望和黑暗。然而，事情並沒有就此結束，在慾望的漩渦裡越陷越深的學者竟然開始積極的撮合起了妻子和女婿，不僅將妻子大方的獻給女婿，並且為兩人的私會製造各種時機。",
+        "genre": "劇情片",
+        "release_date": "1983-10-19",
+        "rating": 8,
+        "quality": "BD",
+        "country": "義大利"
+    },
+    {
         "id": 3022,
         "title": "象人",
         "m3u8_url": "http://192.168.1.249:4000/ch2rcqdqw.m3u8",
@@ -8175,6 +8305,19 @@
         "rating": 0,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 4790,
+        "title": "老槍",
+        "m3u8_url": "http://192.168.1.249:4000/ch4gvqcd6.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ApiOdQSjWFi7idlgyybuhgKWfV4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mI81t7CG1QECwQWb1bJkCRvZMt1.jpg",
+        "overview": "二戰中德軍節節敗退，但戰事的失利沒能阻止德軍在他們的法國殖民地的大屠殺，相反德軍開始了更加瘋狂的屠殺。巴黎的醫生於連（Philippe Noiret 飾）由於感到城裡日漸緊張的氣氛，他怕家人遭遇不測，於是安排了他的妻子和孩子回鄉下暫避風頭。於連送了妻子回鄉不覺已過一段時間，他決定回鄉探望家人。孰料他回到鄉下，看到的只剩斑斑血跡，殘忍的德軍對這條小村莊進行了屠殺。憤怒的於連在村裡的老屋內找到了一桿老槍。於連決定向德軍舉起復仇之劍！",
+        "genre": "劇情片",
+        "release_date": "1975-08-20",
+        "rating": 6,
+        "quality": "BD",
+        "country": "法國"
     },
     {
         "id": 3040,
@@ -11557,6 +11700,19 @@
         "country": "美國"
     },
     {
+        "id": 4803,
+        "title": "追殺比爾2：愛的大逃殺",
+        "m3u8_url": "http://192.168.1.249:4000/ch4glqqz6.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tux4J2xM1t3afgoBJB7eLWSGU9U.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+        "overview": "想脫離暗殺組織的女殺手新娘(鄔瑪舒曼)，在婚禮上慘遭組織首腦比爾與黨羽砍殺，頭部中彈並昏迷5年，當她甦醒後誓言復仇到底！她走遍世界各地追殺死仇，第一集剷除了首要敵人百步蛇與銅頭蛇後，新娘再度踏上復仇之路，以其人之道還治其人之身。  第二集她遠赴中國向白眉大師求取高深武功，以面對加州山毒蛇與小響尾蛇的砍殺，當然，還有追殺她又愛又恨的比爾，但比爾卻說出一個驚人秘密等待她去挖掘…",
+        "genre": "動作片",
+        "release_date": "2004-04-16",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2719,
         "title": "駭客任務完結篇：最後戰役",
         "m3u8_url": "http://192.168.1.249:4000/ch2357t3m.m3u8",
@@ -11566,6 +11722,19 @@
         "genre": "冒險片",
         "release_date": "2003-11-05",
         "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4804,
+        "title": "追殺比爾",
+        "m3u8_url": "http://192.168.1.249:4000/ch4gkhssz.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/zsMZ11zStQ05g68qXNMSRBoBCxy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+        "overview": "一名叫新娘(鄔瑪舒曼飾)的女殺手，想脫離所屬之暗殺組織，不料卻在自己的婚禮上遭到組織首腦比爾與其黨羽虐殺，頭部中彈昏迷。整整昏迷了5年甦醒後，她誓言復仇到底！不惜一切追殺比爾！！她以忍者般鋼鐵意志踏遍世界各地，一路追殺敵人，從美洲到亞洲，足跡遍佈加州、墨西哥、中國大陸、香港和日本等地，一場新娘與比爾的浴血大戰展開。",
+        "genre": "動作片",
+        "release_date": "2003-10-10",
+        "rating": 8,
         "quality": "BD",
         "country": "美國"
     },
@@ -11635,6 +11804,19 @@
         "country": "香港"
     },
     {
+        "id": 4805,
+        "title": "殺手阿一",
+        "m3u8_url": "http://192.168.1.249:4000/ch4idf5sv.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/gR5YWv3aJCOn9XLVKOxkfeQwyqF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/j3P5wkyiigZW8aeogoZoiNIZySL.jpg",
+        "overview": "",
+        "genre": "動作片",
+        "release_date": "2001-12-22",
+        "rating": 7,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 4448,
         "title": "勝者為王",
         "m3u8_url": "http://192.168.1.249:4000/ch4e8u786.m3u8",
@@ -11685,6 +11867,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 4806,
+        "title": "非常突然",
+        "m3u8_url": "http://192.168.1.249:4000/ch4ge91y0.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/hyl5Yf8vWiV3YtjekILBjxCpEx7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/oPxGNTQpx5ydWTI8aaQDEz7SbhQ.jpg",
+        "overview": "三名大陸赴港的毛賊在白天搶劫金鋪後，遇上巡警慌張逃亡，其中一人逃入另一幫被警方通緝多時並配備有強大火力的大陸悍匪躲藏的大廈，緊接著，警方重 案組的命運被這兩幫歹徒意外牽連，當他們以為成功打死悍匪可以放鬆慶祝時，又碰上那兩個漏網的毛賊，一輪混戰後，事情頓時變得非常突然。警匪交戰主幹線並行發展的愛情線來得也非常突然。重案組干將鍾健（任達華）和李森（劉青雲）在辦金鋪劫案時巧遇以前認識的茶餐廳老闆，就她的芳心到底屬誰，眾人猜測一番後得到吃驚答案。",
+        "genre": "動作片",
+        "release_date": "1998-05-28",
+        "rating": 6,
+        "quality": "BD",
+        "country": "香港"
     },
     {
         "id": 4448,
@@ -12036,6 +12231,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "中國"
+    },
+    {
+        "id": 4783,
+        "title": "玩具總動員5",
+        "m3u8_url": "http://192.168.1.249:4000/ch4ep2jh5.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "overview": "伴隨著時代演進、以科技入侵作為主題，玩具們將陷入 3C 危機，胡迪、巴斯光年此生最強勁敵現身，讓人愛不釋手的閃亮亮玩具登場，全新角色「莉莉板」，一款高科技、青蛙造型的智慧平板玩具，有了這個新寶貝，誰還需要玩具呢？他們將面臨史上最大的挑戰。",
+        "genre": "動畫片",
+        "release_date": "2026-06-17",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 1,
@@ -14391,6 +14599,19 @@
         "country": "英國"
     },
     {
+        "id": 4796,
+        "title": "從前，有個好萊塢",
+        "m3u8_url": "http://192.168.1.249:4000/ch4hbyom5.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/bLlMOaUk89xkFfqcam0d19FUilf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+        "overview": "故事在1969年瞬息萬變的洛杉磯展開，此時亦是好萊塢的嬉皮巔峰時期，一位過氣電視演員瑞克達爾頓（李奧納多狄卡皮歐 飾演）與他長期合作替身搭檔克里夫布茲（布萊德彼特 飾演）如何在逐漸陌生的娛樂圈裡，找到自己的一席之地？他們試圖重回好萊塢建立名聲，而瑞克的鄰居卻意外不幸慘遭「曼森家族」殺害，也使得瑞克與搭檔克里夫捲入一場謀殺血案。",
+        "genre": "喜劇片",
+        "release_date": "2019-07-24",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 1469,
         "title": "A+瞎妹",
         "m3u8_url": "http://192.168.1.249:4000/ch2qmig4d.m3u8",
@@ -15143,6 +15364,19 @@
         "rating": 8,
         "quality": "BD",
         "country": "中國"
+    },
+    {
+        "id": 4801,
+        "title": "布萊德彼特之即刻毀滅",
+        "m3u8_url": "http://192.168.1.249:4000/ch4i8fd3n.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/iQFbKNrCnUQ9upDav1qLcRAjoSW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dGaV9hfxztBIaCs0MsMlamRw9hC.jpg",
+        "overview": "資深分析員奧斯彭卡克斯（John Malkovich 飾）出席一場秘密會議，未料會議機密竟很快被揭露，因此即將被組織撤職。 對於即將失業的事實感到憤慨又無奈的他，獨自回到位於華府喬治城的老家，要把所有中央情報局（CIA）不可告人的秘密，都寫在回憶錄上出版，以表達他的不滿。 同時，他早已紅杏出牆的妻子凱蒂（Tilda Swinton 飾），則是勾搭已婚的聯邦保安官哈利法勒（George Clooney 飾），打算拋棄他與哈利遠走高飛。 這張暗藏超級國家機密的光碟，竟然遺失在健身房，落入成天想動整型手術再嚐人生第二春的健身中心員工琳達麗慈（Frances McDormand 飾），與她的熱血同事（Brad Pitt 飾）手中。 一心想要發筆橫財的查德與琳達、心儀琳達的經理泰德崔逢（Richard Jenkins 飾）、保安官哈利、外遇的凱蒂與被撒職的卡克斯，將為爭奪光碟做出什麼樣令人匪夷所思的事情？ 本片改編自前美國中情局局長斯坦菲爾德特納的小說「高度機密：總統、中情局局長和特務」，斯坦菲爾德特納曾於1977年至1981年間擔任過美國中情局局長。  導演科恩兄弟將原來的故事做了一些改變，把電影拍成他們最擅長的黑色喜劇。故事的主要劇情為：一個中情局特務在撰寫回憶錄時，丟掉了一張儲存了自己手稿的光碟。 故事中的主角都是中年人，分別經歷了工作、生活和性方面的危機，把中情局和健身中心擺在一起，再加入網路交友的元素，巧妙地結合喜劇、諷刺和性鬧劇等元素，成為一部引人入勝、眾星雲集的黑色幽默喜劇。",
+        "genre": "喜劇片",
+        "release_date": "2008-09-05",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 4359,
@@ -16352,6 +16586,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 4778,
+        "title": "鬼入獄",
+        "m3u8_url": "http://192.168.1.249:4000/ch4i9ob9u.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/a6HlN2x472krH34s7SFhJAS5fPb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+        "overview": "一座由鐵血典獄長高壓統治的重刑監獄中，一連串駭人聽聞的命案打破了秩序。受害者的屍體被擺放成極具視覺衝擊、病態且華麗的藝術奇觀。誰是兇手？下一個祭品又是誰？恐懼迅速蔓延，原本獄中的敵對勢力被迫聯手求生。在這座無法逃脫的牢籠裡，他們不只要對抗彼此，更要面對一個看不見、卻隨時可能奪命的存在，一場失控的監獄生存戰正式展開。",
+        "genre": "恐怖片",
+        "release_date": "2026-04-16",
+        "rating": 8,
+        "quality": "BD",
+        "country": "韓國"
     },
     {
         "id": 4229,
@@ -17810,6 +18057,19 @@
         "country": "美國"
     },
     {
+        "id": 4787,
+        "title": "尋找艾米麗",
+        "m3u8_url": "http://192.168.1.249:4000/ch4gmzp5d.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/9izltMxWdnbUGPti3zAm51SGjwu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
+        "overview": "",
+        "genre": "愛情片",
+        "release_date": "2026-05-21",
+        "rating": 7,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
         "id": 520,
         "title": "即使，這份戀情今晚會從世上消失",
         "m3u8_url": "http://192.168.1.249:4000/ch0kxo4yl.m3u8",
@@ -18629,6 +18889,19 @@
         "country": "義大利"
     },
     {
+        "id": 4785,
+        "title": "推理競技場",
+        "m3u8_url": "http://192.168.1.249:4000/ch4h0q51y.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/38tP3TvbsuT2klLHZyFGSv9VhdF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/P47lcPb4038dgl1ghyZkgpwjXx.jpg",
+        "overview": "",
+        "genre": "懸疑片",
+        "release_date": "2026-05-22",
+        "rating": 0,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 4764,
         "title": "消失的人",
         "m3u8_url": "http://192.168.1.249:4000/ch4fu9v6g.m3u8",
@@ -18848,6 +19121,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "義大利"
+    },
+    {
+        "id": 4797,
+        "title": "逃出絕命鎮",
+        "m3u8_url": "http://192.168.1.249:4000/ch4gwzajd.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/407W3bpva8phUZVwR8PFKZUnguZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+        "overview": "一個年輕的非裔男孩克里斯，與他的白人女友露絲交往到了互見父母的感情階段，當克里斯前往露絲的家鄉小鎮，在遇到露絲父母的緊張關係中，他漸漸察覺，這個陌生小鎮似乎有更可怖的種族滅絕陰謀在背後...",
+        "genre": "懸疑片",
+        "release_date": "2017-02-24",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 2018,
@@ -19563,6 +19849,19 @@
         "rating": 6,
         "quality": "BD",
         "country": "韓國"
+    },
+    {
+        "id": 4788,
+        "title": "獵虎",
+        "m3u8_url": "http://192.168.1.249:4000/ch4gqqjoe.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/e2Q57wXlVe4kp5cWskz5Q51IM6u.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/sxQiSAuBAxGO0mgqPjimhLMzkda.jpg",
+        "overview": "西北邊境司機李軍被迫捲入毒梟陰謀，後成為警方線人，緝毒警唐旭東拼死追兇，毒梟張虎荒漠製毒、正邪較量在血色中迎來對決。",
+        "genre": "犯罪片",
+        "release_date": "2025-03-14",
+        "rating": 8,
+        "quality": "BD",
+        "country": "中國"
     },
     {
         "id": 186,
@@ -20371,6 +20670,19 @@
         "country": "中國"
     },
     {
+        "id": 4798,
+        "title": "殺戮行動",
+        "m3u8_url": "http://192.168.1.249:4000/ch4hegkyj.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/k4bLlBdIizbGsHgdOuamzG6Zvyf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4xGuNyCX46pwEpdQISRYiaBXEN7.jpg",
+        "overview": "兩個小混混大膽洗劫黑幫管轄的賭場，一時風聲鶴唳，幕後大老不得不派出作風強硬的執法者傑克清理門戶，他不帶感情地用槍火重整秩序、縝密設局揭穿各懷鬼胎的牛鬼蛇神。沒想到隨著任務牽涉越來越多人，傑克捲入難以收拾的複雜局面，在這樁腥風血雨的殺戮生意中，善與惡的界線逐漸模糊。",
+        "genre": "犯罪片",
+        "release_date": "2012-07-30",
+        "rating": 6,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2311,
         "title": "罪時代",
         "m3u8_url": "http://192.168.1.249:4000/ch37yt2jd.m3u8",
@@ -20743,6 +21055,19 @@
         "overview": "紐約港的碼頭上，以約翰尼為首的黑社會勢力無情地壓迫著碼頭工人們。曾經是拳擊手的特裡（馬龍·白蘭度  飾）來到碼頭為約翰尼工作。他的朋友喬伊因為向犯罪委員會揭發約翰尼等人的罪行，被其手下，也是特裡的哥哥查理從樓頂上推下摔死。喬伊的妹妹伊迪（愛娃·瑪麗·森特  飾）發誓要為哥哥復仇，與教區牧師巴裡神父一起展開調查。知情人都不敢出面告發。特裡也目睹了喬伊被害的經過，雖然同情伊迪的遭遇，想要幫她逃離黑社會的迫害，但他沒有告發哥哥的罪行。在與伊迪的接觸中，兩人漸漸產生感情。當伊迪得知他是殺害哥哥的幫兇，她拒絕了他。之後哥哥也為了救特裡而被約翰尼殺害。無數罪惡的事件讓特裡決心去揭發約翰尼的罪行。在碼頭上他被約翰尼的手下打成重傷，神父和伊迪趕來支持他，一直沉默的碼頭工人們也覺醒了，他們團結在一起，為了正義抗爭。本片獲第27屆奧斯卡最佳影片、最佳導演、最佳故事劇本、最佳男主角等8項大獎。",
         "genre": "犯罪片",
         "release_date": "1954-06-22",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4779,
+        "title": "蜘蛛人：重生日",
+        "m3u8_url": "http://192.168.1.249:4000/ch4iax9g1.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/2zO573CUiqm4QDuIPycE1d1GUYc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "overview": "彼得帕克努力專注於大學生活，把蜘蛛人拋在腦後。然而，當新的威脅危及到他的朋友時，他不得不違背諾言，再次穿上戰衣，與一位意想不到的盟友聯手，保護他所愛的人。",
+        "genre": "科幻片",
+        "release_date": "2026-07-29",
         "rating": 8,
         "quality": "BD",
         "country": "美國"
