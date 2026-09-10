@@ -2835,7 +2835,7 @@
             "backdrop": "https://image.tmdb.org/t/p/w1920/1QUrjFNKgVchKktX4N6DaegfPbP.jpg",
             "rating": 8.2,
             "release_date": "2023-01-03",
-            "total": 41,
+            "total": 40,
             "uploader": "@eltadrama",
             "episode": [
                 {
@@ -4665,7 +4665,7 @@
             "overview": "居住在美國的少女蘆屋瑞稀，因憧憬日本跳高選手佐野泉，不惜女扮男裝轉入全住宿制男校，並幸運成為泉的室友。然而，瑞稀入學後卻發現泉已因傷放棄跳高。為了鼓勵偶像重返賽場，她一面在充滿男性的校園中辛苦隱藏性別，一面與不知情的同學中津秀一等人，展開了笑料百出又甜蜜的校園三角戀愛喜劇。",
             "poster": "https://image.tmdb.org/t/p/w500/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-            "rating": 7.69,
+            "rating": 7.7,
             "release_date": "2026-01-04",
             "total": 27,
             "uploader": "@gtv-drama",
@@ -5161,303 +5161,12 @@
             ]
         },
         {
-            "id": "PLc8M1wVJOpHyj6WNvs8wCG_932ycNNh0L",
-            "title": "警察先生",
-            "overview": "這是個關於禁忌的愛與社會習俗變化的美麗故事，描述身為警察的湯姆（哈利斯泰爾斯/萊納斯洛區飾演）與教師瑪莉安（艾瑪科林/吉娜麥吉飾演）以及美術館館長派翠克（大衛道森/魯伯特艾瑞特飾演）之間一段相隔四十年的三角戀情。",
-            "poster": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
-            "rating": 7.511,
-            "release_date": "2022-10-20",
-            "total": 5,
-            "uploader": "@DaAiDrama",
-            "episode": [
-                {
-                    "id": "p165t6l6lxM",
-                    "ep": 1,
-                    "title": "警察先生",
-                    "url": "https://www.youtube.com/watch?v=p165t6l6lxM"
-                },
-                {
-                    "id": "N2kyZA6E9n0",
-                    "ep": 2,
-                    "title": "警察先生",
-                    "url": "https://www.youtube.com/watch?v=N2kyZA6E9n0"
-                },
-                {
-                    "id": "Y_gXdZcy0O4",
-                    "ep": 3,
-                    "title": "警察先生",
-                    "url": "https://www.youtube.com/watch?v=Y_gXdZcy0O4"
-                },
-                {
-                    "id": "pxmMBSuEOAM",
-                    "ep": 4,
-                    "title": "警察先生",
-                    "url": "https://www.youtube.com/watch?v=pxmMBSuEOAM"
-                },
-                {
-                    "id": "yWhsgRLsnVM",
-                    "ep": 5,
-                    "title": "警察先生",
-                    "url": "https://www.youtube.com/watch?v=yWhsgRLsnVM"
-                }
-            ]
-        },
-        {
-            "id": "PLk2gvyPpHLRdEY_dK_B-MsHk5TSkBSf36",
-            "title": "星河璀璨的我們",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/eWdHuZZ5OxOlfET3diadgf2Sx1u.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/1Oqj5szDUIORWXdoaecd4oDw6KQ.jpg",
-            "rating": 7.5,
-            "release_date": "2022-06-24",
-            "total": 24,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "ORHx7hls01M",
-                    "ep": 1,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=ORHx7hls01M"
-                },
-                {
-                    "id": "-GM4ZYI3WUs",
-                    "ep": 2,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=-GM4ZYI3WUs"
-                },
-                {
-                    "id": "-wRgLRG-WZ8",
-                    "ep": 3,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=-wRgLRG-WZ8"
-                },
-                {
-                    "id": "Cfoer9e6F-E",
-                    "ep": 4,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=Cfoer9e6F-E"
-                },
-                {
-                    "id": "xlYWmcZ-Xis",
-                    "ep": 5,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=xlYWmcZ-Xis"
-                },
-                {
-                    "id": "AbIGYUGVdPc",
-                    "ep": 6,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=AbIGYUGVdPc"
-                },
-                {
-                    "id": "4OUsfjT4XH0",
-                    "ep": 7,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=4OUsfjT4XH0"
-                },
-                {
-                    "id": "dWYnwC3u8jw",
-                    "ep": 8,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=dWYnwC3u8jw"
-                },
-                {
-                    "id": "To6yZlbAFUc",
-                    "ep": 9,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=To6yZlbAFUc"
-                },
-                {
-                    "id": "uwx3Qhtpm14",
-                    "ep": 10,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=uwx3Qhtpm14"
-                },
-                {
-                    "id": "xpXZ2O5nii8",
-                    "ep": 11,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=xpXZ2O5nii8"
-                },
-                {
-                    "id": "c8eNudu_hjw",
-                    "ep": 12,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=c8eNudu_hjw"
-                },
-                {
-                    "id": "SR1X2dMK4S8",
-                    "ep": 13,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=SR1X2dMK4S8"
-                },
-                {
-                    "id": "CV3PlxvElhs",
-                    "ep": 14,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=CV3PlxvElhs"
-                },
-                {
-                    "id": "Yp2JDmZiAPQ",
-                    "ep": 15,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=Yp2JDmZiAPQ"
-                },
-                {
-                    "id": "F79-RCziFY4",
-                    "ep": 16,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=F79-RCziFY4"
-                },
-                {
-                    "id": "5559QT5rD6s",
-                    "ep": 17,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=5559QT5rD6s"
-                },
-                {
-                    "id": "t8rm517Vhi8",
-                    "ep": 18,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=t8rm517Vhi8"
-                },
-                {
-                    "id": "tKi2wS4PuAM",
-                    "ep": 19,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=tKi2wS4PuAM"
-                },
-                {
-                    "id": "xLMnqjKW6PA",
-                    "ep": 20,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=xLMnqjKW6PA"
-                },
-                {
-                    "id": "FxbHdRjPyow",
-                    "ep": 21,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=FxbHdRjPyow"
-                },
-                {
-                    "id": "eI7pwfsqGuA",
-                    "ep": 22,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=eI7pwfsqGuA"
-                },
-                {
-                    "id": "HuXeWk1L1O0",
-                    "ep": 23,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=HuXeWk1L1O0"
-                },
-                {
-                    "id": "-s5UHFg9VF4",
-                    "ep": 24,
-                    "title": "星河璀璨的我們",
-                    "url": "https://www.youtube.com/watch?v=-s5UHFg9VF4"
-                }
-            ]
-        },
-        {
-            "id": "PLk2gvyPpHLRe-7g5gqj4Q7w8VDnP08sH2",
-            "title": "雙夭記",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/nGjEuPXSF7wm9CVs4hDsLWGy5ol.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/wSBmTXpS08bz5h2tM1fYigtD5rG.jpg",
-            "rating": 7.5,
-            "release_date": "2020-11-09",
-            "total": 13,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "FswlEnTjtfA",
-                    "ep": 1,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=FswlEnTjtfA"
-                },
-                {
-                    "id": "zOUSv8Msh70",
-                    "ep": 2,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=zOUSv8Msh70"
-                },
-                {
-                    "id": "hpWhZ9nWaSM",
-                    "ep": 3,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=hpWhZ9nWaSM"
-                },
-                {
-                    "id": "0Bguo0T7BuM",
-                    "ep": 4,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=0Bguo0T7BuM"
-                },
-                {
-                    "id": "gObiHOA-yzw",
-                    "ep": 5,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=gObiHOA-yzw"
-                },
-                {
-                    "id": "IEOMe2wQAQQ",
-                    "ep": 6,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=IEOMe2wQAQQ"
-                },
-                {
-                    "id": "KbiDtOiKo6A",
-                    "ep": 7,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=KbiDtOiKo6A"
-                },
-                {
-                    "id": "deYuDKrc7fY",
-                    "ep": 8,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=deYuDKrc7fY"
-                },
-                {
-                    "id": "k3WQ5mVweAo",
-                    "ep": 9,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=k3WQ5mVweAo"
-                },
-                {
-                    "id": "j9cl73QLuwc",
-                    "ep": 10,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=j9cl73QLuwc"
-                },
-                {
-                    "id": "E8lBC9gDb50",
-                    "ep": 11,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=E8lBC9gDb50"
-                },
-                {
-                    "id": "SF9QSrhdrTk",
-                    "ep": 12,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=SF9QSrhdrTk"
-                },
-                {
-                    "id": "3Ej3gtINtz4",
-                    "ep": 13,
-                    "title": "雙夭記",
-                    "url": "https://www.youtube.com/watch?v=3Ej3gtINtz4"
-                }
-            ]
-        },
-        {
             "id": "PLk2gvyPpHLRfjbwjfV7HYZ89E-WRfuYD4",
             "title": "知否知否應是綠肥紅瘦",
             "overview": "故事發生在大宋年間。揚州通判盛紘的女兒明蘭（趙麗穎 飾）蕙質蘭心，聰穎可人，可惜母親偏為側室，因此倍遭嫡母及其爪牙的忌恨。明蘭聽從母親的臨終囑託，收斂鋒芒，投靠盛老太太羽翼呵護。而在此期間，她與寧遠侯府二公子顧廷燁（馮紹峰 飾）從陌生到相知，後者更成為她人生中不可多得的貴人。母親的離開並未讓明蘭從此安然，即使有老太太的呵護，盛府上下依然遍佈明槍暗箭，隨時威脅著她的安全。在這一過程中，明蘭猶如浴火鳳凰，忍辱負重，一步步闖過人生重重考驗，用自己的力量追尋著人間公正和屬於自己的幸福……",
             "poster": "https://image.tmdb.org/t/p/w500/5R1YSPffQWEOwlXVAwxPYUmRH4z.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/64YigOkGkBVUvWo9WpR45y4zjuf.jpg",
-            "rating": 7.5,
+            "rating": 7.6,
             "release_date": "2018-12-23",
             "total": 73,
             "uploader": "@gtv-drama",
@@ -5899,6 +5608,297 @@
                     "ep": 73,
                     "title": "知否知否應是綠肥紅瘦",
                     "url": "https://www.youtube.com/watch?v=Eh7-5B5F_q4"
+                }
+            ]
+        },
+        {
+            "id": "PLc8M1wVJOpHyj6WNvs8wCG_932ycNNh0L",
+            "title": "警察先生",
+            "overview": "這是個關於禁忌的愛與社會習俗變化的美麗故事，描述身為警察的湯姆（哈利斯泰爾斯/萊納斯洛區飾演）與教師瑪莉安（艾瑪科林/吉娜麥吉飾演）以及美術館館長派翠克（大衛道森/魯伯特艾瑞特飾演）之間一段相隔四十年的三角戀情。",
+            "poster": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
+            "rating": 7.503,
+            "release_date": "2022-10-20",
+            "total": 5,
+            "uploader": "@DaAiDrama",
+            "episode": [
+                {
+                    "id": "p165t6l6lxM",
+                    "ep": 1,
+                    "title": "警察先生",
+                    "url": "https://www.youtube.com/watch?v=p165t6l6lxM"
+                },
+                {
+                    "id": "N2kyZA6E9n0",
+                    "ep": 2,
+                    "title": "警察先生",
+                    "url": "https://www.youtube.com/watch?v=N2kyZA6E9n0"
+                },
+                {
+                    "id": "Y_gXdZcy0O4",
+                    "ep": 3,
+                    "title": "警察先生",
+                    "url": "https://www.youtube.com/watch?v=Y_gXdZcy0O4"
+                },
+                {
+                    "id": "pxmMBSuEOAM",
+                    "ep": 4,
+                    "title": "警察先生",
+                    "url": "https://www.youtube.com/watch?v=pxmMBSuEOAM"
+                },
+                {
+                    "id": "yWhsgRLsnVM",
+                    "ep": 5,
+                    "title": "警察先生",
+                    "url": "https://www.youtube.com/watch?v=yWhsgRLsnVM"
+                }
+            ]
+        },
+        {
+            "id": "PLk2gvyPpHLRdEY_dK_B-MsHk5TSkBSf36",
+            "title": "星河璀璨的我們",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/eWdHuZZ5OxOlfET3diadgf2Sx1u.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/1Oqj5szDUIORWXdoaecd4oDw6KQ.jpg",
+            "rating": 7.5,
+            "release_date": "2022-06-24",
+            "total": 24,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "ORHx7hls01M",
+                    "ep": 1,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=ORHx7hls01M"
+                },
+                {
+                    "id": "-GM4ZYI3WUs",
+                    "ep": 2,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=-GM4ZYI3WUs"
+                },
+                {
+                    "id": "-wRgLRG-WZ8",
+                    "ep": 3,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=-wRgLRG-WZ8"
+                },
+                {
+                    "id": "Cfoer9e6F-E",
+                    "ep": 4,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=Cfoer9e6F-E"
+                },
+                {
+                    "id": "xlYWmcZ-Xis",
+                    "ep": 5,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=xlYWmcZ-Xis"
+                },
+                {
+                    "id": "AbIGYUGVdPc",
+                    "ep": 6,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=AbIGYUGVdPc"
+                },
+                {
+                    "id": "4OUsfjT4XH0",
+                    "ep": 7,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=4OUsfjT4XH0"
+                },
+                {
+                    "id": "dWYnwC3u8jw",
+                    "ep": 8,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=dWYnwC3u8jw"
+                },
+                {
+                    "id": "To6yZlbAFUc",
+                    "ep": 9,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=To6yZlbAFUc"
+                },
+                {
+                    "id": "uwx3Qhtpm14",
+                    "ep": 10,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=uwx3Qhtpm14"
+                },
+                {
+                    "id": "xpXZ2O5nii8",
+                    "ep": 11,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=xpXZ2O5nii8"
+                },
+                {
+                    "id": "c8eNudu_hjw",
+                    "ep": 12,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=c8eNudu_hjw"
+                },
+                {
+                    "id": "SR1X2dMK4S8",
+                    "ep": 13,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=SR1X2dMK4S8"
+                },
+                {
+                    "id": "CV3PlxvElhs",
+                    "ep": 14,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=CV3PlxvElhs"
+                },
+                {
+                    "id": "Yp2JDmZiAPQ",
+                    "ep": 15,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=Yp2JDmZiAPQ"
+                },
+                {
+                    "id": "F79-RCziFY4",
+                    "ep": 16,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=F79-RCziFY4"
+                },
+                {
+                    "id": "5559QT5rD6s",
+                    "ep": 17,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=5559QT5rD6s"
+                },
+                {
+                    "id": "t8rm517Vhi8",
+                    "ep": 18,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=t8rm517Vhi8"
+                },
+                {
+                    "id": "tKi2wS4PuAM",
+                    "ep": 19,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=tKi2wS4PuAM"
+                },
+                {
+                    "id": "xLMnqjKW6PA",
+                    "ep": 20,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=xLMnqjKW6PA"
+                },
+                {
+                    "id": "FxbHdRjPyow",
+                    "ep": 21,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=FxbHdRjPyow"
+                },
+                {
+                    "id": "eI7pwfsqGuA",
+                    "ep": 22,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=eI7pwfsqGuA"
+                },
+                {
+                    "id": "HuXeWk1L1O0",
+                    "ep": 23,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=HuXeWk1L1O0"
+                },
+                {
+                    "id": "-s5UHFg9VF4",
+                    "ep": 24,
+                    "title": "星河璀璨的我們",
+                    "url": "https://www.youtube.com/watch?v=-s5UHFg9VF4"
+                }
+            ]
+        },
+        {
+            "id": "PLk2gvyPpHLRe-7g5gqj4Q7w8VDnP08sH2",
+            "title": "雙夭記",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/nGjEuPXSF7wm9CVs4hDsLWGy5ol.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/wSBmTXpS08bz5h2tM1fYigtD5rG.jpg",
+            "rating": 7.5,
+            "release_date": "2020-11-09",
+            "total": 13,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "FswlEnTjtfA",
+                    "ep": 1,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=FswlEnTjtfA"
+                },
+                {
+                    "id": "zOUSv8Msh70",
+                    "ep": 2,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=zOUSv8Msh70"
+                },
+                {
+                    "id": "hpWhZ9nWaSM",
+                    "ep": 3,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=hpWhZ9nWaSM"
+                },
+                {
+                    "id": "0Bguo0T7BuM",
+                    "ep": 4,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=0Bguo0T7BuM"
+                },
+                {
+                    "id": "gObiHOA-yzw",
+                    "ep": 5,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=gObiHOA-yzw"
+                },
+                {
+                    "id": "IEOMe2wQAQQ",
+                    "ep": 6,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=IEOMe2wQAQQ"
+                },
+                {
+                    "id": "KbiDtOiKo6A",
+                    "ep": 7,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=KbiDtOiKo6A"
+                },
+                {
+                    "id": "deYuDKrc7fY",
+                    "ep": 8,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=deYuDKrc7fY"
+                },
+                {
+                    "id": "k3WQ5mVweAo",
+                    "ep": 9,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=k3WQ5mVweAo"
+                },
+                {
+                    "id": "j9cl73QLuwc",
+                    "ep": 10,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=j9cl73QLuwc"
+                },
+                {
+                    "id": "E8lBC9gDb50",
+                    "ep": 11,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=E8lBC9gDb50"
+                },
+                {
+                    "id": "SF9QSrhdrTk",
+                    "ep": 12,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=SF9QSrhdrTk"
+                },
+                {
+                    "id": "3Ej3gtINtz4",
+                    "ep": 13,
+                    "title": "雙夭記",
+                    "url": "https://www.youtube.com/watch?v=3Ej3gtINtz4"
                 }
             ]
         },
@@ -6640,6 +6640,343 @@
                     "ep": 32,
                     "title": "惡作劇之吻",
                     "url": "https://www.youtube.com/watch?v=PoxcWR84tNU"
+                }
+            ]
+        },
+        {
+            "id": "PLk2gvyPpHLRfkycV391sX9p94OrbyS1Q4",
+            "title": "蜀山戰紀之劍俠傳奇",
+            "overview": "《蜀山戰紀》是由江蘇稻草熊影業有限公司投資出品，黃偉傑執導，馬焱、李晶凌、江萊、林俐穎編劇，趙麗穎、陳偉天靚、吳奇隆領銜主演，葉祖新、劉思彤、樊少王、張霆天霖、高偉光、高威、晨、韓雨芹、魏春光、李進榮、吳華新、崔鐘、武莉主演，宗峰岩特別演出的古裝武俠劇。\n\n該劇講述丁隱是蜀山派的弟子，他的體內有掌門諸葛駕馭我所打入的傳世珍寶赤魂石，諸葛駕馭我想要將天賦異禀的丁隱培養成武林高手，打敗他的宿敵綠袍尊者，為武林除害，造福江湖的故事。",
+            "poster": "https://image.tmdb.org/t/p/w500/9ADOi9I4QMvO3DaYCwms4euOyWZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/gisytyDjoxfIH80ZkaR0Da5LKfJ.jpg",
+            "rating": 7.4,
+            "release_date": "2015-09-22",
+            "total": 54,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "Pml6tvEhjww",
+                    "ep": 1,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=Pml6tvEhjww"
+                },
+                {
+                    "id": "II4PV-c7u7g",
+                    "ep": 2,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=II4PV-c7u7g"
+                },
+                {
+                    "id": "bn_Nl6LAV_8",
+                    "ep": 3,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=bn_Nl6LAV_8"
+                },
+                {
+                    "id": "QwgE3awT-Og",
+                    "ep": 4,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=QwgE3awT-Og"
+                },
+                {
+                    "id": "I8LK-_S3o2U",
+                    "ep": 5,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=I8LK-_S3o2U"
+                },
+                {
+                    "id": "XhwSgpFn6LE",
+                    "ep": 6,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=XhwSgpFn6LE"
+                },
+                {
+                    "id": "McFYLG5BFXY",
+                    "ep": 7,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=McFYLG5BFXY"
+                },
+                {
+                    "id": "YaqTVpu8SvI",
+                    "ep": 8,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=YaqTVpu8SvI"
+                },
+                {
+                    "id": "KTGdo6rOPJA",
+                    "ep": 9,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=KTGdo6rOPJA"
+                },
+                {
+                    "id": "sNK7bFW8qvs",
+                    "ep": 10,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=sNK7bFW8qvs"
+                },
+                {
+                    "id": "v1wv3l0Iy44",
+                    "ep": 11,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=v1wv3l0Iy44"
+                },
+                {
+                    "id": "QcCtc-Ga6fA",
+                    "ep": 12,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=QcCtc-Ga6fA"
+                },
+                {
+                    "id": "Xgk0kl_zOqs",
+                    "ep": 13,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=Xgk0kl_zOqs"
+                },
+                {
+                    "id": "5U_zz_RMxaE",
+                    "ep": 14,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=5U_zz_RMxaE"
+                },
+                {
+                    "id": "F9VFnRel_Ws",
+                    "ep": 15,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=F9VFnRel_Ws"
+                },
+                {
+                    "id": "DEiA4PynmoU",
+                    "ep": 16,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=DEiA4PynmoU"
+                },
+                {
+                    "id": "ChUpV52-yKs",
+                    "ep": 17,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=ChUpV52-yKs"
+                },
+                {
+                    "id": "KnU5t_2IEWk",
+                    "ep": 18,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=KnU5t_2IEWk"
+                },
+                {
+                    "id": "vljTcphZsd8",
+                    "ep": 19,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=vljTcphZsd8"
+                },
+                {
+                    "id": "zaKbktY-xps",
+                    "ep": 20,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=zaKbktY-xps"
+                },
+                {
+                    "id": "fCc8eXcchl4",
+                    "ep": 21,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=fCc8eXcchl4"
+                },
+                {
+                    "id": "RXqclou0yfM",
+                    "ep": 22,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=RXqclou0yfM"
+                },
+                {
+                    "id": "Zad-OGZ0W4k",
+                    "ep": 23,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=Zad-OGZ0W4k"
+                },
+                {
+                    "id": "9_ICK7p5Pvw",
+                    "ep": 24,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=9_ICK7p5Pvw"
+                },
+                {
+                    "id": "kG8Im_wO3HE",
+                    "ep": 25,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=kG8Im_wO3HE"
+                },
+                {
+                    "id": "5vFMm5gAvDg",
+                    "ep": 26,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=5vFMm5gAvDg"
+                },
+                {
+                    "id": "fDmZGxyMj88",
+                    "ep": 27,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=fDmZGxyMj88"
+                },
+                {
+                    "id": "CxrBq91M8AE",
+                    "ep": 28,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=CxrBq91M8AE"
+                },
+                {
+                    "id": "228tQ4008Ac",
+                    "ep": 29,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=228tQ4008Ac"
+                },
+                {
+                    "id": "eCzJdxxX5-o",
+                    "ep": 30,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=eCzJdxxX5-o"
+                },
+                {
+                    "id": "jOuZCP9r4wY",
+                    "ep": 31,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=jOuZCP9r4wY"
+                },
+                {
+                    "id": "6c5OvDQY8z0",
+                    "ep": 32,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=6c5OvDQY8z0"
+                },
+                {
+                    "id": "td_TJMAd7LM",
+                    "ep": 33,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=td_TJMAd7LM"
+                },
+                {
+                    "id": "DHJM8hokxVI",
+                    "ep": 34,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=DHJM8hokxVI"
+                },
+                {
+                    "id": "ZAicfcxGGnk",
+                    "ep": 35,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=ZAicfcxGGnk"
+                },
+                {
+                    "id": "aLyyOgPwHeA",
+                    "ep": 36,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=aLyyOgPwHeA"
+                },
+                {
+                    "id": "N3YWjYkVtrQ",
+                    "ep": 37,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=N3YWjYkVtrQ"
+                },
+                {
+                    "id": "9yKoJSeI1Ms",
+                    "ep": 38,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=9yKoJSeI1Ms"
+                },
+                {
+                    "id": "782AR8mv9Oc",
+                    "ep": 39,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=782AR8mv9Oc"
+                },
+                {
+                    "id": "i25Lgaih-4w",
+                    "ep": 40,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=i25Lgaih-4w"
+                },
+                {
+                    "id": "q7-UI-ExCOs",
+                    "ep": 41,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=q7-UI-ExCOs"
+                },
+                {
+                    "id": "ObKKg98nLLw",
+                    "ep": 42,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=ObKKg98nLLw"
+                },
+                {
+                    "id": "-Tkb0rfR9W8",
+                    "ep": 43,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=-Tkb0rfR9W8"
+                },
+                {
+                    "id": "s4RIhOa8B-M",
+                    "ep": 44,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=s4RIhOa8B-M"
+                },
+                {
+                    "id": "b1sVEHjzhu8",
+                    "ep": 45,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=b1sVEHjzhu8"
+                },
+                {
+                    "id": "nAjaiiD-IDk",
+                    "ep": 46,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=nAjaiiD-IDk"
+                },
+                {
+                    "id": "_cn5NMd1mRo",
+                    "ep": 47,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=_cn5NMd1mRo"
+                },
+                {
+                    "id": "BlBAv-DLLXs",
+                    "ep": 48,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=BlBAv-DLLXs"
+                },
+                {
+                    "id": "x0Dql6jOpiw",
+                    "ep": 49,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=x0Dql6jOpiw"
+                },
+                {
+                    "id": "0QzPOkiddsg",
+                    "ep": 50,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=0QzPOkiddsg"
+                },
+                {
+                    "id": "2g-gQPNnNn8",
+                    "ep": 51,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=2g-gQPNnNn8"
+                },
+                {
+                    "id": "KQEnU-R84NU",
+                    "ep": 52,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=KQEnU-R84NU"
+                },
+                {
+                    "id": "rOH8QLFHeM4",
+                    "ep": 53,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=rOH8QLFHeM4"
+                },
+                {
+                    "id": "3szr-8ptJbI",
+                    "ep": 54,
+                    "title": "蜀山戰紀之劍俠傳奇",
+                    "url": "https://www.youtube.com/watch?v=3szr-8ptJbI"
                 }
             ]
         },
@@ -7439,6 +7776,103 @@
             ]
         },
         {
+            "id": "PLk2gvyPpHLRfpyBmdMhePR2ntRNk3GqGs",
+            "title": "奇蹟",
+            "overview": "　　青年郭振華（成龍飾）赴港謀求發展，路見不平之下捲入兩派黑幫爭鬥，卻陰差陽錯做了幫派大哥，郭振華反思此一段奇遇，發覺是街邊賣花的玫瑰夫人（歸亞蕾飾）將好運帶給了自己，自此談判、出門前總要購買玫瑰夫人的玫瑰以求心安。郭振華將幫派所屬麗池飯店改為夜總會經營，飯店前任老闆之女楊露明（梅艷芳飾）出於還債在夜總會表演結果大紅大紫，郭楊二人更發展出了一段戀情。覬覦夜總會生意多時的福建幫頻頻向郭振華髮難，郭一如既往向玫瑰夫人求運，意外發現玫瑰夫人正身陷更大的麻煩，原來她為使外地的女兒安心讀書編造了自己堂皇的身份，而眼下終於面臨戳穿，郭出於感激幫助玫瑰夫人圓謊，由此引發了連環笑料……\r 　　本片根據Frank Capra的作品《一日貴婦》改編，大量香港明星在本片中客串演出。",
+            "poster": "https://image.tmdb.org/t/p/w500/1L0wGNuCKbrQ9wxvqFaMNKYgelz.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/onJcliYmFoGM8NrAWs6sZl8mpCB.jpg",
+            "rating": 7.121,
+            "release_date": "1989-06-15",
+            "total": 14,
+            "uploader": "@gtv-drama",
+            "episode": [
+                {
+                    "id": "cVc9ectGoBw",
+                    "ep": 1,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=cVc9ectGoBw"
+                },
+                {
+                    "id": "0PioJ862GHs",
+                    "ep": 2,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=0PioJ862GHs"
+                },
+                {
+                    "id": "JmvFTkjM1kI",
+                    "ep": 3,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=JmvFTkjM1kI"
+                },
+                {
+                    "id": "Blewi-oHmGc",
+                    "ep": 4,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=Blewi-oHmGc"
+                },
+                {
+                    "id": "mLpwv7icQg4",
+                    "ep": 5,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=mLpwv7icQg4"
+                },
+                {
+                    "id": "S-07DenpXF8",
+                    "ep": 6,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=S-07DenpXF8"
+                },
+                {
+                    "id": "6rkI9n6YmqA",
+                    "ep": 7,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=6rkI9n6YmqA"
+                },
+                {
+                    "id": "l23KBA1mvXM",
+                    "ep": 8,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=l23KBA1mvXM"
+                },
+                {
+                    "id": "xlQhRxZ8jjo",
+                    "ep": 9,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=xlQhRxZ8jjo"
+                },
+                {
+                    "id": "qjgscVTGUv0",
+                    "ep": 10,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=qjgscVTGUv0"
+                },
+                {
+                    "id": "TFW1-VNXp_Q",
+                    "ep": 11,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=TFW1-VNXp_Q"
+                },
+                {
+                    "id": "nvUQ9gZprHQ",
+                    "ep": 12,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=nvUQ9gZprHQ"
+                },
+                {
+                    "id": "ZHGv4Lsc4BI",
+                    "ep": 13,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=ZHGv4Lsc4BI"
+                },
+                {
+                    "id": "GfNkQ1dQ5K4",
+                    "ep": 14,
+                    "title": "奇蹟",
+                    "url": "https://www.youtube.com/watch?v=GfNkQ1dQ5K4"
+                }
+            ]
+        },
+        {
             "id": "PLk2gvyPpHLRdlo89Kgsd3iRYLafFZkji1",
             "title": "玉樓春",
             "overview": "《玉樓春》是由高寒、白雲默共同執導，白鹿、金晨、王一哲領銜主演，辣目洋子、週陸啦、鄭湫泓、赫雷、昌隆、王西、楊蓉、喬欣、陳都靈、宣璐等主演的中國古裝合家歡愛情喜劇。\n\n該劇講述了一位出身戲班的聰慧佳人林少春，她偶然間與當朝顯貴之孫玉樓相知相愛，並順利嫁入孫家。初入豪門，林少春因出身卑微而屢受排擠，但她憑藉聰明才智、善良品性，不僅化解了兄嫂間的矛盾，更拯救了家族財政危機。她更使得原本分散、心存異志的家族成員團結一心，共同面對外在挑戰。最終，她贏得了公婆與兄嫂的尊重與認可，實現了人生的美滿與圓滿的故事。",
@@ -7710,109 +8144,12 @@
             ]
         },
         {
-            "id": "PLk2gvyPpHLRfpyBmdMhePR2ntRNk3GqGs",
-            "title": "奇蹟",
-            "overview": "　　青年郭振華（成龍飾）赴港謀求發展，路見不平之下捲入兩派黑幫爭鬥，卻陰差陽錯做了幫派大哥，郭振華反思此一段奇遇，發覺是街邊賣花的玫瑰夫人（歸亞蕾飾）將好運帶給了自己，自此談判、出門前總要購買玫瑰夫人的玫瑰以求心安。郭振華將幫派所屬麗池飯店改為夜總會經營，飯店前任老闆之女楊露明（梅艷芳飾）出於還債在夜總會表演結果大紅大紫，郭楊二人更發展出了一段戀情。覬覦夜總會生意多時的福建幫頻頻向郭振華髮難，郭一如既往向玫瑰夫人求運，意外發現玫瑰夫人正身陷更大的麻煩，原來她為使外地的女兒安心讀書編造了自己堂皇的身份，而眼下終於面臨戳穿，郭出於感激幫助玫瑰夫人圓謊，由此引發了連環笑料……\r 　　本片根據Frank Capra的作品《一日貴婦》改編，大量香港明星在本片中客串演出。",
-            "poster": "https://image.tmdb.org/t/p/w500/1L0wGNuCKbrQ9wxvqFaMNKYgelz.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/onJcliYmFoGM8NrAWs6sZl8mpCB.jpg",
-            "rating": 7.1,
-            "release_date": "1989-06-15",
-            "total": 14,
-            "uploader": "@gtv-drama",
-            "episode": [
-                {
-                    "id": "cVc9ectGoBw",
-                    "ep": 1,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=cVc9ectGoBw"
-                },
-                {
-                    "id": "0PioJ862GHs",
-                    "ep": 2,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=0PioJ862GHs"
-                },
-                {
-                    "id": "JmvFTkjM1kI",
-                    "ep": 3,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=JmvFTkjM1kI"
-                },
-                {
-                    "id": "Blewi-oHmGc",
-                    "ep": 4,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=Blewi-oHmGc"
-                },
-                {
-                    "id": "mLpwv7icQg4",
-                    "ep": 5,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=mLpwv7icQg4"
-                },
-                {
-                    "id": "S-07DenpXF8",
-                    "ep": 6,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=S-07DenpXF8"
-                },
-                {
-                    "id": "6rkI9n6YmqA",
-                    "ep": 7,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=6rkI9n6YmqA"
-                },
-                {
-                    "id": "l23KBA1mvXM",
-                    "ep": 8,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=l23KBA1mvXM"
-                },
-                {
-                    "id": "xlQhRxZ8jjo",
-                    "ep": 9,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=xlQhRxZ8jjo"
-                },
-                {
-                    "id": "qjgscVTGUv0",
-                    "ep": 10,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=qjgscVTGUv0"
-                },
-                {
-                    "id": "TFW1-VNXp_Q",
-                    "ep": 11,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=TFW1-VNXp_Q"
-                },
-                {
-                    "id": "nvUQ9gZprHQ",
-                    "ep": 12,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=nvUQ9gZprHQ"
-                },
-                {
-                    "id": "ZHGv4Lsc4BI",
-                    "ep": 13,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=ZHGv4Lsc4BI"
-                },
-                {
-                    "id": "GfNkQ1dQ5K4",
-                    "ep": 14,
-                    "title": "奇蹟",
-                    "url": "https://www.youtube.com/watch?v=GfNkQ1dQ5K4"
-                }
-            ]
-        },
-        {
             "id": "PLc8M1wVJOpHzjXsz0-iaiju3OHNx-V26H",
             "title": "笑看人生",
             "overview": "名導賈法潘納希挑戰電影形式極限，把攝影機裝在計程車上，開著它穿梭德黑蘭大街小巷，讓形形色色百姓上車，一起鑽入這座流動的城市片廠。乘客包括販賣盜版光碟的男子、捧著魚缸的大嬸、還有賈法潘納希表現搶眼的親姪女，一幕幕和「司機」幽默風趣的互動譜寫鮮明的庶民風情，一探伊朗社會百態，更藉由這些角色與對話，對伊朗社會現狀進行了巧妙且深刻的批判。",
             "poster": "https://image.tmdb.org/t/p/w500/woykRyTNao03jvRfv3RNr1B1Luf.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/677ohgE1vEEMSIHZILT19z4rf58.jpg",
-            "rating": 7.053,
+            "rating": 7.1,
             "release_date": "2015-04-15",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -12645,7 +12982,7 @@
             "backdrop": "./images/backdrop.jpg",
             "rating": 0,
             "release_date": "2026-09-01",
-            "total": 1,
+            "total": 8,
             "uploader": "@DaAiDrama",
             "episode": [
                 {
@@ -12653,6 +12990,48 @@
                     "ep": 1,
                     "title": "轉角那間心藥局",
                     "url": "https://www.youtube.com/watch?v=beLVTEvybkY"
+                },
+                {
+                    "id": "vUb-QNohEc0",
+                    "ep": 1,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=vUb-QNohEc0"
+                },
+                {
+                    "id": "xNe9rnzIcoY",
+                    "ep": 2,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=xNe9rnzIcoY"
+                },
+                {
+                    "id": "qM-8HtakAFI",
+                    "ep": 3,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=qM-8HtakAFI"
+                },
+                {
+                    "id": "ISPqg7d-xRA",
+                    "ep": 4,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=ISPqg7d-xRA"
+                },
+                {
+                    "id": "a_C65VekkTE",
+                    "ep": 5,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=a_C65VekkTE"
+                },
+                {
+                    "id": "AmWavdjFGPk",
+                    "ep": 6,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=AmWavdjFGPk"
+                },
+                {
+                    "id": "vXNnbP1wTCc",
+                    "ep": 7,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=vXNnbP1wTCc"
                 }
             ]
         },
@@ -13031,7 +13410,7 @@
             "overview": "居住在美國的少女蘆屋瑞稀，因憧憬日本跳高選手佐野泉，不惜女扮男裝轉入全住宿制男校，並幸運成為泉的室友。然而，瑞稀入學後卻發現泉已因傷放棄跳高。為了鼓勵偶像重返賽場，她一面在充滿男性的校園中辛苦隱藏性別，一面與不知情的同學中津秀一等人，展開了笑料百出又甜蜜的校園三角戀愛喜劇。",
             "poster": "https://image.tmdb.org/t/p/w500/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-            "rating": 7.69,
+            "rating": 7.7,
             "release_date": "2026-01-04",
             "total": 27,
             "uploader": "@gtv-drama",
@@ -19304,7 +19683,7 @@
             "backdrop": "https://image.tmdb.org/t/p/w1920/1QUrjFNKgVchKktX4N6DaegfPbP.jpg",
             "rating": 8.2,
             "release_date": "2023-01-03",
-            "total": 41,
+            "total": 40,
             "uploader": "@eltadrama",
             "episode": [
                 {
@@ -20460,7 +20839,7 @@
             "overview": "這是個關於禁忌的愛與社會習俗變化的美麗故事，描述身為警察的湯姆（哈利斯泰爾斯/萊納斯洛區飾演）與教師瑪莉安（艾瑪科林/吉娜麥吉飾演）以及美術館館長派翠克（大衛道森/魯伯特艾瑞特飾演）之間一段相隔四十年的三角戀情。",
             "poster": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
-            "rating": 7.511,
+            "rating": 7.503,
             "release_date": "2022-10-20",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -26351,7 +26730,7 @@
             "overview": "故事發生在大宋年間。揚州通判盛紘的女兒明蘭（趙麗穎 飾）蕙質蘭心，聰穎可人，可惜母親偏為側室，因此倍遭嫡母及其爪牙的忌恨。明蘭聽從母親的臨終囑託，收斂鋒芒，投靠盛老太太羽翼呵護。而在此期間，她與寧遠侯府二公子顧廷燁（馮紹峰 飾）從陌生到相知，後者更成為她人生中不可多得的貴人。母親的離開並未讓明蘭從此安然，即使有老太太的呵護，盛府上下依然遍佈明槍暗箭，隨時威脅著她的安全。在這一過程中，明蘭猶如浴火鳳凰，忍辱負重，一步步闖過人生重重考驗，用自己的力量追尋著人間公正和屬於自己的幸福……",
             "poster": "https://image.tmdb.org/t/p/w500/5R1YSPffQWEOwlXVAwxPYUmRH4z.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/64YigOkGkBVUvWo9WpR45y4zjuf.jpg",
-            "rating": 7.5,
+            "rating": 7.6,
             "release_date": "2018-12-23",
             "total": 73,
             "uploader": "@gtv-drama",
@@ -30240,10 +30619,10 @@
         {
             "id": "PLk2gvyPpHLRfkycV391sX9p94OrbyS1Q4",
             "title": "蜀山戰紀之劍俠傳奇",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/rXsnVOgHtWIFG7xcUszef44YEkC.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/p1uwlNSoErBRjREzzTo0UMxbllk.jpg",
-            "rating": 0,
+            "overview": "《蜀山戰紀》是由江蘇稻草熊影業有限公司投資出品，黃偉傑執導，馬焱、李晶凌、江萊、林俐穎編劇，趙麗穎、陳偉天靚、吳奇隆領銜主演，葉祖新、劉思彤、樊少王、張霆天霖、高偉光、高威、晨、韓雨芹、魏春光、李進榮、吳華新、崔鐘、武莉主演，宗峰岩特別演出的古裝武俠劇。\n\n該劇講述丁隱是蜀山派的弟子，他的體內有掌門諸葛駕馭我所打入的傳世珍寶赤魂石，諸葛駕馭我想要將天賦異禀的丁隱培養成武林高手，打敗他的宿敵綠袍尊者，為武林除害，造福江湖的故事。",
+            "poster": "https://image.tmdb.org/t/p/w500/9ADOi9I4QMvO3DaYCwms4euOyWZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/gisytyDjoxfIH80ZkaR0Da5LKfJ.jpg",
+            "rating": 7.4,
             "release_date": "2015-09-22",
             "total": 54,
             "uploader": "@gtv-drama",
@@ -31146,7 +31525,7 @@
             "overview": "名導賈法潘納希挑戰電影形式極限，把攝影機裝在計程車上，開著它穿梭德黑蘭大街小巷，讓形形色色百姓上車，一起鑽入這座流動的城市片廠。乘客包括販賣盜版光碟的男子、捧著魚缸的大嬸、還有賈法潘納希表現搶眼的親姪女，一幕幕和「司機」幽默風趣的互動譜寫鮮明的庶民風情，一探伊朗社會百態，更藉由這些角色與對話，對伊朗社會現狀進行了巧妙且深刻的批判。",
             "poster": "https://image.tmdb.org/t/p/w500/woykRyTNao03jvRfv3RNr1B1Luf.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/677ohgE1vEEMSIHZILT19z4rf58.jpg",
-            "rating": 7.053,
+            "rating": 7.1,
             "release_date": "2015-04-15",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -39307,7 +39686,7 @@
             "overview": "　　青年郭振華（成龍飾）赴港謀求發展，路見不平之下捲入兩派黑幫爭鬥，卻陰差陽錯做了幫派大哥，郭振華反思此一段奇遇，發覺是街邊賣花的玫瑰夫人（歸亞蕾飾）將好運帶給了自己，自此談判、出門前總要購買玫瑰夫人的玫瑰以求心安。郭振華將幫派所屬麗池飯店改為夜總會經營，飯店前任老闆之女楊露明（梅艷芳飾）出於還債在夜總會表演結果大紅大紫，郭楊二人更發展出了一段戀情。覬覦夜總會生意多時的福建幫頻頻向郭振華髮難，郭一如既往向玫瑰夫人求運，意外發現玫瑰夫人正身陷更大的麻煩，原來她為使外地的女兒安心讀書編造了自己堂皇的身份，而眼下終於面臨戳穿，郭出於感激幫助玫瑰夫人圓謊，由此引發了連環笑料……\r 　　本片根據Frank Capra的作品《一日貴婦》改編，大量香港明星在本片中客串演出。",
             "poster": "https://image.tmdb.org/t/p/w500/1L0wGNuCKbrQ9wxvqFaMNKYgelz.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/onJcliYmFoGM8NrAWs6sZl8mpCB.jpg",
-            "rating": 7.1,
+            "rating": 7.121,
             "release_date": "1989-06-15",
             "total": 14,
             "uploader": "@gtv-drama",
@@ -40626,7 +41005,7 @@
             "backdrop": "https://image.tmdb.org/t/p/w1920/1QUrjFNKgVchKktX4N6DaegfPbP.jpg",
             "rating": 8.2,
             "release_date": "2023-01-03",
-            "total": 41,
+            "total": 40,
             "uploader": "@eltadrama",
             "episode": [
                 {
@@ -41415,7 +41794,7 @@
             "overview": "居住在美國的少女蘆屋瑞稀，因憧憬日本跳高選手佐野泉，不惜女扮男裝轉入全住宿制男校，並幸運成為泉的室友。然而，瑞稀入學後卻發現泉已因傷放棄跳高。為了鼓勵偶像重返賽場，她一面在充滿男性的校園中辛苦隱藏性別，一面與不知情的同學中津秀一等人，展開了笑料百出又甜蜜的校園三角戀愛喜劇。",
             "poster": "https://image.tmdb.org/t/p/w500/zCBKDggN5dpYxJejGBobjo60sHe.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-            "rating": 7.69,
+            "rating": 7.7,
             "release_date": "2026-01-04",
             "total": 27,
             "uploader": "@gtv-drama",
@@ -51291,7 +51670,7 @@
             "overview": "故事發生在大宋年間。揚州通判盛紘的女兒明蘭（趙麗穎 飾）蕙質蘭心，聰穎可人，可惜母親偏為側室，因此倍遭嫡母及其爪牙的忌恨。明蘭聽從母親的臨終囑託，收斂鋒芒，投靠盛老太太羽翼呵護。而在此期間，她與寧遠侯府二公子顧廷燁（馮紹峰 飾）從陌生到相知，後者更成為她人生中不可多得的貴人。母親的離開並未讓明蘭從此安然，即使有老太太的呵護，盛府上下依然遍佈明槍暗箭，隨時威脅著她的安全。在這一過程中，明蘭猶如浴火鳳凰，忍辱負重，一步步闖過人生重重考驗，用自己的力量追尋著人間公正和屬於自己的幸福……",
             "poster": "https://image.tmdb.org/t/p/w500/5R1YSPffQWEOwlXVAwxPYUmRH4z.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/64YigOkGkBVUvWo9WpR45y4zjuf.jpg",
-            "rating": 7.5,
+            "rating": 7.6,
             "release_date": "2018-12-23",
             "total": 73,
             "uploader": "@gtv-drama",
@@ -54860,10 +55239,10 @@
         {
             "id": "PLk2gvyPpHLRfkycV391sX9p94OrbyS1Q4",
             "title": "蜀山戰紀之劍俠傳奇",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/rXsnVOgHtWIFG7xcUszef44YEkC.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1920/p1uwlNSoErBRjREzzTo0UMxbllk.jpg",
-            "rating": 0,
+            "overview": "《蜀山戰紀》是由江蘇稻草熊影業有限公司投資出品，黃偉傑執導，馬焱、李晶凌、江萊、林俐穎編劇，趙麗穎、陳偉天靚、吳奇隆領銜主演，葉祖新、劉思彤、樊少王、張霆天霖、高偉光、高威、晨、韓雨芹、魏春光、李進榮、吳華新、崔鐘、武莉主演，宗峰岩特別演出的古裝武俠劇。\n\n該劇講述丁隱是蜀山派的弟子，他的體內有掌門諸葛駕馭我所打入的傳世珍寶赤魂石，諸葛駕馭我想要將天賦異禀的丁隱培養成武林高手，打敗他的宿敵綠袍尊者，為武林除害，造福江湖的故事。",
+            "poster": "https://image.tmdb.org/t/p/w500/9ADOi9I4QMvO3DaYCwms4euOyWZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1920/gisytyDjoxfIH80ZkaR0Da5LKfJ.jpg",
+            "rating": 7.4,
             "release_date": "2015-09-22",
             "total": 54,
             "uploader": "@gtv-drama",
@@ -63546,7 +63925,7 @@
             "overview": "　　青年郭振華（成龍飾）赴港謀求發展，路見不平之下捲入兩派黑幫爭鬥，卻陰差陽錯做了幫派大哥，郭振華反思此一段奇遇，發覺是街邊賣花的玫瑰夫人（歸亞蕾飾）將好運帶給了自己，自此談判、出門前總要購買玫瑰夫人的玫瑰以求心安。郭振華將幫派所屬麗池飯店改為夜總會經營，飯店前任老闆之女楊露明（梅艷芳飾）出於還債在夜總會表演結果大紅大紫，郭楊二人更發展出了一段戀情。覬覦夜總會生意多時的福建幫頻頻向郭振華髮難，郭一如既往向玫瑰夫人求運，意外發現玫瑰夫人正身陷更大的麻煩，原來她為使外地的女兒安心讀書編造了自己堂皇的身份，而眼下終於面臨戳穿，郭出於感激幫助玫瑰夫人圓謊，由此引發了連環笑料……\r 　　本片根據Frank Capra的作品《一日貴婦》改編，大量香港明星在本片中客串演出。",
             "poster": "https://image.tmdb.org/t/p/w500/1L0wGNuCKbrQ9wxvqFaMNKYgelz.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/onJcliYmFoGM8NrAWs6sZl8mpCB.jpg",
-            "rating": 7.1,
+            "rating": 7.121,
             "release_date": "1989-06-15",
             "total": 14,
             "uploader": "@gtv-drama",
@@ -65367,7 +65746,7 @@
             "backdrop": "./images/backdrop.jpg",
             "rating": 0,
             "release_date": "2026-09-01",
-            "total": 1,
+            "total": 8,
             "uploader": "@DaAiDrama",
             "episode": [
                 {
@@ -65375,6 +65754,48 @@
                     "ep": 1,
                     "title": "轉角那間心藥局",
                     "url": "https://www.youtube.com/watch?v=beLVTEvybkY"
+                },
+                {
+                    "id": "vUb-QNohEc0",
+                    "ep": 1,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=vUb-QNohEc0"
+                },
+                {
+                    "id": "xNe9rnzIcoY",
+                    "ep": 2,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=xNe9rnzIcoY"
+                },
+                {
+                    "id": "qM-8HtakAFI",
+                    "ep": 3,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=qM-8HtakAFI"
+                },
+                {
+                    "id": "ISPqg7d-xRA",
+                    "ep": 4,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=ISPqg7d-xRA"
+                },
+                {
+                    "id": "a_C65VekkTE",
+                    "ep": 5,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=a_C65VekkTE"
+                },
+                {
+                    "id": "AmWavdjFGPk",
+                    "ep": 6,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=AmWavdjFGPk"
+                },
+                {
+                    "id": "vXNnbP1wTCc",
+                    "ep": 7,
+                    "title": "轉角那間心藥局",
+                    "url": "https://www.youtube.com/watch?v=vXNnbP1wTCc"
                 }
             ]
         },
@@ -67599,7 +68020,7 @@
             "overview": "這是個關於禁忌的愛與社會習俗變化的美麗故事，描述身為警察的湯姆（哈利斯泰爾斯/萊納斯洛區飾演）與教師瑪莉安（艾瑪科林/吉娜麥吉飾演）以及美術館館長派翠克（大衛道森/魯伯特艾瑞特飾演）之間一段相隔四十年的三角戀情。",
             "poster": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
-            "rating": 7.511,
+            "rating": 7.503,
             "release_date": "2022-10-20",
             "total": 5,
             "uploader": "@DaAiDrama",
@@ -68029,7 +68450,7 @@
             "overview": "名導賈法潘納希挑戰電影形式極限，把攝影機裝在計程車上，開著它穿梭德黑蘭大街小巷，讓形形色色百姓上車，一起鑽入這座流動的城市片廠。乘客包括販賣盜版光碟的男子、捧著魚缸的大嬸、還有賈法潘納希表現搶眼的親姪女，一幕幕和「司機」幽默風趣的互動譜寫鮮明的庶民風情，一探伊朗社會百態，更藉由這些角色與對話，對伊朗社會現狀進行了巧妙且深刻的批判。",
             "poster": "https://image.tmdb.org/t/p/w500/woykRyTNao03jvRfv3RNr1B1Luf.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1920/677ohgE1vEEMSIHZILT19z4rf58.jpg",
-            "rating": 7.053,
+            "rating": 7.1,
             "release_date": "2015-04-15",
             "total": 5,
             "uploader": "@DaAiDrama",
