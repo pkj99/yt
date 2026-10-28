@@ -39,6 +39,32 @@
         "country": "法國"
     },
     {
+        "id": 4877,
+        "title": "汪汪隊立大功：恐龍大電影",
+        "m3u8_url": "http://192.168.1.249:4000/ch4kf35zo.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/8Yi6mgiefgd6TDLb9uNlvuNVtlk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+        "overview": "飛船被捲入一場神祕風暴，汪汪隊的狗狗們於是迫降在一座充滿恐龍的未知熱帶小島，並遇見了受困在小島多年、精通所有恐龍知識的狗狗雷克斯。汪汪隊的死對頭韓丁納市長覬覦小島的天然資源，便展開魯莽的開採行動，卻意外引發了休眠火山的大爆發。汪汪隊因此必須展開前所未有、風險升級的恐龍級救援任務，在這座小島上的一切滅絕之前阻止韓丁納。",
+        "genre": "冒險片",
+        "release_date": "2026-07-23",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4880,
+        "title": "海洋奇緣",
+        "m3u8_url": "http://192.168.1.249:4000/ch4k03rww.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tAjwKOQHHRgtMpt1sR28sIFWrO5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "overview": "《海洋奇緣》真人版，由艾美獎及東尼獎雙項贏家熱門音樂劇《漢米爾頓》導演湯瑪斯凱爾執導，電影敘述海洋公主莫娜遠渡重洋、與莫逆之交毛伊攜手拯救族人，除了巨石強森以真面目再度飾演廣受喜愛的毛伊，在前導預告中光以背面現身即令影迷興奮不已，莫娜則由萬中選一的耀眼新星凱薩琳拉加阿雅（Catherine Lagaʻaia）初登大銀幕、一展驚豔歌喉！",
+        "genre": "家庭片",
+        "release_date": "2026-07-08",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2676,
         "title": "世界大戰",
         "m3u8_url": "http://192.168.1.249:4000/ch1yqn95d.m3u8",
@@ -295,6 +321,19 @@
         "genre": "冒險片",
         "release_date": "2017-05-23",
         "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4880,
+        "title": "海洋奇緣",
+        "m3u8_url": "http://192.168.1.249:4000/ch4k03rww.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/zyldaLGUo7oZpI9Z1bYPg59uPQw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+        "overview": "故事背景發生在南太平洋島嶼，主角莫娜的族人本來在島嶼上安居樂業，直到有一天，漁獲數量漸漸短少，而且農作物也漸漸減少產值，樹木慢慢枯死…莫娜的阿嬤告訴她一個神祕的傳說-- 大地之母本來擁有一顆海洋之心，但是卻被一位半神人毛伊取走，因此釋放了黑暗力量，生態的平衡受到了破壞，漸漸影響了每個海域，現在農作物與漁獲變少也就是因為黑暗力量的關係，所以莫娜的使命則是找到半神人毛伊，請他歸還海洋之心，讓一切恢復原狀…",
+        "genre": "冒險片",
+        "release_date": "2016-10-13",
+        "rating": 8,
         "quality": "BD",
         "country": "美國"
     },
@@ -780,6 +819,32 @@
         "country": "美國"
     },
     {
+        "id": 5023,
+        "title": "賭城風情畫",
+        "m3u8_url": "http://192.168.1.249:4000/ch4pmdjxa.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qJaR9AZx2Qq2oJ3krnSO0Z5ne5I.jpg",
+        "overview": "故事敘述1971年，一個自由作家者Raoul Duke（強尼戴普飾）接受《運動畫刊》的邀稿，到拉斯維加斯採訪一場在沙漠裡舉辦的摩托車大賽「Mint 400」，他與自己的律師Gozo(班尼西歐岱托羅飾）開著敞篷車上路，車裡帶著大麻、LSD、迷幻藥、可卡、安非他命、海洛因、腎上線素等各式各樣的毒品，展開了一場美國夢追尋之旅，在賭城這個眼花瞭亂的城市中，Duke以其特有的文筆與觀察，講述了美國社會的現況與崩解。",
+        "genre": "冒險片",
+        "release_date": "1998-05-22",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4895,
+        "title": "魔法公主",
+        "m3u8_url": "http://192.168.1.249:4000/ch4lt14ws.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/nBBnjdKb2QEB1A1HKz56rvCudQc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "overview": "在古老的年代裡，所有的森林均由守護神守護著，其中一支隱匿在山裡的族群，已享受數百年的太平盛世，不料，一隻受邪魔詛咒的山豬竟對該族攻擊。混亂中，英勇的族人阿席達卡殺了山豬，卻因此受傷，並中了邪魔的詛咒，生命危在旦夕。為破解咒語，阿席達卡遠赴他鄉，希望為自己和族人找出一條生路。在這趟旅程中，他意外結識了從小由山犬撫養長大的魔法公主。而為了守護森林，魔法公主不惜與敵人展開一場你死我活的戰役。在這場大自然與人類的對決中，阿席達卡能夠阻止大殺戮的發生，順利解除身上的詛咒嗎？",
+        "genre": "冒險片",
+        "release_date": "1997-07-12",
+        "rating": 8,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 2887,
         "title": "平成狸合戰",
         "m3u8_url": "http://192.168.1.249:4000/ch23vfqql.m3u8",
@@ -806,6 +871,32 @@
         "country": "美國"
     },
     {
+        "id": 5024,
+        "title": "回到未來3",
+        "m3u8_url": "http://192.168.1.249:4000/ch4q1cxzm.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/5nOmKMfUc3F5O8Dr8exp78QQuaX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+        "overview": "馬帝與怪博士三度展開刺激驚險的時光旅行！  一日，馬帝接到了怪博士從100年前寫來的信，信中表示他目前身處1885年的美國西部，過著平靜的生活。但是，馬帝發現怪博士在寫完這封信不久後，就被壞人射殺身亡了，為了拯救老友的性命，他必須乘坐時光機器，及時回到怪博士還未被射殺前，預先警告他。  當馬帝到了1885年時，發現怪博士愛上了西部小鎮上的一個女人克萊拉（瑪麗史汀柏格飾），樂不思蜀，非常不情願的答應與馬帝回到1985年。當他們登上時光機器後，一陣閃電意外的將怪博士又送回了1885年，而馬帝卻被困在1955年！雪上加霜的是，時光機器的油料不足，僅夠一次的旅程......  眼看老友的命在旦夕，馬帝應該利用最後的油，回到1985年與家人團聚呢？還是回到1885年，拯救怪博士的性命呢？",
+        "genre": "冒險片",
+        "release_date": "1990-05-25",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 5025,
+        "title": "回到未來2",
+        "m3u8_url": "http://192.168.1.249:4000/ch4pxm3h1.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/uXjCGaoT24WSZIsYmxouJOEEm6x.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+        "overview": "在「回到未來」第一集中，馬帝（米高福克斯）與怪博士布朗（克里斯多夫洛伊）乘坐時光機器回到1955年，經過一連串驚險的經歷後，兩人終於回到了1985年。  但是，平靜的日子過了沒多久，怪博士突然又闖入了馬帝的生活，因為他再度時光旅行前往未來時，發現了一些怪事，可能危及到馬帝未來的孩子，為了確保馬帝後代的未來，於是他與怪博士再度跳上了時光機，前往2015年。兩人到了2015年後，不但得應付未來種種怪異的環境，同時還得制服小混混畢夫。  沒想到，畢夫竟然偷了詳細記錄50年來運動比賽輸贏的書，再利用時光機前往1955年，讓該時空的畢夫利用這本書在賭場上贏得千萬身價，從此作威作福，將純樸的小鎮變成了人間地獄！為了避免畢夫扭曲既有的歷史，馬帝與博士必須乘坐時光機，奔波於2015年、1985年、與1955年三個年代，將畢夫手上的書奪回。但說來容易做來難，時間一點一滴的流逝，兩人是否能成功呢？",
+        "genre": "冒險片",
+        "release_date": "1989-11-22",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 4685,
         "title": "小美人魚",
         "m3u8_url": "http://192.168.1.249:4000/ch04qku8g.m3u8",
@@ -828,6 +919,19 @@
         "genre": "動畫片",
         "release_date": "1989-11-17",
         "rating": 6,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 5026,
+        "title": "回到未來",
+        "m3u8_url": "http://192.168.1.249:4000/ch4pv474n.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/wZOsxwQjTdtSki0MiPIy8Zu9lv1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+        "overview": "米高福克斯飾演一個80年代的青少年，他在一個科學家的幫助下，通過時光隧道回到50年代，差點兒因為破壞了當時互為情侶的父母的戀愛，而使自己「消失」在這世界上！",
+        "genre": "冒險片",
+        "release_date": "1985-07-03",
+        "rating": 8,
         "quality": "BD",
         "country": "美國"
     },
@@ -884,6 +988,19 @@
         "country": "英國"
     },
     {
+        "id": 4879,
+        "title": "特立獨行",
+        "m3u8_url": "http://192.168.1.249:4000/ch4k2lo9q.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "2026-07-03",
+        "rating": 2,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 4372,
         "title": "天才少女福爾摩斯 3",
         "m3u8_url": "http://192.168.1.249:4000/ch4bqxuse.m3u8",
@@ -897,6 +1014,19 @@
         "country": "美國"
     },
     {
+        "id": 4878,
+        "title": "小氣鬼",
+        "m3u8_url": "http://192.168.1.249:4000/ch4k6cisb.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/sJVh2U27BXwnfT05kpLOmo0ZUop.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/wjcu5Wi4fbkyQN3kH3J1naTK40T.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "2026-06-27",
+        "rating": 8,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 4780,
         "title": "開放性邀請",
         "m3u8_url": "http://192.168.1.249:4000/ch4i3fkev.m3u8",
@@ -908,6 +1038,19 @@
         "rating": 8,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 4936,
+        "title": "一個部門的誕生",
+        "m3u8_url": "http://192.168.1.249:4000/ch4mqqrkh.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/azv0T4WEDjaaRe7ZeiegUEsKMHs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eW7S7tCPWQW50Bt1YHF0FPI1m16.jpg",
+        "overview": "青年德仔（戴玉麒 飾）因電視臺會員套餐問題多次撥打客服電話卻始終無法退訂，前往營業廳線下辦理退訂業務時遇到重重阻礙，陰差陽錯之下變成「持槍劫匪」。客服人員（白只 飾）、執勤警員（麥沛東 飾）連同電視臺吉祥物（廖子妤 飾）、來訪使用者等人盡數被挾持，開心電視臺客戶服務大廳內鬧劇不斷。小小的退費糾紛迅速發酵成全城關注的荒誕劫案，就連警方介入幫忙後，也難逃工作人員層層推諉扯皮、熱線電話等候永無止境的無解局面，這場離譜的退訂風波最終將如何收場？",
+        "genre": "劇情片",
+        "release_date": "2026-06-13",
+        "rating": 8,
+        "quality": "BD",
+        "country": "香港"
     },
     {
         "id": 4350,
@@ -1703,6 +1846,19 @@
         "country": "中國"
     },
     {
+        "id": 4882,
+        "title": "出入平安",
+        "m3u8_url": "http://192.168.1.249:4000/ch4kdu7th.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "2024-09-30",
+        "rating": 0,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 565,
         "title": "死亡天使",
         "m3u8_url": "http://192.168.1.249:4000/ch0fqdr0z.m3u8",
@@ -2128,6 +2284,19 @@
         "genre": "劇情片",
         "release_date": "2023-08-05",
         "rating": 7,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
+        "id": 5016,
+        "title": "熱烈",
+        "m3u8_url": "http://192.168.1.249:4000/ch4p3nbbx.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/w5qD4BldEHjvcYOtkJdUHsPwTuy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hSxduda5y1S20DejDC5FpeLbYvH.jpg",
+        "overview": "街舞老炮兒丁雷（黃渤 飾），偶遇賣藝少年陳爍（王一博 飾），丁雷忽悠陳爍加入自己經營的舞團。舞團內高手如雲，性格各異，與陳爍碰撞出不同的火花，笑料不斷。陳爍熱烈追夢，期待著上場的機會，卻發現丁雷邀請他其實另有目的，而丁雷和陳爍，也都將面對接二連三的沈重打擊，他們能否逆風翻盤，回擊人生難題？",
+        "genre": "劇情片",
+        "release_date": "2023-07-28",
+        "rating": 6,
         "quality": "BD",
         "country": "中國"
     },
@@ -5070,6 +5239,19 @@
         "country": "日本"
     },
     {
+        "id": 4939,
+        "title": "見習修女",
+        "m3u8_url": "http://192.168.1.249:4000/ch4m80iz4.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ntsyazWKclgwObVftWVVAEBcvRq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4MLjm9ghDgx2cccqdKDRhBla9VT.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "2017-10-27",
+        "rating": 6,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 1874,
         "title": "最後一個音符",
         "m3u8_url": "http://192.168.1.249:4000/ch34e7aq8.m3u8",
@@ -6082,6 +6264,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 5021,
+        "title": "警校禁戀",
+        "m3u8_url": "http://192.168.1.249:4000/ch4r42dcj.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/l7yoSvt19fST0kLY0wefTwMXECk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/aCNfKTJstRM5LjbLRy2s3cOnNkE.jpg",
+        "overview": "超Man特警馬克，特訓時遇見帥氣的新室友凱，原本的緊張關係，竟在森林晨跑中「呼」出一觸即發的「基」情，「森林晨跑」從此成為兩人幽會的暗語。然而馬克剛和懷孕女友搬與父母比鄰而居，卻又享受著與凱的情慾解放，直到謊言崩解，馬克被迫捫心自問：他的最愛究竟是誰？像是《囍宴》撞上《斷背山》，獲選柏林影展德國單元開幕片。",
+        "genre": "劇情片",
+        "release_date": "2013-05-27",
+        "rating": 8,
+        "quality": "BD",
+        "country": "德國"
     },
     {
         "id": 2292,
@@ -7436,6 +7631,19 @@
         "country": "日本"
     },
     {
+        "id": 4893,
+        "title": "無法無天",
+        "m3u8_url": "http://192.168.1.249:4000/ch4lrs6ql.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/lGfaMxcdYaHNEVPQf3ocHPJvFUW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+        "overview": "「天主之城」是最危險的貧民窟，住在這裡的孩子們幾乎人手一槍，進入此區的貨車都難逃被劫的命運，已成了暴力毒品的天堂，連警察都不願意輕易涉足。導演用超動感的剪輯，呈現片中死亡與鮮血的畫面，配上輕快的森巴背景音樂，彷彿殺人變得合理、犯罪得到快感，加上靈活的運鏡手法，讓人遊走在理性的邊緣，但是又不至迷失人性。",
+        "genre": "劇情片",
+        "release_date": "2002-08-30",
+        "rating": 8,
+        "quality": "BD",
+        "country": "巴西"
+    },
+    {
         "id": 2751,
         "title": "永遠的莉莉亞",
         "m3u8_url": "http://192.168.1.249:4000/ch1110l5p.m3u8",
@@ -7657,6 +7865,19 @@
         "country": "韓國"
     },
     {
+        "id": 4894,
+        "title": "暗戰",
+        "m3u8_url": "http://192.168.1.249:4000/ch4kvbi8n.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/vHZS5Ja1JJ7oxPLKI5ilae7iSNu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/a0jFMDNLmkIooaOvlWHnkrUJMeF.jpg",
+        "overview": "只剩四個星期壽命的癌症患者張華（劉德華 飾）打劫財務公司，搶去鑽石並脅持人質。剛被調任文職兼任談判專家的何尚生（劉青雲 飾）趕到現場，想勸張華自首。張華揚言要與尚生玩一場72小時的「遊戲」後逃掉，尚生對此深深不忿。張華在逃離過程中，遇上警察路障，於是脅持路人梁婉婷（蒙嘉慧 飾），與她假扮情侶以脫險。\r 72小時的遊戲由一顆張華寄給何尚生的螺絲釘展開：尚生夜闖財務公司，不料中了張華的計。原來張華一直監視尚生，並利用後者意圖搶劫財務公司旁的運輸公司幕後主腦陳（李子雄 飾）的珠寶。張華利用尚生調虎離山，假扮陳的模樣，從陳的手下取得寶石後逃離現場。尚生在調查中發現陳走私珠寶，並於多年前曾經出賣張華的父親，張華於是在父親死後，從英國回港，以報父仇。\r 為了拘捕張華，尚生不得以答應和華合作共同對付陳。華男扮女裝，利用尚生智取陳的2,000萬鉅款後攜帶寶石項鏈趁亂逃走，陳因華的偷樑換柱之計（交易現場有華留下的財務公司的鑽石）而被警方逮捕。尚生在汽車上等候，但又再次讓華順利逃離，失去了把他送上警署的機會。之後尚生從報紙上得知華以尚生的名義將2,000萬圓捐獻給兒童癌症基金會，而華也從此消失無蹤。\r 三年後，尚生在小巴上碰到戴著寶石項鏈的婉婷。原來華送項鏈給婉婷時說是假貨，但是尚生也沒有說出真相，就讓婉婷此生都記著這段浪漫奇緣。",
+        "genre": "劇情片",
+        "release_date": "1999-09-23",
+        "rating": 7,
+        "quality": "BD",
+        "country": "香港"
+    },
+    {
         "id": 2835,
         "title": "海上鋼琴師",
         "m3u8_url": "http://192.168.1.249:4000/ch3dcc7by.m3u8",
@@ -7681,6 +7902,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "法國"
+    },
+    {
+        "id": 5029,
+        "title": "十二怒漢",
+        "m3u8_url": "http://192.168.1.249:4000/ch4pnmi3h.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/whDdYx3lh1LHTN0VlPFt51fX29g.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/rTf1rucbSn8IaW4AU11lvBk3JmX.jpg",
+        "overview": "",
+        "genre": "劇情片",
+        "release_date": "1998-05-01",
+        "rating": 9,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 2853,
@@ -8307,6 +8541,19 @@
         "country": "義大利"
     },
     {
+        "id": 5028,
+        "title": "阿Q正傳",
+        "m3u8_url": "http://192.168.1.249:4000/ch4ouwo44.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/3CoTYHKPGUNUr0KSHcvHMkody36.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/34Q9YK926sY4TnG1e6UR8qGPMXe.jpg",
+        "overview": "　　身形猥瑣、其貌不揚的阿Q（嚴順開 飾）是未莊一個靠打短工度日的小人物。他家徒四壁，窮得連姓都沒有。雖然如此，阿Q卻始終自我感覺良好，或瞧不起裝模作樣的假洋鬼子，或與地主趙太爺攀親。當然換來的往往不是尊敬，而是鄙夷甚至一頓毒打。好在阿Q有著一套自我安慰的「精神勝利法」，所以肉體上吃虧的他最終能在精神上得到滿足。自從被趙太爺打和調戲吳媽受罰之後，阿Q的日子愈加難過。萬般無奈之下，他只得進城謀求生路。陰差陽錯的一些事，竟讓阿Q在未莊人眼裡成了手握重權的革命黨，這個憋屈半輩子的小人物總算暫時抖了起來⋯⋯\r 　　根據魯迅同名小說改編，並榮獲瑞士第2屆國際喜劇電影節最佳男演員獎。",
+        "genre": "劇情片",
+        "release_date": "1981-06-04",
+        "rating": 7,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 3022,
         "title": "象人",
         "m3u8_url": "http://192.168.1.249:4000/ch2rcqdqw.m3u8",
@@ -8476,6 +8723,19 @@
         "country": "英國"
     },
     {
+        "id": 5029,
+        "title": "十二怒漢",
+        "m3u8_url": "http://192.168.1.249:4000/ch4pnmi3h.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/jtu5QaQ9JrbODy65Nlbeufadpsn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+        "overview": "本片所有場景幾乎都發生在一個小房間內，講述11名陪審團如何在另一名持反對意見的陪審團的說服下放棄成見，以挽救一條性命。 故事背景設定在1950年的美國紐約，一名在平民窟長大的西班牙裔美國少年，被控以彈弓刀殺死自己的親生父親，案發時目擊者和證物鐵證如山，少年將被處以一級謀殺的死刑。擔任此案的12名陪審團結案前在休息室商議案情，皆對此案不削一顧，認定少年一定是殺人兇手，只有8號陪審員，針對案情疑點逐一申論擊破，最後獲得其他陪審員的認同，進而扭轉裁判。",
+        "genre": "劇情片",
+        "release_date": "1957-04-10",
+        "rating": 9,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 3057,
         "title": "護士日記",
         "m3u8_url": "http://192.168.1.249:4000/ch1eb85cu.m3u8",
@@ -8604,6 +8864,32 @@
         "rating": 7,
         "quality": "BD",
         "country": "法國"
+    },
+    {
+        "id": 4967,
+        "title": "Matchbox 電影",
+        "m3u8_url": "http://192.168.1.249:4000/ch4o26u57.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/2pDMnUmn9DE1DmuqF8HrNad6W6f.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
+        "overview": "一群童年舊識再次重逢，但一樁危險的國際陰謀為他們的相聚帶來意想不到的轉折，使得他們必須挺身拯救世界。",
+        "genre": "動作片",
+        "release_date": "2026-10-05",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4881,
+        "title": "礙的迫降",
+        "m3u8_url": "http://192.168.1.249:4000/ch4jyutqp.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/2QTgXM76o36hFssiXLrezcmmwWT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+        "overview": "冷戰時期，一名美國海軍飛行員在執行最高機密任務時受困於敵營。他唯一的生存機會是和一名古怪的前蘇聯國安會幹員聯手脫逃。",
+        "genre": "動作片",
+        "release_date": "2026-09-03",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 4219,
@@ -11271,6 +11557,19 @@
         "country": "美國"
     },
     {
+        "id": 4941,
+        "title": "神劍闖江湖3：傳說的最終篇",
+        "m3u8_url": "http://192.168.1.249:4000/ch4maifby.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/30wBFyQI1HctmAa3srZP8N0QUBQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4UXfZjqt0C5kHTROotrsnfDYCh.jpg",
+        "overview": "劍心（佐藤健　飾）來到京都，欲阻止想征服日本的志志雄（藤原龍也　飾），並與志志雄的部隊發生正面衝突。然而志志雄正準備駕駛裝甲艦－煉獄號襲擊東京。劍心為了拯救被志志雄抓走並丟入海中的小薰（武井咲　飾），他奮不顧身跳入海裡卻獨自被沖上岸，被師父比古清十郎（福山雅治　飾）救起。劍心深知以自己目前的實力無法打贏志志雄，於是請求師父傳授「飛天御劍流」的奧義。另一方面，得知劍心還活著的志志雄向政府施壓，要脅政府以幕末時代犯下的殺人罪孽，公開斬首劍心。面臨最大危機的劍心，要如何打敗最瘋狂的敵人志志雄拯救日本？並與下落不明的小薰再度相聚呢？",
+        "genre": "動作片",
+        "release_date": "2014-09-13",
+        "rating": 8,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 2148,
         "title": "移動迷宮",
         "m3u8_url": "http://192.168.1.249:4000/ch3t86yhg.m3u8",
@@ -11295,6 +11594,19 @@
         "rating": 6,
         "quality": "BD",
         "country": "英國"
+    },
+    {
+        "id": 4888,
+        "title": "神劍闖江湖2︰京都大火篇",
+        "m3u8_url": "http://192.168.1.249:4000/ch4lwrzfd.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/6rOGF3d7pgCp6lD7AL0yTpq1u3Q.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/q3jiq1PRpOGnRScbj3cur7RkZYv.jpg",
+        "overview": "緋村劍心是日本十九世紀的傳奇劍客，在動盪的幕府末年捲入爭鬥中。他曾是令人聞風喪膽的「千人斬拔刀齋」，在「新時代」來臨後過著和平的生活。當志志雄真實接替劍心成為「影子殺手」後，因為知道太多新政府的骯髒事，在新時代崛起之時，被人刺傷後放火焚燒。然而他存活下來，全身包裹著繃帶，自此在京都黑社會集結叛變的前武士，以推翻新政府為目標。劍心答應新政府的請求來打敗志志雄，離開東京的好友前往京都。他的劍術及智慧與志志雄不分軒輊，但目標卻大相逕庭。劍心能保護國家，又堅守他的不殺之誓嗎？",
+        "genre": "動作片",
+        "release_date": "2014-08-01",
+        "rating": 8,
+        "quality": "BD",
+        "country": "日本"
     },
     {
         "id": 2212,
@@ -11384,6 +11696,19 @@
         "genre": "動作片",
         "release_date": "2014-03-05",
         "rating": 6,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4890,
+        "title": "鋼鐵墳墓",
+        "m3u8_url": "http://192.168.1.249:4000/ch4le1qu0.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/zKxjirXywMVl8FTqUsWwplyuI8D.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ix9WYBqQ2xSZCgyeQ1vVdrbaFa4.jpg",
+        "overview": "雷是最強的越獄高手，他是美國國家安全局的監獄安管專家，每次越獄成功，就代表他能找出該監獄的安管漏洞。這回是雷退休前的最後一次任務，要挑戰傳說中最滴水不漏的超級監獄「墳墓」。然而當他入獄後，卻發現這是個不見天日的死獄，連放棄任務要離開也不行，典獄長還變本加厲折磨他……",
+        "genre": "動作片",
+        "release_date": "2013-10-09",
+        "rating": 7,
         "quality": "BD",
         "country": "美國"
     },
@@ -12285,6 +12610,19 @@
         "country": "美國"
     },
     {
+        "id": 4897,
+        "title": "疤面煞星",
+        "m3u8_url": "http://192.168.1.249:4000/ch4lz9vrr.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/rlLBiXufneoG2XRS9BV2UIhzTZy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
+        "overview": "改編自1932年同名之經典名作。 1983年，大批古巴移民來到美國追尋「美國夢」，湯尼（Al Pacino 飾）和好友曼尼（Steven Bauer 飾）也是其中之一，他們為黑道辦事快狠準加上經營毒品生意，很快就在邁阿密打出名聲。但是緊接而來的金錢、慾望糾葛和背叛，很快就讓湯尼的帝國搖搖欲墜...。 艾爾帕西諾在本片的精彩演出賦予了本片新的生命，加上名導演布柿恩迪帕馬（Brian De Palma）、編劇奧利佛史東（Oliver Stone）及製片馬丁柏格曼（Martin Bregman）的努力，使本片呈現出極佳的戲劇張力，揭露了美國黑社會的腐敗與黑暗。艾爾帕西諾結尾火拚的場面，以及臉上兇狠的刀疤，也成為影史經典之一。",
+        "genre": "動作片",
+        "release_date": "1983-12-09",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 3033,
         "title": "洪拳小子",
         "m3u8_url": "http://192.168.1.249:4000/ch0s94ffe.m3u8",
@@ -12324,6 +12662,19 @@
         "country": "美國"
     },
     {
+        "id": 4953,
+        "title": "仙逆劇場版：弒仙之戰",
+        "m3u8_url": "http://192.168.1.249:4000/ch4mwzifw.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+        "overview": "",
+        "genre": "動畫片",
+        "release_date": "2026-10-01",
+        "rating": 7,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 4771,
         "title": "完美世界劇場版 九劫焚天",
         "m3u8_url": "http://192.168.1.249:4000/ch4g5ieqn.m3u8",
@@ -12348,6 +12699,32 @@
         "rating": 7,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 5011,
+        "title": "劇場版物怪第3章：蛇神",
+        "m3u8_url": "http://192.168.1.249:4000/ch4otnpxx.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/93zvlPMHQb3xoX40bNL8bck7O00.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/5bMDrznr5P9GcClJF0OeE4NxZn9.jpg",
+        "overview": "悲劇降臨在大奧宮闈之內，人們扭曲的執念與積累的仇怨催生出賣藥郎至今遇過最可怕的對手。",
+        "genre": "動畫片",
+        "release_date": "2026-05-29",
+        "rating": 9,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
+        "id": 5012,
+        "title": "花綠青綻放之時",
+        "m3u8_url": "http://192.168.1.249:4000/ch4or5tlj.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/tX2WwEkOgE90HAtPcPli2quY1En.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/uuVLGMIIGwz9QbBlvDvGlfU5HkI.jpg",
+        "overview": "在鬱綠森林旁，創業330年的「帶刀煙火店」成為沒落小鎮改建計畫的頑強釘子戶，敬太郎死守老家，矢志替失蹤父親完成傳說的煙火「守破離」。離鄉多年的青梅竹馬薰、順應體制的公務員哥哥千太郎，各懷心思的三人再度重逢，共同尋找夢幻煙火的祕密。那一道道劃破星空的光芒，只存在於想像中的美麗，可否為停滯的人生照亮嶄新的黎明？",
+        "genre": "動畫片",
+        "release_date": "2026-03-06",
+        "rating": 7,
+        "quality": "BD",
+        "country": "日本"
     },
     {
         "id": 1,
@@ -12788,6 +13165,19 @@
         "genre": "動畫片",
         "release_date": "2021-06-11",
         "rating": 7,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
+        "id": 4954,
+        "title": "銀河騎士傳 織愛之星",
+        "m3u8_url": "http://192.168.1.249:4000/ch4n881zn.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1CMDjGG8UBLkZPcUneugG96w1P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4FyFYX9B4EW2iKqdaOaDuiMk5UN.jpg",
+        "overview": "《銀河騎士傳》故事以宇宙為舞台，描述太陽系遭到神祕生物「奇居子」破壞之後過了千年。巨大播種船「賽德尼亞」，為了維持人類的繁衍而航行於太空中。在賽德尼亞最底層長大的少年「谷風長道」，成為衛人訓練生的他，被允許駕駛著雖是舊型、但歷史悠久的名機繼衛，為保衛同伴進而與奇居子展開戰鬥。",
+        "genre": "動畫片",
+        "release_date": "2021-06-04",
+        "rating": 6,
         "quality": "BD",
         "country": "日本"
     },
@@ -13767,6 +14157,45 @@
         "country": "日本"
     },
     {
+        "id": 4968,
+        "title": "一路超平安",
+        "m3u8_url": "http://192.168.1.249:4000/ch4o0xvz0.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/9IpSEwd7vmE2wUIDwvyf2RhiT7f.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/tKVo3s6MsSEyCPMFWzpu8fhdQ37.jpg",
+        "overview": "",
+        "genre": "喜劇片",
+        "release_date": "2026-09-19",
+        "rating": 3,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
+        "id": 5013,
+        "title": "害群之馬",
+        "m3u8_url": "http://192.168.1.249:4000/ch4qbcjdm.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+        "overview": "",
+        "genre": "喜劇片",
+        "release_date": "2026-09-10",
+        "rating": 7,
+        "quality": "BD",
+        "country": "英國"
+    },
+    {
+        "id": 4964,
+        "title": "大唐妖探",
+        "m3u8_url": "http://192.168.1.249:4000/ch4okx2qk.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+        "overview": "",
+        "genre": "喜劇片",
+        "release_date": "2026-08-08",
+        "rating": 6,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 4349,
         "title": "人夫總動員",
         "m3u8_url": "http://192.168.1.249:4000/ch49qisrc.m3u8",
@@ -14116,6 +14545,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 5015,
+        "title": "人生路不熟",
+        "m3u8_url": "http://192.168.1.249:4000/ch4p4w9i4.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/iddfS5fGtMeI2oexwCl7xPhBuhS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/mvyh8tXxuuaAFGR6QGQEbxfsd1s.jpg",
+        "overview": "一家四口意外開啟一段有笑有淚的卡車之旅！卡車司機周東海非常不看好準女婿萬一帆，為討未來岳父歡心，萬一帆越努力越「翻車」，準岳母霍梅梅和女兒周微雨也為調解這對冤家費盡心思，倒楣不斷的萬一帆，能否在旅途中通過未來岳父周東海的種種考驗。",
+        "genre": "喜劇片",
+        "release_date": "2023-04-28",
+        "rating": 5,
+        "quality": "BD",
+        "country": "中國"
     },
     {
         "id": 435,
@@ -14781,6 +15223,19 @@
         "country": "美國"
     },
     {
+        "id": 4938,
+        "title": "完美搭檔",
+        "m3u8_url": "http://192.168.1.249:4000/ch4m6rksx.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/i7sOh7g5cKpl16V1fXd6rNDVTiy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eNQLc072eu0ttmfJYx7Xhrc3iHS.jpg",
+        "overview": "哥哥世河雖然擁有過人智慧，但沒有弟弟東究就哪裡都去不了。弟弟東究雖然擁有出色游泳技術，但沒有哥哥也什麼都無法做。兩人雖然沒有血緣關係，但二十年來卻一心同體般地生活在一起。某天，負責管理這對「特別兄弟」棲身處「責任之家」的神父過世了，不但失去所有資助，也讓兩人面臨即將被迫分離的危機…。",
+        "genre": "喜劇片",
+        "release_date": "2019-05-01",
+        "rating": 8,
+        "quality": "BD",
+        "country": "韓國"
+    },
+    {
         "id": 1470,
         "title": "出走巴黎",
         "m3u8_url": "http://192.168.1.249:4000/ch2qg9p8y.m3u8",
@@ -15002,6 +15457,19 @@
         "country": "美國"
     },
     {
+        "id": 4885,
+        "title": "羞羞的鐵拳",
+        "m3u8_url": "http://192.168.1.249:4000/ch4ku2k2g.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/i7lhHL8puIpgxtxBhFj8mKVeB9k.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/lyGuft4aGUrCTvsOBNlvb6YcRCE.jpg",
+        "overview": "",
+        "genre": "喜劇片",
+        "release_date": "2017-09-30",
+        "rating": 6,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 1875,
         "title": "熊幸福騙局",
         "m3u8_url": "http://192.168.1.249:4000/ch32mivwz.m3u8",
@@ -15158,6 +15626,19 @@
         "country": "美國"
     },
     {
+        "id": 5019,
+        "title": "崩壞人生",
+        "m3u8_url": "http://192.168.1.249:4000/ch4qsttss.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/bt7mpgYB9yvPLbmmNCov3Jjf5hq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/dapUorbOMzlaB12dACCtaiuaTQz.jpg",
+        "overview": "《藥命俱樂部》導演尚馬克瓦列執導，《震撼擂台》傑克葛倫霍與《分歧者2：叛亂者》娜歐蜜華茲主演。 紐約投資銀行家戴維斯米契（傑克葛倫霍 飾）與愛妻過著大家稱羨的美滿生活，眼看人生一帆風順，沒想到突而其來的車禍卻讓他們天人永隔。痛喪妻子的戴維斯表現出一副事不關己的樣子，親友們對於他的「異常冷靜」都感到憂心。 戴維斯忙著處理各種雜事而身心交瘁，卻還是保持冷漠，直到醫院自動販賣機故障，吃了他的銅板，竟成了壓垮他的最後一根稻草，情緒崩潰的戴維斯決心向自動販賣機公司客訴，而當販賣機公司客服人員（娜歐蜜華茲 飾）收到如雪片般飛來、都是同一個人寫來的投訴信，開始對戴維斯這個人產生好奇，而瀕臨失控的戴維斯，究竟該如何重拾一切崩壞的生活？",
+        "genre": "喜劇片",
+        "release_date": "2016-04-06",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2123,
         "title": "唐人街探案",
         "m3u8_url": "http://192.168.1.249:4000/ch2rgh89h.m3u8",
@@ -15249,6 +15730,19 @@
         "country": "英國"
     },
     {
+        "id": 4974,
+        "title": "心花路放",
+        "m3u8_url": "http://192.168.1.249:4000/ch4nfpr19.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/q71oIp6uUEF0EwsDcIGIFwik8sM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/7x6aqCRhd7ir5Eivj5L0zX7htL5.jpg",
+        "overview": "寧浩執導，黃渤、徐崢、周冬雨領銜主演的公路喜劇片。講述一個失婚男人酒醉後，被迫被好哥們載上車，展開一場充滿驚奇與回憶之旅。  耿浩（黃渤飾）婚姻遭遇了小三危機被迫離婚，陷入了難以自拔的痛苦中，好友郝義（徐崢飾）為了幫他擺脫痛苦，決定帶他南下獵豔，遍訪「百花」。於是兩個暴走兄弟帶上一隻狗，開始了一段瘋狂而搞笑的放浪旅途。  一路上他們結識各式女伴，並經歷了一連串奇葩的遭遇。最後，兩人最終明白了愛的真諦，並獲得彼此的幸福。",
+        "genre": "喜劇片",
+        "release_date": "2014-09-26",
+        "rating": 6,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 2217,
         "title": "歡迎來到布達佩斯大飯店",
         "m3u8_url": "http://192.168.1.249:4000/ch3e521av.m3u8",
@@ -15262,6 +15756,19 @@
         "country": "美國"
     },
     {
+        "id": 5006,
+        "title": "巴迪",
+        "m3u8_url": "http://192.168.1.249:4000/ch4qa3l7f.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/uWGfl0DHyUvCdXLdQmC3n5bZsPR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/eshkakDIN3nwZZt6uvYKW15BPSd.jpg",
+        "overview": "",
+        "genre": "喜劇片",
+        "release_date": "2013-12-25",
+        "rating": 6,
+        "quality": "BD",
+        "country": "德國"
+    },
+    {
         "id": 2278,
         "title": "世芥末日",
         "m3u8_url": "http://192.168.1.249:4000/ch01dgrgx.m3u8",
@@ -15273,6 +15780,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "英國"
+    },
+    {
+        "id": 4891,
+        "title": "登堂入室",
+        "m3u8_url": "http://192.168.1.249:4000/ch4kmkv1a.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/eVRaJCHd6siT9BJjCfEBIW29IG6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/rSlu3MWZzOVBy6e6UEw9mPLMzUO.jpg",
+        "overview": "不得志的高中法文老師傑曼出了一項週記寫作習題，16歲才華洋溢的克勞徳將自己潛入朋友家庭生活的過程，作為次此作業的題材，其精采的敘事結構與內容打動了老師。當傑曼面對與眾不同而著過人天賦的克勞德時，不僅找回過往的教書樂趣，更激發出他睽違已久的創作熱情，因此他決定親自指導克勞徳，同時一圓自己的作家夢。  但傑曼卻在指導創作的過程裡，逐漸忘卻學生潛入別人家庭之間那現實與虛構的界線，傑曼一直被克勞徳文中「混進同學家裡，並傾慕同學美麗母親」的內容所吸引，為了讓克勞德能繼續寫下去，他開始不擇手段，並且情不自禁的一步步陷入道德禁區。雖然傑曼從文字裡重燃昔日創作的靈感與激情，但他卻沒料到，他亦同時陷入了難以控制的危機之中…",
+        "genre": "喜劇片",
+        "release_date": "2012-09-26",
+        "rating": 7,
+        "quality": "BD",
+        "country": "法國"
     },
     {
         "id": 2299,
@@ -16692,6 +17212,58 @@
         "country": "XC"
     },
     {
+        "id": 4872,
+        "title": "惡靈古堡：爆發夜",
+        "m3u8_url": "http://192.168.1.249:4000/ch4lo1c7k.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/lVXZnG5oCJNsQlThZUgUg7EJPHU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "overview": "醫療快遞員布萊恩在毫無預警之下，被捲入一場充滿動作、毫不停歇的生存競賽；隨著一個致命且恐怖的夜晚逐步崩解，混亂全面爆發，他只能拼命求生。",
+        "genre": "恐怖片",
+        "release_date": "2026-09-16",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4969,
+        "title": "陰兒房：穿越陰深處",
+        "m3u8_url": "http://192.168.1.249:4000/ch4nzoxst.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/4iWnb67ay2UeGNURe4WmF4MEwtO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+        "overview": "在自己的童年老家撫養女兒的年輕母親潔瑪，意外發現自己能夠進入「陰深處」，這個位於《陰兒房》宇宙核心、充滿迷失靈魂的煉獄空間。當邪惡力量開始接近她時，潔瑪逐漸察覺自己擁有一項足以改變一切的能力，她不僅能進入陰深處，甚至能將其中的存在帶回現實世界。一旦惡靈察覺這股力量，人類世界也將淪為牠們的遊樂場。",
+        "genre": "恐怖片",
+        "release_date": "2026-08-19",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4966,
+        "title": "屍變焚場",
+        "m3u8_url": "http://192.168.1.249:4000/ch4oc6fir.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "overview": "丈夫過世後，一位女子前往婆家偏僻的宅邸尋求慰藉。然而，婆家的成員卻一個個變成了惡靈，使原本再正常不過的聚會，淪為一場地獄般的家庭聚會。女子這時才發現，她生前許下的誓言……即使在死後依然有效。",
+        "genre": "恐怖片",
+        "release_date": "2026-07-07",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 5010,
+        "title": "猛鬼大學：4不瞑目",
+        "m3u8_url": "http://192.168.1.249:4000/ch4ozwgsw.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/z1vR4GEN0QV03awPqNgVlrwJbT0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/jaHKaiFxIxhTMsn0aRsYr8Uc3ul.jpg",
+        "overview": "集結來自泰國四大區域的校園恐怖傳說，這些故事在泰國各地的大學代代流傳至今，分別為：北部的《粉紅房間》描述一位大一新生入住宿舍，她被分配到一間粉紅色的房間，卻不知道房間的前主人還徘徊在這裡；中部的《妃嬪之屋》圍繞著一對攝影師和模特兒展開，她們前往一座古老的宅邸「妃嬪之屋」進行拍攝，結果遭遇一連串神祕事件；南部的《D日之夜》描述一名大一新生拒絕參加迎新儀式，學長姐的鬼魂因此盯上了他；東北部的《白橋》以一對明星情侶為主角，他們決定在學校的「白橋」分手，渾然不知這座橋已經被詛咒了。",
+        "genre": "恐怖片",
+        "release_date": "2026-05-28",
+        "rating": 5,
+        "quality": "BD",
+        "country": "泰國"
+    },
+    {
         "id": 4435,
         "title": "後室",
         "m3u8_url": "http://192.168.1.249:4000/ch4dsluz7.m3u8",
@@ -16950,6 +17522,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "台灣"
+    },
+    {
+        "id": 5014,
+        "title": "血腥瑪辛",
+        "m3u8_url": "http://192.168.1.249:4000/ch4pq4efv.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/gxxhTAIvbaTePIwEwsFVDX1eaeP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
+        "overview": "在1980年代的好萊塢，成人電影明星兼有抱負的女演員瑪辛終於迎來了她的重大突破。然而，當一名神祕的殺手開始追殺好萊塢的女明星時，一條血腥的痕跡卻有可能揭露她黑暗的過去。",
+        "genre": "恐怖片",
+        "release_date": "2024-07-04",
+        "rating": 6,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 259,
@@ -17329,6 +17914,19 @@
         "country": "美國"
     },
     {
+        "id": 5017,
+        "title": "換人殺砍砍",
+        "m3u8_url": "http://192.168.1.249:4000/ch4p9w26w.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/pLJjBkUhYDjiLnY6gpPu77pzHED.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/ngpC8wikrZDnhjkFQMEjWSh7HAV.jpg",
+        "overview": "一個高中生無意間與連環殺手交換身體的故事。飽受折磨的高中生米莉·凱斯勒成為了巴尼·蓋瑞斯的最新目標，後者是臭名昭著的連環殺手畢斯福屠夫。當兇手的魔法匕首使她與他交換身體時，米莉發現她只有一天可以變回來，直到它永久化。米莉決心搶先警方先捉住臭名昭著的屠夫，這時屠夫正在用她的身體對校園中的學生下手。",
+        "genre": "恐怖片",
+        "release_date": "2020-11-12",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 1134,
         "title": "深計畫",
         "m3u8_url": "http://192.168.1.249:4000/ch2oauuj4.m3u8",
@@ -17665,6 +18263,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 5018,
+        "title": "三角草的春天",
+        "m3u8_url": "http://192.168.1.249:4000/ch4q6cqou.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/blI7xMPLqvUhHkC1pbjU7LaYkrW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/acge3po1C8ZkSTNBLPlsQWf8r3R.jpg",
+        "overview": "野咲春花遭到同儕嚴重霸凌。某天，一場失控的大火不僅燒毀了春花的家，春花的父母也命喪於這場惡火，妹妹祥子也身受重傷。春花在得知縱火者，是班上霸凌她的同學後，決定賭上自己的性命，展開最殘酷的復仇計畫……三角草在撐過嚴冬後從雪地掙脫而出綻放，春花是否能像三角草般忍受寒冬的冷冽，綻放美麗的花朵呢？",
+        "genre": "恐怖片",
+        "release_date": "2018-04-07",
+        "rating": 6,
+        "quality": "BD",
+        "country": "日本"
     },
     {
         "id": 1674,
@@ -18070,6 +18681,32 @@
         "country": "美國"
     },
     {
+        "id": 4943,
+        "title": "咒怨2",
+        "m3u8_url": "http://192.168.1.249:4000/ch4md0boc.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/sTTY7AcsQF1go0HFbPG0XPbrFst.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/rQvjuEw7OWthkbZleA4v1nsOcXN.jpg",
+        "overview": "東京近郊的這座凶宅因兇案頻發而小有名氣，一個攝製組決定以此為題錄製節目，恐怖片演員京子、主持人朋香、化妝師惠美、導演圭介等人共同參與了錄製，錄製過程中有怪事發生，而在節目錄製之後，真正的恐怖才正式開始，所有參與的人員無一例外都遭受了詛咒，分別在不同時間慘遭不幸，甚至連他們身邊的人如京子和朋香的男友，也都沒能倖免。",
+        "genre": "恐怖片",
+        "release_date": "2003-08-15",
+        "rating": 6,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
+        "id": 4944,
+        "title": "咒怨",
+        "m3u8_url": "http://192.168.1.249:4000/ch4mbrdi5.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/fXmo4r0iXBk6kOl8h0GRkMgR9ML.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/jNGVlbH2tnZmVqEIvuoxvV78vBY.jpg",
+        "overview": "一名護理師得知自己進入一間曾發生兩起命案，深受詛咒的屋子，在此的怨靈會對踏進屋裡的所有人痛下殺手。",
+        "genre": "恐怖片",
+        "release_date": "2002-10-18",
+        "rating": 7,
+        "quality": "BD",
+        "country": "日本"
+    },
+    {
         "id": 2758,
         "title": "惡靈古堡",
         "m3u8_url": "http://192.168.1.249:4000/cgzjay7fe.m3u8",
@@ -18120,6 +18757,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "日本"
+    },
+    {
+        "id": 4896,
+        "title": "屍坑",
+        "m3u8_url": "http://192.168.1.249:4000/ch4khl2c2.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/m1QVgIr9MzPxNcGYk7PPNywmzHA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/4G6vYZAqxGuo8IpI7hIQ7vh0H8R.jpg",
+        "overview": "",
+        "genre": "恐怖片",
+        "release_date": "1989-10-01",
+        "rating": 5,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 1989,
@@ -18783,6 +19433,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "中國"
+    },
+    {
+        "id": 4940,
+        "title": "我的少女時代",
+        "m3u8_url": "http://192.168.1.249:4000/ch4m99h5r.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/yUW3QiPGx1quA8AXTWu18P0xiOx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/miiVippZ9ukqUgFh8UpqOMDIGLt.jpg",
+        "overview": "神經大條且長相平凡的林真心（宋芸樺 飾），每天眼珠都是跟著校內風雲人物歐陽非凡(李玉璽 飾)轉動，而徐太宇（王大陸 飾）身為學校頭號痞子，則一心要把上亮麗的校花，他們青春，一身是膽、不自量力。夢想愛情，卻總是看著別人享受愛情…  告白的青春、落寞的青春、極致生猛的青春！在被紀錄的瞬間，已是昨日的青春燦爛，今日的美好回憶。人生中，每一個曾經離去的背影，也許，有一天會轉身…就在你眨眼那一瞬間？",
+        "genre": "愛情片",
+        "release_date": "2015-08-13",
+        "rating": 7,
+        "quality": "BD",
+        "country": "香港"
     },
     {
         "id": 1043,
@@ -19565,6 +20228,19 @@
         "country": "德國"
     },
     {
+        "id": 4972,
+        "title": "地獄尖兵",
+        "m3u8_url": "http://192.168.1.249:4000/ch4onez2y.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/qSlcoGywDDhQCKlawziqUvOjXKS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/fqRDTqw3AWF3D1heTpdjOdPiQGp.jpg",
+        "overview": "在一名呼嘯山莊戰士的帶領下，衝鋒隊面臨著一項艱巨的任務:控制市中心的高樓大廈。坦克和裝甲運兵車本應讓任務變得輕鬆，但被大型迫擊炮和無人機所掩蓋的激烈抵抗卻削弱了攻擊的優勢。戰鬥水準不斷上升，遠程炮兵發出了強有力的聲音，任務一步一步地解決了。除了越來越少的人在靶場，當敵人決定摧毀高樓大廈時，任務似乎根本不可能完成。",
+        "genre": "戰爭片",
+        "release_date": "2022-10-05",
+        "rating": 8,
+        "quality": "BD",
+        "country": "俄羅斯"
+    },
+    {
         "id": 951,
         "title": "鐵道英雄",
         "m3u8_url": "http://192.168.1.249:4000/cgzhgrw9r.m3u8",
@@ -19968,6 +20644,19 @@
         "country": "美國"
     },
     {
+        "id": 4887,
+        "title": "走鋼索的人",
+        "m3u8_url": "http://192.168.1.249:4000/ch4k1cq3j.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/b67l9BGar21hIR2TTUPvSEO68Cn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/q2Ev0aXGXm5Hnm12TVtvdgNhMnv.jpg",
+        "overview": "改編自2009年奧斯卡最佳紀錄長片偷天鋼索人，描述1974年法國雜技名人菲利浦佩帝登上當時世界最高世貿雙子星大樓。菲利浦突破重重關卡，在兩座高塔之間偷偷架起的鋼索上，令人屏息經過一個小時在鋼索上特技後，遭警方逮捕，但最終無罪釋放。菲利浦佩帝當年的壯舉在911事件後，留下來的畫面更顯珍貴。",
+        "genre": "歷史片",
+        "release_date": "2015-09-30",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 2211,
         "title": "模仿遊戲",
         "m3u8_url": "http://192.168.1.249:4000/ch2qirllc.m3u8",
@@ -19990,6 +20679,19 @@
         "genre": "動作片",
         "release_date": "2026-06-10",
         "rating": 4,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
+        "id": 5008,
+        "title": "東北往事·極惡不赦",
+        "m3u8_url": "http://192.168.1.249:4000/ch4p657ob.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/gZsyYPzMD9yh8E8ziqphtkPLKvZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1UNzHPuUDNHRSX5r1CeQiLZo3dA.jpg",
+        "overview": "1995年秋，東北吉春市發生震驚全城的持槍搶劫殺人案，永豐廠財務科突遭悍匪持槍血洗，五死兩傷，案發現場更是布設詭雷蓄意銷毀證據，慘烈案情震動全城，人心惶惶。刑警隊長張震，看著犧牲戰友冰冷遺體，立誓不惜一切追兇到底。 幕後真兇汪森、汪林兄弟，心思陰狠狡詐，反偵察手段極高。二人瘋狂作案，接連搶劫銀行、洗劫金店，犯下多起驚天大案，還刻意僞造不在場證明，甚至假意自首戲耍警方，公然向執法機關挑釁，全城陷入極度恐慌。 退役老兵趙紅兵痛失戰友，號召一衆兄弟深入市井暗地摸排線索，與張震一起一明一暗共同圍捕悍匪。經過多方努力，衆人憑借碎紙片拼成的地形圖、零散目擊證人的證詞等細微線索，抽絲剝繭步步追查終於找到悍匪蹤跡，窮途末路下的悍匪挾持人質負隅頑抗。張震帶隊強勢突擊，趙紅兵率江湖義士傾力馳援，警民聯手與匪徒上演生死對決。",
+        "genre": "犯罪片",
+        "release_date": "2026-05-03",
+        "rating": 0,
         "quality": "BD",
         "country": "中國"
     },
@@ -20761,6 +21463,19 @@
         "country": "美國"
     },
     {
+        "id": 5022,
+        "title": "天註定",
+        "m3u8_url": "http://192.168.1.249:4000/ch4pimpe9.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/A9MKM1uHlktLRH0OoNRZUSIQYTM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/sKrZb0tPP72SOiOJM5iEewflG3H.jpg",
+        "overview": "2013坎城影展最佳劇本獎，2013金馬獎獲得最佳剪輯、最佳原創電影音樂兩個獎項， 橫掃全球指標媒體年度十大佳片，《三峽好人》賈樟柯導演。  山西，一個憤怒的男人決定採取個人行動。重慶，一個遊子發現了槍的無限可能。湖北，一個女人小三的身分剛被對方妻子發現，後來又因為某件事被逼到牆角，她忽然想起自己有刀。廣州，一個總在換工作的少年飛向綠洲。縱高鐵出沒、私家飛機遨遊，只要山河大地在，俠義就在。",
+        "genre": "犯罪片",
+        "release_date": "2013-10-04",
+        "rating": 7,
+        "quality": "BD",
+        "country": "中國"
+    },
+    {
         "id": 1488,
         "title": "斯德哥爾摩",
         "m3u8_url": "http://192.168.1.249:4000/ch2ldz40k.m3u8",
@@ -21251,6 +21966,19 @@
         "genre": "犯罪片",
         "release_date": "1954-06-22",
         "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4876,
+        "title": "橡樹街末日",
+        "m3u8_url": "http://192.168.1.249:4000/ch4kstlw9.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/yJxLZruKq4iodYteRk1WaKKoXV1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "overview": "當一場神祕的宇宙事件，撕裂了寧靜的橡樹街社區後，整個社區竟被傳送到未知之地，普拉特一家人很快就發現：生存關鍵取決於當一家人置身於難以辨認的環境時，是否能夠緊密團結在一起。",
+        "genre": "科幻片",
+        "release_date": "2026-08-12",
+        "rating": 7,
         "quality": "BD",
         "country": "美國"
     },
@@ -21814,6 +22542,19 @@
         "country": "美國"
     },
     {
+        "id": 4973,
+        "title": "星際異攻隊2",
+        "m3u8_url": "http://192.168.1.249:4000/ch4n9h05u.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/wTLVbBmU0pX6qe5yog8LK4hY1oB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/bW93ycPSSi3Hxx1NvlMX5qm2mQu.jpg",
+        "overview": "「星爵」彼得奎爾和他的怪咖團隊繼續展開充滿火爆動作、桀傲不馴的壯闊太空冒險。上回拯救柴達星之後，他們聲名大噪，成了銀河系熱門人物，一方面收取佣金，同時以不按牌理出牌的方式捍衛宇宙和平。在「勁爆舞曲大帝國第二集」的歌聲中，本片的故事描述星際異攻隊在努力維繫他們這個新「家庭」之餘，同時也在廣闊的宇宙中四處飛行，希望解開彼得奎爾的身世之謎。隨著漫威電影宇宙持續擴大，舊敵人成了新盟友，甚至是經典漫畫中最受粉絲喜愛的人物也會加入陣容，奧援片中英雄的刺激任務。",
+        "genre": "科幻片",
+        "release_date": "2017-04-25",
+        "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 1787,
         "title": "攻殼機動隊",
         "m3u8_url": "http://192.168.1.249:4000/ch0ddh79z.m3u8",
@@ -21849,6 +22590,19 @@
         "genre": "科幻片",
         "release_date": "2015-07-14",
         "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 5020,
+        "title": "魔鬼終結者：創世契機",
+        "m3u8_url": "http://192.168.1.249:4000/ch4q3uuc0.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/sBKdPymxVzHphqKN0SrFaSj0t5G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+        "overview": "以約翰康納為首的人類反抗者，在2029年的未來世界中與超級電腦「天網」對抗。同時約翰康納也將戰士凱爾瑞斯送回1984年，保護母親莎拉康納不被機器人殺害。然而因為時間軸的破裂與混亂，人類獲勝的希望愈趨渺茫……",
+        "genre": "科幻片",
+        "release_date": "2015-06-23",
+        "rating": 6,
         "quality": "BD",
         "country": "美國"
     },
@@ -21890,6 +22644,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "美國"
+    },
+    {
+        "id": 4889,
+        "title": "超時空攔截",
+        "m3u8_url": "http://192.168.1.249:4000/ch4lpaae7.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/55GzVkmOP4GPHa38vrD6QWTDAWy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+        "overview": "知名科幻短篇改編，時光悖論經典之作！ 一名剛加入時空特警隊的菜鳥，穿越在過去與未來之間。追捕惡人的同時，還要躲避仇家的追殺。經過一連串任務的磨練，他即將晉身成正式執法人員，不過他還要通過最後一項考驗──設法招募年輕時的自己！",
+        "genre": "科幻片",
+        "release_date": "2014-08-28",
+        "rating": 7,
+        "quality": "BD",
+        "country": "澳洲"
     },
     {
         "id": 2287,
@@ -22113,6 +22880,19 @@
         "country": "日本"
     },
     {
+        "id": 4945,
+        "title": "變蠅人",
+        "m3u8_url": "http://192.168.1.249:4000/ch4mfi80q.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/qUES7LprgofLOf6p1Kbntb0CK2A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/aQwxkvskonfPByfj5PTriJuyFXr.jpg",
+        "overview": "一名科學家製造出「電子傳送艙」，能將物體重組後即時傳送他處，經多次成功試驗後，他決定用自己做實驗。沒想到，傳送過程中，一隻小蒼蠅意外飛進機器裡......。",
+        "genre": "恐怖片",
+        "release_date": "1986-08-15",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
         "id": 3019,
         "title": "銀翼殺手",
         "m3u8_url": "http://192.168.1.249:4000/ch3mo7jtd.m3u8",
@@ -22148,6 +22928,19 @@
         "genre": "科幻片",
         "release_date": "1968-04-02",
         "rating": 8,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4945,
+        "title": "變蠅人",
+        "m3u8_url": "http://192.168.1.249:4000/ch4mfi80q.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/kXdBcDh2EbgSIf4Oo1dxKapZM2f.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/wpz62HFxCGaMX6jImELAspwqjT1.jpg",
+        "overview": "",
+        "genre": "科幻片",
+        "release_date": "1958-07-16",
+        "rating": 7,
         "quality": "BD",
         "country": "美國"
     },
@@ -22306,6 +23099,45 @@
         "rating": 8,
         "quality": "BD",
         "country": "香港"
+    },
+    {
+        "id": 4965,
+        "title": "人性本獸",
+        "m3u8_url": "http://192.168.1.249:4000/ch4oif6e6.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/1IwZW1Qk3hwdEVZtn7Er9oe9Jrb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+        "overview": "兒子遭到綁架，洛杉磯市長候選人與妻子慌忙籌措贖金，同時還得做出艱難抉擇，稍一不慎就可能導致他們的世界分崩離析。",
+        "genre": "驚悚片",
+        "release_date": "2026-10-09",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4937,
+        "title": "大學炸彈客",
+        "m3u8_url": "http://192.168.1.249:4000/ch4mphtea.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/pZ5jt77v1c48Uq4FQuTGlSWYu7C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+        "overview": "這部劇情片取材自真人真事，描述泰德卡辛斯基如何從跳級錄取哈佛的神童和實驗受試者變成「大學炸彈客」，更遭到聯邦調查局追捕。",
+        "genre": "驚悚片",
+        "release_date": "2026-09-25",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
+    },
+    {
+        "id": 4970,
+        "title": "墜2",
+        "m3u8_url": "http://192.168.1.249:4000/ch4nn7g2f.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+        "overview": "妹妹杭特去世後，賈克斯悲痛欲絕，為了療傷，她邀請大膽的好友露絲一起挑戰泰國關山惡名昭彰的棧板步道。然而，突如其來的山崩讓她們困在距離地表3000英尺的高空，腳下只剩幾片殘存的木板。為了活下去，賈克斯必須面對內心最深的恐懼……",
+        "genre": "驚悚片",
+        "release_date": "2026-09-01",
+        "rating": 7,
+        "quality": "BD",
+        "country": "美國"
     },
     {
         "id": 57,
@@ -23333,6 +24165,19 @@
         "rating": 7,
         "quality": "BD",
         "country": "瑞典"
+    },
+    {
+        "id": 4976,
+        "title": "黑幕謎情",
+        "m3u8_url": "http://192.168.1.249:4000/ch4nvy39s.m3u8",
+        "thumbnail": "https://image.tmdb.org/t/p/w260_and_h390_face/zgOOwtY8sKcN2NXFm4xWIzDM8po.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1920_and_h1080_bestv2/1ckHUJ6ztq5XJRKM2nIAW0UjJNH.jpg",
+        "overview": "犯罪首腦尼古拉（維格．莫特森飾）與聲名狼藉的犯罪家族關係逐漸動搖，他遇見安娜（娜歐蜜．華茲飾），一個意外發現不利他們的證據的助產士。兩人不尋常的關係引爆一連串無法阻擋的謀殺、秘密和欺騙。",
+        "genre": "驚悚片",
+        "release_date": "2007-09-14",
+        "rating": 7,
+        "quality": "BD",
+        "country": "加拿大"
     },
     {
         "id": 978,
